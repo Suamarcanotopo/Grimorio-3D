@@ -1181,11 +1181,10 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
 
 ### Portais e documentação complementares
 
-Além das 368 fontes cadastradas, os guias técnicos citam 29 URLs auxiliares e portais do próprio ecossistema. Elas ficam listadas aqui para ninguém depender de procurar o endereço em dezenas de arquivos.
+Além das 368 fontes cadastradas, os guias técnicos citam 25 URLs auxiliares e portais do próprio ecossistema. Elas ficam listadas aqui para ninguém depender de procurar o endereço em dezenas de arquivos.
 
 #### Animação e rigging
 
-- **SideFX KineFX — rig e animação:** Documentação Houdini para rigs, retargeting e animação procedural. **URL completa:** <https://www.sidefx.com/docs/houdini/character/kinefx/index.html>.
 - **Manual Blender — armatures:** Rigs, armaduras e estruturas ósseas para personagens. **URL completa:** <https://docs.blender.org/manual/en/latest/animation/armatures/>.
 - **Manual Blender — animação:** Introdução oficial a ações, keyframes, curvas e rigs. **URL completa:** <https://docs.blender.org/manual/en/latest/animation/>.
 
@@ -1205,10 +1204,6 @@ Além das 368 fontes cadastradas, os guias técnicos citam 29 URLs auxiliares e 
 - **Grimório SIN — Skills canônicas:** Repositório de habilidades, governança e bibliotecas do ecossistema SIN. **URL completa:** <https://github.com/Suamarcanotopo/grimorio-skills>.
 - **Glossário de governança das Skills SIN:** Termos e normas compartilhados por repositórios de Skills. **URL completa:** <https://github.com/Suamarcanotopo/grimorio-skills/blob/main/dependencies/governanca-legivel/GLOSSARIO.md>.
 
-#### Ferramentas e programação
-
-- **Blender Python API:** API para automações, extensões e scripts Blender. **URL completa:** <https://docs.blender.org/api/current/>.
-
 #### Modelagem procedural
 
 - **Manual Blender — Geometry Nodes:** Programação visual de geometria procedural no Blender. **URL completa:** <https://docs.blender.org/manual/en/latest/modeling/geometry_nodes/>.
@@ -1216,7 +1211,6 @@ Além das 368 fontes cadastradas, os guias técnicos citam 29 URLs auxiliares e 
 
 #### Motores e produção
 
-- **Documentação principal Unreal Engine:** Documentação do motor Unreal para games, cinema, AR e XR. **URL completa:** <https://dev.epicgames.com/documentation/en-us/unreal-engine>.
 - **Documentação principal Unity:** Manuais Unity para criação de games e aplicações 3D. **URL completa:** <https://docs.unity3d.com/>.
 
 #### Padrões e documentação
@@ -1238,7 +1232,6 @@ Além das 368 fontes cadastradas, os guias técnicos citam 29 URLs auxiliares e 
 
 #### Websites 3D
 
-- **Three.js — API e documentação:** Documentação JavaScript para cenas 3D interativas no navegador. **URL completa:** <https://threejs.org/docs/>.
 - **React Three Fiber — introdução:** Guias de integração entre React e Three.js. **URL completa:** <https://r3f.docs.pmnd.rs/getting-started/introduction>.
 - **PlayCanvas Model Viewer:** Visualizador web para inspeção e apresentação de arquivos 3D. **URL completa:** <https://playcanvas.com/model-viewer>.
 - **Babylon Viewer — documentação:** Referência de visualização 3D para web no ecossistema Babylon. **URL completa:** <https://doc.babylonjs.com/features/featuresDeepDive/babylonViewer>.
