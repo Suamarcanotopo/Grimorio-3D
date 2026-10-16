@@ -96,6 +96,10 @@ Use a rota mais curta para seu objetivo; depois, navegue pelo índice integral l
 
 O arquivo [FONTES/catalogo.json](FONTES/catalogo.json) permite construir sistemas de busca e a versão [CSV](FONTES/catalogo.csv) pode ser importada no Google Planilhas. Considere estes registros uma **curadoria em evolução**, não certificação de disponibilidade, autoria, segurança, preços ou licenças.
 
+## 🧪 Dez demonstrações offline para praticar sem instalar softwares
+
+**[Experimente os dez laboratórios HTML locais](EXEMPLOS/README.md)** — cubo, câmera, UV, keyframes, pivô, LOD, GLB, AR, roughness ilustrativo e orçamento de FPS. Cada demo informa o que realmente demonstra e seus limites.
+
 ## ⚙️ Exemplo de fluxo seguro
 
 **Modelar → revisar topologia → abrir UV → atribuir materiais PBR → fazer bake → rigar/animar → otimizar geometria e texturas → exportar GLB/glTF → validar no destino → registrar evidências de licença e performance.**

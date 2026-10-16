@@ -4,7 +4,7 @@
 
 O README agora mostra cada endereço completo, finalidade, descrição e modelo de acesso. Use esta página como índice compacto.
 
-[Voltar ao README](README.md) · [CSV](FONTES/catalogo.csv) · [JSON](FONTES/catalogo.json)
+[10 demonstrações HTML offline](EXEMPLOS/README.md) · [Voltar ao README](README.md) · [CSV](FONTES/catalogo.csv) · [JSON](FONTES/catalogo.json)
 
 | Nicho | Quantidade | Abrir catálogo |
 |---|---:|---|
