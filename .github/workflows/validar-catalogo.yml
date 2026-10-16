@@ -38,3 +38,7 @@ jobs:
         run: python3 scripts/validar-academia.py
       - name: Validar ECP, Coliseu, nichos e regressao das 208 fontes
         run: python3 scripts/validar-ecp.py
+      - name: Conferir integridade do índice autogerado no README
+        run: python3 scripts/gerar-indice-readme.py --check
+      - name: Conferir 100 por cento das URLs e rodapé SIN
+        run: python3 scripts/validar-readme-index.py

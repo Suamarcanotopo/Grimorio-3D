@@ -40,3 +40,13 @@
 - README, INDEX, Mission Lock, AGENTS e governança sincronizados.
 
 **Estado:** liberação documental versionada. Testes reais de cinema, AR, motores e direitos comerciais individuais continuam condicionados a projeto, equipamento e licença.
+
+
+## 2026-10-16 — v0.3.1 — INDEX integral, README legível e rodapé SIN
+
+- README passou a indexar **as 238 fontes** de `FONTES/catalogo.json`, com descrições, finalidade, URLs integrais, acesso e freemium, agrupadas em 38 nichos recolhíveis.
+- Foram preservados e exibidos 11 links específicos de termos de licença e acrescentadas **29 URLs complementares** vindas de guias e documentação.
+- Criado mapa simples por objetivo para iniciantes, profissionais e autores de Skills; cada dependência possui caminho interno no repositório.
+- Rodapé social padronizado com website, GitHub de Skills, Instagram, YouTube e três grupos comunitários SIN.
+- Adicionado gerador idempotente e validador sem bibliotecas externas, ambos ligados ao CI.
+- O registro canônico, os IDs, o Mission Lock e os conteúdos anteriores permaneceram preservados.

@@ -60,3 +60,14 @@ Papéis são responsabilidades metodológicas, não agentes autônomos comprovad
 7. Para execução de runtime em Blender/Unreal/Meta/Snap/TikTok, exigir testes separados. Passar na CI documental NÃO equivale a aprovar hardware, AR, cinema ou pacotes de terceiros.
 
 **Documentos:** [Revisão ECP/Coliseu](GOVERNANCA/ECP-COLISEU-2026-10-16.md), [Trilhas profissionais](NICHOS/README.md), [Skill contracts](SKILLS/README.md).
+
+
+## Index do README e rodapé SIN (governança editorial v0.3.1)
+
+- `FONTES/catalogo.json` é a única fonte editável das **fontes primárias**. O espelho CSV e os arquivos por nicho precisam acompanhar as mudanças.
+- `FONTES/links-complementares.json` guarda URLs oficiais, manuais e links adicionais que aparecem em guias e ainda não possuem ficha no catálogo.
+- `FONTES/rotulos-de-nichos.json` define rótulos claros em português, sem renomear os IDs dos nichos.
+- A seção marcada por `INICIO_INDICE_URLS_GRIMORIO_3D` e `FIM_INDICE_URLS_GRIMORIO_3D` no README é **gerada**, não deve ser editada manualmente.
+- Após editar JSONs, execute `python3 scripts/gerar-indice-readme.py --write`, `python3 scripts/gerar-indice-readme.py --check` e `python3 scripts/validar-readme-index.py`. O CI deve bloquear fonte omitida ou CTA perdido.
+- Preservar o **rodapé de comunidade SIN** no README e INDEX; os links são convites, não prova de disponibilidade permanente.
+- Ao criar novo guia, manter referência ao README/INDEX e ao [padrão de rodapé](GOVERNANCA/PADRAO-RODAPE-SIN.md); não copiar 238 URLs em cada documento.
