@@ -66,3 +66,10 @@
 - Revisão de duplicações detectou e corrigiu um termo repetido antes da publicação.
 - A etapa permanece independente da curadoria de 368 fontes aprovada anteriormente.
 - Validação de unicidade, cobertura didática e links do índice adicionada ao CI.
+
+## 2026-10-16 — v0.4.0 etapa 3/4 — FAQ expandido
+
+- FAQ total passa de 106 para **210 respostas**: 184 modulares em 18 cadernos e 26 perguntas por mercado.
+- +104 problemas orientados por tarefas: Blender, texturas, cinema, Web3D, AR, games, indústria e governança.
+- Índices e CI atualizados, com verificador de perguntas duplicadas e campos obrigatórios.
+- Fontes (368) e Glossário (293) mantidos sem alteração.

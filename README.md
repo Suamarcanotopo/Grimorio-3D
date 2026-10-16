@@ -24,7 +24,7 @@
 ## 🎓 Universidade 3D — glossário, FAQ e tutoriais
 
 - [**Glossário didático**](GLOSSARIO/README.md) — 293 termos com definição, importância e exercício.
-- [**FAQ prático**](FAQ/README.md) — 80 perguntas com instruções passo a passo, motivo e referência oficial.
+- [**FAQ prático**](FAQ/README.md) — 210 perguntas com instruções passo a passo, motivo e referência oficial.
 - [**Tutoriais guiados de aprendizagem**](TUTORIAIS/README.md) — projetos com dependências, passos, entregáveis e testes.
 - [**Matriz de dependências**](DEPENDENCIAS/README.md) — do Blender e Unreal à AR Web, Meta, Snap/Snapchat e TikTok.
 - [**Erros comuns e diagnóstico**](FAQ/SOLUCAO-DE-PROBLEMAS.md).
