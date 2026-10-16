@@ -1,26 +1,32 @@
 name: Validar Grimorio 3D
-
 on:
   pull_request:
     paths:
       - 'README.md'
       - 'INDEX.md'
+      - 'AGENTS.md'
       - 'FONTES/**'
       - 'GUIAS/**'
       - 'GOVERNANCA/**'
+      - 'GLOSSARIO/**'
+      - 'FAQ/**'
+      - 'TUTORIAIS/**'
+      - 'DEPENDENCIAS/**'
+      - 'ACADEMIA/**'
       - 'scripts/**'
       - '.github/workflows/validar-catalogo.yml'
   push:
     branches: [main]
-
 permissions:
   contents: read
-
 jobs:
   catalogo:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Validar JSON CSV nichos e links locais obrigatorios
+      - name: Validar dados e categorias
         run: python3 scripts/validar.py
+      - name: Validar trilha educacional, dependencias e links internos
+        run: python3 scripts/validar-academia.py

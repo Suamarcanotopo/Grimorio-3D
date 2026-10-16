@@ -1,0 +1,278 @@
+{
+  "schema_version": "1.0",
+  "data_referencia": "2026-10-16",
+  "nota": "Dependências documentais, não instalações automáticas nem homologação de runtime",
+  "pipelines": [
+    {
+      "id": "D01",
+      "title": "Blender → produto 3D no website",
+      "from": "Blender (arquivo BLEND)",
+      "via": [
+        "UV + PBR",
+        "GLB/glTF",
+        "model-viewer"
+      ],
+      "to": "Site HTML, WordPress ou CMS",
+      "urls": [
+        "https://docs.blender.org/manual/pt/4.5/index.html",
+        "https://www.khronos.org/gltf/",
+        "https://modelviewer.dev/docs/index.html"
+      ],
+      "obrigatorios": [
+        "Modelo com licença válida e dimensões corretas",
+        "GLB exportado e aberto no viewer",
+        "Página HTTPS, texto alternativo, poster e fallback",
+        "Teste celular de entrada e carregamento real"
+      ],
+      "optional": [
+        "KTX2 quando compatível",
+        "Compressão de malha em fluxo validado"
+      ],
+      "status": "documentado / integração não executada"
+    },
+    {
+      "id": "D02",
+      "title": "Blender → WebAR Android/iOS",
+      "from": "Blender (BLEND)",
+      "via": [
+        "GLB com escala física",
+        "Android Scene Viewer (ARCore)",
+        "iOS Quick Look (USDZ ou conversão suportada)"
+      ],
+      "to": "AR aberta a partir de website",
+      "urls": [
+        "https://developers.google.com/ar/develop/scene-viewer?hl=pt-BR",
+        "https://developer.apple.com/documentation/quicklook",
+        "https://modelviewer.dev/docs/index.html"
+      ],
+      "obrigatorios": [
+        "Aparelho ARCore compatível ou Apple com Quick Look",
+        "HTTPS e permissões quando exigidas",
+        "Modelo correto em metros e ancoragem testada",
+        "Fallback 3D ou imagem"
+      ],
+      "optional": [
+        "Arquivo USDZ verificado no iOS",
+        "Lançamento por model-viewer"
+      ],
+      "status": "documentado / testes de dispositivos pendentes"
+    },
+    {
+      "id": "D03",
+      "title": "Blender → Lens Studio → Snapchat",
+      "from": "BLEND / asset licenciado",
+      "via": [
+        "Exportação 3D compatível",
+        "Snap Lens Studio",
+        "Preview, perfis e otimização"
+      ],
+      "to": "Snapchat Lens",
+      "urls": [
+        "https://developers.snap.com/lens-studio/home",
+        "https://developers.snap.com/lens-studio/assets-pipeline/3d/exporting-content/overview",
+        "https://developers.snap.com/lens-studio/publishing/optimization/overview"
+      ],
+      "obrigatorios": [
+        "Conta Snap com acesso à ferramenta",
+        "Asset com licença, formato e UV suportados",
+        "Teste câmera/track e performance",
+        "Submissão e aprovação conforme regras"
+      ],
+      "optional": [
+        "Templates para interação",
+        "Tracking corporal/facial se autorizado"
+      ],
+      "status": "documentado / publicação não realizada"
+    },
+    {
+      "id": "D04",
+      "title": "Lens Studio → Snap Camera Kit → website",
+      "from": "Lens autorizada no Lens Studio",
+      "via": [
+        "Camera Kit Web SDK",
+        "Token e conta de desenvolvedor",
+        "Sessão com MediaStream e canvas",
+        "Lens ID e Lens Group ID"
+      ],
+      "to": "Filtro AR com câmera dentro de site",
+      "urls": [
+        "https://developers.snap.com/camera-kit/home",
+        "https://developers.snap.com/camera-kit/integrate-sdk/web/web-configuration",
+        "https://developers.snap.com/camera-kit/integrate-sdk/web/tutorials/camera-kit-web-react-typescript"
+      ],
+      "obrigatorios": [
+        "Acesso/autorização de Camera Kit e Lens",
+        "Ambiente Web com HTTPS e permissão de câmera",
+        "Política de Segurança de Conteúdo configurada sem abrir excessos desnecessários",
+        "Gestão segura de tokens e encerramento da câmera",
+        "Compatibilidade e licenciamento do SDK validados"
+      ],
+      "optional": [
+        "Preview em React/TypeScript",
+        "Tratamento de erro de Lens"
+      ],
+      "status": "documentado / credenciais e termos precisam homologação"
+    },
+    {
+      "id": "D05",
+      "title": "Blender → TikTok Effect House",
+      "from": "BLEND e assets próprios",
+      "via": [
+        "Exportação FBX/glTF/OBJ conforme especificação",
+        "Importação e componentes Effect House",
+        "Teste de performance e política de conteúdo"
+      ],
+      "to": "Efeito AR publicado no TikTok",
+      "urls": [
+        "https://effecthouse.tiktok.com/learn/guides/workspace/assets/asset-preparation/3d",
+        "https://effecthouse.tiktok.com/learn/guides/getting-started/technical-guidelines/technical-optimization",
+        "https://effecthouse.us.tiktok.com/learn/guides/publishing/submit-your-effect"
+      ],
+      "obrigatorios": [
+        "Conferir limites vigentes no editor atual",
+        "UV/texturas/rig compatíveis",
+        "Conta e direitos sobre imagens/sons/modelos",
+        "Teste real no TikTok e aprovação"
+      ],
+      "optional": [
+        "Visual Scripting",
+        "Templates faciais/mundiais"
+      ],
+      "status": "documentado / publicação não realizada"
+    },
+    {
+      "id": "D06",
+      "title": "Blender → Unreal → Meta Quest XR/MR",
+      "from": "Asset BLEND",
+      "via": [
+        "FBX/glTF com escala e UV",
+        "Unreal Engine compatível",
+        "Meta XR Plugin e configurações Android",
+        "VR Template / Mixed Reality features"
+      ],
+      "to": "Aplicativo XR/MR para Meta Quest",
+      "urls": [
+        "https://developers.meta.com/vr/documentation/unreal/unreal-engine/",
+        "https://developers.meta.com/vr/documentation/unreal/unreal-quick-start-install-unreal-engine/",
+        "https://developers.meta.com/vr/documentation/native/mr-experience-and-use-cases/"
+      ],
+      "obrigatorios": [
+        "Dispositivo e conta Meta Developer adequados",
+        "Matriz Unreal/Meta XR verificada",
+        "Teste de rastreamento, conforto, FPS e privacidade",
+        "Build real em Quest"
+      ],
+      "optional": [
+        "Passthrough e âncoras conforme dispositivo",
+        "Control Rig e interações"
+      ],
+      "status": "documentado / hardware e plugin não validados em execução"
+    },
+    {
+      "id": "D07",
+      "title": "Unreal → AR nativa Android/iOS",
+      "from": "Projeto Unreal e assets",
+      "via": [
+        "Handheld AR Template",
+        "Android/iOS device setup",
+        "Plano/âncora e interação"
+      ],
+      "to": "Aplicativo mobile AR",
+      "urls": [
+        "https://dev.epicgames.com/documentation/unreal-engine/handheld-ar-template-quickstart-in-unreal-engine?lang=en-US",
+        "https://developers.google.com/ar",
+        "https://developer.apple.com/augmented-reality/"
+      ],
+      "obrigatorios": [
+        "Build de app separado de website",
+        "Câmera e permissões mínimas",
+        "Dispositivo suportado e testes",
+        "Modelo em escala física"
+      ],
+      "optional": [
+        "Visualização conjunta com backend web"
+      ],
+      "status": "documentado / build não realizado"
+    },
+    {
+      "id": "D08",
+      "title": "Blender / criação de mundos → Meta Horizon",
+      "from": "Assets originais e projeto de mundo",
+      "via": [
+        "Ferramentas Horizon Create/Studio ou Desktop Editor conforme acesso",
+        "Regras de importação do editor efetivamente disponível",
+        "Teste social/multiplayer e políticas"
+      ],
+      "to": "Experiência no ecossistema Horizon",
+      "urls": [
+        "https://developers.meta.com/horizon-worlds/",
+        "https://developers.meta.com/horizon-worlds/documentation/desktop-editor/get-started/install-desktop-editor/",
+        "https://developers.meta.com/blog/meta-connect-recap/"
+      ],
+      "obrigatorios": [
+        "Confirmar elegibilidade e disponibilidade por conta",
+        "Revisar suporte real de importação em sua versão",
+        "Cumprir padrões e regras de publicação",
+        "Testar plataforma-alvo"
+      ],
+      "optional": [
+        "Automação de criação assistida por IA nas ferramentas disponíveis"
+      ],
+      "status": "em evolução / não confundir com Meta Spark encerrado"
+    },
+    {
+      "id": "D09",
+      "title": "Web3D imersivo → Meta Quest browser",
+      "from": "Modelo GLB + aplicação web",
+      "via": [
+        "Three.js / WebXR",
+        "Browser compatível com sessão imersiva",
+        "Opcional Meta Immersive Web SDK"
+      ],
+      "to": "Experiência XR pelo navegador Quest",
+      "urls": [
+        "https://www.w3.org/TR/webxr/",
+        "https://threejs.org/",
+        "https://developers.meta.com/vr/"
+      ],
+      "obrigatorios": [
+        "Secure context HTTPS",
+        "Sessão WebXR com detecção de suporte",
+        "Controles acessíveis e fallback não imersivo",
+        "Teste Quest real"
+      ],
+      "optional": [
+        "SDK específico Meta conforme objetivo"
+      ],
+      "status": "documentado / testes reais pendentes"
+    },
+    {
+      "id": "D10",
+      "title": "Blender → Unity / Unreal games",
+      "from": "Arquivo BLEND",
+      "via": [
+        "Mesh + UV + textura PBR",
+        "FBX/glTF conforme target",
+        "Importação e rig retargeting",
+        "Colisão + LOD + profiler"
+      ],
+      "to": "Game executável",
+      "urls": [
+        "https://docs.unity3d.com/",
+        "https://dev.epicgames.com/documentation/en-us/unreal-engine",
+        "https://docs.blender.org/manual/en/latest/"
+      ],
+      "obrigatorios": [
+        "Licenças dos assets",
+        "Escala, orientação e material conferidos",
+        "FPS/frame time testado no hardware alvo",
+        "Projeto nativo preservado"
+      ],
+      "optional": [
+        "Animações Mixamo autorizadas",
+        "Instâncias e otimização"
+      ],
+      "status": "documentado / dependências dependem de versão"
+    }
+  ]
+}

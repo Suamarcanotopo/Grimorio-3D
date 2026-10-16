@@ -2,9 +2,9 @@
 
 > **Do primeiro cubo aos mundos interativos:** guia didático, técnico e auditável para estudar, produzir, animar e publicar 3D com segurança.
 
-![Catálogo](https://img.shields.io/badge/fontes-185-0369a1) ![Nichos](https://img.shields.io/badge/nichos-28-7256b5) ![Idioma](https://img.shields.io/badge/idioma-PT--BR-008060) ![Curadoria](https://img.shields.io/badge/licenças-por%20item-orange)
+![Catálogo](https://img.shields.io/badge/fontes-208-0369a1) ![Nichos](https://img.shields.io/badge/nichos-32-7256b5) ![Idioma](https://img.shields.io/badge/idioma-PT--BR-008060) ![Curadoria](https://img.shields.io/badge/licenças-por%20item-orange)
 
-**O Grimório 3D faz parte do ecossistema [Sistema Imersivo Narrativo](https://sistemaimersivonarrativo.com.br/).** Ele organiza 185 fontes com descrição, endereço completo, aplicação, primeiro passo, truque prático e alertas de direitos. **Não hospeda nem comercializa assets de terceiros.**
+**O Grimório 3D faz parte do ecossistema [Sistema Imersivo Narrativo](https://sistemaimersivonarrativo.com.br/).** Ele organiza 208 fontes com descrição, endereço completo, aplicação, primeiro passo, truque prático e alertas de direitos. **Não hospeda nem comercializa assets de terceiros.**
 
 ## 🧭 Comece por aqui
 
@@ -20,6 +20,26 @@
 | Investigar o que pode ser usado comercialmente | [Licenças e segurança](GOVERNANCA/MISSION-LOCK.md) |
 | Conhecer hubs internacionais de produção | [Panorama internacional](GUIAS/07-ECOSSISTEMA-GLOBAL.md) |
 | Validar qualidade de assets | [Checklist de homologação](GUIAS/06-QUALIDADE-PERFORMANCE.md) |
+
+## 🎓 Universidade 3D — glossário, FAQ e tutoriais
+
+- [**Glossário didático**](GLOSSARIO/README.md) — 149 termos com definição, importância e exercício.
+- [**FAQ prático**](FAQ/README.md) — 80 perguntas com instruções passo a passo, motivo e referência oficial.
+- [**Tutoriais guiados de aprendizagem**](TUTORIAIS/README.md) — projetos com dependências, passos, entregáveis e testes.
+- [**Matriz de dependências**](DEPENDENCIAS/README.md) — do Blender e Unreal à AR Web, Meta, Snap/Snapchat e TikTok.
+- [**Erros comuns e diagnóstico**](FAQ/SOLUCAO-DE-PROBLEMAS.md).
+- **Nota de plataforma:** Meta Spark de terceiros está encerrado desde janeiro de 2025; para AR social utilize plataformas ativas e para Meta Quest/Horizon siga os SDKs próprios, com verificações de versão.
+
+## 🥋 Jornada de domínio 3D — resultados verificáveis
+
+| Nível | Competências | Prova prática |
+|---|---|---|
+| Iniciante | XYZ, malha, luz, câmera, UV, material e GLB | Objeto editável, render e viewer |
+| Intermediário | Cenários, rigs, animações, otimização e websites 3D | Cena interativa e métricas de device |
+| Avançado | Tracking, AR em Android/iOS, Snap/TikTok, Unreal e Meta Quest | Prova de integração na plataforma real |
+| Profissional | Direitos, performance, acessibilidade, segurança, documentação e versionamento | Entrega auditável e reversível |
+
+**[Mapa de competências](ACADEMIA/MAPA-DE-COMPETENCIAS.md)** · **[Plano de estudo de 12 semanas](ACADEMIA/PLANO-12-SEMANAS.md)** · **[Modelo de avaliação](ACADEMIA/RUBRICA-DE-HOMOLOGACAO.md)**
 
 ## 🗃️ Navegação por nicho
 
@@ -51,6 +71,11 @@
 - [uv baking](FONTES/nichos/uv-baking.md) — **5 fontes**
 - [websites 3d](FONTES/nichos/websites-3d.md) — **18 fontes**
 - [xr ar vr](FONTES/nichos/xr-ar-vr.md) — **4 fontes**
+
+- [ar social plataformas](FONTES/nichos/ar-social-plataformas.md) — **11 fontes**
+- [meta quest horizon](FONTES/nichos/meta-quest-horizon.md) — **6 fontes**
+- [web ar dispositivos](FONTES/nichos/web-ar-dispositivos.md) — **5 fontes**
+- [pipeline blender unreal](FONTES/nichos/pipeline-blender-unreal.md) — **1 fontes**
 
 ## 🧩 O que uma ficha possui?
 

@@ -44,3 +44,22 @@
 **Prova:** [Script de validação](../scripts/validar.py), [Matriz de aceitação](MATRIZ-ACEITACAO.md), [Política de contribuições](CONTRIBUICAO.md).
 
 **Referência transversal:** [Glossário de governança legível do SIN](https://github.com/Suamarcanotopo/grimorio-skills/blob/main/dependencies/governanca-legivel/GLOSSARIO.md).
+
+
+## ML-11 — Didática progressiva (2026-10-16)
+
+O Glossário, FAQ e os Laboratórios são dependências obrigatórias da formação. Toda instrução técnica deve informar **o que é**, **por que importa**, **como fazer**, **onde aprender** e **como testar**. Quando recurso, preço ou versão depender de fornecedor, registrar status e data de referência.
+
+## ML-12 — Compatibilidade XR e social não presumida
+
+O conhecimento autoral em BLEND deve ser preservado e exportado individualmente a **web (GLB), WebAR (Scene Viewer/Quick Look), Snap Lens, TikTok Effect House, Unreal/Meta Quest ou Horizon** conforme os contratos. **Meta Spark de terceiros encerrado em 2025** nunca deve ser apresentado como opção de nova publicação. O termo *Snapshot* é ambíguo: na rota de efeitos sociais, usar o nome oficial **Snap/Snapchat** e Lens Studio.
+
+## ML-13 — Mudanças de versões e SDKs
+
+As dependências de SDK não devem ser instaladas pelo repositório documental. Cada produto real exige versão fixada, termo e aprovação da plataforma, prova no aparelho, política de câmera e rollback. Divergências de documentação — inclusive limites TikTok — devem ser mostradas como conflito a conferir, não ocultadas.
+
+## ML-14 — Critério de excelência verificável
+
+O Grimório pode ensinar práticas de nível profissional; nunca prometer que somente ler a documentação torna alguém especialista. Para homologação de habilidade, exigir entrega reproduzível, revisão humana, comparação com documentos oficiais e evidências de desempenho e direitos no destino.
+
+**Documentos vinculantes:** [Currículo](../ACADEMIA/MAPA-DE-COMPETENCIAS.md), [Glossário](../GLOSSARIO/README.md), [FAQ](../FAQ/README.md), [Tutoriais](../TUTORIAIS/README.md), [Dependências](../DEPENDENCIAS/README.md).

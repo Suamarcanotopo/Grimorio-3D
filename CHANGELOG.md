@@ -11,3 +11,17 @@
 - Exemplo autoral HTML para apresentação 3D com alternativa acessível.
 
 **Estado:** branch com PR proposto. Testes locais/catálogos e CI GitHub dependem de evidência separada; nenhum uso comercial individual está aprovado por esta versão.
+
+
+## 2026-10-16 — v0.2.0 — Academia 3D, glossário, FAQ e AR multiplaforma
+
+- Expansão aditiva de 185 para **208 fontes em 32 nichos**.
+- **149 termos** em 7 seções do Glossário, com definição, importância, prática e fonte.
+- **80 perguntas** em 10 módulos de FAQ, mais sintomas/diagnóstico.
+- **19 tutoriais** com 178 etapas, pré-requisitos, entregáveis, validação e referências.
+- **10 pipelines** de dependências para Blender, Unreal, websites, Android/iOS AR, Meta Quest/Horizon, Snap Camera Kit/Lens Studio e TikTok Effect House.
+- Mapa de competências, estudo guiado e rubrica de avaliação.
+- Alerta permanente sobre Meta Spark (encerrado), verificação de Horizon Studio/Create e limites de SDK, privacidade e termos.
+- Validadores independentes para integridade de dados e documentação, executados no CI.
+
+**Não alegar homologação de todas as fontes, de runtimes móveis ou de habilidade profissional apenas por publicação dos arquivos.**
