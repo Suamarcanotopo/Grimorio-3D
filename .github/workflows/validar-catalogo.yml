@@ -38,6 +38,8 @@ jobs:
         run: python3 scripts/validar-academia.py
       - name: Validar 293 termos do glossario, unicidade e material didatico
         run: python3 scripts/validar-glossario.py
+      - name: Validar 210 perguntas de FAQ sem duplicacoes
+        run: python3 scripts/validar-faq.py
       - name: Validar ECP, Coliseu, nichos e regressao das 208 fontes
         run: python3 scripts/validar-ecp.py
       - name: Conferir integridade do índice autogerado no README

@@ -8,7 +8,7 @@ from urllib.parse import unquote
 
 ROOT = Path(__file__).resolve().parents[1]
 MIN_TERMS = 293
-MIN_FAQ = 80
+MIN_FAQ = 184
 MIN_TUTORIALS = 19
 MIN_PIPELINES = 10
 MIN_SOURCES = 208
@@ -52,11 +52,11 @@ def check():
     f_count = sum(len(re.findall(r"^## \d+\.", x.read_text(encoding="utf-8"), re.M)) for x in f_files)
     if g_count < MIN_TERMS or g_count != 293:
         errors.append(f"Glossario incompleto: {g_count}")
-    if f_count < MIN_FAQ or f_count != 80:
+    if f_count < MIN_FAQ or f_count != 184:
         errors.append(f"FAQ incompleto: {f_count}")
     if len(t_files) != MIN_TUTORIALS:
         errors.append(f"Tutoriais incompletos: {len(t_files)}")
-    if len(g_files) != 15 or len(f_files) != 10:
+    if len(g_files) != 15 or len(f_files) != 18:
         errors.append("Seções didaticas removidas")
     for path in t_files:
         body = path.read_text(encoding="utf-8")
