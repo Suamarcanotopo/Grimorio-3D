@@ -26,3 +26,24 @@ Servir como livro técnico vivo de 3D, em português do Brasil, com fontes verif
 
 ## Anti-regressão
 Não perder campos de catálogo, IDs, conteúdo didático, links, histórico, fontes ou controles de segurança. Um arquivo presente não prova sistema implantado; verifique CI e revisão humana.
+
+
+## Missão educacional transversal — ECP + Coliseu + Owners
+
+- OWNER de pedagogia: exige explicação para leigos, uma tarefa prática e indicação da fonte oficial por conceito ou tutorial.
+- OWNER Blender: revisa geometria, UV, shader, rig, animação, bake, tracking e exportação.
+- OWNER Unreal/Meta: revisa SDK Meta XR, VR/MR, templates, integração e métricas no headset.
+- OWNER AR social: separa Lens Studio/Camera Kit, TikTok Effect House e legado Meta Spark.
+- OWNER Web3D: valida HTML, glTF, WebXR, Scene Viewer, Quick Look, CSP, autorização de câmera e fallback.
+- REVIEWER Red Team: detecta premissas irreais de portabilidade, formatos, orçamento, direitos, políticas e versões.
+
+Papéis são responsabilidades metodológicas, não agentes autônomos comprovadamente executados. A entrega deve incluir evidência de revisão real para declarar aprovação humana.
+
+## Regras dos módulos novos
+
+1. Sem apagar glossário ou FAQs anteriores em uma atualização corretiva; revisão precisa de diff e justificativa.
+2. FAQ começa com uma pergunta de usuário e termina com procedimento verificável, URL primária e limite explícito.
+3. Tutorial precisa: nível, pré-requisitos, objetivo, passos executáveis, entregável, checklist e erro comum.
+4. A matriz de dependências deve declarar requisitos, opcionais, destino, fonte e status; não presumir que GLB se publica diretamente como Lens.
+5. Rode `python3 scripts/validar.py` + `python3 scripts/validar-academia.py`.
+6. Em projetos Meta/Snap/TikTok, documentação atual substitui tutoriais antigos de marketing; registre mudanças de produtos encerrados.

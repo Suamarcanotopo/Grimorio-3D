@@ -30,6 +30,17 @@
 - [**Erros comuns e diagnóstico**](FAQ/SOLUCAO-DE-PROBLEMAS.md).
 - **Nota de plataforma:** Meta Spark de terceiros está encerrado desde janeiro de 2025; para AR social utilize plataformas ativas e para Meta Quest/Horizon siga os SDKs próprios, com verificações de versão.
 
+## 🥋 Jornada de domínio 3D — resultados verificáveis
+
+| Nível | Competências | Prova prática |
+|---|---|---|
+| Iniciante | XYZ, malha, luz, câmera, UV, material e GLB | Objeto editável, render e viewer |
+| Intermediário | Cenários, rigs, animações, otimização e websites 3D | Cena interativa e métricas de device |
+| Avançado | Tracking, AR em Android/iOS, Snap/TikTok, Unreal e Meta Quest | Prova de integração na plataforma real |
+| Profissional | Direitos, performance, acessibilidade, segurança, documentação e versionamento | Entrega auditável e reversível |
+
+**[Mapa de competências](ACADEMIA/MAPA-DE-COMPETENCIAS.md)** · **[Plano de estudo de 12 semanas](ACADEMIA/PLANO-12-SEMANAS.md)** · **[Modelo de avaliação](ACADEMIA/RUBRICA-DE-HOMOLOGACAO.md)**
+
 ## 🗃️ Navegação por nicho
 
 - [acessibilidade web3d](FONTES/nichos/acessibilidade-web3d.md) — **1 fontes**
