@@ -1,6 +1,6 @@
-# modelagem retopologia — fonte de estudo Grimório 3D
+# modelagem retopologia — Grimório 3D
 
-**4 referências**, com finalidade, acesso e ressalvas de direitos. [Índice](../../INDEX.md).
+**5 referências**, com finalidade e limites de direitos. [Índice](../../INDEX.md).
 
 ## Instant Meshes
 
@@ -10,7 +10,7 @@
 
 **URL:** https://github.com/wjakob/instant-meshes
 
-**Para que usar:** Criar malha de quadriláteros a partir de sculpt.
+**Para que serve:** Criar malha de quadriláteros a partir de sculpt.
 
 **Como começar:** Carregue malha de teste e compare fluxo de arestas.
 
@@ -20,7 +20,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## RetopoFlow
 
@@ -30,7 +30,7 @@
 
 **URL:** https://github.com/CGCookie/retopoflow
 
-**Para que usar:** Reconstruir malhas para animação e jogos.
+**Para que serve:** Reconstruir malhas para animação e jogos.
 
 **Como começar:** Verifique compatibilidade com sua versão do Blender.
 
@@ -40,7 +40,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## Quad Remesher
 
@@ -50,7 +50,7 @@
 
 **URL:** https://exoside.com/quadremesher/
 
-**Para que usar:** Acelerar limpeza de esculturas.
+**Para que serve:** Acelerar limpeza de esculturas.
 
 **Como começar:** Teste remesh em busto com contagem alvo.
 
@@ -60,7 +60,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## Khronos 3D Commerce — geometria
 
@@ -70,7 +70,7 @@
 
 **URL:** https://github.com/KhronosGroup/3DC-Asset-Creation/blob/main/asset-creation-guidelines/full-version/sec02_Geometry/Geometry.md
 
-**Para que usar:** Regras de geometria em tempo real e malha de produto
+**Para que serve:** Regras de geometria em tempo real e malha de produto
 
 **Como começar:** Verifique topologia, escala e silhueta
 
@@ -80,5 +80,24 @@
 
 **Direitos:** Documentação para estudo; licença de exemplos e assets não homologada
 
-**Proveniência:** ECP-Coliseu-v0.4-etapa1-curadoria-2026-10-16 · **Estado:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
+**Status:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
 
+## Blender — modifiers
+
+**ID:** SIN3D-290
+
+**O que é:** Modificadores não destrutivos para malhas
+
+**URL:** https://docs.blender.org/manual/en/latest/modeling/modifiers/index.html
+
+**Para que serve:** Modificadores não destrutivos para malhas
+
+**Como começar:** Compare versões antes de aplicar modifier
+
+**Dica:** Siga o manual e faça uma medição comparativa com arquivo próprio. Compare versões antes de aplicar modifier.
+
+**Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente
+
+**Direitos:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
+
+**Status:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa

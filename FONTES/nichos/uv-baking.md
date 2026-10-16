@@ -1,6 +1,6 @@
-# uv baking — fonte de estudo Grimório 3D
+# uv baking — Grimório 3D
 
-**6 referências**, com finalidade, acesso e ressalvas de direitos. [Índice](../../INDEX.md).
+**7 referências**, com finalidade e limites de direitos. [Índice](../../INDEX.md).
 
 ## RizomUV
 
@@ -10,7 +10,7 @@
 
 **URL:** https://www.rizom-lab.com/
 
-**Para que usar:** Diminuir distorções e aproveitar melhor texturas.
+**Para que serve:** Diminuir distorções e aproveitar melhor texturas.
 
 **Como começar:** Importe OBJ e marque costuras de exemplo.
 
@@ -20,7 +20,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## UVPackmaster
 
@@ -30,7 +30,7 @@
 
 **URL:** https://uvpackmaster.com/
 
-**Para que usar:** Ganhar resolução útil em mapas de textura.
+**Para que serve:** Ganhar resolução útil em mapas de textura.
 
 **Como começar:** Faça pack de UV de exemplo e compare eficiência.
 
@@ -40,7 +40,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## Blender UV Manual
 
@@ -50,7 +50,7 @@
 
 **URL:** https://docs.blender.org/manual/en/latest/modeling/meshes/uv/
 
-**Para que usar:** Entender costuras, unwrap, ilhas e UV sets.
+**Para que serve:** Entender costuras, unwrap, ilhas e UV sets.
 
 **Como começar:** Use UV Editor e teste checkerboard.
 
@@ -60,7 +60,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## Blender Baking Manual
 
@@ -70,7 +70,7 @@
 
 **URL:** https://docs.blender.org/manual/en/latest/render/cycles/baking.html
 
-**Para que usar:** Transferir detalhe high-poly para texturas.
+**Para que serve:** Transferir detalhe high-poly para texturas.
 
 **Como começar:** Prepare UV e imagem ativa antes do bake.
 
@@ -80,7 +80,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## Documentação de bake Substance
 
@@ -90,7 +90,7 @@
 
 **URL:** https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/baking/baking
 
-**Para que usar:** Aprender bake de normal, curvature e AO.
+**Para que serve:** Aprender bake de normal, curvature e AO.
 
 **Como começar:** Confira Bake Mode e mapas gerados.
 
@@ -100,7 +100,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## Khronos 3D Commerce — coordenadas UV
 
@@ -110,7 +110,7 @@
 
 **URL:** https://github.com/KhronosGroup/3DC-Asset-Creation/blob/main/asset-creation-guidelines/full-version/sec03_UVCoordinates/UVCoordinates.md
 
-**Para que usar:** Boas práticas de UV para assets de comércio
+**Para que serve:** Boas práticas de UV para assets de comércio
 
 **Como começar:** Teste um padrão quadriculado no produto
 
@@ -120,5 +120,24 @@
 
 **Direitos:** Documentação para estudo; licença de exemplos e assets não homologada
 
-**Proveniência:** ECP-Coliseu-v0.4-etapa1-curadoria-2026-10-16 · **Estado:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
+**Status:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
 
+## Blender — UV Editing
+
+**ID:** SIN3D-291
+
+**O que é:** Editor UV, seams e unwrapping
+
+**URL:** https://docs.blender.org/manual/en/latest/modeling/meshes/uv/index.html
+
+**Para que serve:** Editor UV, seams e unwrapping
+
+**Como começar:** Abra uma textura checkerboard sem estiramento
+
+**Dica:** Siga o manual e faça uma medição comparativa com arquivo próprio. Abra uma textura checkerboard sem estiramento.
+
+**Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente
+
+**Direitos:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
+
+**Status:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa

@@ -1,6 +1,6 @@
-# render iluminacao — fonte de estudo Grimório 3D
+# render iluminacao — Grimório 3D
 
-**11 referências**, com finalidade, acesso e ressalvas de direitos. [Índice](../../INDEX.md).
+**19 referências**, com finalidade e limites de direitos. [Índice](../../INDEX.md).
 
 ## Marmoset Toolbag
 
@@ -10,7 +10,7 @@
 
 **URL:** https://marmoset.co/toolbag/
 
-**Para que usar:** Produzir portfolio e mapas otimizados.
+**Para que serve:** Produzir portfolio e mapas otimizados.
 
 **Como começar:** Faça cena com HDRI e bake de uma malha.
 
@@ -20,7 +20,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## Cycles
 
@@ -30,7 +30,7 @@
 
 **URL:** https://docs.blender.org/manual/en/latest/render/cycles/
 
-**Para que usar:** Obter iluminação e materiais realistas.
+**Para que serve:** Obter iluminação e materiais realistas.
 
 **Como começar:** Compare samples e denoising de uma cena.
 
@@ -40,7 +40,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## Eevee
 
@@ -50,7 +50,7 @@
 
 **URL:** https://docs.blender.org/manual/en/latest/render/eevee/
 
-**Para que usar:** Visualizações rápidas e animação eficiente.
+**Para que serve:** Visualizações rápidas e animação eficiente.
 
 **Como começar:** Teste luzes e sombras na cena-alvo.
 
@@ -60,7 +60,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## Arnold Renderer
 
@@ -70,7 +70,7 @@
 
 **URL:** https://www.autodesk.com/products/arnold/overview
 
-**Para que usar:** Criar cenas fisicamente consistentes.
+**Para que serve:** Criar cenas fisicamente consistentes.
 
 **Como começar:** Faça render de material básico e avalie ruído.
 
@@ -80,7 +80,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## RenderMan
 
@@ -90,7 +90,7 @@
 
 **URL:** https://renderman.pixar.com/
 
-**Para que usar:** Estudar render de personagens e cenas complexas.
+**Para que serve:** Estudar render de personagens e cenas complexas.
 
 **Como começar:** Consulte documentação de materiais e luz.
 
@@ -100,7 +100,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## Redshift
 
@@ -110,7 +110,7 @@
 
 **URL:** https://www.maxon.net/en/redshift
 
-**Para que usar:** Acelerar cenas de motion design.
+**Para que serve:** Acelerar cenas de motion design.
 
 **Como começar:** Compare render de amostra com orçamento de VRAM.
 
@@ -120,7 +120,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## OctaneRender
 
@@ -130,7 +130,7 @@
 
 **URL:** https://home.otoy.com/render/octane-render/
 
-**Para que usar:** Renderizar campanhas de produto.
+**Para que serve:** Renderizar campanhas de produto.
 
 **Como começar:** Faça benchmark de cena padrão.
 
@@ -140,7 +140,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## V-Ray
 
@@ -150,7 +150,7 @@
 
 **URL:** https://www.chaos.com/vray
 
-**Para que usar:** Renderizar interiores, edifícios e produtos.
+**Para que serve:** Renderizar interiores, edifícios e produtos.
 
 **Como começar:** Monte cena de testes com materiais físicos.
 
@@ -160,7 +160,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## LuxCoreRender
 
@@ -170,7 +170,7 @@
 
 **URL:** https://luxcorerender.org/
 
-**Para que usar:** Aprender iluminação sem solução fechada.
+**Para que serve:** Aprender iluminação sem solução fechada.
 
 **Como começar:** Compare imagem de referência com render.
 
@@ -180,7 +180,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## SideFX Houdini — Karma
 
@@ -190,7 +190,7 @@
 
 **URL:** https://www.sidefx.com/docs/houdini/solaris/karma.html
 
-**Para que usar:** Renderizador USD da SideFX com CPU/XPU
+**Para que serve:** Renderizador USD da SideFX com CPU/XPU
 
 **Como começar:** Compare limites de Karma CPU e XPU
 
@@ -200,7 +200,7 @@
 
 **Direitos:** Documentação para estudo; licença de exemplos e assets não homologada
 
-**Proveniência:** ECP-Coliseu-v0.4-etapa1-curadoria-2026-10-16 · **Estado:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
+**Status:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
 
 ## SideFX Houdini — guia Karma
 
@@ -210,7 +210,7 @@
 
 **URL:** https://www.sidefx.com/docs/houdini/solaris/kug/index.html
 
-**Para que usar:** Guia profissional de luz, câmeras e render físico
+**Para que serve:** Guia profissional de luz, câmeras e render físico
 
 **Como começar:** Faça render com amostragem incremental
 
@@ -220,5 +220,164 @@
 
 **Direitos:** Documentação para estudo; licença de exemplos e assets não homologada
 
-**Proveniência:** ECP-Coliseu-v0.4-etapa1-curadoria-2026-10-16 · **Estado:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
+**Status:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
 
+## Blender — manual Cycles
+
+**ID:** SIN3D-294
+
+**O que é:** Path tracing, iluminação, amostras e render
+
+**URL:** https://docs.blender.org/manual/en/latest/render/cycles/index.html
+
+**Para que serve:** Path tracing, iluminação, amostras e render
+
+**Como começar:** Meça ruído e compare amostragem
+
+**Dica:** Siga o manual e faça uma medição comparativa com arquivo próprio. Meça ruído e compare amostragem.
+
+**Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente
+
+**Direitos:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
+
+**Status:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa
+
+## Blender — manual EEVEE
+
+**ID:** SIN3D-295
+
+**O que é:** Render em tempo real Blender e suas restrições
+
+**URL:** https://docs.blender.org/manual/en/latest/render/eevee/index.html
+
+**Para que serve:** Render em tempo real Blender e suas restrições
+
+**Como começar:** Compare EEVEE e Cycles em teste
+
+**Dica:** Siga o manual e faça uma medição comparativa com arquivo próprio. Compare EEVEE e Cycles em teste.
+
+**Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente
+
+**Direitos:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
+
+**Status:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa
+
+## Blender — luzes
+
+**ID:** SIN3D-296
+
+**O que é:** Câmeras de luz, tipos e intensidades de fonte
+
+**URL:** https://docs.blender.org/manual/en/latest/render/lights/index.html
+
+**Para que serve:** Câmeras de luz, tipos e intensidades de fonte
+
+**Como começar:** Faça iluminação de produto em três pontos
+
+**Dica:** Siga o manual e faça uma medição comparativa com arquivo próprio. Faça iluminação de produto em três pontos.
+
+**Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente
+
+**Direitos:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
+
+**Status:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa
+
+## Blender — Color Management
+
+**ID:** SIN3D-304
+
+**O que é:** Gerenciamento de espaços de cor e visualização
+
+**URL:** https://docs.blender.org/manual/en/latest/render/color_management.html
+
+**Para que serve:** Gerenciamento de espaços de cor e visualização
+
+**Como começar:** Compare View Transform e exposição
+
+**Dica:** Siga o manual e faça uma medição comparativa com arquivo próprio. Compare View Transform e exposição.
+
+**Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente
+
+**Direitos:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
+
+**Status:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa
+
+## Unreal — Nanite
+
+**ID:** SIN3D-317
+
+**O que é:** Geometria virtualizada e requisitos de hardware
+
+**URL:** https://dev.epicgames.com/documentation/unreal-engine/nanite-in-unreal-engine
+
+**Para que serve:** Geometria virtualizada e requisitos de hardware
+
+**Como começar:** Compare limitações em GPU de destino
+
+**Dica:** Siga o manual e faça uma medição comparativa com arquivo próprio. Compare limitações em GPU de destino.
+
+**Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente
+
+**Direitos:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
+
+**Status:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa
+
+## Unreal — Lumen
+
+**ID:** SIN3D-318
+
+**O que é:** Iluminação global e reflexos dinâmicos
+
+**URL:** https://dev.epicgames.com/documentation/en-us/unreal-engine/lumen-technical-details-in-unreal-engine
+
+**Para que serve:** Iluminação global e reflexos dinâmicos
+
+**Como começar:** Compare material em ambiente interior
+
+**Dica:** Siga o manual e faça uma medição comparativa com arquivo próprio. Compare material em ambiente interior.
+
+**Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente
+
+**Direitos:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
+
+**Status:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa
+
+## Unreal — gráficos e renderização
+
+**ID:** SIN3D-319
+
+**O que é:** Guia visual e de rendering engine
+
+**URL:** https://dev.epicgames.com/documentation/en-us/unreal-engine/designing-visuals-rendering-and-graphics-with-unreal-engine
+
+**Para que serve:** Guia visual e de rendering engine
+
+**Como começar:** Selecione técnica por dispositivo
+
+**Dica:** Siga o manual e faça uma medição comparativa com arquivo próprio. Selecione técnica por dispositivo.
+
+**Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente
+
+**Direitos:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
+
+**Status:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa
+
+## Unreal — Movie Render Queue
+
+**ID:** SIN3D-323
+
+**O que é:** Renderização cinematográfica e passes
+
+**URL:** https://dev.epicgames.com/documentation/en-us/unreal-engine/movie-render-pipeline-in-unreal-engine
+
+**Para que serve:** Renderização cinematográfica e passes
+
+**Como começar:** Renderize 24 quadros em sequência
+
+**Dica:** Siga o manual e faça uma medição comparativa com arquivo próprio. Renderize 24 quadros em sequência.
+
+**Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente
+
+**Direitos:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
+
+**Status:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa

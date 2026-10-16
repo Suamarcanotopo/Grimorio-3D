@@ -1,6 +1,6 @@
-# tracking vfx — fonte de estudo Grimório 3D
+# tracking vfx — Grimório 3D
 
-**11 referências**, com finalidade, acesso e ressalvas de direitos. [Índice](../../INDEX.md).
+**13 referências**, com finalidade e limites de direitos. [Índice](../../INDEX.md).
 
 ## Blender Motion Tracking
 
@@ -10,7 +10,7 @@
 
 **URL:** https://docs.blender.org/manual/en/latest/movie_clip/tracking/
 
-**Para que usar:** Integrar objetos 3D em vídeo filmado.
+**Para que serve:** Integrar objetos 3D em vídeo filmado.
 
 **Como começar:** Marque pontos estáveis e resolva movimento da câmera.
 
@@ -20,7 +20,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## SynthEyes
 
@@ -30,7 +30,7 @@
 
 **URL:** https://www.ssontech.com/
 
-**Para que usar:** Reconstruir movimento de câmeras reais.
+**Para que serve:** Reconstruir movimento de câmeras reais.
 
 **Como começar:** Comece por cena com parallax evidente.
 
@@ -40,7 +40,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## 3DEqualizer
 
@@ -50,7 +50,7 @@
 
 **URL:** https://www.3dequalizer.com/
 
-**Para que usar:** Rastrear câmera e lente em produção cinematográfica.
+**Para que serve:** Rastrear câmera e lente em produção cinematográfica.
 
 **Como começar:** Teste tracking de uma tomada curta.
 
@@ -60,7 +60,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## PFTrack
 
@@ -70,7 +70,7 @@
 
 **URL:** https://www.thepixelfarm.co.uk/pftrack/
 
-**Para que usar:** Acoplar cenários digitais a vídeo.
+**Para que serve:** Acoplar cenários digitais a vídeo.
 
 **Como começar:** Execute solve em cena de teste.
 
@@ -80,7 +80,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## Mocha Pro
 
@@ -90,7 +90,7 @@
 
 **URL:** https://borisfx.com/products/mocha-pro/
 
-**Para que usar:** Rastrear telas e superfícies para composição.
+**Para que serve:** Rastrear telas e superfícies para composição.
 
 **Como começar:** Faça tracking de objeto plano com movimento.
 
@@ -100,7 +100,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## Nuke
 
@@ -110,7 +110,7 @@
 
 **URL:** https://www.foundry.com/products/nuke-family/nuke
 
-**Para que usar:** Integrar renders, keying e passes.
+**Para que serve:** Integrar renders, keying e passes.
 
 **Como começar:** Monte árvore com imagem, máscara e composição.
 
@@ -120,7 +120,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## Nuke CameraTracker
 
@@ -130,7 +130,7 @@
 
 **URL:** https://learn.foundry.com/nuke/16.0/content/reference_guide/3d_nodes/cameratracker.html
 
-**Para que usar:** Compreender reconstrução de câmera virtual.
+**Para que serve:** Compreender reconstrução de câmera virtual.
 
 **Como começar:** Siga exemplo passo a passo do CameraTracker.
 
@@ -140,7 +140,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## DaVinci Resolve
 
@@ -150,7 +150,7 @@
 
 **URL:** https://www.blackmagicdesign.com/products/davinciresolve
 
-**Para que usar:** Finalizar sequências 3D e vídeo.
+**Para que serve:** Finalizar sequências 3D e vídeo.
 
 **Como começar:** Faça comp Fusion com tracking simples.
 
@@ -160,7 +160,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## Fusion Studio
 
@@ -170,7 +170,7 @@
 
 **URL:** https://www.blackmagicdesign.com/products/fusion
 
-**Para que usar:** Construir cenas compostas e efeitos.
+**Para que serve:** Construir cenas compostas e efeitos.
 
 **Como começar:** Combine render, máscara e matchmove.
 
@@ -180,7 +180,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## After Effects
 
@@ -190,7 +190,7 @@
 
 **URL:** https://www.adobe.com/products/aftereffects.html
 
-**Para que usar:** Criar efeitos e integrar elementos renderizados.
+**Para que serve:** Criar efeitos e integrar elementos renderizados.
 
 **Como começar:** Teste tracking de canto em cena simples.
 
@@ -200,7 +200,7 @@
 
 **Direitos:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## Unreal — Niagara VFX
 
@@ -210,7 +210,7 @@
 
 **URL:** https://dev.epicgames.com/documentation/en-us/unreal-engine/creating-visual-effects-in-niagara-for-unreal-engine
 
-**Para que usar:** Sistema de partículas visuais em tempo real
+**Para que serve:** Sistema de partículas visuais em tempo real
 
 **Como começar:** Gere emissor de partículas e revise GPU
 
@@ -220,5 +220,44 @@
 
 **Direitos:** Documentação para estudo; licença de exemplos e assets não homologada
 
-**Proveniência:** ECP-Coliseu-v0.4-etapa1-curadoria-2026-10-16 · **Estado:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
+**Status:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
 
+## Blender — Movie Clip Tracking
+
+**ID:** SIN3D-301
+
+**O que é:** Rastreamento e solução de câmera a partir de filmagem
+
+**URL:** https://docs.blender.org/manual/en/latest/movie_clip/index.html
+
+**Para que serve:** Rastreamento e solução de câmera a partir de filmagem
+
+**Como começar:** Resolva vídeo autoral com parallax
+
+**Dica:** Siga o manual e faça uma medição comparativa com arquivo próprio. Resolva vídeo autoral com parallax.
+
+**Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente
+
+**Direitos:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
+
+**Status:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa
+
+## SideFX — Pyro
+
+**ID:** SIN3D-309
+
+**O que é:** Simulação volumétrica de fumaça e fogo
+
+**URL:** https://www.sidefx.com/docs/houdini/pyro/index.html
+
+**Para que serve:** Simulação volumétrica de fumaça e fogo
+
+**Como começar:** Teste fumaça pequena e gere cache
+
+**Dica:** Siga o manual e faça uma medição comparativa com arquivo próprio. Teste fumaça pequena e gere cache.
+
+**Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente
+
+**Direitos:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
+
+**Status:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa

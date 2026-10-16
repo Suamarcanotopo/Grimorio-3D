@@ -1,6 +1,6 @@
-# cinema composicao — fonte de estudo Grimório 3D
+# cinema composicao — Grimório 3D
 
-**5 referências**, com finalidade, acesso e ressalvas de direitos. [Índice](../../INDEX.md).
+**6 referências**, com finalidade e limites de direitos. [Índice](../../INDEX.md).
 
 ## Foundry Nuke — documentação atual
 
@@ -10,7 +10,7 @@
 
 **URL:** https://learn.foundry.com/nuke/content/learn_nuke.html
 
-**Para que usar:** Aprender composição profissional e revisão de planos.
+**Para que serve:** Aprender composição profissional e revisão de planos.
 
 **Como começar:** Siga tutoriais e reproduza comp simples com material próprio.
 
@@ -20,7 +20,7 @@
 
 **Direitos:** Não homologado para reutilização de assets; conteúdo referencial
 
-**Proveniência:** ECP-Coliseu-curadoria-internacional-2026-10-16 · **Estado:** Fonte primária/organização identificada em 2026-10-16; uso e disponibilidade sujeitos à revisão
+**Status:** Fonte primária/organização identificada em 2026-10-16; uso e disponibilidade sujeitos à revisão
 
 ## Autodesk Arnold — documentação
 
@@ -30,7 +30,7 @@
 
 **URL:** https://help.autodesk.com/view/ARNOL/ENU/
 
-**Para que usar:** Referência de renderizador Arnold e shaders para cinema
+**Para que serve:** Referência de renderizador Arnold e shaders para cinema
 
 **Como começar:** Teste shader padrão em superfície de referência
 
@@ -40,7 +40,7 @@
 
 **Direitos:** Documentação para estudo; licença de exemplos e assets não homologada
 
-**Proveniência:** ECP-Coliseu-v0.4-etapa1-curadoria-2026-10-16 · **Estado:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
+**Status:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
 
 ## OpenEXR — portal
 
@@ -50,7 +50,7 @@
 
 **URL:** https://openexr.com/
 
-**Para que usar:** Formato de imagens HDR e canais de composição
+**Para que serve:** Formato de imagens HDR e canais de composição
 
 **Como começar:** Compare EXR e PNG em pipeline de luz
 
@@ -60,7 +60,7 @@
 
 **Direitos:** Documentação para estudo; licença de exemplos e assets não homologada
 
-**Proveniência:** ECP-Coliseu-v0.4-etapa1-curadoria-2026-10-16 · **Estado:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
+**Status:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
 
 ## Foundry Nuke — Learn
 
@@ -70,7 +70,7 @@
 
 **URL:** https://learn.foundry.com/nuke/
 
-**Para que usar:** Hub de documentação de composição para pós-produção
+**Para que serve:** Hub de documentação de composição para pós-produção
 
 **Como começar:** Faça comparação A/B de passes
 
@@ -80,7 +80,7 @@
 
 **Direitos:** Documentação para estudo; licença de exemplos e assets não homologada
 
-**Proveniência:** ECP-Coliseu-v0.4-etapa1-curadoria-2026-10-16 · **Estado:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
+**Status:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
 
 ## Blackmagic DaVinci Resolve — treinamento
 
@@ -90,7 +90,7 @@
 
 **URL:** https://www.blackmagicdesign.com/products/davinciresolve/training
 
-**Para que usar:** Treinamento oficial para edição, composição e cor
+**Para que serve:** Treinamento oficial para edição, composição e cor
 
 **Como começar:** Aprenda gerenciamento de cor num plano autoral
 
@@ -100,5 +100,24 @@
 
 **Direitos:** Documentação para estudo; licença de exemplos e assets não homologada
 
-**Proveniência:** ECP-Coliseu-v0.4-etapa1-curadoria-2026-10-16 · **Estado:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
+**Status:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
 
+## Blender — compositor
+
+**ID:** SIN3D-302
+
+**O que é:** Composição nodal e integração de passes
+
+**URL:** https://docs.blender.org/manual/en/latest/compositing/index.html
+
+**Para que serve:** Composição nodal e integração de passes
+
+**Como começar:** Combine EXR com fundo real
+
+**Dica:** Siga o manual e faça uma medição comparativa com arquivo próprio. Combine EXR com fundo real.
+
+**Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente
+
+**Direitos:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
+
+**Status:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa

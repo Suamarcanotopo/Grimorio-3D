@@ -1,6 +1,6 @@
-# ar colaborativa espacial — fonte de estudo Grimório 3D
+# ar colaborativa espacial — Grimório 3D
 
-**5 referências**, com finalidade, acesso e ressalvas de direitos. [Índice](../../INDEX.md).
+**7 referências**, com finalidade e limites de direitos. [Índice](../../INDEX.md).
 
 ## Google ARCore — Cloud Anchors
 
@@ -10,7 +10,7 @@
 
 **URL:** https://developers.google.com/ar/develop/cloud-anchors
 
-**Para que usar:** Criar objetos persistentes e experiências AR multiusuário.
+**Para que serve:** Criar objetos persistentes e experiências AR multiusuário.
 
 **Como começar:** Faça protótipo com dois dispositivos em local autorizado.
 
@@ -20,7 +20,7 @@
 
 **Direitos:** Não homologado para reutilização de assets; conteúdo referencial
 
-**Proveniência:** ECP-Coliseu-curadoria-internacional-2026-10-16 · **Estado:** Fonte primária/organização identificada em 2026-10-16; uso e disponibilidade sujeitos à revisão
+**Status:** Fonte primária/organização identificada em 2026-10-16; uso e disponibilidade sujeitos à revisão
 
 ## Google ARCore — âncoras locais
 
@@ -30,7 +30,7 @@
 
 **URL:** https://developers.google.com/ar/develop/anchors
 
-**Para que usar:** Evitar objetos flutuando ou deslizando no espaço.
+**Para que serve:** Evitar objetos flutuando ou deslizando no espaço.
 
 **Como começar:** Crie âncora em superfície e caminhe ao redor do objeto.
 
@@ -40,7 +40,7 @@
 
 **Direitos:** Não homologado para reutilização de assets; conteúdo referencial
 
-**Proveniência:** ECP-Coliseu-curadoria-internacional-2026-10-16 · **Estado:** Fonte primária/organização identificada em 2026-10-16; uso e disponibilidade sujeitos à revisão
+**Status:** Fonte primária/organização identificada em 2026-10-16; uso e disponibilidade sujeitos à revisão
 
 ## ARCore — Geospatial Depth
 
@@ -50,7 +50,7 @@
 
 **URL:** https://developers.google.com/ar/develop/java/depth/geospatial-depth
 
-**Para que usar:** Profundidade ampliada com geolocalização e geometria urbana
+**Para que serve:** Profundidade ampliada com geolocalização e geometria urbana
 
 **Como começar:** Confira compatibilidade e cobertura VPS
 
@@ -60,7 +60,7 @@
 
 **Direitos:** Documentação para estudo; licença de exemplos e assets não homologada
 
-**Proveniência:** ECP-Coliseu-v0.4-etapa1-curadoria-2026-10-16 · **Estado:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
+**Status:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
 
 ## ARCore — Streetscape Geometry
 
@@ -70,7 +70,7 @@
 
 **URL:** https://developers.google.com/ar/develop/java/geospatial/streetscape-geometry
 
-**Para que usar:** Dados de edifícios e terreno para AR ao ar livre
+**Para que serve:** Dados de edifícios e terreno para AR ao ar livre
 
 **Como começar:** Teste oclusão e tracking em local permitido
 
@@ -80,7 +80,7 @@
 
 **Direitos:** Documentação para estudo; licença de exemplos e assets não homologada
 
-**Proveniência:** ECP-Coliseu-v0.4-etapa1-curadoria-2026-10-16 · **Estado:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
+**Status:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
 
 ## ARCore — Geospatial Anchors
 
@@ -90,7 +90,7 @@
 
 **URL:** https://developers.google.com/ar/develop/c/geospatial/anchors
 
-**Para que usar:** Ancoragem AR por posição geográfica e altitude
+**Para que serve:** Ancoragem AR por posição geográfica e altitude
 
 **Como começar:** Compare WGS84, terreno e roof-top
 
@@ -100,5 +100,44 @@
 
 **Direitos:** Documentação para estudo; licença de exemplos e assets não homologada
 
-**Proveniência:** ECP-Coliseu-v0.4-etapa1-curadoria-2026-10-16 · **Estado:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
+**Status:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
 
+## Apple ARKit
+
+**ID:** SIN3D-331
+
+**O que é:** Framework Apple para rastreamento e entendimento espacial
+
+**URL:** https://developer.apple.com/augmented-reality/arkit/
+
+**Para que serve:** Framework Apple para rastreamento e entendimento espacial
+
+**Como começar:** Teste âncora no dispositivo iOS
+
+**Dica:** Siga o manual e faça uma medição comparativa com arquivo próprio. Teste âncora no dispositivo iOS.
+
+**Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente
+
+**Direitos:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
+
+**Status:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa
+
+## Apple RoomPlan
+
+**ID:** SIN3D-332
+
+**O que é:** Mapeamento de ambientes interiores com dispositivos compatíveis
+
+**URL:** https://developer.apple.com/augmented-reality/roomplan/
+
+**Para que serve:** Mapeamento de ambientes interiores com dispositivos compatíveis
+
+**Como começar:** Gere planta de teste respeitando privacidade
+
+**Dica:** Siga o manual e faça uma medição comparativa com arquivo próprio. Gere planta de teste respeitando privacidade.
+
+**Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente
+
+**Direitos:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
+
+**Status:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa
