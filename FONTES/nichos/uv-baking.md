@@ -1,61 +1,124 @@
-# uv baking
+# uv baking — fonte de estudo Grimório 3D
 
-**5 fontes** · [Índice geral](../../INDEX.md) · [Catálogo CSV](../catalogo.csv)
+**6 referências**, com finalidade, acesso e ressalvas de direitos. [Índice](../../INDEX.md).
 
-Uso recomendado: localizar uma referência, estudar os exemplos oficiais, testar com dados próprios e conferir licença individual antes de baixar, executar ou publicar.
+## RizomUV
 
-### RizomUV
+**ID:** SIN3D-105
 
-- **Descrição:** Aplicativo especializado em abertura e empacotamento UV.
-- **URL completa:** https://www.rizom-lab.com/
-- **Para que serve:** Diminuir distorções e aproveitar melhor texturas.
-- **Como começar:** Importe OBJ e marque costuras de exemplo.
-- **Truque / boa prática:** Meça stretching e densidade de texel.
-- **Acesso / freemium:** Pago / A confirmar
-- **Uso comercial:** Não homologado: verificar termos do item/plano
-- **Validação:** Fonte catalogada; termos e atualidade exigem revalidação
+**O que é:** Aplicativo especializado em abertura e empacotamento UV.
 
-### UVPackmaster
+**URL:** https://www.rizom-lab.com/
 
-- **Descrição:** Plugin de organização e empacotamento de ilhas UV.
-- **URL completa:** https://uvpackmaster.com/
-- **Para que serve:** Ganhar resolução útil em mapas de textura.
-- **Como começar:** Faça pack de UV de exemplo e compare eficiência.
-- **Truque / boa prática:** Respeite margens de mipmapping.
-- **Acesso / freemium:** Pago / A confirmar
-- **Uso comercial:** Não homologado: verificar termos do item/plano
-- **Validação:** Fonte catalogada; termos e atualidade exigem revalidação
+**Para que usar:** Diminuir distorções e aproveitar melhor texturas.
 
-### Blender UV Manual
+**Como começar:** Importe OBJ e marque costuras de exemplo.
 
-- **Descrição:** Documentação oficial de mapeamento UV no Blender.
-- **URL completa:** https://docs.blender.org/manual/en/latest/modeling/meshes/uv/
-- **Para que serve:** Entender costuras, unwrap, ilhas e UV sets.
-- **Como começar:** Use UV Editor e teste checkerboard.
-- **Truque / boa prática:** Evite esticamento em faces proeminentes.
-- **Acesso / freemium:** Gratuito / A confirmar
-- **Uso comercial:** Não homologado: verificar termos do item/plano
-- **Validação:** Fonte catalogada; termos e atualidade exigem revalidação
+**Dica:** Meça stretching e densidade de texel.
 
-### Blender Baking Manual
+**Acesso:** Pago · **Freemium:** A confirmar
 
-- **Descrição:** Documentação do bake Cycles para normal, AO e materiais.
-- **URL completa:** https://docs.blender.org/manual/en/latest/render/cycles/baking.html
-- **Para que serve:** Transferir detalhe high-poly para texturas.
-- **Como começar:** Prepare UV e imagem ativa antes do bake.
-- **Truque / boa prática:** Confira normal map tangente e resolução.
-- **Acesso / freemium:** Gratuito / A confirmar
-- **Uso comercial:** Não homologado: verificar termos do item/plano
-- **Validação:** Fonte catalogada; termos e atualidade exigem revalidação
+**Direitos:** Não homologado: verificar termos do item/plano
 
-### Documentação de bake Substance
+**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
 
-- **Descrição:** Manual oficial para transferência de detalhes de malha a texturas.
-- **URL completa:** https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/baking/baking
-- **Para que serve:** Aprender bake de normal, curvature e AO.
-- **Como começar:** Confira Bake Mode e mapas gerados.
-- **Truque / boa prática:** Leia atualizações de versão do Painter.
-- **Acesso / freemium:** Gratuito / A confirmar
-- **Uso comercial:** Não homologado: verificar termos do item/plano
-- **Validação:** Fonte catalogada; termos e atualidade exigem revalidação
+## UVPackmaster
+
+**ID:** SIN3D-106
+
+**O que é:** Plugin de organização e empacotamento de ilhas UV.
+
+**URL:** https://uvpackmaster.com/
+
+**Para que usar:** Ganhar resolução útil em mapas de textura.
+
+**Como começar:** Faça pack de UV de exemplo e compare eficiência.
+
+**Dica:** Respeite margens de mipmapping.
+
+**Acesso:** Pago · **Freemium:** A confirmar
+
+**Direitos:** Não homologado: verificar termos do item/plano
+
+**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+
+## Blender UV Manual
+
+**ID:** SIN3D-107
+
+**O que é:** Documentação oficial de mapeamento UV no Blender.
+
+**URL:** https://docs.blender.org/manual/en/latest/modeling/meshes/uv/
+
+**Para que usar:** Entender costuras, unwrap, ilhas e UV sets.
+
+**Como começar:** Use UV Editor e teste checkerboard.
+
+**Dica:** Evite esticamento em faces proeminentes.
+
+**Acesso:** Gratuito · **Freemium:** A confirmar
+
+**Direitos:** Não homologado: verificar termos do item/plano
+
+**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+
+## Blender Baking Manual
+
+**ID:** SIN3D-108
+
+**O que é:** Documentação do bake Cycles para normal, AO e materiais.
+
+**URL:** https://docs.blender.org/manual/en/latest/render/cycles/baking.html
+
+**Para que usar:** Transferir detalhe high-poly para texturas.
+
+**Como começar:** Prepare UV e imagem ativa antes do bake.
+
+**Dica:** Confira normal map tangente e resolução.
+
+**Acesso:** Gratuito · **Freemium:** A confirmar
+
+**Direitos:** Não homologado: verificar termos do item/plano
+
+**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+
+## Documentação de bake Substance
+
+**ID:** SIN3D-111
+
+**O que é:** Manual oficial para transferência de detalhes de malha a texturas.
+
+**URL:** https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/baking/baking
+
+**Para que usar:** Aprender bake de normal, curvature e AO.
+
+**Como começar:** Confira Bake Mode e mapas gerados.
+
+**Dica:** Leia atualizações de versão do Painter.
+
+**Acesso:** Gratuito · **Freemium:** A confirmar
+
+**Direitos:** Não homologado: verificar termos do item/plano
+
+**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+
+## Khronos 3D Commerce — coordenadas UV
+
+**ID:** SIN3D-242
+
+**O que é:** Boas práticas de UV para assets de comércio
+
+**URL:** https://github.com/KhronosGroup/3DC-Asset-Creation/blob/main/asset-creation-guidelines/full-version/sec03_UVCoordinates/UVCoordinates.md
+
+**Para que usar:** Boas práticas de UV para assets de comércio
+
+**Como começar:** Teste um padrão quadriculado no produto
+
+**Dica:** Faça um pequeno teste autoral e registre a versão antes de aplicar em produção. Teste um padrão quadriculado no produto.
+
+**Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma
+
+**Direitos:** Documentação para estudo; licença de exemplos e assets não homologada
+
+**Proveniência:** ECP-Coliseu-v0.4-etapa1-curadoria-2026-10-16 · **Estado:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
 

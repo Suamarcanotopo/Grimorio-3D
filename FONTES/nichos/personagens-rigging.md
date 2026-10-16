@@ -1,105 +1,204 @@
-# personagens rigging
+# personagens rigging — fonte de estudo Grimório 3D
 
-**9 fontes** · [Índice geral](../../INDEX.md) · [Catálogo CSV](../catalogo.csv)
+**10 referências**, com finalidade, acesso e ressalvas de direitos. [Índice](../../INDEX.md).
 
-Uso recomendado: localizar uma referência, estudar os exemplos oficiais, testar com dados próprios e conferir licença individual antes de baixar, executar ou publicar.
+## MetaHuman
 
-### MetaHuman
+**ID:** SIN3D-032
 
-- **Descrição:** Criador de humanos digitais realistas, expressões e animação integrada.
-- **URL completa:** https://www.metahuman.com/
-- **Para que serve:** Humano|Unreal
-- **Como começar:** Exporte um personagem de teste e valide o esqueleto no destino.
-- **Truque / boa prática:** Cheque nomes de ossos, escala, root motion e retargeting.
-- **Acesso / freemium:** Grátis / Não
-- **Uso comercial:** Sujeito aos termos Unreal/Epic
-- **Validação:** Página principal catalogada; conferir termos atuais antes do uso
+**O que é:** Criador de humanos digitais realistas, expressões e animação integrada.
 
-### MPFB / MakeHuman
+**URL:** https://www.metahuman.com/
 
-- **Descrição:** Gerador aberto de modelos humanos com integração ao Blender.
-- **URL completa:** https://static.makehumancommunity.org/mpfb.html
-- **Para que serve:** Blender|Characters
-- **Como começar:** Exporte um personagem de teste e valide o esqueleto no destino.
-- **Truque / boa prática:** Cheque nomes de ossos, escala, root motion e retargeting.
-- **Acesso / freemium:** Grátis / Não
-- **Uso comercial:** Consultar licença de software e assets
-- **Validação:** Página principal catalogada; conferir termos atuais antes do uso
+**Para que usar:** Humano|Unreal
 
-### Adobe Mixamo
+**Como começar:** Exporte um personagem de teste e valide o esqueleto no destino.
 
-- **Descrição:** Rigging automático e biblioteca de animações de movimento humano.
-- **URL completa:** https://www.mixamo.com/
-- **Para que serve:** Rigging|Animation
-- **Como começar:** Exporte um personagem de teste e valide o esqueleto no destino.
-- **Truque / boa prática:** Cheque nomes de ossos, escala, root motion e retargeting.
-- **Acesso / freemium:** Grátis / Não
-- **Uso comercial:** Sim nos termos aplicáveis
-- **Validação:** Página principal catalogada; conferir termos atuais antes do uso
+**Dica:** Cheque nomes de ossos, escala, root motion e retargeting.
 
-### Rokoko Motion Library
+**Acesso:** Grátis · **Freemium:** Não
 
-- **Descrição:** Biblioteca de movimentos capturados para personagens e produção 3D.
-- **URL completa:** https://www.rokoko.com/products/motion-library
-- **Para que serve:** Mocap|Animation
-- **Como começar:** Exporte um personagem de teste e valide o esqueleto no destino.
-- **Truque / boa prática:** Cheque nomes de ossos, escala, root motion e retargeting.
-- **Acesso / freemium:** Freemium / Sim
-- **Uso comercial:** Verificar a licença do item/plano
-- **Validação:** Página principal catalogada; conferir termos atuais antes do uso
+**Direitos:** Sujeito aos termos Unreal/Epic
 
-### ActorCore
+**Proveniência:** SIN 3D Asset Atlas anterior · **Estado:** Página principal catalogada; conferir termos atuais antes do uso
 
-- **Descrição:** Personagens prontos, mocap e conteúdo para animação de jogos e cenas.
-- **URL completa:** https://actorcore.reallusion.com/
-- **Para que serve:** Rigging|Characters
-- **Como começar:** Exporte um personagem de teste e valide o esqueleto no destino.
-- **Truque / boa prática:** Cheque nomes de ossos, escala, root motion e retargeting.
-- **Acesso / freemium:** Freemium / Sim
-- **Uso comercial:** Verificar a licença do item/plano
-- **Validação:** Página principal catalogada; conferir termos atuais antes do uso
+## MPFB / MakeHuman
 
-### DeepMotion Animate 3D
+**ID:** SIN3D-033
 
-- **Descrição:** Ferramenta de geração de animações 3D a partir de vídeos.
-- **URL completa:** https://www.deepmotion.com/
-- **Para que serve:** AI|Motion capture
-- **Como começar:** Exporte um personagem de teste e valide o esqueleto no destino.
-- **Truque / boa prática:** Cheque nomes de ossos, escala, root motion e retargeting.
-- **Acesso / freemium:** Freemium / Sim
-- **Uso comercial:** Plano grátis não garante licença comercial
-- **Validação:** Página principal catalogada; conferir termos atuais antes do uso
+**O que é:** Gerador aberto de modelos humanos com integração ao Blender.
 
-### Rigify Blender
+**URL:** https://static.makehumancommunity.org/mpfb.html
 
-- **Descrição:** Sistema de rigging incluído como extensão do Blender.
-- **URL completa:** https://docs.blender.org/manual/en/latest/addons/rigging/rigify/
-- **Para que serve:** Gerar esqueletos controláveis para animação.
-- **Como começar:** Ative addon e experimente metarig humano.
-- **Truque / boa prática:** Faça verificação de pesos e deformação.
-- **Acesso / freemium:** Gratuito / A confirmar
-- **Uso comercial:** Não homologado: verificar termos do item/plano
-- **Validação:** Fonte catalogada; termos e atualidade exigem revalidação
+**Para que usar:** Blender|Characters
 
-### Unreal Control Rig
+**Como começar:** Exporte um personagem de teste e valide o esqueleto no destino.
 
-- **Descrição:** Ferramentas de rigging e animação dentro da Unreal.
-- **URL completa:** https://dev.epicgames.com/documentation/en-us/unreal-engine/control-rig-in-unreal-engine
-- **Para que serve:** Construir rigs controláveis em cenas interativas.
-- **Como começar:** Monte rig simples com gizmos.
-- **Truque / boa prática:** Teste animações no personagem final.
-- **Acesso / freemium:** Gratuito/segundo motor / A confirmar
-- **Uso comercial:** Não homologado: verificar termos do item/plano
-- **Validação:** Fonte catalogada; termos e atualidade exigem revalidação
+**Dica:** Cheque nomes de ossos, escala, root motion e retargeting.
 
-### iClone
+**Acesso:** Grátis · **Freemium:** Não
 
-- **Descrição:** Ferramenta de animação de personagens, captura e cenas.
-- **URL completa:** https://www.reallusion.com/iclone/
-- **Para que serve:** Produzir narrativas com personagens animados.
-- **Como começar:** Teste personagem padrão com animação curta.
-- **Truque / boa prática:** Cheque licença de exportação dos personagens.
-- **Acesso / freemium:** Pago / A confirmar
-- **Uso comercial:** Não homologado: verificar termos do item/plano
-- **Validação:** Fonte catalogada; termos e atualidade exigem revalidação
+**Direitos:** Consultar licença de software e assets
+
+**Proveniência:** SIN 3D Asset Atlas anterior · **Estado:** Página principal catalogada; conferir termos atuais antes do uso
+
+## Adobe Mixamo
+
+**ID:** SIN3D-034
+
+**O que é:** Rigging automático e biblioteca de animações de movimento humano.
+
+**URL:** https://www.mixamo.com/
+
+**Para que usar:** Rigging|Animation
+
+**Como começar:** Exporte um personagem de teste e valide o esqueleto no destino.
+
+**Dica:** Cheque nomes de ossos, escala, root motion e retargeting.
+
+**Acesso:** Grátis · **Freemium:** Não
+
+**Direitos:** Sim nos termos aplicáveis
+
+**Proveniência:** SIN 3D Asset Atlas anterior · **Estado:** Página principal catalogada; conferir termos atuais antes do uso
+
+## Rokoko Motion Library
+
+**ID:** SIN3D-035
+
+**O que é:** Biblioteca de movimentos capturados para personagens e produção 3D.
+
+**URL:** https://www.rokoko.com/products/motion-library
+
+**Para que usar:** Mocap|Animation
+
+**Como começar:** Exporte um personagem de teste e valide o esqueleto no destino.
+
+**Dica:** Cheque nomes de ossos, escala, root motion e retargeting.
+
+**Acesso:** Freemium · **Freemium:** Sim
+
+**Direitos:** Verificar a licença do item/plano
+
+**Proveniência:** SIN 3D Asset Atlas anterior · **Estado:** Página principal catalogada; conferir termos atuais antes do uso
+
+## ActorCore
+
+**ID:** SIN3D-036
+
+**O que é:** Personagens prontos, mocap e conteúdo para animação de jogos e cenas.
+
+**URL:** https://actorcore.reallusion.com/
+
+**Para que usar:** Rigging|Characters
+
+**Como começar:** Exporte um personagem de teste e valide o esqueleto no destino.
+
+**Dica:** Cheque nomes de ossos, escala, root motion e retargeting.
+
+**Acesso:** Freemium · **Freemium:** Sim
+
+**Direitos:** Verificar a licença do item/plano
+
+**Proveniência:** SIN 3D Asset Atlas anterior · **Estado:** Página principal catalogada; conferir termos atuais antes do uso
+
+## DeepMotion Animate 3D
+
+**ID:** SIN3D-037
+
+**O que é:** Ferramenta de geração de animações 3D a partir de vídeos.
+
+**URL:** https://www.deepmotion.com/
+
+**Para que usar:** AI|Motion capture
+
+**Como começar:** Exporte um personagem de teste e valide o esqueleto no destino.
+
+**Dica:** Cheque nomes de ossos, escala, root motion e retargeting.
+
+**Acesso:** Freemium · **Freemium:** Sim
+
+**Direitos:** Plano grátis não garante licença comercial
+
+**Proveniência:** SIN 3D Asset Atlas anterior · **Estado:** Página principal catalogada; conferir termos atuais antes do uso
+
+## Rigify Blender
+
+**ID:** SIN3D-123
+
+**O que é:** Sistema de rigging incluído como extensão do Blender.
+
+**URL:** https://docs.blender.org/manual/en/latest/addons/rigging/rigify/
+
+**Para que usar:** Gerar esqueletos controláveis para animação.
+
+**Como começar:** Ative addon e experimente metarig humano.
+
+**Dica:** Faça verificação de pesos e deformação.
+
+**Acesso:** Gratuito · **Freemium:** A confirmar
+
+**Direitos:** Não homologado: verificar termos do item/plano
+
+**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+
+## Unreal Control Rig
+
+**ID:** SIN3D-124
+
+**O que é:** Ferramentas de rigging e animação dentro da Unreal.
+
+**URL:** https://dev.epicgames.com/documentation/en-us/unreal-engine/control-rig-in-unreal-engine
+
+**Para que usar:** Construir rigs controláveis em cenas interativas.
+
+**Como começar:** Monte rig simples com gizmos.
+
+**Dica:** Teste animações no personagem final.
+
+**Acesso:** Gratuito/segundo motor · **Freemium:** A confirmar
+
+**Direitos:** Não homologado: verificar termos do item/plano
+
+**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+
+## iClone
+
+**ID:** SIN3D-126
+
+**O que é:** Ferramenta de animação de personagens, captura e cenas.
+
+**URL:** https://www.reallusion.com/iclone/
+
+**Para que usar:** Produzir narrativas com personagens animados.
+
+**Como começar:** Teste personagem padrão com animação curta.
+
+**Dica:** Cheque licença de exportação dos personagens.
+
+**Acesso:** Pago · **Freemium:** A confirmar
+
+**Direitos:** Não homologado: verificar termos do item/plano
+
+**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+
+## Unreal — animando Control Rig
+
+**ID:** SIN3D-264
+
+**O que é:** Tutorial em português de controles de animação na Unreal
+
+**URL:** https://dev.epicgames.com/documentation/pt-br/unreal-engine/animating-with-control-rig-in-unreal-engine
+
+**Para que usar:** Tutorial em português de controles de animação na Unreal
+
+**Como começar:** Anime gesto dentro do Sequencer
+
+**Dica:** Faça um pequeno teste autoral e registre a versão antes de aplicar em produção. Anime gesto dentro do Sequencer.
+
+**Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma
+
+**Direitos:** Documentação para estudo; licença de exemplos e assets não homologada
+
+**Proveniência:** ECP-Coliseu-v0.4-etapa1-curadoria-2026-10-16 · **Estado:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
 
