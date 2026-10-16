@@ -1,0 +1,26 @@
+name: Validar Grimorio 3D
+
+on:
+  pull_request:
+    paths:
+      - 'README.md'
+      - 'INDEX.md'
+      - 'FONTES/**'
+      - 'GUIAS/**'
+      - 'GOVERNANCA/**'
+      - 'scripts/**'
+      - '.github/workflows/validar-catalogo.yml'
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  catalogo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Validar JSON CSV nichos e links locais obrigatorios
+        run: python3 scripts/validar.py
