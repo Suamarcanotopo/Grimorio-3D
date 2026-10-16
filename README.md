@@ -76,6 +76,12 @@ Leia [GOVERNANCA/MISSION-LOCK.md](GOVERNANCA/MISSION-LOCK.md), [GOVERNANCA/CONTR
 
 ## ✨ Comunidade SIN
 
-Se o catálogo te ajudou, dê uma ⭐ neste repositório, acompanhe **@suamarcanotopo** e conheça o [Sistema Imersivo Narrativo](https://sistemaimersivonarrativo.com.br/). Os links comunitários podem ser encontrados no ecossistema oficial.
+Se este catálogo te ajudou, **deixe aquela estrela marota ⭐** e acompanhe os conteúdos práticos do ecossistema.
+
+- **Instagram — Sua Marca no Topo:** https://www.instagram.com/suamarcanotopo/
+- **YouTube — lives e Coworking Lab:** https://www.youtube.com/@suamarcanotopo?sub_confirmation=1
+- **Sistema Imersivo Narrativo:** https://sistemaimersivonarrativo.com.br/
+- **Dicas e tutoriais gratuitos:** https://chat.whatsapp.com/F11omHqfI4KKCC0Sgbc4Vm?s=cl&p=i&mlu=4&ilr=4
+- **Working Lab — lives e desenvolvimento colaborativo:** https://chat.whatsapp.com/FcyMOdQqyW8Ci104P8i3Gg?s=cl&p=i&mlu=4&ilr=4
 
 **Data da edição:** 2026-10-16 · **Publicação inicial:** curadoria com revisão progressiva, não certificação universal.
