@@ -1,7 +1,7 @@
 {
-  "total": 208,
+  "total": 238,
   "base": 87,
-  "adicionadas": 121,
+  "adicionadas": 151,
   "nichos": {
     "assets-marketplaces": 13,
     "games-prototipagem": 6,
@@ -16,7 +16,7 @@
     "otimizacao-entrega": 8,
     "modelagem-procedural": 8,
     "fotogrametria-captura": 6,
-    "formacao-documentacao": 6,
+    "formacao-documentacao": 7,
     "cad-impressao-3d": 8,
     "modelagem-retopologia": 3,
     "uv-baking": 5,
@@ -34,8 +34,14 @@
     "ar-social-plataformas": 11,
     "meta-quest-horizon": 6,
     "web-ar-dispositivos": 5,
-    "pipeline-blender-unreal": 1
+    "pipeline-blender-unreal": 1,
+    "cinema-pipeline-aberto": 10,
+    "cinema-producao-virtual": 4,
+    "cinema-composicao": 1,
+    "hubs-global-industria": 10,
+    "ar-colaborativa-espacial": 2,
+    "seguranca-acessibilidade-3d": 2
   },
   "data_referencia": "2026-10-16",
-  "notas": "Licenças e disponibilidades de plataforma exigem verificação por item. Documentação não garante uso comercial."
+  "notas": "Dados catalogados com classe de proveniência. Verificar licenças, datas e compatibilidade no momento de uso; curadoria não constitui teste de runtime."
 }

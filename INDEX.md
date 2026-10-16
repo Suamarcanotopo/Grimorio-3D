@@ -38,6 +38,14 @@
 | web ar dispositivos | 5 | [Ver fontes](FONTES/nichos/web-ar-dispositivos.md) |
 | pipeline blender unreal | 1 | [Ver fontes](FONTES/nichos/pipeline-blender-unreal.md) |
 
+| formacao documentacao | 7 | [Ver fontes](FONTES/nichos/formacao-documentacao.md) |
+| cinema pipeline aberto | 10 | [Ver fontes](FONTES/nichos/cinema-pipeline-aberto.md) |
+| cinema producao virtual | 4 | [Ver fontes](FONTES/nichos/cinema-producao-virtual.md) |
+| cinema composicao | 1 | [Ver fontes](FONTES/nichos/cinema-composicao.md) |
+| hubs global industria | 10 | [Ver fontes](FONTES/nichos/hubs-global-industria.md) |
+| ar colaborativa espacial | 2 | [Ver fontes](FONTES/nichos/ar-colaborativa-espacial.md) |
+| seguranca acessibilidade 3d | 2 | [Ver fontes](FONTES/nichos/seguranca-acessibilidade-3d.md) |
+
 ## Ordem de estudo
 
 1. [Iniciantes e glossário](GUIAS/00-TRILHA-DE-APRENDIZAGEM.md)
@@ -55,3 +63,11 @@
 - [FAQ de execução e erros](FAQ/README.md)
 - [Tutoriais completos](TUTORIAIS/README.md)
 - [Árvore de dependências 3D/AR](DEPENDENCIAS/README.md)
+
+## ECP + Coliseu — formação por competências
+
+- [Etapas da produção do começo ao fim](CURRICULO/ETAPAS-DA-PRODUCAO.md)
+- [Cadernos de nichos e projetos](NICHOS/README.md)
+- [Pesquisa internacional](ECOSSISTEMA/README.md)
+- [Atualidades separadas de padrões](ATUALIDADES/README.md)
+- [Knowledge-to-Skill e avaliação](SKILLS/README.md)
