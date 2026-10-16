@@ -23,7 +23,7 @@
 
 ## 🎓 Universidade 3D — glossário, FAQ e tutoriais
 
-- [**Glossário didático**](GLOSSARIO/README.md) — 149 termos com definição, importância e exercício.
+- [**Glossário didático**](GLOSSARIO/README.md) — 293 termos com definição, importância e exercício.
 - [**FAQ prático**](FAQ/README.md) — 80 perguntas com instruções passo a passo, motivo e referência oficial.
 - [**Tutoriais guiados de aprendizagem**](TUTORIAIS/README.md) — projetos com dependências, passos, entregáveis e testes.
 - [**Matriz de dependências**](DEPENDENCIAS/README.md) — do Blender e Unreal à AR Web, Meta, Snap/Snapchat e TikTok.
@@ -58,7 +58,7 @@ Use a rota mais curta para seu objetivo; depois, navegue pelo índice integral l
 
 | Objetivo | Onde aprender | Recursos e dependências |
 |---|---|---|
-| **Sou iniciante absoluto** | [Primeiros passos](GUIAS/00-TRILHA-DE-APRENDIZAGEM.md) · [149 termos](GLOSSARIO/README.md) | [Blender e modelagem](#fontes-modelagem-escultura) |
+| **Sou iniciante absoluto** | [Primeiros passos](GUIAS/00-TRILHA-DE-APRENDIZAGEM.md) · [293 termos](GLOSSARIO/README.md) | [Blender e modelagem](#fontes-modelagem-escultura) |
 | **Preciso de modelos, assets e texturas** | [Como escolher materiais](GUIAS/02-UV-TEXTURAS-PBR.md) | [Marketplaces](#fontes-assets-marketplaces) · [Texturas/PBR](#fontes-texturas-materiais) |
 | **Quero criar personagens animados** | [Rig, animação e tracking](GUIAS/03-ANIMACAO-TRACKING.md) | [Personagens](#fontes-personagens-rigging) · [Mocap](#fontes-mocap-movimento) |
 | **Quero desenvolver games** | [Trilha games](NICHOS/games-level-design.md) · [Laboratórios](TUTORIAIS/README.md) | [Engines e assets](#fontes-games-prototipagem) |

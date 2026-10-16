@@ -24,13 +24,13 @@
 
 **Onde aprender:** https://www.khronos.org/gltf/
 
-### 3. Version Pinning (fixação de versão de SDK)
+### 3. SDK Compatibility Matrix (matriz de compatibilidade de SDK)
 
-**O que é:** Escolha explícita de versão testada em um projeto.
+**O que é:** Tabela que registra quais versões de SDK, engine, plugin e dispositivo funcionam juntas.
 
-**Por que importa:** Evita downgrade e mudanças invisíveis.
+**Por que importa:** Evita atualização de uma biblioteca incompatível com o motor ou hardware de produção.
 
-**Como praticar:** Registre versão Blender, Unreal e plugin.
+**Como praticar:** Crie matriz com três versões e registre resultados de smoke tests.
 
 **Onde aprender:** https://www.khronos.org/gltf/
 
