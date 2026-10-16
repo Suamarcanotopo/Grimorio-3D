@@ -10,7 +10,7 @@
 | 4 | Geometria leve e assets para jogos | [04 — Game prop](../TUTORIAIS/04-game-prop-malha-leve-e-lod.md) | https://dev.epicgames.com/documentation/en-us/unreal-engine |
 | 5 | Rigging e animação | [05 — Personagem](../TUTORIAIS/05-personagem-rig-pesos-e-animacao-curta.md) | https://docs.blender.org/manual/en/latest/animation/ |
 | 6 | Tracking e procedural | [06 — Tracking](../TUTORIAIS/06-tracking-integrar-objeto-3d-em-filmagem.md) + [07 — Nodes](../TUTORIAIS/07-geometry-nodes-floresta-procedural.md) | https://docs.blender.org/manual/en/latest/movie_clip/tracking/ |
-| 7 | Produto 3D no site | [08 — model-viewer](../TUTORIAIS/08-website-produto-3d-com-model-viewer.md) | https://modelviewer.dev/docs/index.html |
+| 7 | Produto 3D no site | [08 — model-viewer](../TUTORIAIS/08-website-produto-3d-com-modelviewer.md) | https://modelviewer.dev/docs/index.html |
 | 8 | Realidade aumentada em website | [09 — WebAR](../TUTORIAIS/09-webar-movel-na-sala-no-android-e-iphone.md) | https://developers.google.com/ar/develop/scene-viewer?hl=pt-BR |
 | 9 | Interação 3D web | [10 — Three.js](../TUTORIAIS/10-web3d-avancado-cena-threejs-sem-react.md) | https://threejs.org/docs/ |
 | 10 | Efeitos sociais — escolha UMA plataforma | [11 — Snap](../TUTORIAIS/11-snapchat-primeira-lens-a-partir-de-modelo-blender.md) OU [13 — TikTok](../TUTORIAIS/13-tiktok-filtro-interativo-no-effect-house.md) | https://developers.snap.com/ |
