@@ -47,3 +47,16 @@ Papéis são responsabilidades metodológicas, não agentes autônomos comprovad
 4. A matriz de dependências deve declarar requisitos, opcionais, destino, fonte e status; não presumir que GLB se publica diretamente como Lens.
 5. Rode `python3 scripts/validar.py` + `python3 scripts/validar-academia.py`.
 6. Em projetos Meta/Snap/TikTok, documentação atual substitui tutoriais antigos de marketing; registre mudanças de produtos encerrados.
+
+
+## Orquestração v0.3 — missão global 3D com downside protegido
+
+1. **ECP** classifica `MISSION`, risco `R2` na evolução de múltiplas estruturas documentais, define contrato: preservar histórico, ampliar competências por etapas, não duplicar links, publicar com CI.
+2. **Skill Architect** é consultado metodologicamente para transformar conhecimento em competências com `analyze/design/build/execute/verify` distintos. Nenhuma nova Skill instalada nesta missão.
+3. **SIN Motion Expertise Council** dá critérios de cinema, motion, VFX, publicidade, cenários e QA criativo. Não se afirma execução autônoma de software.
+4. **SEE** exige data, versão e fonte oficial para informação que muda (SDK, release, política e preço).
+5. **Coliseum** contesta cada upgrade: novos nichos vazios, FAQ decorativo, fontes não oficiais, links quebrados, licenças presumidas, ferramentas descontinuadas e degradação de currículo.
+6. **Agente contributor** prepara alteração em branch, CI e evidência. Merge requer `scripts/validar.py`, `validar-academia.py`, `validar-ecp.py` aprovados e PR sem conflitos.
+7. Para execução de runtime em Blender/Unreal/Meta/Snap/TikTok, exigir testes separados. Passar na CI documental NÃO equivale a aprovar hardware, AR, cinema ou pacotes de terceiros.
+
+**Documentos:** [Revisão ECP/Coliseu](GOVERNANCA/ECP-COLISEU-2026-10-16.md), [Trilhas profissionais](NICHOS/README.md), [Skill contracts](SKILLS/README.md).

@@ -25,3 +25,18 @@
 - Validadores independentes para integridade de dados e documentação, executados no CI.
 
 **Não alegar homologação de todas as fontes, de runtimes móveis ou de habilidade profissional apenas por publicação dos arquivos.**
+
+
+## 2026-10-16 — v0.3.0 — ECP/Coliseu Global Curriculum Expansion
+
+- Ampliação aditiva de 208 para **238 fontes**; de 32 para **38 nichos**, com conteúdo em português e URLs integrais.
+- Núcleo de **18 etapas de produção** com motivo, prática, aceite e documentação.
+- **10 trilhas profissionais**: publicidade, cinema, animação, games, AR/VR/MR, web3D, arquitetura/indústria, educação, procedural e IA/fotogrametria.
+- **19 entradas regionais internacionais** com fontes oficiais, institucionais e de alta relevância.
+- Radar e metodologia para diferenciar normas estáveis, documentação atualizada e tendências.
+- Padrão de competências para Skills com orquestração ECP, revisão Coliseu e **16 casos adversariais**.
+- Registrador de dependências conceituais que **não instala nem duplica SDK**.
+- Validação do núcleo adicional com verificação de links e contagens e gate no GitHub Actions.
+- README, INDEX, Mission Lock, AGENTS e governança sincronizados.
+
+**Estado:** liberação documental versionada. Testes reais de cinema, AR, motores e direitos comerciais individuais continuam condicionados a projeto, equipamento e licença.
