@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Grimório 3D · produto acessível</title>
+<meta name="description" content="Exemplo autoral de visualizador 3D com alternativa acessível.">
+<style>
+:root{color-scheme:dark;font-family:system-ui,sans-serif}
+body{margin:0;min-height:100vh;background:#111827;color:#f9fafb;display:grid;place-items:center}
+main{max-width:950px;padding:2rem}
+section{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,320px),1fr));gap:2rem;align-items:center}
+model-viewer{width:100%;height:320px;background:#1f2937;border-radius:1rem}
+button{padding:.65rem 1rem;background:#d1fae5;border:0;border-radius:.5rem;color:#065f46;cursor:pointer}
+a{color:#93c5fd}
+@media(prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;animation:none!important;transition:none!important}}
+</style>
+<!-- Demonstração: script externo via CDN; em produção fixe SRI/versão, auto-hospede ou instale via pacote -->
+<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.1.0/model-viewer.min.js"></script>
+</head>
+<body>
+<main>
+<h1>Objeto 3D demonstrativo</h1>
+<p>Substitua <code>modelo-autorizado.glb</code> por um arquivo próprio ou licenciado. Este HTML não inclui modelo externo.</p>
+<section>
+<div>
+<model-viewer id="produto" alt="Visualização tridimensional de objeto de demonstração: descreva o modelo real aqui" src="./modelo-autorizado.glb" camera-controls loading="lazy" reveal="auto" poster="./poster-autorizado.webp" interaction-prompt="none">
+<p slot="poster">Imagem de prévia não disponível. Consulte a descrição textual.</p>
+</model-viewer>
+<p id="status" role="status">A visualização 3D é opcional. Consulte a descrição textual.</p>
+</div>
+<div>
+<h2>Descrição alternativa</h2>
+<p>Informe dimensões, materiais, acabamento e diferenças relevantes. A compra ou compreensão do produto não deve depender de arrastar o modelo 3D.</p>
+<button type="button" id="reset">Restaurar câmera</button>
+<p><a href="../GUIAS/04-WEBSITES-3D.md">Ver boas práticas do Grimório 3D</a></p>
+</div>
+</section>
+</main>
+<script>
+const viewer=document.getElementById("produto");
+const status=document.getElementById("status");
+viewer.addEventListener("error",()=>{status.textContent="O modelo 3D não carregou. Leia a descrição textual."});
+document.getElementById("reset").addEventListener("click",()=>{
+if(typeof viewer.resetTurntableRotation==="function")viewer.resetTurntableRotation();
+viewer.cameraOrbit="auto auto auto";
+});
+</script>
+</body>
+</html>
