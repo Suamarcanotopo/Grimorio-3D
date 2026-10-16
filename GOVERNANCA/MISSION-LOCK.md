@@ -90,3 +90,7 @@ Informações de versão, custo, requisitos e API entram no radar datado; mantê
 ## ML-20 — evolução por camadas isoladas (2026-10-16)
 
 Expansões volumétricas seguem ordem **fontes → glossário → FAQ → laboratórios → navegação/qualidade**, cada fase com branch, baseline, diff, regressão e merge independentes. Aumento de quantidade NÃO substitui curadoria, revisão de licenças ou testes reais de ferramentas. A fonte canônica permanece `FONTES/catalogo.json`, que alimenta CSV, nichos e README. Preservar CTA e Mission Lock anteriores.
+
+## ML-21 — laboratórios offline e limites de execução
+
+O diretório `EXEMPLOS/01` a `10` ensina conceitos por HTML/CSS/JavaScript local, sem baixar SDK nem enviar arquivos à rede. A simulação didática não deve ser descrita como renderização 3D de produção, benchmark de GPU, teste em headset, física de engenharia ou homologação de produto. O arquivo `07` interpreta parte do GLB no navegador; **não executa o arquivo, não transfere dados e não substitui validador glTF completo**. Cada demo deve ter idioma PT-BR, descrição, controle acessível, fallback conceitual e rodapé SIN. O teste automático avalia estrutura e conteúdo declarados, não execução real em navegadores.

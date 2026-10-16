@@ -80,3 +80,11 @@
 - Cada laboratório tem pré-requisitos, entrega, passos, rubrica, erro e documentação oficial.
 - README e índice sincronizados; nova suíte testa presença das 37 fichas, número de passos e rodapés.
 - Baselines: 368 fontes, 293 verbetes e 210 FAQs preservados; execução de software e hardware é gate separado.
+
+## 2026-10-16 — v0.4.1 — dez exemplos HTML offline
+
+- Criadas dez páginas interativas independentes: rotação 3D, câmera, UV, keyframes, pivô, LOD ilustrativo, cabeçalho GLB, escolha de AR, roughness ilustrativo e orçamento de frame.
+- Nenhuma página exige SDK externo, CDN, conta ou upload de arquivo para servidor; são exercícios e não engines completas.
+- Índices README, INDEX e TUTORIAIS conectados ao laboratório local.
+- Validador estático verifica contagem, idioma, estrutura HTML, rodapé SIN e ausência de script externo; **execução JS em navegadores permanece não homologada**.
+- Mission Lock ML-21 incluído sem modificar cadastros 368, Glossário 293, FAQ 210 ou 37 laboratórios.
