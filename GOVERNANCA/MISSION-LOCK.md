@@ -63,3 +63,26 @@ As dependências de SDK não devem ser instaladas pelo repositório documental. 
 O Grimório pode ensinar práticas de nível profissional; nunca prometer que somente ler a documentação torna alguém especialista. Para homologação de habilidade, exigir entrega reproduzível, revisão humana, comparação com documentos oficiais e evidências de desempenho e direitos no destino.
 
 **Documentos vinculantes:** [Currículo](../ACADEMIA/MAPA-DE-COMPETENCIAS.md), [Glossário](../GLOSSARIO/README.md), [FAQ](../FAQ/README.md), [Tutoriais](../TUTORIAIS/README.md), [Dependências](../DEPENDENCIAS/README.md).
+
+
+## ML-15 — ECP: fonte única, competência, contrato e não duplicação
+
+As **18 etapas canônicas**, as **10 trilhas profissionais** e o **catálogo JSON/CSV** têm responsabilidades diferentes. Não duplicar cadastro de fonte em listas paralelas não sincronizadas: documentação por nicho deve apontar a referência canônica. Padrões técnicos e conhecimento atemporal não podem ser silenciosamente substituídos por notícias recentes ou por hype.
+
+## ML-16 — Coliseu: contestação e decisão com evidência
+
+Toda ampliação registra baseline, fonte, risco, teste e resultado. O protocolo adversarial usa **ACCEPT, REJECT, RETEST ou ESCALATE**. Uma revisão de texto não equivale a execução de ferramenta ou aprovação humana; o relatório deve separar revisão metodológica, validação automatizada e resultados de dispositivos.
+
+## ML-17 — Amplitude geográfica sem ranking inventado
+
+As fontes internacionais são institucionais, documentais ou editoriais de alta relevância. Não criar hierarquia de países sem metodologia independente; conteúdo estrangeiro tem **orientação didática PT-BR**, preservando URLs, nomes de comandos e direitos autorais.
+
+## ML-18 — Invariantes Skill-ready e dependências mínimas
+
+Este repositório é base de competências para Skills e não instala pacotes, não faz cópia não autorizada e não reescreve Skills de outro repositório. Runtime/SDKs só devem ser especificados no **projeto do usuário** com versão testada e licença; links educacionais permanecem dependências de conhecimento.
+
+## ML-19 — Atualidade com data e reversibilidade
+
+Informações de versão, custo, requisitos e API entram no radar datado; mantêm status **CURRENT, STALE, NEEDS_TEST, BLOCKED ou DEPRECATED**. Não incluir agendamento de busca inexistente. Todo PR preserva IDs, arquivos originais, normas, licenças e resultado de teste de regressão.
+
+**Interlocks:** [ECP/Coliseu](ECP-COLISEU-2026-10-16.md) · [18 etapas](../CURRICULO/ETAPAS-DA-PRODUCAO.md) · [Política de fontes](FONTES-ATEMPORAIS-E-ATUAIS.md) · [Contrato para Skills](../SKILLS/README.md).

@@ -1,4 +1,5 @@
 name: Validar Grimorio 3D
+
 on:
   pull_request:
     paths:
@@ -13,6 +14,11 @@ on:
       - 'TUTORIAIS/**'
       - 'DEPENDENCIAS/**'
       - 'ACADEMIA/**'
+      - 'CURRICULO/**'
+      - 'NICHOS/**'
+      - 'ECOSSISTEMA/**'
+      - 'SKILLS/**'
+      - 'ATUALIDADES/**'
       - 'scripts/**'
       - '.github/workflows/validar-catalogo.yml'
   push:
@@ -26,7 +32,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Validar dados e categorias
+      - name: Validar dados e categorias existentes
         run: python3 scripts/validar.py
-      - name: Validar trilha educacional, dependencias e links internos
+      - name: Validar academia, curriculo anterior e links internos
         run: python3 scripts/validar-academia.py
+      - name: Validar ECP, Coliseu, nichos e regressao das 208 fontes
+        run: python3 scripts/validar-ecp.py

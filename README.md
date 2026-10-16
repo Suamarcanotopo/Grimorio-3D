@@ -2,9 +2,9 @@
 
 > **Do primeiro cubo aos mundos interativos:** guia didático, técnico e auditável para estudar, produzir, animar e publicar 3D com segurança.
 
-![Catálogo](https://img.shields.io/badge/fontes-208-0369a1) ![Nichos](https://img.shields.io/badge/nichos-32-7256b5) ![Idioma](https://img.shields.io/badge/idioma-PT--BR-008060) ![Curadoria](https://img.shields.io/badge/licenças-por%20item-orange)
+![Catálogo](https://img.shields.io/badge/fontes-238-0369a1) ![Nichos](https://img.shields.io/badge/nichos-38-7256b5) ![Idioma](https://img.shields.io/badge/idioma-PT--BR-008060) ![Curadoria](https://img.shields.io/badge/licenças-por%20item-orange)
 
-**O Grimório 3D faz parte do ecossistema [Sistema Imersivo Narrativo](https://sistemaimersivonarrativo.com.br/).** Ele organiza 208 fontes com descrição, endereço completo, aplicação, primeiro passo, truque prático e alertas de direitos. **Não hospeda nem comercializa assets de terceiros.**
+**O Grimório 3D faz parte do ecossistema [Sistema Imersivo Narrativo](https://sistemaimersivonarrativo.com.br/).** Ele organiza 238 fontes com descrição, endereço completo, aplicação, primeiro passo, truque prático e alertas de direitos. **Não hospeda nem comercializa assets de terceiros.**
 
 ## 🧭 Comece por aqui
 
@@ -41,6 +41,17 @@
 
 **[Mapa de competências](ACADEMIA/MAPA-DE-COMPETENCIAS.md)** · **[Plano de estudo de 12 semanas](ACADEMIA/PLANO-12-SEMANAS.md)** · **[Modelo de avaliação](ACADEMIA/RUBRICA-DE-HOMOLOGACAO.md)**
 
+## 🌐 Academia 3D global — ECP + Coliseu
+
+O conhecimento está dividido em **núcleo atemporal, fontes atuais datadas e provas práticas**, não em dependências executáveis indiscriminadas.
+
+- **[Mapa completo das etapas](CURRICULO/ETAPAS-DA-PRODUCAO.md)** — do briefing ao arquivo final, com critério de aceite.
+- **[Trilhas por nicho profissional](NICHOS/README.md)** — publicidade, filmes, animação, games, XR, arquitetura, ensino e outros.
+- **[Fontes internacionais](ECOSSISTEMA/README.md)** — Américas, Canadá, Oceania, Ásia, Oriente Médio, Índia, Europa e Rússia.
+- **[Radar e atualidades](ATUALIDADES/README.md)** — como investigar notícias sem substituir a base atemporal.
+- **[Contratos para Skills 3D](SKILLS/README.md)** — orquestração, capacidades, avaliação e limites explícitos.
+- **[Protocolo ECP + Coliseu](GOVERNANCA/ECP-COLISEU-2026-10-16.md)** — relatório de lacunas e bloqueios.
+
 ## 🗃️ Navegação por nicho
 
 - [acessibilidade web3d](FONTES/nichos/acessibilidade-web3d.md) — **1 fontes**
@@ -76,6 +87,14 @@
 - [meta quest horizon](FONTES/nichos/meta-quest-horizon.md) — **6 fontes**
 - [web ar dispositivos](FONTES/nichos/web-ar-dispositivos.md) — **5 fontes**
 - [pipeline blender unreal](FONTES/nichos/pipeline-blender-unreal.md) — **1 fontes**
+
+- [formacao documentacao](FONTES/nichos/formacao-documentacao.md) — **7 fontes**
+- [cinema pipeline aberto](FONTES/nichos/cinema-pipeline-aberto.md) — **10 fontes**
+- [cinema producao virtual](FONTES/nichos/cinema-producao-virtual.md) — **4 fontes**
+- [cinema composicao](FONTES/nichos/cinema-composicao.md) — **1 fontes**
+- [hubs global industria](FONTES/nichos/hubs-global-industria.md) — **10 fontes**
+- [ar colaborativa espacial](FONTES/nichos/ar-colaborativa-espacial.md) — **2 fontes**
+- [seguranca acessibilidade 3d](FONTES/nichos/seguranca-acessibilidade-3d.md) — **2 fontes**
 
 ## 🧩 O que uma ficha possui?
 
