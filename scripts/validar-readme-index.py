@@ -66,6 +66,14 @@ def main():
     for link in CTA:
         if f"<{link}>" not in footer:
             errors.append("CTA do SIN ausente do rodapé: " + link)
+    index = (ROOT / "INDEX.md").read_text(encoding="utf-8")
+    if "## ⭐ Apoie o Grimório 3D" not in index:
+        errors.append("INDEX.md sem rodapé comunitário")
+    else:
+        index_footer = index.rsplit("## ⭐ Apoie o Grimório 3D", 1)[-1]
+        for link in CTA:
+            if f"<{link}>" not in index_footer:
+                errors.append("CTA ausente no INDEX.md: " + link)
     if not (README.index(END) < README.rfind("## ⭐ Comunidade SIN")):
         errors.append("Rodapé não é a última seção do índice")
     mdlinks = re.findall(r"\]\(([^)]+)\)", README)

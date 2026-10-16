@@ -75,3 +75,17 @@ O README agora mostra cada endereço completo, finalidade, descrição e modelo 
 - [Pesquisa internacional](ECOSSISTEMA/README.md)
 - [Atualidades separadas de padrões](ATUALIDADES/README.md)
 - [Knowledge-to-Skill e avaliação](SKILLS/README.md)
+
+---
+
+## ⭐ Apoie o Grimório 3D e participe do SIN
+
+Se o conteúdo ajudar, dê uma estrela ao repositório e ajude a melhorar as fontes e os tutoriais.
+
+- **Sistema Imersivo Narrativo:** <https://sistemaimersivonarrativo.com.br/>
+- **Skills SIN no GitHub:** <https://github.com/Suamarcanotopo/grimorio-skills>
+- **Instagram — Sua Marca no Topo:** <https://www.instagram.com/suamarcanotopo/>
+- **YouTube — Coworking Lab:** <https://www.youtube.com/@suamarcanotopo?sub_confirmation=1>
+- **Grupo gratuito — Dicas e Tutoriais:** <https://chat.whatsapp.com/F11omHqfI4KKCC0Sgbc4Vm?s=cl&p=i&mlu=4&ilr=4>
+- **Grupo gratuito — Working Lab:** <https://chat.whatsapp.com/FcyMOdQqyW8Ci104P8i3Gg?s=cl&p=i&mlu=4&ilr=4>
+- **Comunidade Grimório 3D:** <https://chat.whatsapp.com/F6cfNhh2Fx31VJ74KMpbk5>
