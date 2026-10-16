@@ -1,149 +1,303 @@
-# texturas materiais
+# texturas materiais — Grimório 3D
 
-**13 fontes** · [Índice geral](../../INDEX.md) · [Catálogo CSV](../catalogo.csv)
+**15 referências**, com finalidade e limites de direitos. [Índice](../../INDEX.md).
 
-Uso recomendado: localizar uma referência, estudar os exemplos oficiais, testar com dados próprios e conferir licença individual antes de baixar, executar ou publicar.
+## Poly Haven
 
-### Poly Haven
+**ID:** SIN3D-020
 
-- **Descrição:** Texturas PBR, modelos e mapas HDRI gratuitos de qualidade profissional.
-- **URL completa:** https://polyhaven.com/
-- **Para que serve:** PBR|HDRI|Blender|Cinema
-- **Como começar:** Procure mapas PBR compatíveis com o fluxo metalness/roughness.
-- **Truque / boa prática:** Não misture normal maps DirectX e OpenGL sem verificar orientação.
-- **Acesso / freemium:** Grátis / Não
-- **Uso comercial:** Sim em CC0
-- **Validação:** Página principal catalogada; conferir termos atuais antes do uso
+**O que é:** Texturas PBR, modelos e mapas HDRI gratuitos de qualidade profissional.
 
-### ambientCG
+**URL:** https://polyhaven.com/
 
-- **Descrição:** Materiais e texturas PBR sob CC0, com mapas e alternativas de resolução.
-- **URL completa:** https://ambientcg.com/
-- **Para que serve:** PBR|Textures
-- **Como começar:** Procure mapas PBR compatíveis com o fluxo metalness/roughness.
-- **Truque / boa prática:** Não misture normal maps DirectX e OpenGL sem verificar orientação.
-- **Acesso / freemium:** Grátis / Não
-- **Uso comercial:** Sim em CC0
-- **Validação:** Página principal catalogada; conferir termos atuais antes do uso
+**Para que serve:** PBR|HDRI|Blender|Cinema
 
-### cgbookcase
+**Como começar:** Procure mapas PBR compatíveis com o fluxo metalness/roughness.
 
-- **Descrição:** Texturas PBR de alta qualidade para arquitetura e jogos.
-- **URL completa:** https://www.cgbookcase.com/
-- **Para que serve:** PBR|Archviz
-- **Como começar:** Procure mapas PBR compatíveis com o fluxo metalness/roughness.
-- **Truque / boa prática:** Não misture normal maps DirectX e OpenGL sem verificar orientação.
-- **Acesso / freemium:** Grátis / Não
-- **Uso comercial:** Sim segundo condições da biblioteca
-- **Validação:** Página principal catalogada; conferir termos atuais antes do uso
+**Dica:** Não misture normal maps DirectX e OpenGL sem verificar orientação.
 
-### TextureCan
+**Acesso:** Grátis · **Freemium:** Não
 
-- **Descrição:** Texturas PBR de madeira, pedra, metal e outros materiais.
-- **URL completa:** https://www.texturecan.com/
-- **Para que serve:** PBR|Textures
-- **Como começar:** Procure mapas PBR compatíveis com o fluxo metalness/roughness.
-- **Truque / boa prática:** Não misture normal maps DirectX e OpenGL sem verificar orientação.
-- **Acesso / freemium:** Grátis / Não
-- **Uso comercial:** Sim segundo licença da fonte
-- **Validação:** Página principal catalogada; conferir termos atuais antes do uso
+**Direitos:** Sim em CC0
 
-### ShareTextures
+**Status:** Página principal catalogada; conferir termos atuais antes do uso
 
-- **Descrição:** Texturas contínuas, modelos e materiais para projetos arquitetônicos.
-- **URL completa:** https://www.sharetextures.com/
-- **Para que serve:** PBR|Archviz
-- **Como começar:** Procure mapas PBR compatíveis com o fluxo metalness/roughness.
-- **Truque / boa prática:** Não misture normal maps DirectX e OpenGL sem verificar orientação.
-- **Acesso / freemium:** Grátis / Não
-- **Uso comercial:** Verificar licença atual
-- **Validação:** Página principal catalogada; conferir termos atuais antes do uso
+## ambientCG
 
-### 3DTEXTURES
+**ID:** SIN3D-021
 
-- **Descrição:** Materiais, mapas de superfície e texturas PBR para Blender e engines.
-- **URL completa:** https://3dtextures.me/
-- **Para que serve:** PBR|Games
-- **Como começar:** Procure mapas PBR compatíveis com o fluxo metalness/roughness.
-- **Truque / boa prática:** Não misture normal maps DirectX e OpenGL sem verificar orientação.
-- **Acesso / freemium:** Grátis / Não
-- **Uso comercial:** Verificar termos atuais
-- **Validação:** Página principal catalogada; conferir termos atuais antes do uso
+**O que é:** Materiais e texturas PBR sob CC0, com mapas e alternativas de resolução.
 
-### Poliigon
+**URL:** https://ambientcg.com/
 
-- **Descrição:** Texturas, modelos e HDRIs fotorealistas para ambientes e renderização.
-- **URL completa:** https://www.poliigon.com/
-- **Para que serve:** Archviz|PBR
-- **Como começar:** Procure mapas PBR compatíveis com o fluxo metalness/roughness.
-- **Truque / boa prática:** Não misture normal maps DirectX e OpenGL sem verificar orientação.
-- **Acesso / freemium:** Freemium / Sim
-- **Uso comercial:** Verificar a licença do item/plano
-- **Validação:** Página principal catalogada; conferir termos atuais antes do uso
+**Para que serve:** PBR|Textures
 
-### Textures.com
+**Como começar:** Procure mapas PBR compatíveis com o fluxo metalness/roughness.
 
-- **Descrição:** Superfícies, materiais, imperfeições e texturas para gráficos 3D.
-- **URL completa:** https://www.textures.com/
-- **Para que serve:** PBR|Cinema
-- **Como começar:** Procure mapas PBR compatíveis com o fluxo metalness/roughness.
-- **Truque / boa prática:** Não misture normal maps DirectX e OpenGL sem verificar orientação.
-- **Acesso / freemium:** Freemium / Sim
-- **Uso comercial:** Verificar a licença do item/plano
-- **Validação:** Página principal catalogada; conferir termos atuais antes do uso
+**Dica:** Não misture normal maps DirectX e OpenGL sem verificar orientação.
 
-### Adobe Substance 3D Assets
+**Acesso:** Grátis · **Freemium:** Não
 
-- **Descrição:** Materiais paramétricos, modelos, texturas, iluminação e decals.
-- **URL completa:** https://substance3d.adobe.com/assets
-- **Para que serve:** PBR|Adobe
-- **Como começar:** Procure mapas PBR compatíveis com o fluxo metalness/roughness.
-- **Truque / boa prática:** Não misture normal maps DirectX e OpenGL sem verificar orientação.
-- **Acesso / freemium:** Freemium / Sim
-- **Uso comercial:** Verificar a licença do item/plano
-- **Validação:** Página principal catalogada; conferir termos atuais antes do uso
+**Direitos:** Sim em CC0
 
-### Quixel Megascans
+**Status:** Página principal catalogada; conferir termos atuais antes do uso
 
-- **Descrição:** Superfícies, rochas e vegetação de escaneamento realista distribuídas via Fab.
-- **URL completa:** https://quixel.com/
-- **Para que serve:** PBR|Photogrammetry|Unreal
-- **Como começar:** Procure mapas PBR compatíveis com o fluxo metalness/roughness.
-- **Truque / boa prática:** Não misture normal maps DirectX e OpenGL sem verificar orientação.
-- **Acesso / freemium:** Freemium / Sim
-- **Uso comercial:** Depende da licença Fab do item
-- **Validação:** Página principal catalogada; conferir termos atuais antes do uso
+## cgbookcase
 
-### Substance 3D Painter
+**ID:** SIN3D-022
 
-- **Descrição:** Pintura de texturas e materiais diretamente sobre objetos 3D.
-- **URL completa:** https://www.adobe.com/products/substance3d-painter.html
-- **Para que serve:** Produzir texturas de personagens e produtos.
-- **Como começar:** Importe malha com UV e faça bake de mesh maps.
-- **Truque / boa prática:** Exporte preset de textura correto ao motor.
-- **Acesso / freemium:** Pago / A confirmar
-- **Uso comercial:** Não homologado: verificar termos do item/plano
-- **Validação:** Fonte catalogada; termos e atualidade exigem revalidação
+**O que é:** Texturas PBR de alta qualidade para arquitetura e jogos.
 
-### Substance 3D Designer
+**URL:** https://www.cgbookcase.com/
 
-- **Descrição:** Criação procedural de materiais por grafos.
-- **URL completa:** https://www.adobe.com/products/substance3d-designer.html
-- **Para que serve:** Gerar superfícies parametrizáveis em escala.
-- **Como começar:** Monte grafo simples de madeira ou pedra.
-- **Truque / boa prática:** Mantenha saída de roughness e normal consistente.
-- **Acesso / freemium:** Pago / A confirmar
-- **Uso comercial:** Não homologado: verificar termos do item/plano
-- **Validação:** Fonte catalogada; termos e atualidade exigem revalidação
+**Para que serve:** PBR|Archviz
 
-### ArmorPaint
+**Como começar:** Procure mapas PBR compatíveis com o fluxo metalness/roughness.
 
-- **Descrição:** Pintura de materiais PBR em modelos 3D.
-- **URL completa:** https://armorpaint.org/
-- **Para que serve:** Pintar máscaras e cores com fluxo independente.
-- **Como começar:** Importe modelo com UV e crie material base.
-- **Truque / boa prática:** Leia termos da distribuição executável.
-- **Acesso / freemium:** A confirmar / A confirmar
-- **Uso comercial:** Não homologado: verificar termos do item/plano
-- **Validação:** Fonte catalogada; termos e atualidade exigem revalidação
+**Dica:** Não misture normal maps DirectX e OpenGL sem verificar orientação.
 
+**Acesso:** Grátis · **Freemium:** Não
+
+**Direitos:** Sim segundo condições da biblioteca
+
+**Status:** Página principal catalogada; conferir termos atuais antes do uso
+
+## TextureCan
+
+**ID:** SIN3D-023
+
+**O que é:** Texturas PBR de madeira, pedra, metal e outros materiais.
+
+**URL:** https://www.texturecan.com/
+
+**Para que serve:** PBR|Textures
+
+**Como começar:** Procure mapas PBR compatíveis com o fluxo metalness/roughness.
+
+**Dica:** Não misture normal maps DirectX e OpenGL sem verificar orientação.
+
+**Acesso:** Grátis · **Freemium:** Não
+
+**Direitos:** Sim segundo licença da fonte
+
+**Status:** Página principal catalogada; conferir termos atuais antes do uso
+
+## ShareTextures
+
+**ID:** SIN3D-024
+
+**O que é:** Texturas contínuas, modelos e materiais para projetos arquitetônicos.
+
+**URL:** https://www.sharetextures.com/
+
+**Para que serve:** PBR|Archviz
+
+**Como começar:** Procure mapas PBR compatíveis com o fluxo metalness/roughness.
+
+**Dica:** Não misture normal maps DirectX e OpenGL sem verificar orientação.
+
+**Acesso:** Grátis · **Freemium:** Não
+
+**Direitos:** Verificar licença atual
+
+**Status:** Página principal catalogada; conferir termos atuais antes do uso
+
+## 3DTEXTURES
+
+**ID:** SIN3D-025
+
+**O que é:** Materiais, mapas de superfície e texturas PBR para Blender e engines.
+
+**URL:** https://3dtextures.me/
+
+**Para que serve:** PBR|Games
+
+**Como começar:** Procure mapas PBR compatíveis com o fluxo metalness/roughness.
+
+**Dica:** Não misture normal maps DirectX e OpenGL sem verificar orientação.
+
+**Acesso:** Grátis · **Freemium:** Não
+
+**Direitos:** Verificar termos atuais
+
+**Status:** Página principal catalogada; conferir termos atuais antes do uso
+
+## Poliigon
+
+**ID:** SIN3D-026
+
+**O que é:** Texturas, modelos e HDRIs fotorealistas para ambientes e renderização.
+
+**URL:** https://www.poliigon.com/
+
+**Para que serve:** Archviz|PBR
+
+**Como começar:** Procure mapas PBR compatíveis com o fluxo metalness/roughness.
+
+**Dica:** Não misture normal maps DirectX e OpenGL sem verificar orientação.
+
+**Acesso:** Freemium · **Freemium:** Sim
+
+**Direitos:** Verificar a licença do item/plano
+
+**Status:** Página principal catalogada; conferir termos atuais antes do uso
+
+## Textures.com
+
+**ID:** SIN3D-027
+
+**O que é:** Superfícies, materiais, imperfeições e texturas para gráficos 3D.
+
+**URL:** https://www.textures.com/
+
+**Para que serve:** PBR|Cinema
+
+**Como começar:** Procure mapas PBR compatíveis com o fluxo metalness/roughness.
+
+**Dica:** Não misture normal maps DirectX e OpenGL sem verificar orientação.
+
+**Acesso:** Freemium · **Freemium:** Sim
+
+**Direitos:** Verificar a licença do item/plano
+
+**Status:** Página principal catalogada; conferir termos atuais antes do uso
+
+## Adobe Substance 3D Assets
+
+**ID:** SIN3D-028
+
+**O que é:** Materiais paramétricos, modelos, texturas, iluminação e decals.
+
+**URL:** https://substance3d.adobe.com/assets
+
+**Para que serve:** PBR|Adobe
+
+**Como começar:** Procure mapas PBR compatíveis com o fluxo metalness/roughness.
+
+**Dica:** Não misture normal maps DirectX e OpenGL sem verificar orientação.
+
+**Acesso:** Freemium · **Freemium:** Sim
+
+**Direitos:** Verificar a licença do item/plano
+
+**Status:** Página principal catalogada; conferir termos atuais antes do uso
+
+## Quixel Megascans
+
+**ID:** SIN3D-029
+
+**O que é:** Superfícies, rochas e vegetação de escaneamento realista distribuídas via Fab.
+
+**URL:** https://quixel.com/
+
+**Para que serve:** PBR|Photogrammetry|Unreal
+
+**Como começar:** Procure mapas PBR compatíveis com o fluxo metalness/roughness.
+
+**Dica:** Não misture normal maps DirectX e OpenGL sem verificar orientação.
+
+**Acesso:** Freemium · **Freemium:** Sim
+
+**Direitos:** Depende da licença Fab do item
+
+**Status:** Página principal catalogada; conferir termos atuais antes do uso
+
+## Substance 3D Painter
+
+**ID:** SIN3D-109
+
+**O que é:** Pintura de texturas e materiais diretamente sobre objetos 3D.
+
+**URL:** https://www.adobe.com/products/substance3d-painter.html
+
+**Para que serve:** Produzir texturas de personagens e produtos.
+
+**Como começar:** Importe malha com UV e faça bake de mesh maps.
+
+**Dica:** Exporte preset de textura correto ao motor.
+
+**Acesso:** Pago · **Freemium:** A confirmar
+
+**Direitos:** Não homologado: verificar termos do item/plano
+
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
+
+## Substance 3D Designer
+
+**ID:** SIN3D-110
+
+**O que é:** Criação procedural de materiais por grafos.
+
+**URL:** https://www.adobe.com/products/substance3d-designer.html
+
+**Para que serve:** Gerar superfícies parametrizáveis em escala.
+
+**Como começar:** Monte grafo simples de madeira ou pedra.
+
+**Dica:** Mantenha saída de roughness e normal consistente.
+
+**Acesso:** Pago · **Freemium:** A confirmar
+
+**Direitos:** Não homologado: verificar termos do item/plano
+
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
+
+## ArmorPaint
+
+**ID:** SIN3D-112
+
+**O que é:** Pintura de materiais PBR em modelos 3D.
+
+**URL:** https://armorpaint.org/
+
+**Para que serve:** Pintar máscaras e cores com fluxo independente.
+
+**Como começar:** Importe modelo com UV e crie material base.
+
+**Dica:** Leia termos da distribuição executável.
+
+**Acesso:** A confirmar · **Freemium:** A confirmar
+
+**Direitos:** Não homologado: verificar termos do item/plano
+
+**Status:** Fonte catalogada; termos e atualidade exigem revalidação
+
+## Blender — materiais
+
+**ID:** SIN3D-292
+
+**O que é:** Fundamentos de shaders e nós de materiais
+
+**URL:** https://docs.blender.org/manual/en/latest/render/materials/index.html
+
+**Para que serve:** Fundamentos de shaders e nós de materiais
+
+**Como começar:** Construa material Principled BSDF
+
+**Dica:** Siga o manual e faça uma medição comparativa com arquivo próprio. Construa material Principled BSDF.
+
+**Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente
+
+**Direitos:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
+
+**Status:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa
+
+## Blender — Shader Nodes
+
+**ID:** SIN3D-293
+
+**O que é:** Nodos de materiais, texturas e mapeamento
+
+**URL:** https://docs.blender.org/manual/en/latest/render/shader_nodes/index.html
+
+**Para que serve:** Nodos de materiais, texturas e mapeamento
+
+**Como começar:** Recrie um material sob duas luzes
+
+**Dica:** Siga o manual e faça uma medição comparativa com arquivo próprio. Recrie um material sob duas luzes.
+
+**Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente
+
+**Direitos:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
+
+**Status:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa

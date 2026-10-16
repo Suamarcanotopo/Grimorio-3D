@@ -2,9 +2,9 @@
 
 > **Do primeiro cubo aos mundos interativos:** guia didático, técnico e auditável para estudar, produzir, animar e publicar 3D com segurança.
 
-![Catálogo](https://img.shields.io/badge/fontes-238-0369a1) ![Nichos](https://img.shields.io/badge/nichos-38-7256b5) ![Idioma](https://img.shields.io/badge/idioma-PT--BR-008060) ![Curadoria](https://img.shields.io/badge/licenças-por%20item-orange)
+![Catálogo](https://img.shields.io/badge/fontes-368-0369a1) ![Nichos](https://img.shields.io/badge/nichos-38-7256b5) ![Idioma](https://img.shields.io/badge/idioma-PT--BR-008060) ![Curadoria](https://img.shields.io/badge/licenças-por%20item-orange)
 
-**O Grimório 3D faz parte do ecossistema [Sistema Imersivo Narrativo](https://sistemaimersivonarrativo.com.br/).** Ele organiza 238 fontes com descrição, endereço completo, aplicação, primeiro passo, truque prático e alertas de direitos. **Não hospeda nem comercializa assets de terceiros.**
+**O Grimório 3D faz parte do ecossistema [Sistema Imersivo Narrativo](https://sistemaimersivonarrativo.com.br/).** Ele organiza 368 fontes com descrição, endereço completo, aplicação, primeiro passo, truque prático e alertas de direitos. **Não hospeda nem comercializa assets de terceiros.**
 
 ## 🧭 Comece por aqui
 
@@ -88,7 +88,7 @@ Use a rota mais curta para seu objetivo; depois, navegue pelo índice integral l
 - **`GOVERNANCA/`** — Mission Lock, licenças, segurança e critérios do Coliseu.
 - **`EXEMPLOS/`** — demonstrações próprias e pontos de partida para websites.
 
-**[Consultar todos os caminhos e fontes por nicho](INDEX.md)** · **[Consultar cada URL na seção completa](#index-geral--238-fontes-e-urls-completas)**
+**[Consultar todos os caminhos e fontes por nicho](INDEX.md)** · **[Consultar cada URL na seção completa](#index-geral--368-fontes-e-urls-completas)**
 
 ## 🧩 O que uma ficha possui?
 
@@ -113,82 +113,96 @@ O arquivo [FONTES/catalogo.json](FONTES/catalogo.json) permite construir sistema
 Leia [GOVERNANCA/MISSION-LOCK.md](GOVERNANCA/MISSION-LOCK.md), [GOVERNANCA/CONTRIBUICAO.md](GOVERNANCA/CONTRIBUICAO.md) e [GOVERNANCA/MATRIZ-ACEITACAO.md](GOVERNANCA/MATRIZ-ACEITACAO.md).
 
 <!-- INICIO_INDICE_URLS_GRIMORIO_3D -->
-## 🔗 INDEX GERAL — 238 fontes e URLs completas
+## 🔗 INDEX GERAL — 368 fontes e URLs completas
 
 Este é o índice **integral das fontes cadastradas**, organizado por finalidade. Abra somente o nicho que você procura. Cada ficha mostra **o que é, para que serve, URL completa e se existe acesso gratuito/freemium**.
 
 **Como escolher:** comece por um objetivo na [Academia](ACADEMIA/MAPA-DE-COMPETENCIAS.md), confira o [Glossário](GLOSSARIO/README.md), siga os [Tutoriais](TUTORIAIS/README.md) e consulte aqui a ferramenta. Leia sempre a licença do item antes de uso comercial.
 
-**Catálogo canônico:** [CSV](FONTES/catalogo.csv) · [JSON](FONTES/catalogo.json) · [Ficha de licenças](GOVERNANCA/REGISTRO-DE-LICENCA.md). **Total:** 238 fontes em 38 nichos.
+**Catálogo canônico:** [CSV](FONTES/catalogo.csv) · [JSON](FONTES/catalogo.json) · [Ficha de licenças](GOVERNANCA/REGISTRO-DE-LICENCA.md). **Total:** 368 fontes em 38 nichos.
 
 ### Escolha uma categoria
 
 | Nicho de conhecimento | Fontes | Acesso |
 |---|---:|---|
-| Acessibilidade e Web3D | 1 | [Abrir índice](#fontes-acessibilidade-web3d) |
-| AR espacial e âncoras colaborativas | 2 | [Abrir índice](#fontes-ar-colaborativa-espacial) |
-| AR social — Snap e TikTok | 11 | [Abrir índice](#fontes-ar-social-plataformas) |
-| Arquitetura, BIM e construção | 4 | [Abrir índice](#fontes-arquitetura-bim) |
+| Acessibilidade e Web3D | 3 | [Abrir índice](#fontes-acessibilidade-web3d) |
+| AR espacial e âncoras colaborativas | 7 | [Abrir índice](#fontes-ar-colaborativa-espacial) |
+| AR social — Snap e TikTok | 17 | [Abrir índice](#fontes-ar-social-plataformas) |
+| Arquitetura, BIM e construção | 11 | [Abrir índice](#fontes-arquitetura-bim) |
 | Marketplaces de assets 3D | 13 | [Abrir índice](#fontes-assets-marketplaces) |
-| CAD e impressão 3D | 8 | [Abrir índice](#fontes-cad-impressao-3d) |
+| CAD e impressão 3D | 14 | [Abrir índice](#fontes-cad-impressao-3d) |
 | Cenários e mundos digitais | 5 | [Abrir índice](#fontes-cenarios-mundos) |
-| Composição cinematográfica | 1 | [Abrir índice](#fontes-cinema-composicao) |
-| Padrões abertos de cinema e VFX | 10 | [Abrir índice](#fontes-cinema-pipeline-aberto) |
-| Produção virtual e cinema em Unreal | 4 | [Abrir índice](#fontes-cinema-producao-virtual) |
-| Dados geoespaciais e mapas | 4 | [Abrir índice](#fontes-dados-geoespaciais) |
+| Composição cinematográfica | 6 | [Abrir índice](#fontes-cinema-composicao) |
+| Padrões abertos de cinema e VFX | 13 | [Abrir índice](#fontes-cinema-pipeline-aberto) |
+| Produção virtual e cinema em Unreal | 8 | [Abrir índice](#fontes-cinema-producao-virtual) |
+| Dados geoespaciais e mapas | 9 | [Abrir índice](#fontes-dados-geoespaciais) |
 | Efeitos visuais e áudio | 4 | [Abrir índice](#fontes-efeitos-audio) |
 | Documentação e formação | 7 | [Abrir índice](#fontes-formacao-documentacao) |
-| Fotogrametria e captura 3D | 6 | [Abrir índice](#fontes-fotogrametria-captura) |
-| Games e prototipagem | 6 | [Abrir índice](#fontes-games-prototipagem) |
-| Governança e licenças | 2 | [Abrir índice](#fontes-governanca-licencas) |
+| Fotogrametria e captura 3D | 9 | [Abrir índice](#fontes-fotogrametria-captura) |
+| Games e prototipagem | 12 | [Abrir índice](#fontes-games-prototipagem) |
+| Governança e licenças | 3 | [Abrir índice](#fontes-governanca-licencas) |
 | Mercados e fontes globais de 3D | 10 | [Abrir índice](#fontes-hubs-global-industria) |
-| Comunidades e eventos internacionais | 11 | [Abrir índice](#fontes-hubs-internacionais) |
-| Inteligência artificial para 3D | 5 | [Abrir índice](#fontes-ia-3d) |
+| Comunidades e eventos internacionais | 16 | [Abrir índice](#fontes-hubs-internacionais) |
+| Inteligência artificial para 3D | 6 | [Abrir índice](#fontes-ia-3d) |
 | Meta Quest e Horizon | 6 | [Abrir índice](#fontes-meta-quest-horizon) |
-| Captura de movimentos (mocap) | 4 | [Abrir índice](#fontes-mocap-movimento) |
-| Modelagem e escultura digital | 8 | [Abrir índice](#fontes-modelagem-escultura) |
-| Modelagem procedural | 8 | [Abrir índice](#fontes-modelagem-procedural) |
-| Retopologia e limpeza de malhas | 3 | [Abrir índice](#fontes-modelagem-retopologia) |
+| Captura de movimentos (mocap) | 5 | [Abrir índice](#fontes-mocap-movimento) |
+| Modelagem e escultura digital | 10 | [Abrir índice](#fontes-modelagem-escultura) |
+| Modelagem procedural | 18 | [Abrir índice](#fontes-modelagem-procedural) |
+| Retopologia e limpeza de malhas | 5 | [Abrir índice](#fontes-modelagem-retopologia) |
 | NeRF e renderização neural | 3 | [Abrir índice](#fontes-neural-rendering) |
-| Otimização e formatos de entrega | 8 | [Abrir índice](#fontes-otimizacao-entrega) |
-| Personagens, rigs e animação | 9 | [Abrir índice](#fontes-personagens-rigging) |
-| Fluxo Blender → Unreal | 1 | [Abrir índice](#fontes-pipeline-blender-unreal) |
-| Padrões e interoperabilidade | 6 | [Abrir índice](#fontes-pipeline-padroes) |
-| Plugins e ferramentas | 2 | [Abrir índice](#fontes-plugins-ferramentas) |
-| Renderização e iluminação | 9 | [Abrir índice](#fontes-render-iluminacao) |
-| Segurança e acessibilidade 3D | 2 | [Abrir índice](#fontes-seguranca-acessibilidade-3d) |
-| Texturas, PBR e materiais | 13 | [Abrir índice](#fontes-texturas-materiais) |
-| Camera tracking e VFX | 10 | [Abrir índice](#fontes-tracking-vfx) |
-| UV mapping e baking | 5 | [Abrir índice](#fontes-uv-baking) |
-| WebAR em Android e iOS | 5 | [Abrir índice](#fontes-web-ar-dispositivos) |
-| Websites 3D e interação | 18 | [Abrir índice](#fontes-websites-3d) |
-| Realidade estendida (AR, VR, MR) | 4 | [Abrir índice](#fontes-xr-ar-vr) |
+| Otimização e formatos de entrega | 11 | [Abrir índice](#fontes-otimizacao-entrega) |
+| Personagens, rigs e animação | 14 | [Abrir índice](#fontes-personagens-rigging) |
+| Fluxo Blender → Unreal | 4 | [Abrir índice](#fontes-pipeline-blender-unreal) |
+| Padrões e interoperabilidade | 18 | [Abrir índice](#fontes-pipeline-padroes) |
+| Plugins e ferramentas | 3 | [Abrir índice](#fontes-plugins-ferramentas) |
+| Renderização e iluminação | 22 | [Abrir índice](#fontes-render-iluminacao) |
+| Segurança e acessibilidade 3D | 3 | [Abrir índice](#fontes-seguranca-acessibilidade-3d) |
+| Texturas, PBR e materiais | 15 | [Abrir índice](#fontes-texturas-materiais) |
+| Camera tracking e VFX | 13 | [Abrir índice](#fontes-tracking-vfx) |
+| UV mapping e baking | 7 | [Abrir índice](#fontes-uv-baking) |
+| WebAR em Android e iOS | 7 | [Abrir índice](#fontes-web-ar-dispositivos) |
+| Websites 3D e interação | 25 | [Abrir índice](#fontes-websites-3d) |
+| Realidade estendida (AR, VR, MR) | 6 | [Abrir índice](#fontes-xr-ar-vr) |
 
 ### Todas as URLs, por nicho
 
 <a id="fontes-acessibilidade-web3d"></a>
 <details>
-<summary><strong>Acessibilidade e Web3D</strong> · 1 fontes</summary>
+<summary><strong>Acessibilidade e Web3D</strong> · 3 fontes</summary>
 
 - **Web Accessibility WAI** (`SIN3D-161`) — Orientações técnicas internacionais de acessibilidade web. **Serve para:** Planejar interfaces 3D usáveis por todos..
   **URL completa:** <https://www.w3.org/WAI/> · **Acesso:** Gratuito · **Freemium:** A confirmar.
+- **W3C WAI — tutoriais** (`SIN3D-250`) — Tutoriais oficiais de implementação web acessível **Serve para:** Tutoriais oficiais de implementação web acessível.
+  **URL completa:** <https://www.w3.org/WAI/tutorials/> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **MDN — prefers-reduced-motion** (`SIN3D-251`) — Controle de animação por preferência de movimento **Serve para:** Controle de animação por preferência de movimento.
+  **URL completa:** <https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
 
 </details>
 
 <a id="fontes-ar-colaborativa-espacial"></a>
 <details>
-<summary><strong>AR espacial e âncoras colaborativas</strong> · 2 fontes</summary>
+<summary><strong>AR espacial e âncoras colaborativas</strong> · 7 fontes</summary>
 
 - **Google ARCore — Cloud Anchors** (`SIN3D-234`) — API oficial para âncoras compartilhadas de realidade aumentada. **Serve para:** Criar objetos persistentes e experiências AR multiusuário..
   **URL completa:** <https://developers.google.com/ar/develop/cloud-anchors> · **Acesso:** Documentação/portal público; serviços e eventos podem ser pagos · **Freemium:** Conferir conforme produto ou plano.
 - **Google ARCore — âncoras locais** (`SIN3D-235`) — Guia oficial sobre posicionamento espacial de conteúdo AR. **Serve para:** Evitar objetos flutuando ou deslizando no espaço..
   **URL completa:** <https://developers.google.com/ar/develop/anchors> · **Acesso:** Documentação/portal público; serviços e eventos podem ser pagos · **Freemium:** Conferir conforme produto ou plano.
+- **ARCore — Geospatial Depth** (`SIN3D-271`) — Profundidade ampliada com geolocalização e geometria urbana **Serve para:** Profundidade ampliada com geolocalização e geometria urbana.
+  **URL completa:** <https://developers.google.com/ar/develop/java/depth/geospatial-depth> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **ARCore — Streetscape Geometry** (`SIN3D-272`) — Dados de edifícios e terreno para AR ao ar livre **Serve para:** Dados de edifícios e terreno para AR ao ar livre.
+  **URL completa:** <https://developers.google.com/ar/develop/java/geospatial/streetscape-geometry> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **ARCore — Geospatial Anchors** (`SIN3D-273`) — Ancoragem AR por posição geográfica e altitude **Serve para:** Ancoragem AR por posição geográfica e altitude.
+  **URL completa:** <https://developers.google.com/ar/develop/c/geospatial/anchors> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **Apple ARKit** (`SIN3D-331`) — Framework Apple para rastreamento e entendimento espacial **Serve para:** Framework Apple para rastreamento e entendimento espacial.
+  **URL completa:** <https://developer.apple.com/augmented-reality/arkit/> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Apple RoomPlan** (`SIN3D-332`) — Mapeamento de ambientes interiores com dispositivos compatíveis **Serve para:** Mapeamento de ambientes interiores com dispositivos compatíveis.
+  **URL completa:** <https://developer.apple.com/augmented-reality/roomplan/> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
 
 </details>
 
 <a id="fontes-ar-social-plataformas"></a>
 <details>
-<summary><strong>AR social — Snap e TikTok</strong> · 11 fontes</summary>
+<summary><strong>AR social — Snap e TikTok</strong> · 17 fontes</summary>
 
 - **Snap Lens Studio 5** (`SIN3D-186`) — Editor oficial para criação de Lenses com câmera e rastreamento. **Serve para:** Começar filtros de câmera e interações Snap..
   **URL completa:** <https://developers.snap.com/lens-studio/home> · **Acesso:** Consultar plataforma (documentação gratuita) · **Freemium:** A confirmar por plano.
@@ -212,12 +226,24 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
   **URL completa:** <https://effecthouse.tiktok.com/learn/guides/getting-started/technical-guidelines/technical-optimization> · **Acesso:** Consultar plataforma (documentação gratuita) · **Freemium:** A confirmar por plano.
 - **TikTok — submissão de efeitos** (`SIN3D-196`) — Orientação oficial para validar, testar e submeter efeito TikTok. **Serve para:** Publicar uma experiência após revisão da plataforma..
   **URL completa:** <https://effecthouse.us.tiktok.com/learn/guides/publishing/submit-your-effect> · **Acesso:** Consultar plataforma (documentação gratuita) · **Freemium:** A confirmar por plano.
+- **TikTok Effect House — Visual Scripting** (`SIN3D-274`) — Editor de lógica por nós para efeitos TikTok **Serve para:** Editor de lógica por nós para efeitos TikTok.
+  **URL completa:** <https://effecthouse.tiktok.com/learn/guides/editor-panels/visual-scripting> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **TikTok Effect House — Animation Controller** (`SIN3D-275`) — Controle de clipes 3D em efeitos sociais **Serve para:** Controle de clipes 3D em efeitos sociais.
+  **URL completa:** <https://effecthouse.tiktok.com/learn/guides/editor-panels/visual-scripting/nodes/utility/3d-animation-controller> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **TikTok Effect House — VFX Editor** (`SIN3D-276`) — Edição de efeitos e partículas GPU em Lens TikTok **Serve para:** Edição de efeitos e partículas GPU em Lens TikTok.
+  **URL completa:** <https://effecthouse.tiktok.com/learn/guides/editor-panels/visual-effects-editor/> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **TikTok Effect House — Asset Library** (`SIN3D-277`) — Biblioteca de assets, efeitos e ferramentas do editor **Serve para:** Biblioteca de assets, efeitos e ferramentas do editor.
+  **URL completa:** <https://effecthouse.tiktok.com/learn/guides/workspace/assets/asset-library> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **TikTok Effect House — painéis** (`SIN3D-278`) — Documentação dos painéis de trabalho 3D e preview **Serve para:** Documentação dos painéis de trabalho 3D e preview.
+  **URL completa:** <https://effecthouse.tiktok.com/learn/guides/workspace/panels/> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **TikTok Effect House — curso Visual Scripting** (`SIN3D-279`) — Formação oficial de lógica interativa sem código textual **Serve para:** Formação oficial de lógica interativa sem código textual.
+  **URL completa:** <https://effecthouse.tiktok.com/learn/guides/crash-course/visual_scripting-101/visual-scripting-crash-course-overview> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
 
 </details>
 
 <a id="fontes-arquitetura-bim"></a>
 <details>
-<summary><strong>Arquitetura, BIM e construção</strong> · 4 fontes</summary>
+<summary><strong>Arquitetura, BIM e construção</strong> · 11 fontes</summary>
 
 - **BIMobject** (`SIN3D-164`) — Biblioteca de componentes para projetos arquitetônicos e BIM. **Serve para:** Encontrar componentes de fabricantes reais..
   **URL completa:** <https://www.bimobject.com/> · **Acesso:** Gratuito/condicionado · **Freemium:** A confirmar.
@@ -227,6 +253,20 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
   **URL completa:** <https://www.autodesk.com/products/revit/overview> · **Acesso:** Pago · **Freemium:** A confirmar.
 - **ArchDaily** (`SIN3D-167`) — Referências de arquitetura e projetos construídos. **Serve para:** Estudar repertório de ambientes e formas..
   **URL completa:** <https://www.archdaily.com/> · **Acesso:** Gratuito · **Freemium:** A confirmar.
+- **buildingSMART — especificações IFC** (`SIN3D-246`) — Lançamentos oficiais do padrão IFC e seus esquemas **Serve para:** Lançamentos oficiais do padrão IFC e seus esquemas.
+  **URL completa:** <https://technical.buildingsmart.org/standards/ifc/ifc-schema-specifications/> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **buildingSMART — referência IFC** (`SIN3D-247`) — Entendimento do modelo de dados aberto de construção **Serve para:** Entendimento do modelo de dados aberto de construção.
+  **URL completa:** <https://technical.buildingsmart.org/standards/IFC/> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **buildingSMART — servidor de padrões** (`SIN3D-248`) — Repositório IFC, IDS, BCF, MVD e validação de esquemas **Serve para:** Repositório IFC, IDS, BCF, MVD e validação de esquemas.
+  **URL completa:** <https://standards.buildingsmart.org/> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **buildingSMART — documentação técnica** (`SIN3D-249`) — Portal técnico do ecossistema openBIM **Serve para:** Portal técnico do ecossistema openBIM.
+  **URL completa:** <https://technical.buildingsmart.org/> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **buildingSMART — padrões openBIM** (`SIN3D-284`) — Padrões de interoperabilidade de construção **Serve para:** Padrões de interoperabilidade de construção.
+  **URL completa:** <https://www.buildingsmart.org/standards/> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **SketchUp Help Center PT-BR** (`SIN3D-360`) — Treinamento e documentação SketchUp em português **Serve para:** Treinamento e documentação SketchUp em português.
+  **URL completa:** <https://help.sketchup.com/pt-br> · **Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item.
+- **SketchUp Campus** (`SIN3D-361`) — Formação oficial SketchUp para modelagem arquitetônica **Serve para:** Formação oficial SketchUp para modelagem arquitetônica.
+  **URL completa:** <https://learn.sketchup.com/> · **Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item.
 
 </details>
 
@@ -268,7 +308,7 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
 
 <a id="fontes-cad-impressao-3d"></a>
 <details>
-<summary><strong>CAD e impressão 3D</strong> · 8 fontes</summary>
+<summary><strong>CAD e impressão 3D</strong> · 14 fontes</summary>
 
 - **FreeCAD** (`SIN3D-097`) — Modelagem paramétrica CAD de peças e mecanismos. **Serve para:** Criar componentes industriais dimensionados..
   **URL completa:** <https://www.freecad.org/> · **Acesso:** Gratuito · **Freemium:** A confirmar.
@@ -286,6 +326,18 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
   **URL completa:** <https://makerworld.com/> · **Acesso:** Gratuito · **Freemium:** A confirmar.
 - **MyMiniFactory** (`SIN3D-171`) — Marketplace de miniaturas e modelos para impressão 3D. **Serve para:** Encontrar personagens e miniaturas imprimíveis..
   **URL completa:** <https://www.myminifactory.com/> · **Acesso:** Freemium · **Freemium:** Sim.
+- **3MF Consortium — especificação** (`SIN3D-244`) — Padrões 3MF ISO para manufatura aditiva e interoperabilidade **Serve para:** Padrões 3MF ISO para manufatura aditiva e interoperabilidade.
+  **URL completa:** <https://3mf.io/spec/> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **3MF Consortium — portal** (`SIN3D-245`) — Organização que mantém o padrão aberto 3MF **Serve para:** Organização que mantém o padrão aberto 3MF.
+  **URL completa:** <https://3mf.io/> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **OpenSCAD — documentação** (`SIN3D-280`) — Modelagem paramétrica por programação para fabricação **Serve para:** Modelagem paramétrica por programação para fabricação.
+  **URL completa:** <https://openscad.org/documentation.html> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **Prusa Knowledge Base** (`SIN3D-281`) — Guias oficiais de fatiamento e impressão 3D **Serve para:** Guias oficiais de fatiamento e impressão 3D.
+  **URL completa:** <https://help.prusa3d.com/> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **Ultimaker Cura** (`SIN3D-282`) — Software de preparação e slicing para impressão 3D **Serve para:** Software de preparação e slicing para impressão 3D.
+  **URL completa:** <https://ultimaker.com/software/ultimaker-cura/> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **FreeCAD Wiki — documentação** (`SIN3D-283`) — Wiki de modelagem paramétrica e CAD aberto **Serve para:** Wiki de modelagem paramétrica e CAD aberto.
+  **URL completa:** <https://wiki.freecad.org/> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
 
 </details>
 
@@ -308,16 +360,26 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
 
 <a id="fontes-cinema-composicao"></a>
 <details>
-<summary><strong>Composição cinematográfica</strong> · 1 fontes</summary>
+<summary><strong>Composição cinematográfica</strong> · 6 fontes</summary>
 
 - **Foundry Nuke — documentação atual** (`SIN3D-223`) — Manual oficial de composição, passes, tracking e pipeline USD no Nuke. **Serve para:** Aprender composição profissional e revisão de planos..
   **URL completa:** <https://learn.foundry.com/nuke/content/learn_nuke.html> · **Acesso:** Documentação/portal público; serviços e eventos podem ser pagos · **Freemium:** Conferir conforme produto ou plano.
+- **Autodesk Arnold — documentação** (`SIN3D-258`) — Referência de renderizador Arnold e shaders para cinema **Serve para:** Referência de renderizador Arnold e shaders para cinema.
+  **URL completa:** <https://help.autodesk.com/view/ARNOL/ENU/> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **OpenEXR — portal** (`SIN3D-259`) — Formato de imagens HDR e canais de composição **Serve para:** Formato de imagens HDR e canais de composição.
+  **URL completa:** <https://openexr.com/> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **Foundry Nuke — Learn** (`SIN3D-260`) — Hub de documentação de composição para pós-produção **Serve para:** Hub de documentação de composição para pós-produção.
+  **URL completa:** <https://learn.foundry.com/nuke/> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **Blackmagic DaVinci Resolve — treinamento** (`SIN3D-261`) — Treinamento oficial para edição, composição e cor **Serve para:** Treinamento oficial para edição, composição e cor.
+  **URL completa:** <https://www.blackmagicdesign.com/products/davinciresolve/training> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **Blender — compositor** (`SIN3D-302`) — Composição nodal e integração de passes **Serve para:** Composição nodal e integração de passes.
+  **URL completa:** <https://docs.blender.org/manual/en/latest/compositing/index.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
 
 </details>
 
 <a id="fontes-cinema-pipeline-aberto"></a>
 <details>
-<summary><strong>Padrões abertos de cinema e VFX</strong> · 10 fontes</summary>
+<summary><strong>Padrões abertos de cinema e VFX</strong> · 13 fontes</summary>
 
 - **Academy Software Foundation** (`SIN3D-209`) — Fundação de projetos abertos adotados por estúdios de animação e efeitos visuais. **Serve para:** Aprender padrões de produção e integração entre aplicativos..
   **URL completa:** <https://www.aswf.io/> · **Acesso:** Documentação/portal público; serviços e eventos podem ser pagos · **Freemium:** Conferir conforme produto ou plano.
@@ -339,12 +401,18 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
   **URL completa:** <https://openimageio.readthedocs.io/> · **Acesso:** Documentação/portal público; serviços e eventos podem ser pagos · **Freemium:** Conferir conforme produto ou plano.
 - **ACES Central** (`SIN3D-218`) — Comunidade técnica e documentação associada ao Academy Color Encoding System. **Serve para:** Estudar workflow de cores de aquisição até entrega..
   **URL completa:** <https://acescentral.com/> · **Acesso:** Documentação/portal público; serviços e eventos podem ser pagos · **Freemium:** Conferir conforme produto ou plano.
+- **OpenUSD — documentação release** (`SIN3D-312`) — Construção e intercâmbio de cenas de cinema **Serve para:** Construção e intercâmbio de cenas de cinema.
+  **URL completa:** <https://openusd.org/release/> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **OpenUSD — introdução** (`SIN3D-313`) — Conceitos USD de stage, layer e prim **Serve para:** Conceitos USD de stage, layer e prim.
+  **URL completa:** <https://openusd.org/release/intro.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **ASWF — OpenImageIO** (`SIN3D-314`) — Manipulação de texturas e imagens de produção **Serve para:** Manipulação de texturas e imagens de produção.
+  **URL completa:** <https://openimageio.readthedocs.io/en/latest/> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
 
 </details>
 
 <a id="fontes-cinema-producao-virtual"></a>
 <details>
-<summary><strong>Produção virtual e cinema em Unreal</strong> · 4 fontes</summary>
+<summary><strong>Produção virtual e cinema em Unreal</strong> · 8 fontes</summary>
 
 - **Unreal ICVFX — visão geral** (`SIN3D-219`) — Manual oficial de efeitos visuais em câmera com painéis LED, tracking e Unreal. **Serve para:** Planejar set virtual e capturar fundos com atores reais..
   **URL completa:** <https://dev.epicgames.com/documentation/en-us/unreal-engine/in-camera-vfx-overview-in-unreal-engine> · **Acesso:** Documentação/portal público; serviços e eventos podem ser pagos · **Freemium:** Conferir conforme produto ou plano.
@@ -354,12 +422,20 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
   **URL completa:** <https://dev.epicgames.com/documentation/unreal-engine/movie-render-pipeline-in-unreal-engine?lang=en-US> · **Acesso:** Documentação/portal público; serviços e eventos podem ser pagos · **Freemium:** Conferir conforme produto ou plano.
 - **Unreal Virtual Camera** (`SIN3D-222`) — Sistema oficial para operar câmeras virtuais da Unreal. **Serve para:** Bloquear enquadramento e movimentos de câmera em pré-visualização..
   **URL completa:** <https://dev.epicgames.com/documentation/unreal-engine/virtual-cameras-in-unreal-engine?lang=en-US> · **Acesso:** Documentação/portal público; serviços e eventos podem ser pagos · **Freemium:** Conferir conforme produto ou plano.
+- **Unreal — Pixel Streaming** (`SIN3D-262`) — Transmite experiência Unreal renderizada para navegadores **Serve para:** Transmite experiência Unreal renderizada para navegadores.
+  **URL completa:** <https://dev.epicgames.com/documentation/unreal-engine/pixel-streaming-in-unreal-engine> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **Unreal — hardware e especificações** (`SIN3D-320`) — Requisitos de CPU/GPU e runtime Unreal **Serve para:** Requisitos de CPU/GPU e runtime Unreal.
+  **URL completa:** <https://dev.epicgames.com/documentation/en-us/unreal-engine/hardware-and-software-specifications-for-unreal-engine> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Unreal — recursos por caminho de render** (`SIN3D-321`) — Tabela de compatibilidade gráfica desktop e XR **Serve para:** Tabela de compatibilidade gráfica desktop e XR.
+  **URL completa:** <https://dev.epicgames.com/documentation/en-us/unreal-engine/supported-features-by-rendering-path-for-desktop-with-unreal-engine> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **NVIDIA Omniverse — SDK documentation** (`SIN3D-359`) — SDK e APIs de composição, render e colaboração **Serve para:** SDK e APIs de composição, render e colaboração.
+  **URL completa:** <https://docs.nvidia.com/omniverse/index.html> · **Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item.
 
 </details>
 
 <a id="fontes-dados-geoespaciais"></a>
 <details>
-<summary><strong>Dados geoespaciais e mapas</strong> · 4 fontes</summary>
+<summary><strong>Dados geoespaciais e mapas</strong> · 9 fontes</summary>
 
 - **NASA Earthdata** (`SIN3D-144`) — Catálogo de dados terrestres e satelitais. **Serve para:** Acessar relevo e textura de grandes regiões..
   **URL completa:** <https://www.earthdata.nasa.gov/> · **Acesso:** Gratuito · **Freemium:** A confirmar.
@@ -369,6 +445,16 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
   **URL completa:** <https://opentopography.org/> · **Acesso:** Freemium · **Freemium:** Sim.
 - **OpenStreetMap** (`SIN3D-147`) — Dados geográficos colaborativos para mapas e ruas. **Serve para:** Construir cidades proceduralmente..
   **URL completa:** <https://www.openstreetmap.org/> · **Acesso:** Gratuito · **Freemium:** A confirmar.
+- **CesiumJS — documentação** (`SIN3D-285`) — Visualização de cidades, terrenos e dados geoespaciais **Serve para:** Visualização de cidades, terrenos e dados geoespaciais.
+  **URL completa:** <https://cesium.com/learn/cesiumjs-learn/> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **OGC 3D Tiles — especificação** (`SIN3D-286`) — Padrão de entrega streaming de grandes cenas geoespaciais **Serve para:** Padrão de entrega streaming de grandes cenas geoespaciais.
+  **URL completa:** <https://www.ogc.org/standard/3dtiles/> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **Cesium — 3D Tiles** (`SIN3D-287`) — Entendimento do padrão para tiles 3D urbanos **Serve para:** Entendimento do padrão para tiles 3D urbanos.
+  **URL completa:** <https://cesium.com/why-cesium/3d-tiles/> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **QGIS — documentação** (`SIN3D-341`) — GIS aberto e cartografia aplicável a cenários **Serve para:** GIS aberto e cartografia aplicável a cenários.
+  **URL completa:** <https://docs.qgis.org/> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Cesium ion** (`SIN3D-342`) — Pipeline cloud para streaming de dados 3D Tiles **Serve para:** Pipeline cloud para streaming de dados 3D Tiles.
+  **URL completa:** <https://cesium.com/platform/cesium-ion/> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
 
 </details>
 
@@ -410,7 +496,7 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
 
 <a id="fontes-fotogrametria-captura"></a>
 <details>
-<summary><strong>Fotogrametria e captura 3D</strong> · 6 fontes</summary>
+<summary><strong>Fotogrametria e captura 3D</strong> · 9 fontes</summary>
 
 - **Polycam** (`SIN3D-084`) — Captura de cenas e objetos 3D por fotos, LiDAR e fotogrametria. **Serve para:** Scanning|AR.
   **URL completa:** <https://poly.cam/> · **Acesso:** Freemium · **Freemium:** Sim.
@@ -424,12 +510,18 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
   **URL completa:** <https://www.agisoft.com/> · **Acesso:** Pago · **Freemium:** A confirmar.
 - **COLMAP** (`SIN3D-149`) — Reconstrução 3D e estrutura por movimento a partir de imagens. **Serve para:** Aprender fotogrametria e pipelines de pesquisa..
   **URL completa:** <https://colmap.github.io/> · **Acesso:** Gratuito · **Freemium:** A confirmar.
+- **Meshroom AliceVision** (`SIN3D-343`) — Manual de reconstrução fotogramétrica em Meshroom **Serve para:** Manual de reconstrução fotogramétrica em Meshroom.
+  **URL completa:** <https://meshroom-manual.readthedocs.io/en/latest/> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **3D Slicer — documentação** (`SIN3D-362`) — Plataforma de visualização volumétrica e segmentação 3D médica **Serve para:** Plataforma de visualização volumétrica e segmentação 3D médica.
+  **URL completa:** <https://slicer.readthedocs.io/en/latest/> · **Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item.
+- **3D Slicer — site oficial** (`SIN3D-363`) — Ferramenta científica 3D aberta para imagens biomédicas **Serve para:** Ferramenta científica 3D aberta para imagens biomédicas.
+  **URL completa:** <https://www.slicer.org/> · **Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item.
 
 </details>
 
 <a id="fontes-games-prototipagem"></a>
 <details>
-<summary><strong>Games e prototipagem</strong> · 6 fontes</summary>
+<summary><strong>Games e prototipagem</strong> · 12 fontes</summary>
 
 - **Kenney** (`SIN3D-014`) — Biblioteca de packs low-poly, UI, som e kits para desenvolvimento de jogos. **Serve para:** Low-poly|Indie|Games.
   **URL completa:** <https://kenney.nl/assets> · **Acesso:** Grátis · **Freemium:** Não.
@@ -443,17 +535,31 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
   **URL completa:** <https://opengameart.org/> · **Acesso:** Grátis · **Freemium:** Não.
 - **Smithsonian 3D** (`SIN3D-019`) — Digitalizações tridimensionais de objetos históricos, científicas e culturais. **Serve para:** Museus|Scans|Educação.
   **URL completa:** <https://3d.si.edu/> · **Acesso:** Grátis · **Freemium:** Não.
+- **Unreal — Blueprints** (`SIN3D-315`) — Programação visual de gameplay e interação **Serve para:** Programação visual de gameplay e interação.
+  **URL completa:** <https://dev.epicgames.com/documentation/en-us/unreal-engine/blueprints-visual-scripting-in-unreal-engine> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Unreal — documentação geral de gameplay** (`SIN3D-316`) — Arquitetura de inputs e atores de jogos **Serve para:** Arquitetura de inputs e atores de jogos.
+  **URL completa:** <https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-systems-in-unreal-engine> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Godot — documentação estável** (`SIN3D-325`) — Manual da engine aberta Godot e GDScript **Serve para:** Manual da engine aberta Godot e GDScript.
+  **URL completa:** <https://docs.godotengine.org/en/stable/> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Godot — fundamentos de 3D** (`SIN3D-326`) — Tutoriais de malhas, importação e ambientes no Godot **Serve para:** Tutoriais de malhas, importação e ambientes no Godot.
+  **URL completa:** <https://docs.godotengine.org/en/stable/tutorials/3d/index.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Unity Learn** (`SIN3D-327`) — Trilhas oficiais de Unity para games e XR **Serve para:** Trilhas oficiais de Unity para games e XR.
+  **URL completa:** <https://learn.unity.com/> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Unity Manual** (`SIN3D-328`) — Manual da Unity para importação, animação e renderização **Serve para:** Manual da Unity para importação, animação e renderização.
+  **URL completa:** <https://docs.unity3d.com/Manual/index.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
 
 </details>
 
 <a id="fontes-governanca-licencas"></a>
 <details>
-<summary><strong>Governança e licenças</strong> · 2 fontes</summary>
+<summary><strong>Governança e licenças</strong> · 3 fontes</summary>
 
 - **Creative Commons** (`SIN3D-183`) — Organização que mantém famílias de licenças Creative Commons. **Serve para:** Entender CC0, BY, BY-SA, NC e ND..
   **URL completa:** <https://creativecommons.org/licenses/> · **Acesso:** Gratuito · **Freemium:** A confirmar.
 - **SPDX License List** (`SIN3D-184`) — Lista de identificadores padronizados de licença. **Serve para:** Catalogar licença do código e recursos com precisão..
   **URL completa:** <https://spdx.org/licenses/> · **Acesso:** Gratuito · **Freemium:** A confirmar.
+- **Creative Commons — licenças** (`SIN3D-253`) — Explicação oficial das permissões CC por modalidade **Serve para:** Explicação oficial das permissões CC por modalidade.
+  **URL completa:** <https://creativecommons.org/share-your-work/cclicenses/> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
 
 </details>
 
@@ -486,7 +592,7 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
 
 <a id="fontes-hubs-internacionais"></a>
 <details>
-<summary><strong>Comunidades e eventos internacionais</strong> · 11 fontes</summary>
+<summary><strong>Comunidades e eventos internacionais</strong> · 16 fontes</summary>
 
 - **SIGGRAPH** (`SIN3D-172`) — Associação e eventos internacionais de computação gráfica. **Serve para:** Pesquisar pesquisa e práticas de estúdios dos EUA e globais..
   **URL completa:** <https://www.siggraph.org/> · **Acesso:** Gratuito/Evento pago · **Freemium:** A confirmar.
@@ -510,12 +616,22 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
   **URL completa:** <https://www.animationuk.org/> · **Acesso:** Gratuito · **Freemium:** A confirmar.
 - **Game Developers Conference** (`SIN3D-182`) — Evento internacional de desenvolvimento de games. **Serve para:** Aprender práticas de arte técnica, gameplay e engines..
   **URL completa:** <https://gdconf.com/> · **Acesso:** Gratuito/Evento pago · **Freemium:** A confirmar.
+- **ACM SIGGRAPH — eventos** (`SIN3D-364`) — Conferências globais de pesquisa em computação gráfica **Serve para:** Conferências globais de pesquisa em computação gráfica.
+  **URL completa:** <https://www.siggraph.org/siggraph-events/conferences/> · **Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item.
+- **Eurographics** (`SIN3D-365`) — Associação europeia de pesquisa em computação gráfica **Serve para:** Associação europeia de pesquisa em computação gráfica.
+  **URL completa:** <https://www.eg.org/> · **Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item.
+- **Computer Vision Foundation — Open Access** (`SIN3D-366`) — Biblioteca de artigos de CVPR e visão computacional **Serve para:** Biblioteca de artigos de CVPR e visão computacional.
+  **URL completa:** <https://openaccess.thecvf.com/> · **Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item.
+- **OpenAccess — CVPR 2026** (`SIN3D-367`) — Anais técnicos de visão computacional 2026 **Serve para:** Anais técnicos de visão computacional 2026.
+  **URL completa:** <https://openaccess.thecvf.com/CVPR2026> · **Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item.
+- **ACM Digital Library — graphics** (`SIN3D-368`) — Biblioteca de papers sobre gráficos e interação **Serve para:** Biblioteca de papers sobre gráficos e interação.
+  **URL completa:** <https://dl.acm.org/> · **Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item.
 
 </details>
 
 <a id="fontes-ia-3d"></a>
 <details>
-<summary><strong>Inteligência artificial para 3D</strong> · 5 fontes</summary>
+<summary><strong>Inteligência artificial para 3D</strong> · 6 fontes</summary>
 
 - **Tripo3D** (`SIN3D-044`) — IA de texto/imagem para modelagem 3D, texturização, refinamento e exportação. **Serve para:** AI|Blender|Games.
   **URL completa:** <https://www.tripo3d.ai/pt> · **Acesso:** Freemium · **Freemium:** Sim.
@@ -529,6 +645,8 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
 - **Hunyuan3D 2.0** (`SIN3D-083`) — Modelo generativo 3D com pesos e código disponibilizados pela Tencent. **Serve para:** AI|Generation.
   **URL completa:** <https://github.com/Tencent-Hunyuan/Hunyuan3D-2> · **Acesso:** Grátis · **Freemium:** Não.
   **Termos/licença e detalhes:** <https://github.com/Tencent-Hunyuan/Hunyuan3D-2/blob/main/LICENSE>.
+- **Hugging Face 3D models** (`SIN3D-344`) — Catálogo de modelos de pesquisa e geração de ativos 3D **Serve para:** Catálogo de modelos de pesquisa e geração de ativos 3D.
+  **URL completa:** <https://huggingface.co/models?pipeline_tag=text-to-3d> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
 
 </details>
 
@@ -553,7 +671,7 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
 
 <a id="fontes-mocap-movimento"></a>
 <details>
-<summary><strong>Captura de movimentos (mocap)</strong> · 4 fontes</summary>
+<summary><strong>Captura de movimentos (mocap)</strong> · 5 fontes</summary>
 
 - **Move AI** (`SIN3D-127`) — Captura de movimentos a partir de vídeo. **Serve para:** Converter performance em movimento 3D..
   **URL completa:** <https://www.move.ai/> · **Acesso:** Pago · **Freemium:** A confirmar.
@@ -563,12 +681,14 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
   **URL completa:** <https://optitrack.com/> · **Acesso:** Pago · **Freemium:** A confirmar.
 - **Live Link Face** (`SIN3D-130`) — Aplicativo de captura facial conectado ao MetaHuman. **Serve para:** Animar rosto digital por vídeo..
   **URL completa:** <https://dev.epicgames.com/documentation/en-us/metahuman/live-link-face-app> · **Acesso:** Gratuito/condicionado · **Freemium:** A confirmar.
+- **Blender — armaduras** (`SIN3D-297`) — Estruturas ósseas e relações de objetos **Serve para:** Estruturas ósseas e relações de objetos.
+  **URL completa:** <https://docs.blender.org/manual/en/latest/animation/armatures/index.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
 
 </details>
 
 <a id="fontes-modelagem-escultura"></a>
 <details>
-<summary><strong>Modelagem e escultura digital</strong> · 8 fontes</summary>
+<summary><strong>Modelagem e escultura digital</strong> · 10 fontes</summary>
 
 - **BlendSwap** (`SIN3D-045`) — Comunidade de modelos Blender .blend sob diversas licenças Creative Commons. **Serve para:** Blender|Models.
   **URL completa:** <https://blendswap.com> · **Acesso:** Freemium · **Freemium:** Sim.
@@ -587,12 +707,16 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
   **URL completa:** <https://www.bforartists.de/> · **Acesso:** Gratuito · **Freemium:** A confirmar.
 - **SculptGL** (`SIN3D-101`) — Ferramenta de escultura digital acessível no navegador. **Serve para:** Experimentar volumes e formas sem instalar software..
   **URL completa:** <https://stephaneginier.com/sculptgl/> · **Acesso:** Gratuito · **Freemium:** A confirmar.
+- **Blender — edit mode** (`SIN3D-288`) — Edição de vértices, faces e arestas do modelo **Serve para:** Edição de vértices, faces e arestas do modelo.
+  **URL completa:** <https://docs.blender.org/manual/en/latest/modeling/meshes/editing/index.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Blender — escultura** (`SIN3D-289`) — Ferramentas de escultura orgânica e detalhes **Serve para:** Ferramentas de escultura orgânica e detalhes.
+  **URL completa:** <https://docs.blender.org/manual/en/latest/sculpt_paint/sculpting/index.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
 
 </details>
 
 <a id="fontes-modelagem-procedural"></a>
 <details>
-<summary><strong>Modelagem procedural</strong> · 8 fontes</summary>
+<summary><strong>Modelagem procedural</strong> · 18 fontes</summary>
 
 - **Blender** (`SIN3D-072`) — Suíte livre para modelagem, rigging, animação, renderização e produção 3D. **Serve para:** Modelagem|Terrenos.
   **URL completa:** <https://www.blender.org/> · **Acesso:** Grátis · **Freemium:** Não.
@@ -610,12 +734,32 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
   **URL completa:** <https://speedtree.com/> · **Acesso:** Pago · **Freemium:** Não.
 - **Cascadeur** (`SIN3D-079`) — Software de animação 3D com assistência física e de IA. **Serve para:** Modelagem|Terrenos.
   **URL completa:** <https://cascadeur.com/> · **Acesso:** Freemium · **Freemium:** Sim.
+- **SideFX Houdini — manual** (`SIN3D-268`) — Documentação geral de geometria procedural e efeitos **Serve para:** Documentação geral de geometria procedural e efeitos.
+  **URL completa:** <https://www.sidefx.com/docs/houdini/index.html> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **SideFX Houdini — referências de nós** (`SIN3D-269`) — Documentação de SOP, LOP, VOP, TOP e CHOP **Serve para:** Documentação de SOP, LOP, VOP, TOP e CHOP.
+  **URL completa:** <https://www.sidefx.com/docs/houdini/ref/index.html> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **SideFX Bifrost — help Autodesk** (`SIN3D-270`) — Documentação oficial de grafos procedurais Maya **Serve para:** Documentação oficial de grafos procedurais Maya.
+  **URL completa:** <https://help.autodesk.com/view/BIFROST/ENU/> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **Blender — Geometry Nodes** (`SIN3D-303`) — Construção procedural e variação de instâncias **Serve para:** Construção procedural e variação de instâncias.
+  **URL completa:** <https://docs.blender.org/manual/en/latest/modeling/geometry_nodes/index.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **SideFX — Vellum** (`SIN3D-308`) — Simulação procedural de tecidos, cabelos e grãos **Serve para:** Simulação procedural de tecidos, cabelos e grãos.
+  **URL completa:** <https://www.sidefx.com/docs/houdini/vellum/index.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **SideFX — PDG TOPs** (`SIN3D-310`) — Geração de tarefas e dependências no Houdini **Serve para:** Geração de tarefas e dependências no Houdini.
+  **URL completa:** <https://www.sidefx.com/docs/houdini/tops/index.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **SideFX — KineFX** (`SIN3D-311`) — Rigging e movimento procedural no Houdini **Serve para:** Rigging e movimento procedural no Houdini.
+  **URL completa:** <https://www.sidefx.com/docs/houdini/character/kinefx/index.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **NVIDIA Omniverse — documentação** (`SIN3D-356`) — SDKs, APIs e renderização USD e simulação 3D **Serve para:** SDKs, APIs e renderização USD e simulação 3D.
+  **URL completa:** <https://docs.nvidia.com/omniverse/> · **Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item.
+- **Omniverse OpenUSD Developer Guide** (`SIN3D-357`) — Desenvolvimento de scripts e extensões em USD no Omniverse **Serve para:** Desenvolvimento de scripts e extensões em USD no Omniverse.
+  **URL completa:** <https://docs.omniverse.nvidia.com/dev-guide/latest/dev-usd.html> · **Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item.
+- **NVIDIA Omniverse — Developer** (`SIN3D-358`) — Visão em português da plataforma de colaboração USD **Serve para:** Visão em português da plataforma de colaboração USD.
+  **URL completa:** <https://developer.nvidia.com/pt-br/nvidia-omniverse-platform> · **Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item.
 
 </details>
 
 <a id="fontes-modelagem-retopologia"></a>
 <details>
-<summary><strong>Retopologia e limpeza de malhas</strong> · 3 fontes</summary>
+<summary><strong>Retopologia e limpeza de malhas</strong> · 5 fontes</summary>
 
 - **Instant Meshes** (`SIN3D-102`) — Projeto de retopologia automática de superfícies 3D. **Serve para:** Criar malha de quadriláteros a partir de sculpt..
   **URL completa:** <https://github.com/wjakob/instant-meshes> · **Acesso:** Gratuito · **Freemium:** A confirmar.
@@ -623,6 +767,10 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
   **URL completa:** <https://github.com/CGCookie/retopoflow> · **Acesso:** Código aberto · **Freemium:** A confirmar.
 - **Quad Remesher** (`SIN3D-104`) — Retopologia automatizada para modelos complexos. **Serve para:** Acelerar limpeza de esculturas..
   **URL completa:** <https://exoside.com/quadremesher/> · **Acesso:** Pago · **Freemium:** A confirmar.
+- **Khronos 3D Commerce — geometria** (`SIN3D-241`) — Regras de geometria em tempo real e malha de produto **Serve para:** Regras de geometria em tempo real e malha de produto.
+  **URL completa:** <https://github.com/KhronosGroup/3DC-Asset-Creation/blob/main/asset-creation-guidelines/full-version/sec02_Geometry/Geometry.md> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **Blender — modifiers** (`SIN3D-290`) — Modificadores não destrutivos para malhas **Serve para:** Modificadores não destrutivos para malhas.
+  **URL completa:** <https://docs.blender.org/manual/en/latest/modeling/modifiers/index.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
 
 </details>
 
@@ -641,7 +789,7 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
 
 <a id="fontes-otimizacao-entrega"></a>
 <details>
-<summary><strong>Otimização e formatos de entrega</strong> · 8 fontes</summary>
+<summary><strong>Otimização e formatos de entrega</strong> · 11 fontes</summary>
 
 - **glTF-Transform** (`SIN3D-064`) — CLI e SDK para inspecionar, reorganizar e otimizar arquivos glTF/GLB. **Serve para:** Web|GLB.
   **URL completa:** <https://gltf-transform.dev/> · **Acesso:** Grátis · **Freemium:** Não.
@@ -659,12 +807,18 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
   **URL completa:** <https://github.com/KhronosGroup/KTX-Software> · **Acesso:** Grátis · **Freemium:** Não.
 - **glTF Validator** (`SIN3D-071`) — Validador da especificação glTF 2.0 com relatórios de erros e estatísticas. **Serve para:** Web|QA.
   **URL completa:** <https://github.com/KhronosGroup/glTF-Validator> · **Acesso:** Grátis · **Freemium:** Não.
+- **Blender — glTF 2.0** (`SIN3D-305`) — Exportação glTF/GLB para engines e web **Serve para:** Exportação glTF/GLB para engines e web.
+  **URL completa:** <https://docs.blender.org/manual/en/latest/addons/import_export/scene_gltf2.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Blender — FBX export** (`SIN3D-306`) — Exportação FBX e integração de rig/mesh **Serve para:** Exportação FBX e integração de rig/mesh.
+  **URL completa:** <https://docs.blender.org/manual/en/latest/addons/import_export/scene_fbx.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Unreal — documentação técnica Nanite** (`SIN3D-322`) — Geometria Nanite, restrições e material de fallback **Serve para:** Geometria Nanite, restrições e material de fallback.
+  **URL completa:** <https://dev.epicgames.com/documentation/pt-br/unreal-engine/nanite-virtualized-geometry-in-unreal-engine> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
 
 </details>
 
 <a id="fontes-personagens-rigging"></a>
 <details>
-<summary><strong>Personagens, rigs e animação</strong> · 9 fontes</summary>
+<summary><strong>Personagens, rigs e animação</strong> · 14 fontes</summary>
 
 - **MetaHuman** (`SIN3D-032`) — Criador de humanos digitais realistas, expressões e animação integrada. **Serve para:** Humano|Unreal.
   **URL completa:** <https://www.metahuman.com/> · **Acesso:** Grátis · **Freemium:** Não.
@@ -684,21 +838,37 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
   **URL completa:** <https://dev.epicgames.com/documentation/en-us/unreal-engine/control-rig-in-unreal-engine> · **Acesso:** Gratuito/segundo motor · **Freemium:** A confirmar.
 - **iClone** (`SIN3D-126`) — Ferramenta de animação de personagens, captura e cenas. **Serve para:** Produzir narrativas com personagens animados..
   **URL completa:** <https://www.reallusion.com/iclone/> · **Acesso:** Pago · **Freemium:** A confirmar.
+- **Unreal — animando Control Rig** (`SIN3D-264`) — Tutorial em português de controles de animação na Unreal **Serve para:** Tutorial em português de controles de animação na Unreal.
+  **URL completa:** <https://dev.epicgames.com/documentation/pt-br/unreal-engine/animating-with-control-rig-in-unreal-engine> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **Blender — constraints** (`SIN3D-298`) — Restrições para controle de movimento e orientação **Serve para:** Restrições para controle de movimento e orientação.
+  **URL completa:** <https://docs.blender.org/manual/en/latest/animation/constraints/index.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Blender — Shape Keys** (`SIN3D-299`) — Alvos de deformação facial e expressões **Serve para:** Alvos de deformação facial e expressões.
+  **URL completa:** <https://docs.blender.org/manual/en/latest/animation/shape_keys/index.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Blender — drivers** (`SIN3D-300`) — Relações automáticas entre propriedades **Serve para:** Relações automáticas entre propriedades.
+  **URL completa:** <https://docs.blender.org/manual/en/latest/animation/drivers/index.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Maya — documentação oficial** (`SIN3D-307`) — Ajuda completa Maya de modelagem, rig e animação **Serve para:** Ajuda completa Maya de modelagem, rig e animação.
+  **URL completa:** <https://help.autodesk.com/view/MAYAUL/ENU/> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
 
 </details>
 
 <a id="fontes-pipeline-blender-unreal"></a>
 <details>
-<summary><strong>Fluxo Blender → Unreal</strong> · 1 fontes</summary>
+<summary><strong>Fluxo Blender → Unreal</strong> · 4 fontes</summary>
 
 - **Blender 4.5 LTS — manual PT** (`SIN3D-208`) — Manual completo oficial em português para aprender criação 3D. **Serve para:** Ensinar Blender do zero e referenciar ferramentas da versão..
   **URL completa:** <https://docs.blender.org/manual/pt/4.5/index.html> · **Acesso:** Consultar plataforma (documentação gratuita) · **Freemium:** A confirmar por plano.
+- **Unreal — documentação geral** (`SIN3D-255`) — Índice oficial para importação, materiais, animação e motores **Serve para:** Índice oficial para importação, materiais, animação e motores.
+  **URL completa:** <https://dev.epicgames.com/documentation/en-us/unreal-engine> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **Unreal — rigging Control Rig** (`SIN3D-256`) — Ferramenta de rigging e controles dentro do Unreal **Serve para:** Ferramenta de rigging e controles dentro do Unreal.
+  **URL completa:** <https://dev.epicgames.com/documentation/en-us/unreal-engine/rigging-with-control-rig-in-unreal-engine> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **Unreal — Control Rig** (`SIN3D-257`) — Visão de animação no motor e Sequencer **Serve para:** Visão de animação no motor e Sequencer.
+  **URL completa:** <https://dev.epicgames.com/documentation/unreal-engine/control-rig-in-unreal-engine> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
 
 </details>
 
 <a id="fontes-pipeline-padroes"></a>
 <details>
-<summary><strong>Padrões e interoperabilidade</strong> · 6 fontes</summary>
+<summary><strong>Padrões e interoperabilidade</strong> · 18 fontes</summary>
 
 - **NVIDIA Omniverse** (`SIN3D-122`) — Ecossistema para fluxos 3D e colaboração com OpenUSD. **Serve para:** Integrar cenas e simuladores 3D..
   **URL completa:** <https://www.nvidia.com/en-us/omniverse/> · **Acesso:** A confirmar · **Freemium:** A confirmar.
@@ -712,23 +882,49 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
   **URL completa:** <https://registry.khronos.org/KTX/specs/2.0/ktxspec.v2.html> · **Acesso:** Gratuito · **Freemium:** A confirmar.
 - **SPDX SBOM Specification** (`SIN3D-185`) — Padrão para inventário de componentes e licenças. **Serve para:** Montar manifesto auditável de recursos em produtos 3D..
   **URL completa:** <https://spdx.dev/specifications/> · **Acesso:** Gratuito · **Freemium:** A confirmar.
+- **Khronos 3D Commerce — guia 2.0** (`SIN3D-239`) — Recomendações de criação 3D para e-commerce, games e XR **Serve para:** Recomendações de criação 3D para e-commerce, games e XR.
+  **URL completa:** <https://github.com/KhronosGroup/3DC-Asset-Creation> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **Khronos 3D Commerce — estrutura de arquivos** (`SIN3D-240`) — Padrões de nós, malhas, formatos e organização de assets **Serve para:** Padrões de nós, malhas, formatos e organização de assets.
+  **URL completa:** <https://github.com/KhronosGroup/3DC-Asset-Creation/blob/main/asset-creation-guidelines/full-version/sec01_FileStructure/FileStructure.md> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **Khronos 3D Commerce — PDF da especificação** (`SIN3D-243`) — Registro de especificações oficiais de criação de assets **Serve para:** Registro de especificações oficiais de criação de assets.
+  **URL completa:** <https://registry.khronos.org/3DCommerce/AssetCreation/> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **SideFX Houdini — Solaris/USD** (`SIN3D-267`) — Ferramentas USD de layout e construção de cenas **Serve para:** Ferramentas USD de layout e construção de cenas.
+  **URL completa:** <https://www.sidefx.com/docs/houdini/solaris/index.html> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **Khronos glTF Sample Assets** (`SIN3D-345`) — Modelos para testar recursos e extensões glTF com créditos por item **Serve para:** Modelos para testar recursos e extensões glTF com créditos por item.
+  **URL completa:** <https://github.com/KhronosGroup/glTF-Sample-Assets> · **Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item.
+- **Khronos glTF Assets Browser** (`SIN3D-346`) — Catálogo visual de modelos de testes glTF 2.0 **Serve para:** Catálogo visual de modelos de testes glTF 2.0.
+  **URL completa:** <https://github.khronos.org/glTF-Assets/> · **Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item.
+- **Khronos glTF — coleção completa** (`SIN3D-347`) — Lista de modelos técnicos agrupados por recursos **Serve para:** Lista de modelos técnicos agrupados por recursos.
+  **URL completa:** <https://github.com/KhronosGroup/glTF-Sample-Assets/blob/main/Models/Models.md> · **Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item.
+- **Khronos glTF — core** (`SIN3D-348`) — Conjunto de modelos sem extensões glTF adicionais **Serve para:** Conjunto de modelos sem extensões glTF adicionais.
+  **URL completa:** <https://github.com/KhronosGroup/glTF-Sample-Assets/blob/main/Models/Models-core.md> · **Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item.
+- **Khronos glTF — testes escritos** (`SIN3D-349`) — Modelos de apoio a tutoriais escritos glTF **Serve para:** Modelos de apoio a tutoriais escritos glTF.
+  **URL completa:** <https://github.com/KhronosGroup/glTF-Sample-Assets/blob/main/Models/Models-written.md> · **Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item.
+- **Khronos glTF — showcase** (`SIN3D-350`) — Modelos complexos para inspeção de renderizadores **Serve para:** Modelos complexos para inspeção de renderizadores.
+  **URL completa:** <https://github.com/KhronosGroup/glTF-Sample-Assets/blob/main/Models/Models-showcase.md> · **Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item.
+- **glTF — registro de extensões** (`SIN3D-351`) — Registro técnico de especificações glTF e suas extensões **Serve para:** Registro técnico de especificações glTF e suas extensões.
+  **URL completa:** <https://registry.khronos.org/glTF/> · **Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item.
+- **Khronos glTF — tutorial oficial** (`SIN3D-352`) — Tutoriais oficiais para ler e compreender estrutura glTF **Serve para:** Tutoriais oficiais para ler e compreender estrutura glTF.
+  **URL completa:** <https://github.com/KhronosGroup/glTF-Tutorials> · **Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item.
 
 </details>
 
 <a id="fontes-plugins-ferramentas"></a>
 <details>
-<summary><strong>Plugins e ferramentas</strong> · 2 fontes</summary>
+<summary><strong>Plugins e ferramentas</strong> · 3 fontes</summary>
 
 - **Blender Extensions** (`SIN3D-042`) — Repositório de extensões para Blender, modelagem, UV, materiais e tarefas 3D. **Serve para:** Blender|Addons.
   **URL completa:** <https://extensions.blender.org/> · **Acesso:** Grátis · **Freemium:** Não.
 - **Godot Asset Library** (`SIN3D-043`) — Add-ons, shaders, projetos de demonstração e ferramentas para Godot. **Serve para:** Godot|Games.
   **URL completa:** <https://godotengine.org/asset-library/asset> · **Acesso:** Grátis · **Freemium:** Não.
+- **Blender Python API** (`SIN3D-254`) — Documentação oficial de automação Blender via Python **Serve para:** Documentação oficial de automação Blender via Python.
+  **URL completa:** <https://docs.blender.org/api/current/> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
 
 </details>
 
 <a id="fontes-render-iluminacao"></a>
 <details>
-<summary><strong>Renderização e iluminação</strong> · 9 fontes</summary>
+<summary><strong>Renderização e iluminação</strong> · 22 fontes</summary>
 
 - **Marmoset Toolbag** (`SIN3D-113`) — Bake, renderização e apresentação de modelos 3D. **Serve para:** Produzir portfolio e mapas otimizados..
   **URL completa:** <https://marmoset.co/toolbag/> · **Acesso:** Pago · **Freemium:** A confirmar.
@@ -748,23 +944,51 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
   **URL completa:** <https://www.chaos.com/vray> · **Acesso:** Pago · **Freemium:** A confirmar.
 - **LuxCoreRender** (`SIN3D-121`) — Renderizador físico de código aberto. **Serve para:** Aprender iluminação sem solução fechada..
   **URL completa:** <https://luxcorerender.org/> · **Acesso:** Gratuito · **Freemium:** A confirmar.
+- **SideFX Houdini — Karma** (`SIN3D-265`) — Renderizador USD da SideFX com CPU/XPU **Serve para:** Renderizador USD da SideFX com CPU/XPU.
+  **URL completa:** <https://www.sidefx.com/docs/houdini/solaris/karma.html> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **SideFX Houdini — guia Karma** (`SIN3D-266`) — Guia profissional de luz, câmeras e render físico **Serve para:** Guia profissional de luz, câmeras e render físico.
+  **URL completa:** <https://www.sidefx.com/docs/houdini/solaris/kug/index.html> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **Blender — manual Cycles** (`SIN3D-294`) — Path tracing, iluminação, amostras e render **Serve para:** Path tracing, iluminação, amostras e render.
+  **URL completa:** <https://docs.blender.org/manual/en/latest/render/cycles/index.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Blender — manual EEVEE** (`SIN3D-295`) — Render em tempo real Blender e suas restrições **Serve para:** Render em tempo real Blender e suas restrições.
+  **URL completa:** <https://docs.blender.org/manual/en/latest/render/eevee/index.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Blender — luzes** (`SIN3D-296`) — Câmeras de luz, tipos e intensidades de fonte **Serve para:** Câmeras de luz, tipos e intensidades de fonte.
+  **URL completa:** <https://docs.blender.org/manual/en/latest/render/lights/index.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Blender — Color Management** (`SIN3D-304`) — Gerenciamento de espaços de cor e visualização **Serve para:** Gerenciamento de espaços de cor e visualização.
+  **URL completa:** <https://docs.blender.org/manual/en/latest/render/color_management.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Unreal — Nanite** (`SIN3D-317`) — Geometria virtualizada e requisitos de hardware **Serve para:** Geometria virtualizada e requisitos de hardware.
+  **URL completa:** <https://dev.epicgames.com/documentation/unreal-engine/nanite-in-unreal-engine> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Unreal — Lumen** (`SIN3D-318`) — Iluminação global e reflexos dinâmicos **Serve para:** Iluminação global e reflexos dinâmicos.
+  **URL completa:** <https://dev.epicgames.com/documentation/en-us/unreal-engine/lumen-technical-details-in-unreal-engine> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Unreal — gráficos e renderização** (`SIN3D-319`) — Guia visual e de rendering engine **Serve para:** Guia visual e de rendering engine.
+  **URL completa:** <https://dev.epicgames.com/documentation/en-us/unreal-engine/designing-visuals-rendering-and-graphics-with-unreal-engine> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Unreal — Movie Render Queue** (`SIN3D-323`) — Renderização cinematográfica e passes **Serve para:** Renderização cinematográfica e passes.
+  **URL completa:** <https://dev.epicgames.com/documentation/en-us/unreal-engine/movie-render-pipeline-in-unreal-engine> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Pixar RenderMan Learn** (`SIN3D-353`) — Cursos e exemplos oficiais de shading e render cinematográfico **Serve para:** Cursos e exemplos oficiais de shading e render cinematográfico.
+  **URL completa:** <https://prod.renderman.pixar.com/learn> · **Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item.
+- **Pixar RenderMan Docs** (`SIN3D-354`) — Referências oficiais de RenderMan e recursos de shading **Serve para:** Referências oficiais de RenderMan e recursos de shading.
+  **URL completa:** <https://rmanwiki.pixar.com/> · **Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item.
+- **Disney BRDF Explorer** (`SIN3D-355`) — Ferramenta de pesquisa Disney para estudar funções de reflectância **Serve para:** Ferramenta de pesquisa Disney para estudar funções de reflectância.
+  **URL completa:** <https://github.com/wdas/brdf> · **Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item.
 
 </details>
 
 <a id="fontes-seguranca-acessibilidade-3d"></a>
 <details>
-<summary><strong>Segurança e acessibilidade 3D</strong> · 2 fontes</summary>
+<summary><strong>Segurança e acessibilidade 3D</strong> · 3 fontes</summary>
 
 - **W3C WCAG 2.2** (`SIN3D-236`) — Recomendações internacionais de acessibilidade para interfaces digitais. **Serve para:** Construir websites com 3D acessíveis a pessoas com diferentes capacidades..
   **URL completa:** <https://www.w3.org/TR/WCAG22/> · **Acesso:** Documentação/portal público; serviços e eventos podem ser pagos · **Freemium:** Conferir conforme produto ou plano.
 - **OWASP File Upload Cheat Sheet** (`SIN3D-237`) — Guia de segurança de upload para formatos e arquivos enviados por usuários. **Serve para:** Reduzir risco em sites que aceitam modelos e texturas 3D..
   **URL completa:** <https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html> · **Acesso:** Documentação/portal público; serviços e eventos podem ser pagos · **Freemium:** Conferir conforme produto ou plano.
+- **OWASP — políticas CSP** (`SIN3D-252`) — Restrição de origens e scripts em visualizadores 3D web **Serve para:** Restrição de origens e scripts em visualizadores 3D web.
+  **URL completa:** <https://cheatsheetseries.owasp.org/cheatsheets/Content_Security_Policy_Cheat_Sheet.html> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
 
 </details>
 
 <a id="fontes-texturas-materiais"></a>
 <details>
-<summary><strong>Texturas, PBR e materiais</strong> · 13 fontes</summary>
+<summary><strong>Texturas, PBR e materiais</strong> · 15 fontes</summary>
 
 - **Poly Haven** (`SIN3D-020`) — Texturas PBR, modelos e mapas HDRI gratuitos de qualidade profissional. **Serve para:** PBR|HDRI|Blender|Cinema.
   **URL completa:** <https://polyhaven.com/> · **Acesso:** Grátis · **Freemium:** Não.
@@ -792,12 +1016,16 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
   **URL completa:** <https://www.adobe.com/products/substance3d-designer.html> · **Acesso:** Pago · **Freemium:** A confirmar.
 - **ArmorPaint** (`SIN3D-112`) — Pintura de materiais PBR em modelos 3D. **Serve para:** Pintar máscaras e cores com fluxo independente..
   **URL completa:** <https://armorpaint.org/> · **Acesso:** A confirmar · **Freemium:** A confirmar.
+- **Blender — materiais** (`SIN3D-292`) — Fundamentos de shaders e nós de materiais **Serve para:** Fundamentos de shaders e nós de materiais.
+  **URL completa:** <https://docs.blender.org/manual/en/latest/render/materials/index.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Blender — Shader Nodes** (`SIN3D-293`) — Nodos de materiais, texturas e mapeamento **Serve para:** Nodos de materiais, texturas e mapeamento.
+  **URL completa:** <https://docs.blender.org/manual/en/latest/render/shader_nodes/index.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
 
 </details>
 
 <a id="fontes-tracking-vfx"></a>
 <details>
-<summary><strong>Camera tracking e VFX</strong> · 10 fontes</summary>
+<summary><strong>Camera tracking e VFX</strong> · 13 fontes</summary>
 
 - **Blender Motion Tracking** (`SIN3D-131`) — Documentação de camera solving e tracking de vídeo no Blender. **Serve para:** Integrar objetos 3D em vídeo filmado..
   **URL completa:** <https://docs.blender.org/manual/en/latest/movie_clip/tracking/> · **Acesso:** Gratuito · **Freemium:** A confirmar.
@@ -819,12 +1047,18 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
   **URL completa:** <https://www.blackmagicdesign.com/products/fusion> · **Acesso:** A confirmar · **Freemium:** A confirmar.
 - **After Effects** (`SIN3D-140`) — Animação, composição e tracking em vídeos. **Serve para:** Criar efeitos e integrar elementos renderizados..
   **URL completa:** <https://www.adobe.com/products/aftereffects.html> · **Acesso:** Pago · **Freemium:** A confirmar.
+- **Unreal — Niagara VFX** (`SIN3D-263`) — Sistema de partículas visuais em tempo real **Serve para:** Sistema de partículas visuais em tempo real.
+  **URL completa:** <https://dev.epicgames.com/documentation/en-us/unreal-engine/creating-visual-effects-in-niagara-for-unreal-engine> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **Blender — Movie Clip Tracking** (`SIN3D-301`) — Rastreamento e solução de câmera a partir de filmagem **Serve para:** Rastreamento e solução de câmera a partir de filmagem.
+  **URL completa:** <https://docs.blender.org/manual/en/latest/movie_clip/index.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **SideFX — Pyro** (`SIN3D-309`) — Simulação volumétrica de fumaça e fogo **Serve para:** Simulação volumétrica de fumaça e fogo.
+  **URL completa:** <https://www.sidefx.com/docs/houdini/pyro/index.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
 
 </details>
 
 <a id="fontes-uv-baking"></a>
 <details>
-<summary><strong>UV mapping e baking</strong> · 5 fontes</summary>
+<summary><strong>UV mapping e baking</strong> · 7 fontes</summary>
 
 - **RizomUV** (`SIN3D-105`) — Aplicativo especializado em abertura e empacotamento UV. **Serve para:** Diminuir distorções e aproveitar melhor texturas..
   **URL completa:** <https://www.rizom-lab.com/> · **Acesso:** Pago · **Freemium:** A confirmar.
@@ -836,12 +1070,16 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
   **URL completa:** <https://docs.blender.org/manual/en/latest/render/cycles/baking.html> · **Acesso:** Gratuito · **Freemium:** A confirmar.
 - **Documentação de bake Substance** (`SIN3D-111`) — Manual oficial para transferência de detalhes de malha a texturas. **Serve para:** Aprender bake de normal, curvature e AO..
   **URL completa:** <https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/baking/baking> · **Acesso:** Gratuito · **Freemium:** A confirmar.
+- **Khronos 3D Commerce — coordenadas UV** (`SIN3D-242`) — Boas práticas de UV para assets de comércio **Serve para:** Boas práticas de UV para assets de comércio.
+  **URL completa:** <https://github.com/KhronosGroup/3DC-Asset-Creation/blob/main/asset-creation-guidelines/full-version/sec03_UVCoordinates/UVCoordinates.md> · **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma.
+- **Blender — UV Editing** (`SIN3D-291`) — Editor UV, seams e unwrapping **Serve para:** Editor UV, seams e unwrapping.
+  **URL completa:** <https://docs.blender.org/manual/en/latest/modeling/meshes/uv/index.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
 
 </details>
 
 <a id="fontes-web-ar-dispositivos"></a>
 <details>
-<summary><strong>WebAR em Android e iOS</strong> · 5 fontes</summary>
+<summary><strong>WebAR em Android e iOS</strong> · 7 fontes</summary>
 
 - **model-viewer — documentação de AR** (`SIN3D-203`) — Especificação de propriedades de visualizador de GLB com ar-modes. **Serve para:** Colocar produto 3D e AR num site sem engine completa..
   **URL completa:** <https://modelviewer.dev/docs/index.html> · **Acesso:** Consultar plataforma (documentação gratuita) · **Freemium:** A confirmar por plano.
@@ -853,12 +1091,16 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
   **URL completa:** <https://dev.epicgames.com/documentation/unreal-engine/handheld-ar-template-quickstart-in-unreal-engine?lang=en-US> · **Acesso:** Consultar plataforma (documentação gratuita) · **Freemium:** A confirmar por plano.
 - **Snap Camera Kit Web — tutorial React** (`SIN3D-207`) — Tutorial oficial Snap de Camera Kit Web com React e TypeScript. **Serve para:** Aprender integração de filtros Snap a sites React..
   **URL completa:** <https://developers.snap.com/camera-kit/integrate-sdk/web/tutorials/camera-kit-web-react-typescript> · **Acesso:** Consultar plataforma (documentação gratuita) · **Freemium:** A confirmar por plano.
+- **Apple Quick Look** (`SIN3D-333`) — Visualização de USDZ e AR no Safari compatível **Serve para:** Visualização de USDZ e AR no Safari compatível.
+  **URL completa:** <https://developer.apple.com/augmented-reality/quick-look/> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Apple RealityKit** (`SIN3D-334`) — Framework espacial Apple para AR e experiências imersivas **Serve para:** Framework espacial Apple para AR e experiências imersivas.
+  **URL completa:** <https://developer.apple.com/augmented-reality/realitykit/> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
 
 </details>
 
 <a id="fontes-websites-3d"></a>
 <details>
-<summary><strong>Websites 3D e interação</strong> · 18 fontes</summary>
+<summary><strong>Websites 3D e interação</strong> · 25 fontes</summary>
 
 - **Three.js** (`SIN3D-046`) — Motor JavaScript para experiências 3D WebGL/WebGPU e renderização no navegador. **Serve para:** Web|JS|WebGL.
   **URL completa:** <https://threejs.org/> · **Acesso:** Grátis · **Freemium:** Não.
@@ -901,12 +1143,26 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
   **URL completa:** <https://www.babylonjs.com/viewer/> · **Acesso:** Grátis · **Freemium:** Não.
 - **Needle Engine** (`SIN3D-063`) — Ferramentas de exportação e experiências 3D interativas na web. **Serve para:** Web|Unity|Blender.
   **URL completa:** <https://needle.tools/> · **Acesso:** Freemium · **Freemium:** Sim.
+- **Unreal — Pixel Streaming frontend** (`SIN3D-324`) — Streaming 3D Unreal para navegadores **Serve para:** Streaming 3D Unreal para navegadores.
+  **URL completa:** <https://dev.epicgames.com/documentation/en-us/unreal-engine/pixel-streaming-in-unreal-engine> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Three.js — exemplos** (`SIN3D-335`) — Exemplos oficiais de geometria, shaders e GLTFLoader **Serve para:** Exemplos oficiais de geometria, shaders e GLTFLoader.
+  **URL completa:** <https://threejs.org/examples/> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Three.js — documentação API** (`SIN3D-336`) — Documentação de classes e render do Three.js **Serve para:** Documentação de classes e render do Three.js.
+  **URL completa:** <https://threejs.org/docs/> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Babylon.js — documentação** (`SIN3D-337`) — Motor web 3D e documentação oficial **Serve para:** Motor web 3D e documentação oficial.
+  **URL completa:** <https://doc.babylonjs.com/> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **A-Frame — documentação** (`SIN3D-338`) — Framework HTML para cenas VR/AR **Serve para:** Framework HTML para cenas VR/AR.
+  **URL completa:** <https://aframe.io/docs/> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **PlayCanvas — documentação** (`SIN3D-339`) — Engine web 3D e ferramentas de visualização **Serve para:** Engine web 3D e ferramentas de visualização.
+  **URL completa:** <https://developer.playcanvas.com/> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **WebGPU — especificação** (`SIN3D-340`) — API gráfica web moderna e recursos GPU **Serve para:** API gráfica web moderna e recursos GPU.
+  **URL completa:** <https://www.w3.org/TR/webgpu/> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
 
 </details>
 
 <a id="fontes-xr-ar-vr"></a>
 <details>
-<summary><strong>Realidade estendida (AR, VR, MR)</strong> · 4 fontes</summary>
+<summary><strong>Realidade estendida (AR, VR, MR)</strong> · 6 fontes</summary>
 
 - **Apple RealityKit** (`SIN3D-153`) — Ferramentas Apple para realidade aumentada. **Serve para:** Integrar objetos 3D em experiências de AR..
   **URL completa:** <https://developer.apple.com/augmented-reality/> · **Acesso:** Gratuito/condicionado · **Freemium:** A confirmar.
@@ -916,16 +1172,19 @@ Este é o índice **integral das fontes cadastradas**, organizado por finalidade
   **URL completa:** <https://www.w3.org/TR/webxr/> · **Acesso:** Gratuito · **Freemium:** A confirmar.
 - **OpenXR** (`SIN3D-156`) — Padrão para interoperabilidade de aplicações XR. **Serve para:** Evitar dependência de um único headset..
   **URL completa:** <https://www.khronos.org/openxr/> · **Acesso:** Gratuito · **Freemium:** A confirmar.
+- **Unity AR Foundation** (`SIN3D-329`) — SDK multi-AR para Unity e dispositivos móveis **Serve para:** SDK multi-AR para Unity e dispositivos móveis.
+  **URL completa:** <https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@6.0/manual/index.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
+- **Unity XR Interaction Toolkit** (`SIN3D-330`) — Ferramentas de interação VR/AR em Unity **Serve para:** Ferramentas de interação VR/AR em Unity.
+  **URL completa:** <https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0/manual/index.html> · **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente.
 
 </details>
 
 ### Portais e documentação complementares
 
-Além das 238 fontes cadastradas, os guias técnicos citam 29 URLs auxiliares e portais do próprio ecossistema. Elas ficam listadas aqui para ninguém depender de procurar o endereço em dezenas de arquivos.
+Além das 368 fontes cadastradas, os guias técnicos citam 25 URLs auxiliares e portais do próprio ecossistema. Elas ficam listadas aqui para ninguém depender de procurar o endereço em dezenas de arquivos.
 
 #### Animação e rigging
 
-- **SideFX KineFX — rig e animação:** Documentação Houdini para rigs, retargeting e animação procedural. **URL completa:** <https://www.sidefx.com/docs/houdini/character/kinefx/index.html>.
 - **Manual Blender — armatures:** Rigs, armaduras e estruturas ósseas para personagens. **URL completa:** <https://docs.blender.org/manual/en/latest/animation/armatures/>.
 - **Manual Blender — animação:** Introdução oficial a ações, keyframes, curvas e rigs. **URL completa:** <https://docs.blender.org/manual/en/latest/animation/>.
 
@@ -945,10 +1204,6 @@ Além das 238 fontes cadastradas, os guias técnicos citam 29 URLs auxiliares e 
 - **Grimório SIN — Skills canônicas:** Repositório de habilidades, governança e bibliotecas do ecossistema SIN. **URL completa:** <https://github.com/Suamarcanotopo/grimorio-skills>.
 - **Glossário de governança das Skills SIN:** Termos e normas compartilhados por repositórios de Skills. **URL completa:** <https://github.com/Suamarcanotopo/grimorio-skills/blob/main/dependencies/governanca-legivel/GLOSSARIO.md>.
 
-#### Ferramentas e programação
-
-- **Blender Python API:** API para automações, extensões e scripts Blender. **URL completa:** <https://docs.blender.org/api/current/>.
-
 #### Modelagem procedural
 
 - **Manual Blender — Geometry Nodes:** Programação visual de geometria procedural no Blender. **URL completa:** <https://docs.blender.org/manual/en/latest/modeling/geometry_nodes/>.
@@ -956,7 +1211,6 @@ Além das 238 fontes cadastradas, os guias técnicos citam 29 URLs auxiliares e 
 
 #### Motores e produção
 
-- **Documentação principal Unreal Engine:** Documentação do motor Unreal para games, cinema, AR e XR. **URL completa:** <https://dev.epicgames.com/documentation/en-us/unreal-engine>.
 - **Documentação principal Unity:** Manuais Unity para criação de games e aplicações 3D. **URL completa:** <https://docs.unity3d.com/>.
 
 #### Padrões e documentação
@@ -978,7 +1232,6 @@ Além das 238 fontes cadastradas, os guias técnicos citam 29 URLs auxiliares e 
 
 #### Websites 3D
 
-- **Three.js — API e documentação:** Documentação JavaScript para cenas 3D interativas no navegador. **URL completa:** <https://threejs.org/docs/>.
 - **React Three Fiber — introdução:** Guias de integração entre React e Three.js. **URL completa:** <https://r3f.docs.pmnd.rs/getting-started/introduction>.
 - **PlayCanvas Model Viewer:** Visualizador web para inspeção e apresentação de arquivos 3D. **URL completa:** <https://playcanvas.com/model-viewer>.
 - **Babylon Viewer — documentação:** Referência de visualização 3D para web no ecossistema Babylon. **URL completa:** <https://doc.babylonjs.com/features/featuresDeepDive/babylonViewer>.
