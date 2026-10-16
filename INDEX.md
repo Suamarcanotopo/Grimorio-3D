@@ -1,5 +1,9 @@
 # Índice por finalidade — Grimório 3D
 
+**[Abrir índice integral no README: 238 fontes, 38 nichos e 29 URLs complementares](README.md#index-geral--238-fontes-e-urls-completas)**
+
+O README agora mostra cada endereço completo, finalidade, descrição e modelo de acesso. Use esta página como índice compacto.
+
 [Voltar ao README](README.md) · [CSV](FONTES/catalogo.csv) · [JSON](FONTES/catalogo.json)
 
 | Nicho | Quantidade | Abrir catálogo |

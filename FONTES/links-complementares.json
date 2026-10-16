@@ -1,0 +1,176 @@
+[
+  {
+    "titulo": "Blender Python API",
+    "descricao": "API para automações, extensões e scripts Blender.",
+    "url": "https://docs.blender.org/api/current/",
+    "area": "Ferramentas e programação"
+  },
+  {
+    "titulo": "Documentação principal Unreal Engine",
+    "descricao": "Documentação do motor Unreal para games, cinema, AR e XR.",
+    "url": "https://dev.epicgames.com/documentation/en-us/unreal-engine",
+    "area": "Motores e produção"
+  },
+  {
+    "titulo": "Documentação principal Unity",
+    "descricao": "Manuais Unity para criação de games e aplicações 3D.",
+    "url": "https://docs.unity3d.com/",
+    "area": "Motores e produção"
+  },
+  {
+    "titulo": "Three.js — API e documentação",
+    "descricao": "Documentação JavaScript para cenas 3D interativas no navegador.",
+    "url": "https://threejs.org/docs/",
+    "area": "Websites 3D"
+  },
+  {
+    "titulo": "React Three Fiber — introdução",
+    "descricao": "Guias de integração entre React e Three.js.",
+    "url": "https://r3f.docs.pmnd.rs/getting-started/introduction",
+    "area": "Websites 3D"
+  },
+  {
+    "titulo": "Khronos Group — padrões",
+    "descricao": "Organização que mantém padrões como glTF, KTX e OpenXR.",
+    "url": "https://www.khronos.org/",
+    "area": "Padrões e documentação"
+  },
+  {
+    "titulo": "PlayCanvas Model Viewer",
+    "descricao": "Visualizador web para inspeção e apresentação de arquivos 3D.",
+    "url": "https://playcanvas.com/model-viewer",
+    "area": "Websites 3D"
+  },
+  {
+    "titulo": "Babylon Viewer — documentação",
+    "descricao": "Referência de visualização 3D para web no ecossistema Babylon.",
+    "url": "https://doc.babylonjs.com/features/featuresDeepDive/babylonViewer",
+    "area": "Websites 3D"
+  },
+  {
+    "titulo": "Adobe Substance — UV Tiles/UDIM",
+    "descricao": "Tutorial sobre materiais e UV em múltiplos tiles para produção avançada.",
+    "url": "https://www.adobe.com/learn/substance-3d-painter/web/working-with-uv-tiles-udim-in-substance-3d-painter",
+    "area": "Texturas e materiais"
+  },
+  {
+    "titulo": "SideFX KineFX — rig e animação",
+    "descricao": "Documentação Houdini para rigs, retargeting e animação procedural.",
+    "url": "https://www.sidefx.com/docs/houdini/character/kinefx/index.html",
+    "area": "Animação e rigging"
+  },
+  {
+    "titulo": "AliceVision",
+    "descricao": "Projeto aberto de fotogrametria e reconstrução a partir de fotos.",
+    "url": "https://alicevision.org/",
+    "area": "Captura e fotogrametria"
+  },
+  {
+    "titulo": "Manual Blender — materiais",
+    "descricao": "Conceitos e configuração de materiais dentro do Blender.",
+    "url": "https://docs.blender.org/manual/en/latest/render/materials/",
+    "area": "Texturas e materiais"
+  },
+  {
+    "titulo": "Manual Blender — arquivos",
+    "descricao": "Gestão de arquivos de projeto, vínculos e salvamento.",
+    "url": "https://docs.blender.org/manual/en/latest/files/",
+    "area": "Blender e ferramentas"
+  },
+  {
+    "titulo": "Manual Blender — importação e exportação",
+    "descricao": "Como trocar formatos de projetos e assets 3D.",
+    "url": "https://docs.blender.org/manual/en/latest/files/import_export/",
+    "area": "Blender e ferramentas"
+  },
+  {
+    "titulo": "Manual Blender — armatures",
+    "descricao": "Rigs, armaduras e estruturas ósseas para personagens.",
+    "url": "https://docs.blender.org/manual/en/latest/animation/armatures/",
+    "area": "Animação e rigging"
+  },
+  {
+    "titulo": "model-viewer — documentação",
+    "descricao": "Propriedades do componente para exibir GLB e modos AR.",
+    "url": "https://modelviewer.dev/docs/",
+    "area": "Websites 3D"
+  },
+  {
+    "titulo": "Google Scene Viewer — guia técnico",
+    "descricao": "Detalhes de apresentação 3D e AR no Android.",
+    "url": "https://developers.google.com/ar/develop/scene-viewer",
+    "area": "Realidade aumentada"
+  },
+  {
+    "titulo": "Portal de desenvolvedores Snap",
+    "descricao": "Central de documentação de Lens Studio e Camera Kit.",
+    "url": "https://developers.snap.com/",
+    "area": "Realidade aumentada"
+  },
+  {
+    "titulo": "Meta XR — renderização avançada Unreal",
+    "descricao": "Práticas de performance em renderização para experiências Meta XR.",
+    "url": "https://developers.meta.com/vr/documentation/unreal/unreal-advanced-rendering/",
+    "area": "Realidade aumentada"
+  },
+  {
+    "titulo": "web.dev — performance",
+    "descricao": "Boas práticas e medições de carregamento e interação na web.",
+    "url": "https://web.dev/learn/performance",
+    "area": "Websites 3D"
+  },
+  {
+    "titulo": "Manual Blender — malhas",
+    "descricao": "Estrutura de vértices, arestas, faces e operações de modelagem.",
+    "url": "https://docs.blender.org/manual/en/latest/modeling/meshes/",
+    "area": "Blender e ferramentas"
+  },
+  {
+    "titulo": "Manual Blender — animação",
+    "descricao": "Introdução oficial a ações, keyframes, curvas e rigs.",
+    "url": "https://docs.blender.org/manual/en/latest/animation/",
+    "area": "Animação e rigging"
+  },
+  {
+    "titulo": "Manual Blender — modelagem",
+    "descricao": "Visão geral de ferramentas de modelagem e superfícies.",
+    "url": "https://docs.blender.org/manual/en/latest/modeling/",
+    "area": "Blender e ferramentas"
+  },
+  {
+    "titulo": "Manual Blender — Geometry Nodes",
+    "descricao": "Programação visual de geometria procedural no Blender.",
+    "url": "https://docs.blender.org/manual/en/latest/modeling/geometry_nodes/",
+    "area": "Modelagem procedural"
+  },
+  {
+    "titulo": "Manual Blender — escultura",
+    "descricao": "Guia oficial da escultura digital e seus pincéis.",
+    "url": "https://docs.blender.org/manual/en/latest/sculpt_paint/sculpting/",
+    "area": "Modelagem procedural"
+  },
+  {
+    "titulo": "Portal Snap Lens Studio",
+    "descricao": "Guias e documentação sobre efeitos de câmera e AR social.",
+    "url": "https://developers.snap.com/lens-studio/",
+    "area": "Realidade aumentada"
+  },
+  {
+    "titulo": "TikTok Effect House — portal",
+    "descricao": "Centro oficial para produzir e publicar efeitos do TikTok.",
+    "url": "https://effecthouse.tiktok.com/",
+    "area": "Realidade aumentada"
+  },
+  {
+    "titulo": "Grimório SIN — Skills canônicas",
+    "descricao": "Repositório de habilidades, governança e bibliotecas do ecossistema SIN.",
+    "url": "https://github.com/Suamarcanotopo/grimorio-skills",
+    "area": "Ecossistema SIN"
+  },
+  {
+    "titulo": "Glossário de governança das Skills SIN",
+    "descricao": "Termos e normas compartilhados por repositórios de Skills.",
+    "url": "https://github.com/Suamarcanotopo/grimorio-skills/blob/main/dependencies/governanca-legivel/GLOSSARIO.md",
+    "area": "Ecossistema SIN"
+  }
+]
