@@ -1,6 +1,6 @@
 # modelagem procedural — Grimório 3D
 
-**15 referências**, com finalidade e limites de direitos. [Índice](../../INDEX.md).
+18 fontes com orientações em português. [Índice](../../INDEX.md).
 
 ## Blender
 
@@ -10,17 +10,17 @@
 
 **URL:** https://www.blender.org/
 
-**Para que serve:** Modelagem|Terrenos
+**Finalidade:** Modelagem|Terrenos
 
-**Como começar:** Faça um exemplo parametrizado reprodutível com poucos nós.
+**Como usar:** Faça um exemplo parametrizado reprodutível com poucos nós.
 
-**Dica:** Armazene semente e versões para repetir o resultado.
+**Truque:** Armazene semente e versões para repetir o resultado.
 
 **Acesso:** Grátis · **Freemium:** Não
 
-**Direitos:** Verificar licença do software e conteúdo
+**Licença:** Verificar licença do software e conteúdo
 
-**Status:** Página principal catalogada; conferir termos atuais antes do uso
+**Verificação:** Página principal catalogada; conferir termos atuais antes do uso
 
 ## Material Maker
 
@@ -30,17 +30,17 @@
 
 **URL:** https://www.materialmaker.org/
 
-**Para que serve:** Modelagem|Terrenos
+**Finalidade:** Modelagem|Terrenos
 
-**Como começar:** Faça um exemplo parametrizado reprodutível com poucos nós.
+**Como usar:** Faça um exemplo parametrizado reprodutível com poucos nós.
 
-**Dica:** Armazene semente e versões para repetir o resultado.
+**Truque:** Armazene semente e versões para repetir o resultado.
 
 **Acesso:** Grátis · **Freemium:** Não
 
-**Direitos:** Verificar licença do software e conteúdo
+**Licença:** Verificar licença do software e conteúdo
 
-**Status:** Página principal catalogada; conferir termos atuais antes do uso
+**Verificação:** Página principal catalogada; conferir termos atuais antes do uso
 
 ## Houdini
 
@@ -50,17 +50,17 @@
 
 **URL:** https://www.sidefx.com/products/houdini/
 
-**Para que serve:** Modelagem|Terrenos
+**Finalidade:** Modelagem|Terrenos
 
-**Como começar:** Faça um exemplo parametrizado reprodutível com poucos nós.
+**Como usar:** Faça um exemplo parametrizado reprodutível com poucos nós.
 
-**Dica:** Armazene semente e versões para repetir o resultado.
+**Truque:** Armazene semente e versões para repetir o resultado.
 
 **Acesso:** Freemium · **Freemium:** Sim
 
-**Direitos:** Verificar direitos do plano; versões gratuitas podem restringir uso comercial
+**Licença:** Verificar direitos do plano; versões gratuitas podem restringir uso comercial
 
-**Status:** Página principal catalogada; conferir termos atuais antes do uso
+**Verificação:** Página principal catalogada; conferir termos atuais antes do uso
 
 ## Gaea
 
@@ -70,17 +70,17 @@
 
 **URL:** https://quadspinner.com/
 
-**Para que serve:** Modelagem|Terrenos
+**Finalidade:** Modelagem|Terrenos
 
-**Como começar:** Faça um exemplo parametrizado reprodutível com poucos nós.
+**Como usar:** Faça um exemplo parametrizado reprodutível com poucos nós.
 
-**Dica:** Armazene semente e versões para repetir o resultado.
+**Truque:** Armazene semente e versões para repetir o resultado.
 
 **Acesso:** Freemium · **Freemium:** Sim
 
-**Direitos:** Verificar direitos do plano; versões gratuitas podem restringir uso comercial
+**Licença:** Verificar direitos do plano; versões gratuitas podem restringir uso comercial
 
-**Status:** Página principal catalogada; conferir termos atuais antes do uso
+**Verificação:** Página principal catalogada; conferir termos atuais antes do uso
 
 ## World Machine
 
@@ -90,17 +90,17 @@
 
 **URL:** https://www.world-machine.com/
 
-**Para que serve:** Modelagem|Terrenos
+**Finalidade:** Modelagem|Terrenos
 
-**Como começar:** Faça um exemplo parametrizado reprodutível com poucos nós.
+**Como usar:** Faça um exemplo parametrizado reprodutível com poucos nós.
 
-**Dica:** Armazene semente e versões para repetir o resultado.
+**Truque:** Armazene semente e versões para repetir o resultado.
 
 **Acesso:** Freemium · **Freemium:** Sim
 
-**Direitos:** Verificar direitos do plano; versões gratuitas podem restringir uso comercial
+**Licença:** Verificar direitos do plano; versões gratuitas podem restringir uso comercial
 
-**Status:** Página principal catalogada; conferir termos atuais antes do uso
+**Verificação:** Página principal catalogada; conferir termos atuais antes do uso
 
 ## World Creator
 
@@ -110,17 +110,17 @@
 
 **URL:** https://www.world-creator.com/
 
-**Para que serve:** Modelagem|Terrenos
+**Finalidade:** Modelagem|Terrenos
 
-**Como começar:** Faça um exemplo parametrizado reprodutível com poucos nós.
+**Como usar:** Faça um exemplo parametrizado reprodutível com poucos nós.
 
-**Dica:** Armazene semente e versões para repetir o resultado.
+**Truque:** Armazene semente e versões para repetir o resultado.
 
 **Acesso:** Pago · **Freemium:** Não
 
-**Direitos:** Verificar direitos do plano; versões gratuitas podem restringir uso comercial
+**Licença:** Verificar direitos do plano; versões gratuitas podem restringir uso comercial
 
-**Status:** Página principal catalogada; conferir termos atuais antes do uso
+**Verificação:** Página principal catalogada; conferir termos atuais antes do uso
 
 ## SpeedTree
 
@@ -130,17 +130,17 @@
 
 **URL:** https://speedtree.com/
 
-**Para que serve:** Modelagem|Terrenos
+**Finalidade:** Modelagem|Terrenos
 
-**Como começar:** Faça um exemplo parametrizado reprodutível com poucos nós.
+**Como usar:** Faça um exemplo parametrizado reprodutível com poucos nós.
 
-**Dica:** Armazene semente e versões para repetir o resultado.
+**Truque:** Armazene semente e versões para repetir o resultado.
 
 **Acesso:** Pago · **Freemium:** Não
 
-**Direitos:** Verificar direitos do plano; versões gratuitas podem restringir uso comercial
+**Licença:** Verificar direitos do plano; versões gratuitas podem restringir uso comercial
 
-**Status:** Página principal catalogada; conferir termos atuais antes do uso
+**Verificação:** Página principal catalogada; conferir termos atuais antes do uso
 
 ## Cascadeur
 
@@ -150,17 +150,17 @@
 
 **URL:** https://cascadeur.com/
 
-**Para que serve:** Modelagem|Terrenos
+**Finalidade:** Modelagem|Terrenos
 
-**Como começar:** Faça um exemplo parametrizado reprodutível com poucos nós.
+**Como usar:** Faça um exemplo parametrizado reprodutível com poucos nós.
 
-**Dica:** Armazene semente e versões para repetir o resultado.
+**Truque:** Armazene semente e versões para repetir o resultado.
 
 **Acesso:** Freemium · **Freemium:** Sim
 
-**Direitos:** Verificar direitos do plano; versões gratuitas podem restringir uso comercial
+**Licença:** Verificar direitos do plano; versões gratuitas podem restringir uso comercial
 
-**Status:** Página principal catalogada; conferir termos atuais antes do uso
+**Verificação:** Página principal catalogada; conferir termos atuais antes do uso
 
 ## SideFX Houdini — manual
 
@@ -170,17 +170,17 @@
 
 **URL:** https://www.sidefx.com/docs/houdini/index.html
 
-**Para que serve:** Documentação geral de geometria procedural e efeitos
+**Finalidade:** Documentação geral de geometria procedural e efeitos
 
-**Como começar:** Comece por rede de nós de geometria simples
+**Como usar:** Comece por rede de nós de geometria simples
 
-**Dica:** Faça um pequeno teste autoral e registre a versão antes de aplicar em produção. Comece por rede de nós de geometria simples.
+**Truque:** Faça um pequeno teste autoral e registre a versão antes de aplicar em produção. Comece por rede de nós de geometria simples.
 
 **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma
 
-**Direitos:** Documentação para estudo; licença de exemplos e assets não homologada
+**Licença:** Documentação para estudo; licença de exemplos e assets não homologada
 
-**Status:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
+**Verificação:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
 
 ## SideFX Houdini — referências de nós
 
@@ -190,17 +190,17 @@
 
 **URL:** https://www.sidefx.com/docs/houdini/ref/index.html
 
-**Para que serve:** Documentação de SOP, LOP, VOP, TOP e CHOP
+**Finalidade:** Documentação de SOP, LOP, VOP, TOP e CHOP
 
-**Como começar:** Compare entradas e saídas de três nós
+**Como usar:** Compare entradas e saídas de três nós
 
-**Dica:** Faça um pequeno teste autoral e registre a versão antes de aplicar em produção. Compare entradas e saídas de três nós.
+**Truque:** Faça um pequeno teste autoral e registre a versão antes de aplicar em produção. Compare entradas e saídas de três nós.
 
 **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma
 
-**Direitos:** Documentação para estudo; licença de exemplos e assets não homologada
+**Licença:** Documentação para estudo; licença de exemplos e assets não homologada
 
-**Status:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
+**Verificação:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
 
 ## SideFX Bifrost — help Autodesk
 
@@ -210,17 +210,17 @@
 
 **URL:** https://help.autodesk.com/view/BIFROST/ENU/
 
-**Para que serve:** Documentação oficial de grafos procedurais Maya
+**Finalidade:** Documentação oficial de grafos procedurais Maya
 
-**Como começar:** Monte rede básica de efeito procedural
+**Como usar:** Monte rede básica de efeito procedural
 
-**Dica:** Faça um pequeno teste autoral e registre a versão antes de aplicar em produção. Monte rede básica de efeito procedural.
+**Truque:** Faça um pequeno teste autoral e registre a versão antes de aplicar em produção. Monte rede básica de efeito procedural.
 
 **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma
 
-**Direitos:** Documentação para estudo; licença de exemplos e assets não homologada
+**Licença:** Documentação para estudo; licença de exemplos e assets não homologada
 
-**Status:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
+**Verificação:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
 
 ## Blender — Geometry Nodes
 
@@ -230,17 +230,17 @@
 
 **URL:** https://docs.blender.org/manual/en/latest/modeling/geometry_nodes/index.html
 
-**Para que serve:** Construção procedural e variação de instâncias
+**Finalidade:** Construção procedural e variação de instâncias
 
-**Como começar:** Crie terreno instanciado com seed
+**Como usar:** Crie terreno instanciado com seed
 
-**Dica:** Siga o manual e faça uma medição comparativa com arquivo próprio. Crie terreno instanciado com seed.
+**Truque:** Siga o manual e faça uma medição comparativa com arquivo próprio. Crie terreno instanciado com seed.
 
 **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente
 
-**Direitos:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
+**Licença:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
 
-**Status:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa
+**Verificação:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa
 
 ## SideFX — Vellum
 
@@ -250,17 +250,17 @@
 
 **URL:** https://www.sidefx.com/docs/houdini/vellum/index.html
 
-**Para que serve:** Simulação procedural de tecidos, cabelos e grãos
+**Finalidade:** Simulação procedural de tecidos, cabelos e grãos
 
-**Como começar:** Faça pano em queda com parâmetros registrados
+**Como usar:** Faça pano em queda com parâmetros registrados
 
-**Dica:** Siga o manual e faça uma medição comparativa com arquivo próprio. Faça pano em queda com parâmetros registrados.
+**Truque:** Siga o manual e faça uma medição comparativa com arquivo próprio. Faça pano em queda com parâmetros registrados.
 
 **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente
 
-**Direitos:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
+**Licença:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
 
-**Status:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa
+**Verificação:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa
 
 ## SideFX — PDG TOPs
 
@@ -270,17 +270,17 @@
 
 **URL:** https://www.sidefx.com/docs/houdini/tops/index.html
 
-**Para que serve:** Geração de tarefas e dependências no Houdini
+**Finalidade:** Geração de tarefas e dependências no Houdini
 
-**Como começar:** Execute dois passos com ordem registrada
+**Como usar:** Execute dois passos com ordem registrada
 
-**Dica:** Siga o manual e faça uma medição comparativa com arquivo próprio. Execute dois passos com ordem registrada.
+**Truque:** Siga o manual e faça uma medição comparativa com arquivo próprio. Execute dois passos com ordem registrada.
 
 **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente
 
-**Direitos:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
+**Licença:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
 
-**Status:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa
+**Verificação:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa
 
 ## SideFX — KineFX
 
@@ -290,14 +290,74 @@
 
 **URL:** https://www.sidefx.com/docs/houdini/character/kinefx/index.html
 
-**Para que serve:** Rigging e movimento procedural no Houdini
+**Finalidade:** Rigging e movimento procedural no Houdini
 
-**Como começar:** Teste retargeting em esqueleto próprio
+**Como usar:** Teste retargeting em esqueleto próprio
 
-**Dica:** Siga o manual e faça uma medição comparativa com arquivo próprio. Teste retargeting em esqueleto próprio.
+**Truque:** Siga o manual e faça uma medição comparativa com arquivo próprio. Teste retargeting em esqueleto próprio.
 
 **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente
 
-**Direitos:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
+**Licença:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
 
-**Status:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa
+**Verificação:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa
+
+## NVIDIA Omniverse — documentação
+
+**ID:** SIN3D-356
+
+**O que é:** SDKs, APIs e renderização USD e simulação 3D
+
+**URL:** https://docs.nvidia.com/omniverse/
+
+**Finalidade:** SDKs, APIs e renderização USD e simulação 3D
+
+**Como usar:** Confira requisitos e compare cenas USD
+
+**Truque:** Faça protótipo simples e guarde autor, versão e fonte. Confira requisitos e compare cenas USD.
+
+**Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item
+
+**Licença:** Link de estudo; reutilização de material não homologada
+
+**Verificação:** Portal técnico oficial ou associação/setor reconhecido; rotas específicas sem monitoramento automático
+
+## Omniverse OpenUSD Developer Guide
+
+**ID:** SIN3D-357
+
+**O que é:** Desenvolvimento de scripts e extensões em USD no Omniverse
+
+**URL:** https://docs.omniverse.nvidia.com/dev-guide/latest/dev-usd.html
+
+**Finalidade:** Desenvolvimento de scripts e extensões em USD no Omniverse
+
+**Como usar:** Estude componentes de cenas e composição
+
+**Truque:** Faça protótipo simples e guarde autor, versão e fonte. Estude componentes de cenas e composição.
+
+**Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item
+
+**Licença:** Link de estudo; reutilização de material não homologada
+
+**Verificação:** Portal técnico oficial ou associação/setor reconhecido; rotas específicas sem monitoramento automático
+
+## NVIDIA Omniverse — Developer
+
+**ID:** SIN3D-358
+
+**O que é:** Visão em português da plataforma de colaboração USD
+
+**URL:** https://developer.nvidia.com/pt-br/nvidia-omniverse-platform
+
+**Finalidade:** Visão em português da plataforma de colaboração USD
+
+**Como usar:** Avalie pipeline com arquivo de origem autoral
+
+**Truque:** Faça protótipo simples e guarde autor, versão e fonte. Avalie pipeline com arquivo de origem autoral.
+
+**Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item
+
+**Licença:** Link de estudo; reutilização de material não homologada
+
+**Verificação:** Portal técnico oficial ou associação/setor reconhecido; rotas específicas sem monitoramento automático

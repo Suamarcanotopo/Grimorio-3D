@@ -1,6 +1,6 @@
 # fotogrametria captura — Grimório 3D
 
-**7 referências**, com finalidade e limites de direitos. [Índice](../../INDEX.md).
+9 fontes com orientações em português. [Índice](../../INDEX.md).
 
 ## Polycam
 
@@ -10,17 +10,17 @@
 
 **URL:** https://poly.cam/
 
-**Para que serve:** Scanning|AR
+**Finalidade:** Scanning|AR
 
-**Como começar:** Capture objeto autorizado com várias vistas e iluminação constante.
+**Como usar:** Capture objeto autorizado com várias vistas e iluminação constante.
 
-**Dica:** Documente consentimento e corrija superfícies reflexivas.
+**Truque:** Documente consentimento e corrija superfícies reflexivas.
 
 **Acesso:** Freemium · **Freemium:** Sim
 
-**Direitos:** Verificar direitos de captura e plano
+**Licença:** Verificar direitos de captura e plano
 
-**Status:** Página principal catalogada; conferir termos atuais antes do uso
+**Verificação:** Página principal catalogada; conferir termos atuais antes do uso
 
 ## RealityScan
 
@@ -30,17 +30,17 @@
 
 **URL:** https://www.realityscan.com/
 
-**Para que serve:** Scanning|AR
+**Finalidade:** Scanning|AR
 
-**Como começar:** Capture objeto autorizado com várias vistas e iluminação constante.
+**Como usar:** Capture objeto autorizado com várias vistas e iluminação constante.
 
-**Dica:** Documente consentimento e corrija superfícies reflexivas.
+**Truque:** Documente consentimento e corrija superfícies reflexivas.
 
 **Acesso:** Freemium · **Freemium:** Sim
 
-**Direitos:** Verificar direitos de captura e plano
+**Licença:** Verificar direitos de captura e plano
 
-**Status:** Página principal catalogada; conferir termos atuais antes do uso
+**Verificação:** Página principal catalogada; conferir termos atuais antes do uso
 
 ## Scaniverse
 
@@ -50,17 +50,17 @@
 
 **URL:** https://scaniverse.com/
 
-**Para que serve:** Scanning|AR
+**Finalidade:** Scanning|AR
 
-**Como começar:** Capture objeto autorizado com várias vistas e iluminação constante.
+**Como usar:** Capture objeto autorizado com várias vistas e iluminação constante.
 
-**Dica:** Documente consentimento e corrija superfícies reflexivas.
+**Truque:** Documente consentimento e corrija superfícies reflexivas.
 
 **Acesso:** Grátis · **Freemium:** Não
 
-**Direitos:** Verificar direitos de captura e plano
+**Licença:** Verificar direitos de captura e plano
 
-**Status:** Página principal catalogada; conferir termos atuais antes do uso
+**Verificação:** Página principal catalogada; conferir termos atuais antes do uso
 
 ## KIRI Engine
 
@@ -70,17 +70,17 @@
 
 **URL:** https://www.kiriengine.app/
 
-**Para que serve:** Scanning|AR
+**Finalidade:** Scanning|AR
 
-**Como começar:** Capture objeto autorizado com várias vistas e iluminação constante.
+**Como usar:** Capture objeto autorizado com várias vistas e iluminação constante.
 
-**Dica:** Documente consentimento e corrija superfícies reflexivas.
+**Truque:** Documente consentimento e corrija superfícies reflexivas.
 
 **Acesso:** Freemium · **Freemium:** Sim
 
-**Direitos:** Verificar direitos de captura e plano
+**Licença:** Verificar direitos de captura e plano
 
-**Status:** Página principal catalogada; conferir termos atuais antes do uso
+**Verificação:** Página principal catalogada; conferir termos atuais antes do uso
 
 ## Agisoft Metashape
 
@@ -90,17 +90,17 @@
 
 **URL:** https://www.agisoft.com/
 
-**Para que serve:** Reconstruir objetos, terrenos e fachadas.
+**Finalidade:** Reconstruir objetos, terrenos e fachadas.
 
-**Como começar:** Capture fotos com sobreposição e processe alinhamento.
+**Como usar:** Capture fotos com sobreposição e processe alinhamento.
 
-**Dica:** Calibre escala usando pontos de controle.
+**Truque:** Calibre escala usando pontos de controle.
 
 **Acesso:** Pago · **Freemium:** A confirmar
 
-**Direitos:** Não homologado: verificar termos do item/plano
+**Licença:** Não homologado: verificar termos do item/plano
 
-**Status:** Fonte catalogada; termos e atualidade exigem revalidação
+**Verificação:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## COLMAP
 
@@ -110,17 +110,17 @@
 
 **URL:** https://colmap.github.io/
 
-**Para que serve:** Aprender fotogrametria e pipelines de pesquisa.
+**Finalidade:** Aprender fotogrametria e pipelines de pesquisa.
 
-**Como começar:** Rode dataset pequeno e exporte nuvem de pontos.
+**Como usar:** Rode dataset pequeno e exporte nuvem de pontos.
 
-**Dica:** Separe erro de câmera de erro da malha.
+**Truque:** Separe erro de câmera de erro da malha.
 
 **Acesso:** Gratuito · **Freemium:** A confirmar
 
-**Direitos:** Não homologado: verificar termos do item/plano
+**Licença:** Não homologado: verificar termos do item/plano
 
-**Status:** Fonte catalogada; termos e atualidade exigem revalidação
+**Verificação:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## Meshroom AliceVision
 
@@ -130,14 +130,54 @@
 
 **URL:** https://meshroom-manual.readthedocs.io/en/latest/
 
-**Para que serve:** Manual de reconstrução fotogramétrica em Meshroom
+**Finalidade:** Manual de reconstrução fotogramétrica em Meshroom
 
-**Como começar:** Compare poses e reprojection errors
+**Como usar:** Compare poses e reprojection errors
 
-**Dica:** Siga o manual e faça uma medição comparativa com arquivo próprio. Compare poses e reprojection errors.
+**Truque:** Siga o manual e faça uma medição comparativa com arquivo próprio. Compare poses e reprojection errors.
 
 **Acesso:** Manual ou repositório público; funcionalidades/cursos podem ter cobrança · **Freemium:** Consultar produto e disponibilidade vigente
 
-**Direitos:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
+**Licença:** Estudo permitido sob termos da documentação; direitos de exemplos/assets não homologados
 
-**Status:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa
+**Verificação:** Curadoria de domínio oficial ou técnico; validação HTTP e licença por item não completa
+
+## 3D Slicer — documentação
+
+**ID:** SIN3D-362
+
+**O que é:** Plataforma de visualização volumétrica e segmentação 3D médica
+
+**URL:** https://slicer.readthedocs.io/en/latest/
+
+**Finalidade:** Plataforma de visualização volumétrica e segmentação 3D médica
+
+**Como usar:** Use dataset autorizado e identifique limites clínicos
+
+**Truque:** Faça protótipo simples e guarde autor, versão e fonte. Use dataset autorizado e identifique limites clínicos.
+
+**Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item
+
+**Licença:** Link de estudo; reutilização de material não homologada
+
+**Verificação:** Portal técnico oficial ou associação/setor reconhecido; rotas específicas sem monitoramento automático
+
+## 3D Slicer — site oficial
+
+**ID:** SIN3D-363
+
+**O que é:** Ferramenta científica 3D aberta para imagens biomédicas
+
+**URL:** https://www.slicer.org/
+
+**Finalidade:** Ferramenta científica 3D aberta para imagens biomédicas
+
+**Como usar:** Estude segmentação em dataset de demonstração
+
+**Truque:** Faça protótipo simples e guarde autor, versão e fonte. Estude segmentação em dataset de demonstração.
+
+**Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item
+
+**Licença:** Link de estudo; reutilização de material não homologada
+
+**Verificação:** Portal técnico oficial ou associação/setor reconhecido; rotas específicas sem monitoramento automático

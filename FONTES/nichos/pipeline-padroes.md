@@ -1,6 +1,6 @@
-# pipeline padroes — fonte de estudo Grimório 3D
+# pipeline padroes — Grimório 3D
 
-**10 referências**, com finalidade, acesso e ressalvas de direitos. [Índice](../../INDEX.md).
+18 fontes com orientações em português. [Índice](../../INDEX.md).
 
 ## NVIDIA Omniverse
 
@@ -10,17 +10,17 @@
 
 **URL:** https://www.nvidia.com/en-us/omniverse/
 
-**Para que usar:** Integrar cenas e simuladores 3D.
+**Finalidade:** Integrar cenas e simuladores 3D.
 
-**Como começar:** Estude exemplos USD e requisitos de GPU.
+**Como usar:** Estude exemplos USD e requisitos de GPU.
 
-**Dica:** Não confundir plataforma com direito sobre datasets.
+**Truque:** Não confundir plataforma com direito sobre datasets.
 
 **Acesso:** A confirmar · **Freemium:** A confirmar
 
-**Direitos:** Não homologado: verificar termos do item/plano
+**Licença:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Verificação:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## OpenUSD
 
@@ -30,17 +30,17 @@
 
 **URL:** https://openusd.org/
 
-**Para que usar:** Trocar grandes cenas entre ferramentas.
+**Finalidade:** Trocar grandes cenas entre ferramentas.
 
-**Como começar:** Estude composição de layers e referências.
+**Como usar:** Estude composição de layers e referências.
 
-**Dica:** Não confunda USD de edição com GLB de entrega web.
+**Truque:** Não confunda USD de edição com GLB de entrega web.
 
 **Acesso:** Gratuito · **Freemium:** A confirmar
 
-**Direitos:** Não homologado: verificar termos do item/plano
+**Licença:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Verificação:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## Khronos glTF
 
@@ -50,17 +50,17 @@
 
 **URL:** https://www.khronos.org/gltf/
 
-**Para que usar:** Exportar modelos portáteis para web e runtime.
+**Finalidade:** Exportar modelos portáteis para web e runtime.
 
-**Como começar:** Valide um GLB 2.0 no visualizador.
+**Como usar:** Valide um GLB 2.0 no visualizador.
 
-**Dica:** Materiais nativos podem não converter integralmente.
+**Truque:** Materiais nativos podem não converter integralmente.
 
 **Acesso:** Gratuito · **Freemium:** A confirmar
 
-**Direitos:** Não homologado: verificar termos do item/plano
+**Licença:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Verificação:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## glTF 2.0 Specification
 
@@ -70,17 +70,17 @@
 
 **URL:** https://registry.khronos.org/glTF/specs/2.0/glTF-2.0.html
 
-**Para que usar:** Esclarecer limitações e contratos de exportação.
+**Finalidade:** Esclarecer limitações e contratos de exportação.
 
-**Como começar:** Consulte capítulo de formatos GLB.
+**Como usar:** Consulte capítulo de formatos GLB.
 
-**Dica:** glTF não conserva necessariamente dados de autoria.
+**Truque:** glTF não conserva necessariamente dados de autoria.
 
 **Acesso:** Gratuito · **Freemium:** A confirmar
 
-**Direitos:** Não homologado: verificar termos do item/plano
+**Licença:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Verificação:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## KTX 2.0 Specification
 
@@ -90,17 +90,17 @@
 
 **URL:** https://registry.khronos.org/KTX/specs/2.0/ktxspec.v2.html
 
-**Para que usar:** Acelerar carregamento de texturas 3D.
+**Finalidade:** Acelerar carregamento de texturas 3D.
 
-**Como começar:** Avalie suporte KTX2 no motor escolhido.
+**Como usar:** Avalie suporte KTX2 no motor escolhido.
 
-**Dica:** Teste qualidade da textura comprimida.
+**Truque:** Teste qualidade da textura comprimida.
 
 **Acesso:** Gratuito · **Freemium:** A confirmar
 
-**Direitos:** Não homologado: verificar termos do item/plano
+**Licença:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Verificação:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## SPDX SBOM Specification
 
@@ -110,17 +110,17 @@
 
 **URL:** https://spdx.dev/specifications/
 
-**Para que usar:** Montar manifesto auditável de recursos em produtos 3D.
+**Finalidade:** Montar manifesto auditável de recursos em produtos 3D.
 
-**Como começar:** Crie relação item-fonte-versão-licença.
+**Como usar:** Crie relação item-fonte-versão-licença.
 
-**Dica:** Não substituir evidência de autorização legal.
+**Truque:** Não substituir evidência de autorização legal.
 
 **Acesso:** Gratuito · **Freemium:** A confirmar
 
-**Direitos:** Não homologado: verificar termos do item/plano
+**Licença:** Não homologado: verificar termos do item/plano
 
-**Proveniência:** Ampliação Grimorio-3D 2026-10-16 · **Estado:** Fonte catalogada; termos e atualidade exigem revalidação
+**Verificação:** Fonte catalogada; termos e atualidade exigem revalidação
 
 ## Khronos 3D Commerce — guia 2.0
 
@@ -130,17 +130,17 @@
 
 **URL:** https://github.com/KhronosGroup/3DC-Asset-Creation
 
-**Para que usar:** Recomendações de criação 3D para e-commerce, games e XR
+**Finalidade:** Recomendações de criação 3D para e-commerce, games e XR
 
-**Como começar:** Leia convenções e valide um GLB de produto
+**Como usar:** Leia convenções e valide um GLB de produto
 
-**Dica:** Faça um pequeno teste autoral e registre a versão antes de aplicar em produção. Leia convenções e valide um GLB de produto.
+**Truque:** Faça um pequeno teste autoral e registre a versão antes de aplicar em produção. Leia convenções e valide um GLB de produto.
 
 **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma
 
-**Direitos:** Documentação para estudo; licença de exemplos e assets não homologada
+**Licença:** Documentação para estudo; licença de exemplos e assets não homologada
 
-**Proveniência:** ECP-Coliseu-v0.4-etapa1-curadoria-2026-10-16 · **Estado:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
+**Verificação:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
 
 ## Khronos 3D Commerce — estrutura de arquivos
 
@@ -150,17 +150,17 @@
 
 **URL:** https://github.com/KhronosGroup/3DC-Asset-Creation/blob/main/asset-creation-guidelines/full-version/sec01_FileStructure/FileStructure.md
 
-**Para que usar:** Padrões de nós, malhas, formatos e organização de assets
+**Finalidade:** Padrões de nós, malhas, formatos e organização de assets
 
-**Como começar:** Compare GLB monolítico e glTF com dependências
+**Como usar:** Compare GLB monolítico e glTF com dependências
 
-**Dica:** Faça um pequeno teste autoral e registre a versão antes de aplicar em produção. Compare GLB monolítico e glTF com dependências.
+**Truque:** Faça um pequeno teste autoral e registre a versão antes de aplicar em produção. Compare GLB monolítico e glTF com dependências.
 
 **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma
 
-**Direitos:** Documentação para estudo; licença de exemplos e assets não homologada
+**Licença:** Documentação para estudo; licença de exemplos e assets não homologada
 
-**Proveniência:** ECP-Coliseu-v0.4-etapa1-curadoria-2026-10-16 · **Estado:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
+**Verificação:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
 
 ## Khronos 3D Commerce — PDF da especificação
 
@@ -170,17 +170,17 @@
 
 **URL:** https://registry.khronos.org/3DCommerce/AssetCreation/
 
-**Para que usar:** Registro de especificações oficiais de criação de assets
+**Finalidade:** Registro de especificações oficiais de criação de assets
 
-**Como começar:** Compare revisão e data da versão vigente
+**Como usar:** Compare revisão e data da versão vigente
 
-**Dica:** Faça um pequeno teste autoral e registre a versão antes de aplicar em produção. Compare revisão e data da versão vigente.
+**Truque:** Faça um pequeno teste autoral e registre a versão antes de aplicar em produção. Compare revisão e data da versão vigente.
 
 **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma
 
-**Direitos:** Documentação para estudo; licença de exemplos e assets não homologada
+**Licença:** Documentação para estudo; licença de exemplos e assets não homologada
 
-**Proveniência:** ECP-Coliseu-v0.4-etapa1-curadoria-2026-10-16 · **Estado:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
+**Verificação:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
 
 ## SideFX Houdini — Solaris/USD
 
@@ -190,15 +190,174 @@
 
 **URL:** https://www.sidefx.com/docs/houdini/solaris/index.html
 
-**Para que usar:** Ferramentas USD de layout e construção de cenas
+**Finalidade:** Ferramentas USD de layout e construção de cenas
 
-**Como começar:** Monte uma cena USD com camadas
+**Como usar:** Monte uma cena USD com camadas
 
-**Dica:** Faça um pequeno teste autoral e registre a versão antes de aplicar em produção. Monte uma cena USD com camadas.
+**Truque:** Faça um pequeno teste autoral e registre a versão antes de aplicar em produção. Monte uma cena USD com camadas.
 
 **Acesso:** Documentação pública; serviços, cursos e ferramentas podem ser pagos · **Freemium:** Não se aplica à documentação; consultar planos da plataforma
 
-**Direitos:** Documentação para estudo; licença de exemplos e assets não homologada
+**Licença:** Documentação para estudo; licença de exemplos e assets não homologada
 
-**Proveniência:** ECP-Coliseu-v0.4-etapa1-curadoria-2026-10-16 · **Estado:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
+**Verificação:** Fonte em domínio oficial ou organização técnica reconhecida; link individual não monitorado continuamente
 
+## Khronos glTF Sample Assets
+
+**ID:** SIN3D-345
+
+**O que é:** Modelos para testar recursos e extensões glTF com créditos por item
+
+**URL:** https://github.com/KhronosGroup/glTF-Sample-Assets
+
+**Finalidade:** Modelos para testar recursos e extensões glTF com créditos por item
+
+**Como usar:** Inspecione licença antes de testar modelos
+
+**Truque:** Faça protótipo simples e guarde autor, versão e fonte. Inspecione licença antes de testar modelos.
+
+**Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item
+
+**Licença:** Link de estudo; reutilização de material não homologada
+
+**Verificação:** Portal técnico oficial ou associação/setor reconhecido; rotas específicas sem monitoramento automático
+
+## Khronos glTF Assets Browser
+
+**ID:** SIN3D-346
+
+**O que é:** Catálogo visual de modelos de testes glTF 2.0
+
+**URL:** https://github.khronos.org/glTF-Assets/
+
+**Finalidade:** Catálogo visual de modelos de testes glTF 2.0
+
+**Como usar:** Filtre variantes, materiais e arquivos de demonstração
+
+**Truque:** Faça protótipo simples e guarde autor, versão e fonte. Filtre variantes, materiais e arquivos de demonstração.
+
+**Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item
+
+**Licença:** Link de estudo; reutilização de material não homologada
+
+**Verificação:** Portal técnico oficial ou associação/setor reconhecido; rotas específicas sem monitoramento automático
+
+## Khronos glTF — coleção completa
+
+**ID:** SIN3D-347
+
+**O que é:** Lista de modelos técnicos agrupados por recursos
+
+**URL:** https://github.com/KhronosGroup/glTF-Sample-Assets/blob/main/Models/Models.md
+
+**Finalidade:** Lista de modelos técnicos agrupados por recursos
+
+**Como usar:** Teste render e leia licença individual
+
+**Truque:** Faça protótipo simples e guarde autor, versão e fonte. Teste render e leia licença individual.
+
+**Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item
+
+**Licença:** Link de estudo; reutilização de material não homologada
+
+**Verificação:** Portal técnico oficial ou associação/setor reconhecido; rotas específicas sem monitoramento automático
+
+## Khronos glTF — core
+
+**ID:** SIN3D-348
+
+**O que é:** Conjunto de modelos sem extensões glTF adicionais
+
+**URL:** https://github.com/KhronosGroup/glTF-Sample-Assets/blob/main/Models/Models-core.md
+
+**Finalidade:** Conjunto de modelos sem extensões glTF adicionais
+
+**Como usar:** Teste visualizador compatível com core
+
+**Truque:** Faça protótipo simples e guarde autor, versão e fonte. Teste visualizador compatível com core.
+
+**Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item
+
+**Licença:** Link de estudo; reutilização de material não homologada
+
+**Verificação:** Portal técnico oficial ou associação/setor reconhecido; rotas específicas sem monitoramento automático
+
+## Khronos glTF — testes escritos
+
+**ID:** SIN3D-349
+
+**O que é:** Modelos de apoio a tutoriais escritos glTF
+
+**URL:** https://github.com/KhronosGroup/glTF-Sample-Assets/blob/main/Models/Models-written.md
+
+**Finalidade:** Modelos de apoio a tutoriais escritos glTF
+
+**Como usar:** Reproduza material e observe normal maps
+
+**Truque:** Faça protótipo simples e guarde autor, versão e fonte. Reproduza material e observe normal maps.
+
+**Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item
+
+**Licença:** Link de estudo; reutilização de material não homologada
+
+**Verificação:** Portal técnico oficial ou associação/setor reconhecido; rotas específicas sem monitoramento automático
+
+## Khronos glTF — showcase
+
+**ID:** SIN3D-350
+
+**O que é:** Modelos complexos para inspeção de renderizadores
+
+**URL:** https://github.com/KhronosGroup/glTF-Sample-Assets/blob/main/Models/Models-showcase.md
+
+**Finalidade:** Modelos complexos para inspeção de renderizadores
+
+**Como usar:** Compare detalhes com viewer de referência
+
+**Truque:** Faça protótipo simples e guarde autor, versão e fonte. Compare detalhes com viewer de referência.
+
+**Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item
+
+**Licença:** Link de estudo; reutilização de material não homologada
+
+**Verificação:** Portal técnico oficial ou associação/setor reconhecido; rotas específicas sem monitoramento automático
+
+## glTF — registro de extensões
+
+**ID:** SIN3D-351
+
+**O que é:** Registro técnico de especificações glTF e suas extensões
+
+**URL:** https://registry.khronos.org/glTF/
+
+**Finalidade:** Registro técnico de especificações glTF e suas extensões
+
+**Como usar:** Verifique extensão necessária antes de exportar
+
+**Truque:** Faça protótipo simples e guarde autor, versão e fonte. Verifique extensão necessária antes de exportar.
+
+**Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item
+
+**Licença:** Link de estudo; reutilização de material não homologada
+
+**Verificação:** Portal técnico oficial ou associação/setor reconhecido; rotas específicas sem monitoramento automático
+
+## Khronos glTF — tutorial oficial
+
+**ID:** SIN3D-352
+
+**O que é:** Tutoriais oficiais para ler e compreender estrutura glTF
+
+**URL:** https://github.com/KhronosGroup/glTF-Tutorials
+
+**Finalidade:** Tutoriais oficiais para ler e compreender estrutura glTF
+
+**Como usar:** Abra modelo mínimo e identifique nodes e meshes
+
+**Truque:** Faça protótipo simples e guarde autor, versão e fonte. Abra modelo mínimo e identifique nodes e meshes.
+
+**Acesso:** Site técnico/educacional público; verificar limites de serviços pagos · **Freemium:** Conferir recursos e licença por item
+
+**Licença:** Link de estudo; reutilização de material não homologada
+
+**Verificação:** Portal técnico oficial ou associação/setor reconhecido; rotas específicas sem monitoramento automático
