@@ -1,7 +1,7 @@
 {
-  "total": 185,
+  "total": 208,
   "base": 87,
-  "adicionadas": 98,
+  "adicionadas": 121,
   "nichos": {
     "assets-marketplaces": 13,
     "games-prototipagem": 6,
@@ -30,8 +30,12 @@
     "acessibilidade-web3d": 1,
     "arquitetura-bim": 4,
     "hubs-internacionais": 11,
-    "governanca-licencas": 2
+    "governanca-licencas": 2,
+    "ar-social-plataformas": 11,
+    "meta-quest-horizon": 6,
+    "web-ar-dispositivos": 5,
+    "pipeline-blender-unreal": 1
   },
   "data_referencia": "2026-10-16",
-  "notas": "Revisão individual de licenças não concluída"
+  "notas": "Licenças e disponibilidades de plataforma exigem verificação por item. Documentação não garante uso comercial."
 }

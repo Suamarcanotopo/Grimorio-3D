@@ -33,6 +33,11 @@
 | websites 3d | 18 | [Ver fontes](FONTES/nichos/websites-3d.md) |
 | xr ar vr | 4 | [Ver fontes](FONTES/nichos/xr-ar-vr.md) |
 
+| ar social plataformas | 11 | [Ver fontes](FONTES/nichos/ar-social-plataformas.md) |
+| meta quest horizon | 6 | [Ver fontes](FONTES/nichos/meta-quest-horizon.md) |
+| web ar dispositivos | 5 | [Ver fontes](FONTES/nichos/web-ar-dispositivos.md) |
+| pipeline blender unreal | 1 | [Ver fontes](FONTES/nichos/pipeline-blender-unreal.md) |
+
 ## Ordem de estudo
 
 1. [Iniciantes e glossário](GUIAS/00-TRILHA-DE-APRENDIZAGEM.md)
@@ -43,3 +48,10 @@
 6. [Intercâmbio de arquivos, motores e pipeline](GUIAS/05-PIPELINE-EXPORTACAO.md)
 7. [Qualidade, performance e homologação](GUIAS/06-QUALIDADE-PERFORMANCE.md)
 8. [Ecossistemas e fontes internacionais](GUIAS/07-ECOSSISTEMA-GLOBAL.md)
+
+## Aprender por perguntas, termos e plataformas
+
+- [Glossário do iniciante ao especialista](GLOSSARIO/README.md)
+- [FAQ de execução e erros](FAQ/README.md)
+- [Tutoriais completos](TUTORIAIS/README.md)
+- [Árvore de dependências 3D/AR](DEPENDENCIAS/README.md)
