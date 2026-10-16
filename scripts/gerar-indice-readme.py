@@ -58,7 +58,7 @@ def render(catalog, extras, labels):
             desc = re.sub(r"[\r\n]+", " ", str(row["descricao"])).strip()
             usage = re.sub(r"[\r\n]+", " ", str(row["para_que_serve"])).strip()
             lines.extend([
-                f'- **{row["titulo"]}** (\{row["id"]}\`) — {desc} **Serve para:** {usage}.',
+                f'- **{row["titulo"]}** (`{row["id"]}`) — {desc} **Serve para:** {usage}.',
                 f'  **URL completa:** <{row["url"]}> · **Acesso:** {row["acesso"]} · **Freemium:** {row["freemium"]}.',
             ])
             terms = row.get("fonte_termos", "")
