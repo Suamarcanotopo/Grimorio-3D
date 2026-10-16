@@ -9,7 +9,7 @@ from urllib.parse import unquote
 ROOT = Path(__file__).resolve().parents[1]
 MIN_TERMS = 293
 MIN_FAQ = 184
-MIN_TUTORIALS = 19
+MIN_TUTORIALS = 37
 MIN_PIPELINES = 10
 MIN_SOURCES = 208
 

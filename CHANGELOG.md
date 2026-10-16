@@ -73,3 +73,10 @@
 - +104 problemas orientados por tarefas: Blender, texturas, cinema, Web3D, AR, games, indústria e governança.
 - Índices e CI atualizados, com verificador de perguntas duplicadas e campos obrigatórios.
 - Fontes (368) e Glossário (293) mantidos sem alteração.
+
+## 2026-10-16 — v0.4.0 etapa 4/4 — laboratórios ampliados
+
+- 19 → **37 projetos guiados** (+18), com 162 etapas adicionais, focando entregas profissionais de publicidade, cinema/VFX, animação, games, AR social, Meta Quest, Web3D, CAD e captura.
+- Cada laboratório tem pré-requisitos, entrega, passos, rubrica, erro e documentação oficial.
+- README e índice sincronizados; nova suíte testa presença das 37 fichas, número de passos e rodapés.
+- Baselines: 368 fontes, 293 verbetes e 210 FAQs preservados; execução de software e hardware é gate separado.

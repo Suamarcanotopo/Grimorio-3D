@@ -77,7 +77,7 @@ Use a rota mais curta para seu objetivo; depois, navegue pelo índice integral l
 - **`GUIAS/`** — fundamentos técnicos e boas práticas em português.
 - **`GLOSSARIO/`** — significados, importância e exercícios.
 - **`FAQ/`** — dúvidas, como fazer e erros comuns.
-- **`TUTORIAIS/`** — 19 projetos com passos práticos e evidências.
+- **`TUTORIAIS/`** — 37 projetos com passos práticos e evidências.
 - **`ACADEMIA/`** — plano de estudos, competências e rubricas.
 - **`NICHOS/`** — publicidade, cinema, games, animação, XR, indústria e educação.
 - **`DEPENDENCIAS/`** — contratos de Blender, Unreal, Meta, Snap, TikTok, WebAR e formatos.
