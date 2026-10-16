@@ -86,3 +86,7 @@ Este repositório é base de competências para Skills e não instala pacotes, n
 Informações de versão, custo, requisitos e API entram no radar datado; mantêm status **CURRENT, STALE, NEEDS_TEST, BLOCKED ou DEPRECATED**. Não incluir agendamento de busca inexistente. Todo PR preserva IDs, arquivos originais, normas, licenças e resultado de teste de regressão.
 
 **Interlocks:** [ECP/Coliseu](ECP-COLISEU-2026-10-16.md) · [18 etapas](../CURRICULO/ETAPAS-DA-PRODUCAO.md) · [Política de fontes](FONTES-ATEMPORAIS-E-ATUAIS.md) · [Contrato para Skills](../SKILLS/README.md).
+
+## ML-20 — evolução por camadas isoladas (2026-10-16)
+
+Expansões volumétricas seguem ordem **fontes → glossário → FAQ → laboratórios → navegação/qualidade**, cada fase com branch, baseline, diff, regressão e merge independentes. Aumento de quantidade NÃO substitui curadoria, revisão de licenças ou testes reais de ferramentas. A fonte canônica permanece `FONTES/catalogo.json`, que alimenta CSV, nichos e README. Preservar CTA e Mission Lock anteriores.

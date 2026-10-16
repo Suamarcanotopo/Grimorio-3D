@@ -50,3 +50,11 @@
 - Rodapé social padronizado com website, GitHub de Skills, Instagram, YouTube e três grupos comunitários SIN.
 - Adicionado gerador idempotente e validador sem bibliotecas externas, ambos ligados ao CI.
 - O registro canônico, os IDs, o Mission Lock e os conteúdos anteriores permaneceram preservados.
+
+## 2026-10-16 — v0.4.0 etapa 1/4 — fontes oficiais ampliadas
+
+- Atualização por lotes de **238 para 368 fontes**; preservados 38 nichos e IDs anteriores.
+- ÍNDICE do README e CSV/JSON sincronizados após curadoria, sem perda de navegação ou CTA do SIN.
+- Novos materiais de Blender, Unreal, Houdini, Khronos, XR, AR social, cinema, CAD/IFC, geoespacial, documentação e pesquisa global.
+- Curadoria de proveniência em [GOVERNANCA/CURADORIA-FONTES-V04.md](GOVERNANCA/CURADORIA-FONTES-V04.md).
+- Glossário, FAQ e tutoriais permanecem intencionalmente inalterados: serão versões separadas após CI e merge desta etapa.
