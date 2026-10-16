@@ -58,3 +58,11 @@
 - Novos materiais de Blender, Unreal, Houdini, Khronos, XR, AR social, cinema, CAD/IFC, geoespacial, documentação e pesquisa global.
 - Curadoria de proveniência em [GOVERNANCA/CURADORIA-FONTES-V04.md](GOVERNANCA/CURADORIA-FONTES-V04.md).
 - Glossário, FAQ e tutoriais permanecem intencionalmente inalterados: serão versões separadas após CI e merge desta etapa.
+
+## 2026-10-16 — v0.4.0 etapa 2/4 — glossário ampliado
+
+- Glossário passa de 149 para **293 conceitos** em 15 módulos, preservando os 149 originais.
+- Adicionados 144 termos especializados em modelagem, animação, cinema, VFX, web, XR, CAD e habilidades de engenharia.
+- Revisão de duplicações detectou e corrigiu um termo repetido antes da publicação.
+- A etapa permanece independente da curadoria de 368 fontes aprovada anteriormente.
+- Validação de unicidade, cobertura didática e links do índice adicionada ao CI.

@@ -7,7 +7,7 @@ from pathlib import Path
 from urllib.parse import unquote
 
 ROOT = Path(__file__).resolve().parents[1]
-MIN_TERMS = 149
+MIN_TERMS = 293
 MIN_FAQ = 80
 MIN_TUTORIALS = 19
 MIN_PIPELINES = 10
@@ -50,13 +50,13 @@ def check():
     t_files = sorted((ROOT / "TUTORIAIS").glob("[0-9]*.md"))
     g_count = sum(len(re.findall(r"^### \d+\.", x.read_text(encoding="utf-8"), re.M)) for x in g_files)
     f_count = sum(len(re.findall(r"^## \d+\.", x.read_text(encoding="utf-8"), re.M)) for x in f_files)
-    if g_count < MIN_TERMS or g_count != 149:
+    if g_count < MIN_TERMS or g_count != 293:
         errors.append(f"Glossario incompleto: {g_count}")
     if f_count < MIN_FAQ or f_count != 80:
         errors.append(f"FAQ incompleto: {f_count}")
     if len(t_files) != MIN_TUTORIALS:
         errors.append(f"Tutoriais incompletos: {len(t_files)}")
-    if len(g_files) != 7 or len(f_files) != 10:
+    if len(g_files) != 15 or len(f_files) != 10:
         errors.append("Seções didaticas removidas")
     for path in t_files:
         body = path.read_text(encoding="utf-8")
