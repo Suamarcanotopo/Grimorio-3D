@@ -1,5 +1,7 @@
 # Dez trilhas de 3D por mercado
 
+**Sequência de aulas:** [10 rotas por mercado, com técnica, truque e laboratório em ordem](../APRENDER/ROTAS-POR-MERCADO.md).
+
 **Foco: entregar um projeto e documentar a competência**, não colecionar programas.
 
 | Nicho | Objetivo | Guia |

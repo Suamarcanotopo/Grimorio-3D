@@ -2,6 +2,8 @@
 
 **293 termos explicados** com definição, motivo, prática e fonte de aprendizagem. O propósito é alfabetização e crescimento técnico progressivo; a excelência exige produzir, testar e receber avaliação especializada.
 
+**Quer saber onde aplicar cada termo?** Abra o [índice individual conectado](../APRENDER/INDICE-INDIVIDUAL.md) e depois a [etapa com truques e exercício](../APRENDER/ETAPAS-CONECTADAS.md).
+
 **Como ler:** escolha uma seção; estude três termos; aplique um exercício em um arquivo próprio; volte ao FAQ quando travar.
 
 - [01 · Conceitos fundamentais](01-conceitos-fundamentais.md) — 15 termos

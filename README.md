@@ -21,6 +21,20 @@
 | Conhecer hubs internacionais de produção | [Panorama internacional](GUIAS/07-ECOSSISTEMA-GLOBAL.md) |
 | Validar qualidade de assets | [Checklist de homologação](GUIAS/06-QUALIDADE-PERFORMANCE.md) |
 
+## 🧭 [APRENDER] — conecte a teoria ao projeto de verdade
+
+**[Abrir o sistema de aprendizagem conectado](APRENDER/README.md)** — escolha um mercado, aprenda na ordem e chegue a uma entrega verificável, sem se perder entre as 368 fontes.
+
+| Objetivo | Comece aqui |
+|---|---|
+| Não sei qual passo vem depois | [18 competências, da ideia à entrega](APRENDER/ETAPAS-CONECTADAS.md) |
+| Quero atuar em publicidade, cinema, games, AR ou indústria | [10 rotas profissionais](APRENDER/ROTAS-POR-MERCADO.md) |
+| Preciso encontrar um termo ou pergunta exata | [Índice de 293 verbetes + 210 perguntas](APRENDER/INDICE-INDIVIDUAL.md) |
+| Quero aprender truques e convenções sem decorar jargões | [Convenções, erros e dicas de produção](APRENDER/CONVENCOES-E-TRUQUES.md) |
+| Preciso registrar que domino a técnica | [Caderno de provas e avaliação](APRENDER/CADERNO-DE-PROVAS.md) |
+
+**Trilha mínima:** objetivo → conceito → FAQ → demonstração → tutorial → teste → correção → próxima etapa. O material é conectado por arquivos e IDs existentes; **não foi criada dependência executável nova**.
+
 ## 🎓 Universidade 3D — glossário, FAQ e tutoriais
 
 - [**Glossário didático**](GLOSSARIO/README.md) — 293 termos com definição, importância e exercício.

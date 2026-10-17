@@ -88,3 +88,14 @@
 - Índices README, INDEX e TUTORIAIS conectados ao laboratório local.
 - Validador estático verifica contagem, idioma, estrutura HTML, rodapé SIN e ausência de script externo; **execução JS em navegadores permanece não homologada**.
 - Mission Lock ML-21 incluído sem modificar cadastros 368, Glossário 293, FAQ 210 ou 37 laboratórios.
+
+## 2026-10-17 — v0.5.0 — conexões didáticas verificáveis
+
+- Mapa de **18 competências**: objetivo, pré-requisito, definição, convenção, truque, armadilha, teste e evidência.
+- Vínculos com **38 nichos e 368 fontes**, sem duplicar URLs, com 51 fontes prioritárias em contexto.
+- **293 verbetes** e **210 perguntas** receberam um encaminhamento pedagógico individual para uma competência.
+- **37 tutoriais**, **10 demos offline** e **10 rotas por mercado** foram conectados a competências e provas concretas.
+- Manual completo, dicas técnicas, índice individual, casos de uso e caderno de evidência em `APRENDER/`.
+- README, INDEX, GLOSSARIO, FAQ, TUTORIAIS, ACADEMIA, NICHOS e SKILLS com navegação aditiva.
+- Novo gate `scripts/validar-conexoes.py` no CI impede regressões de cobertura ou links órfãos.
+- ML-22 acrescentada; nenhuma modificação no catálogo original, licenças ou execução de SDKs.
