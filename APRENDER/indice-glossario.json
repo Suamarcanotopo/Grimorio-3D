@@ -1,0 +1,2056 @@
+{
+  "schema": "sin-3d-glossary-routing-v1",
+  "entries": [
+    {
+      "id": "G001",
+      "titulo": "3D",
+      "capitulo": "GLOSSARIO/01-conceitos-fundamentais.md",
+      "numero": 1,
+      "etapa": "E04"
+    },
+    {
+      "id": "G002",
+      "titulo": "Viewport",
+      "capitulo": "GLOSSARIO/01-conceitos-fundamentais.md",
+      "numero": 2,
+      "etapa": "E04"
+    },
+    {
+      "id": "G003",
+      "titulo": "Cena (Scene)",
+      "capitulo": "GLOSSARIO/01-conceitos-fundamentais.md",
+      "numero": 3,
+      "etapa": "E04"
+    },
+    {
+      "id": "G004",
+      "titulo": "Objeto (Object)",
+      "capitulo": "GLOSSARIO/01-conceitos-fundamentais.md",
+      "numero": 4,
+      "etapa": "E04"
+    },
+    {
+      "id": "G005",
+      "titulo": "Coordenadas XYZ",
+      "capitulo": "GLOSSARIO/01-conceitos-fundamentais.md",
+      "numero": 5,
+      "etapa": "E04"
+    },
+    {
+      "id": "G006",
+      "titulo": "Transform (transformação)",
+      "capitulo": "GLOSSARIO/01-conceitos-fundamentais.md",
+      "numero": 6,
+      "etapa": "E04"
+    },
+    {
+      "id": "G007",
+      "titulo": "Pivot/Origin (origem)",
+      "capitulo": "GLOSSARIO/01-conceitos-fundamentais.md",
+      "numero": 7,
+      "etapa": "E04"
+    },
+    {
+      "id": "G008",
+      "titulo": "Unidades de cena",
+      "capitulo": "GLOSSARIO/01-conceitos-fundamentais.md",
+      "numero": 8,
+      "etapa": "E04"
+    },
+    {
+      "id": "G009",
+      "titulo": "Câmera",
+      "capitulo": "GLOSSARIO/01-conceitos-fundamentais.md",
+      "numero": 9,
+      "etapa": "E04"
+    },
+    {
+      "id": "G010",
+      "titulo": "Focal length (distância focal)",
+      "capitulo": "GLOSSARIO/01-conceitos-fundamentais.md",
+      "numero": 10,
+      "etapa": "E04"
+    },
+    {
+      "id": "G011",
+      "titulo": "Clip planes (planos de corte)",
+      "capitulo": "GLOSSARIO/01-conceitos-fundamentais.md",
+      "numero": 11,
+      "etapa": "E04"
+    },
+    {
+      "id": "G012",
+      "titulo": "Coleção (Collection)",
+      "capitulo": "GLOSSARIO/01-conceitos-fundamentais.md",
+      "numero": 12,
+      "etapa": "E04"
+    },
+    {
+      "id": "G013",
+      "titulo": "Hierarchy (hierarquia)",
+      "capitulo": "GLOSSARIO/01-conceitos-fundamentais.md",
+      "numero": 13,
+      "etapa": "E04"
+    },
+    {
+      "id": "G014",
+      "titulo": "Parenting (parentalidade)",
+      "capitulo": "GLOSSARIO/01-conceitos-fundamentais.md",
+      "numero": 14,
+      "etapa": "E04"
+    },
+    {
+      "id": "G015",
+      "titulo": "Instancing (instanciação)",
+      "capitulo": "GLOSSARIO/01-conceitos-fundamentais.md",
+      "numero": 15,
+      "etapa": "E04"
+    },
+    {
+      "id": "G016",
+      "titulo": "Mesh (malha)",
+      "capitulo": "GLOSSARIO/02-malhas-modelagem-e-escultura.md",
+      "numero": 1,
+      "etapa": "E05"
+    },
+    {
+      "id": "G017",
+      "titulo": "Vertex (vértice)",
+      "capitulo": "GLOSSARIO/02-malhas-modelagem-e-escultura.md",
+      "numero": 2,
+      "etapa": "E05"
+    },
+    {
+      "id": "G018",
+      "titulo": "Edge (aresta)",
+      "capitulo": "GLOSSARIO/02-malhas-modelagem-e-escultura.md",
+      "numero": 3,
+      "etapa": "E05"
+    },
+    {
+      "id": "G019",
+      "titulo": "Face (face)",
+      "capitulo": "GLOSSARIO/02-malhas-modelagem-e-escultura.md",
+      "numero": 4,
+      "etapa": "E05"
+    },
+    {
+      "id": "G020",
+      "titulo": "Quad (quadrilátero)",
+      "capitulo": "GLOSSARIO/02-malhas-modelagem-e-escultura.md",
+      "numero": 5,
+      "etapa": "E05"
+    },
+    {
+      "id": "G021",
+      "titulo": "Tri (triângulo)",
+      "capitulo": "GLOSSARIO/02-malhas-modelagem-e-escultura.md",
+      "numero": 6,
+      "etapa": "E05"
+    },
+    {
+      "id": "G022",
+      "titulo": "N-gon (polígono complexo)",
+      "capitulo": "GLOSSARIO/02-malhas-modelagem-e-escultura.md",
+      "numero": 7,
+      "etapa": "E05"
+    },
+    {
+      "id": "G023",
+      "titulo": "Topology (topologia)",
+      "capitulo": "GLOSSARIO/02-malhas-modelagem-e-escultura.md",
+      "numero": 8,
+      "etapa": "E05"
+    },
+    {
+      "id": "G024",
+      "titulo": "Edge loop (anel de arestas)",
+      "capitulo": "GLOSSARIO/02-malhas-modelagem-e-escultura.md",
+      "numero": 9,
+      "etapa": "E05"
+    },
+    {
+      "id": "G025",
+      "titulo": "Extrude (extrusão)",
+      "capitulo": "GLOSSARIO/02-malhas-modelagem-e-escultura.md",
+      "numero": 10,
+      "etapa": "E05"
+    },
+    {
+      "id": "G026",
+      "titulo": "Bevel (chanfro)",
+      "capitulo": "GLOSSARIO/02-malhas-modelagem-e-escultura.md",
+      "numero": 11,
+      "etapa": "E05"
+    },
+    {
+      "id": "G027",
+      "titulo": "Subdivision Surface (subdivisão)",
+      "capitulo": "GLOSSARIO/02-malhas-modelagem-e-escultura.md",
+      "numero": 12,
+      "etapa": "E05"
+    },
+    {
+      "id": "G028",
+      "titulo": "Boolean (operação booleana)",
+      "capitulo": "GLOSSARIO/02-malhas-modelagem-e-escultura.md",
+      "numero": 13,
+      "etapa": "E05"
+    },
+    {
+      "id": "G029",
+      "titulo": "Hard-surface",
+      "capitulo": "GLOSSARIO/02-malhas-modelagem-e-escultura.md",
+      "numero": 14,
+      "etapa": "E05"
+    },
+    {
+      "id": "G030",
+      "titulo": "Digital Sculpting (escultura)",
+      "capitulo": "GLOSSARIO/02-malhas-modelagem-e-escultura.md",
+      "numero": 15,
+      "etapa": "E05"
+    },
+    {
+      "id": "G031",
+      "titulo": "Retopology (retopologia)",
+      "capitulo": "GLOSSARIO/02-malhas-modelagem-e-escultura.md",
+      "numero": 16,
+      "etapa": "E05"
+    },
+    {
+      "id": "G032",
+      "titulo": "Normal (normal de superfície)",
+      "capitulo": "GLOSSARIO/02-malhas-modelagem-e-escultura.md",
+      "numero": 17,
+      "etapa": "E05"
+    },
+    {
+      "id": "G033",
+      "titulo": "Non-manifold (geometria não-manifold)",
+      "capitulo": "GLOSSARIO/02-malhas-modelagem-e-escultura.md",
+      "numero": 18,
+      "etapa": "E05"
+    },
+    {
+      "id": "G034",
+      "titulo": "Decimation (decimação)",
+      "capitulo": "GLOSSARIO/02-malhas-modelagem-e-escultura.md",
+      "numero": 19,
+      "etapa": "E05"
+    },
+    {
+      "id": "G035",
+      "titulo": "LOD — Level of Detail (nível de detalhe)",
+      "capitulo": "GLOSSARIO/02-malhas-modelagem-e-escultura.md",
+      "numero": 20,
+      "etapa": "E05"
+    },
+    {
+      "id": "G036",
+      "titulo": "UV Mapping (mapeamento UV)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 1,
+      "etapa": "E06"
+    },
+    {
+      "id": "G037",
+      "titulo": "Seam (costura UV)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 2,
+      "etapa": "E06"
+    },
+    {
+      "id": "G038",
+      "titulo": "UV Island (ilha UV)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 3,
+      "etapa": "E06"
+    },
+    {
+      "id": "G039",
+      "titulo": "Unwrap (desdobramento UV)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 4,
+      "etapa": "E06"
+    },
+    {
+      "id": "G040",
+      "titulo": "Texel density (densidade de pixels na superfície)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 5,
+      "etapa": "E06"
+    },
+    {
+      "id": "G041",
+      "titulo": "UV Packing (empacotamento UV)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 6,
+      "etapa": "E06"
+    },
+    {
+      "id": "G042",
+      "titulo": "Texture Atlas (atlas de texturas)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 7,
+      "etapa": "E06"
+    },
+    {
+      "id": "G043",
+      "titulo": "UDIM — U-Dimension Tiles (blocos UV numerados)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 8,
+      "etapa": "E06"
+    },
+    {
+      "id": "G044",
+      "titulo": "PBR — Physically Based Rendering (renderização fisicamente baseada)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 9,
+      "etapa": "E06"
+    },
+    {
+      "id": "G045",
+      "titulo": "Albedo/Base Color (cor base)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 10,
+      "etapa": "E06"
+    },
+    {
+      "id": "G046",
+      "titulo": "Metallic (metalicidade)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 11,
+      "etapa": "E06"
+    },
+    {
+      "id": "G047",
+      "titulo": "Roughness (rugosidade)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 12,
+      "etapa": "E06"
+    },
+    {
+      "id": "G048",
+      "titulo": "Normal Map (mapa de normais)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 13,
+      "etapa": "E06"
+    },
+    {
+      "id": "G049",
+      "titulo": "AO — Ambient Occlusion (oclusão ambiente)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 14,
+      "etapa": "E06"
+    },
+    {
+      "id": "G050",
+      "titulo": "Height Map (mapa de altura)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 15,
+      "etapa": "E06"
+    },
+    {
+      "id": "G051",
+      "titulo": "Displacement (deslocamento)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 16,
+      "etapa": "E06"
+    },
+    {
+      "id": "G052",
+      "titulo": "Baking (gravação em textura)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 17,
+      "etapa": "E06"
+    },
+    {
+      "id": "G053",
+      "titulo": "Tangent Space (espaço tangente)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 18,
+      "etapa": "E06"
+    },
+    {
+      "id": "G054",
+      "titulo": "sRGB (espaço de cor perceptual)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 19,
+      "etapa": "E06"
+    },
+    {
+      "id": "G055",
+      "titulo": "Linear Color (cor linear)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 20,
+      "etapa": "E06"
+    },
+    {
+      "id": "G056",
+      "titulo": "HDRI — High Dynamic Range Image (imagem de alto alcance dinâmico)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 21,
+      "etapa": "E06"
+    },
+    {
+      "id": "G057",
+      "titulo": "Shader (programa de superfície)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 22,
+      "etapa": "E06"
+    },
+    {
+      "id": "G058",
+      "titulo": "BSDF — Bidirectional Scattering Distribution Function (função de espalhamento bidirecional)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 23,
+      "etapa": "E06"
+    },
+    {
+      "id": "G059",
+      "titulo": "Ray Tracing (traçado de raios)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 24,
+      "etapa": "E06"
+    },
+    {
+      "id": "G060",
+      "titulo": "Path Tracing (traçado de caminhos)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 25,
+      "etapa": "E06"
+    },
+    {
+      "id": "G061",
+      "titulo": "Denoising (remoção de ruído)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 26,
+      "etapa": "E06"
+    },
+    {
+      "id": "G062",
+      "titulo": "Render Pass (passe de render)",
+      "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+      "numero": 27,
+      "etapa": "E06"
+    },
+    {
+      "id": "G063",
+      "titulo": "Rigging (armação de controles)",
+      "capitulo": "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+      "numero": 1,
+      "etapa": "E09"
+    },
+    {
+      "id": "G064",
+      "titulo": "Armature (armação)",
+      "capitulo": "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+      "numero": 2,
+      "etapa": "E09"
+    },
+    {
+      "id": "G065",
+      "titulo": "Bone (osso digital)",
+      "capitulo": "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+      "numero": 3,
+      "etapa": "E09"
+    },
+    {
+      "id": "G066",
+      "titulo": "Skinning (vinculação de pele)",
+      "capitulo": "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+      "numero": 4,
+      "etapa": "E09"
+    },
+    {
+      "id": "G067",
+      "titulo": "Weight Painting (pintura de pesos)",
+      "capitulo": "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+      "numero": 5,
+      "etapa": "E09"
+    },
+    {
+      "id": "G068",
+      "titulo": "IK — Inverse Kinematics (cinemática inversa)",
+      "capitulo": "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+      "numero": 6,
+      "etapa": "E09"
+    },
+    {
+      "id": "G069",
+      "titulo": "FK — Forward Kinematics (cinemática direta)",
+      "capitulo": "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+      "numero": 7,
+      "etapa": "E09"
+    },
+    {
+      "id": "G070",
+      "titulo": "Keyframe (quadro-chave)",
+      "capitulo": "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+      "numero": 8,
+      "etapa": "E09"
+    },
+    {
+      "id": "G071",
+      "titulo": "Interpolation (interpolação)",
+      "capitulo": "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+      "numero": 9,
+      "etapa": "E09"
+    },
+    {
+      "id": "G072",
+      "titulo": "Graph Editor (editor de curvas)",
+      "capitulo": "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+      "numero": 10,
+      "etapa": "E09"
+    },
+    {
+      "id": "G073",
+      "titulo": "Dope Sheet (folha de exposição)",
+      "capitulo": "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+      "numero": 11,
+      "etapa": "E09"
+    },
+    {
+      "id": "G074",
+      "titulo": "NLA — Nonlinear Animation (animação não linear)",
+      "capitulo": "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+      "numero": 12,
+      "etapa": "E09"
+    },
+    {
+      "id": "G075",
+      "titulo": "Root Motion (movimento raiz)",
+      "capitulo": "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+      "numero": 13,
+      "etapa": "E09"
+    },
+    {
+      "id": "G076",
+      "titulo": "Retargeting (transferência de rig)",
+      "capitulo": "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+      "numero": 14,
+      "etapa": "E09"
+    },
+    {
+      "id": "G077",
+      "titulo": "Mocap — Motion Capture (captura de movimento)",
+      "capitulo": "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+      "numero": 15,
+      "etapa": "E09"
+    },
+    {
+      "id": "G078",
+      "titulo": "Face Tracking (rastreamento facial)",
+      "capitulo": "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+      "numero": 16,
+      "etapa": "E09"
+    },
+    {
+      "id": "G079",
+      "titulo": "Camera Tracking (rastreamento da câmera)",
+      "capitulo": "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+      "numero": 17,
+      "etapa": "E09"
+    },
+    {
+      "id": "G080",
+      "titulo": "Matchmoving (ajuste de câmera e cena)",
+      "capitulo": "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+      "numero": 18,
+      "etapa": "E09"
+    },
+    {
+      "id": "G081",
+      "titulo": "Planar Tracking (rastreamento planar)",
+      "capitulo": "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+      "numero": 19,
+      "etapa": "E09"
+    },
+    {
+      "id": "G082",
+      "titulo": "Rotoscopy (rotoscopia)",
+      "capitulo": "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+      "numero": 20,
+      "etapa": "E09"
+    },
+    {
+      "id": "G083",
+      "titulo": "Keying (remoção de fundo)",
+      "capitulo": "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+      "numero": 21,
+      "etapa": "E09"
+    },
+    {
+      "id": "G084",
+      "titulo": "Physics Simulation (simulação física)",
+      "capitulo": "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+      "numero": 22,
+      "etapa": "E09"
+    },
+    {
+      "id": "G085",
+      "titulo": "Cloth Simulation (simulação de tecidos)",
+      "capitulo": "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+      "numero": 23,
+      "etapa": "E09"
+    },
+    {
+      "id": "G086",
+      "titulo": "Particle System (sistema de partículas)",
+      "capitulo": "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+      "numero": 24,
+      "etapa": "E09"
+    },
+    {
+      "id": "G087",
+      "titulo": "Game Engine (motor de jogo)",
+      "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
+      "numero": 1,
+      "etapa": "E15"
+    },
+    {
+      "id": "G088",
+      "titulo": "Unreal Engine",
+      "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
+      "numero": 2,
+      "etapa": "E15"
+    },
+    {
+      "id": "G089",
+      "titulo": "Blueprints (sistema visual Unreal)",
+      "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
+      "numero": 3,
+      "etapa": "E15"
+    },
+    {
+      "id": "G090",
+      "titulo": "Nanite",
+      "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
+      "numero": 4,
+      "etapa": "E15"
+    },
+    {
+      "id": "G091",
+      "titulo": "Lumen",
+      "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
+      "numero": 5,
+      "etapa": "E15"
+    },
+    {
+      "id": "G092",
+      "titulo": "Unity",
+      "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
+      "numero": 6,
+      "etapa": "E15"
+    },
+    {
+      "id": "G093",
+      "titulo": "Godot",
+      "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
+      "numero": 7,
+      "etapa": "E15"
+    },
+    {
+      "id": "G094",
+      "titulo": "glTF — GL Transmission Format (formato de transmissão de gráficos)",
+      "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
+      "numero": 8,
+      "etapa": "E15"
+    },
+    {
+      "id": "G095",
+      "titulo": "GLB (glTF binário)",
+      "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
+      "numero": 9,
+      "etapa": "E15"
+    },
+    {
+      "id": "G096",
+      "titulo": "FBX — Filmbox (formato de intercâmbio)",
+      "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
+      "numero": 10,
+      "etapa": "E15"
+    },
+    {
+      "id": "G097",
+      "titulo": "USD — Universal Scene Description (descrição universal de cenas)",
+      "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
+      "numero": 11,
+      "etapa": "E15"
+    },
+    {
+      "id": "G098",
+      "titulo": "USDZ",
+      "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
+      "numero": 12,
+      "etapa": "E15"
+    },
+    {
+      "id": "G099",
+      "titulo": "OBJ — Wavefront Object (malha Wavefront)",
+      "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
+      "numero": 13,
+      "etapa": "E15"
+    },
+    {
+      "id": "G100",
+      "titulo": "STL — Stereolithography (malha para fabricação)",
+      "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
+      "numero": 14,
+      "etapa": "E15"
+    },
+    {
+      "id": "G101",
+      "titulo": "IFC — Industry Foundation Classes (classes fundamentais da indústria)",
+      "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
+      "numero": 15,
+      "etapa": "E15"
+    },
+    {
+      "id": "G102",
+      "titulo": "LOD Chain (cadeia de nível de detalhe)",
+      "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
+      "numero": 16,
+      "etapa": "E15"
+    },
+    {
+      "id": "G103",
+      "titulo": "Draw Call (chamada de desenho)",
+      "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
+      "numero": 17,
+      "etapa": "E15"
+    },
+    {
+      "id": "G104",
+      "titulo": "Occlusion Culling (ocultação)",
+      "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
+      "numero": 18,
+      "etapa": "E15"
+    },
+    {
+      "id": "G105",
+      "titulo": "Frustum Culling (recorte por volume de câmera)",
+      "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
+      "numero": 19,
+      "etapa": "E15"
+    },
+    {
+      "id": "G106",
+      "titulo": "Profiling (perfilamento)",
+      "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
+      "numero": 20,
+      "etapa": "E15"
+    },
+    {
+      "id": "G107",
+      "titulo": "Version Pinning (fixação de versão)",
+      "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
+      "numero": 21,
+      "etapa": "E15"
+    },
+    {
+      "id": "G108",
+      "titulo": "WebGL — Web Graphics Library (biblioteca gráfica web)",
+      "capitulo": "GLOSSARIO/06-websites-acessibilidade-e-arxr.md",
+      "numero": 1,
+      "etapa": "E16"
+    },
+    {
+      "id": "G109",
+      "titulo": "WebGPU — Web Graphics Processing Unit (API gráfica web de GPU)",
+      "capitulo": "GLOSSARIO/06-websites-acessibilidade-e-arxr.md",
+      "numero": 2,
+      "etapa": "E16"
+    },
+    {
+      "id": "G110",
+      "titulo": "Three.js",
+      "capitulo": "GLOSSARIO/06-websites-acessibilidade-e-arxr.md",
+      "numero": 3,
+      "etapa": "E16"
+    },
+    {
+      "id": "G111",
+      "titulo": "React Three Fiber (renderizador Three para React)",
+      "capitulo": "GLOSSARIO/06-websites-acessibilidade-e-arxr.md",
+      "numero": 4,
+      "etapa": "E16"
+    },
+    {
+      "id": "G112",
+      "titulo": "model-viewer (componente web)",
+      "capitulo": "GLOSSARIO/06-websites-acessibilidade-e-arxr.md",
+      "numero": 5,
+      "etapa": "E16"
+    },
+    {
+      "id": "G113",
+      "titulo": "AR — Augmented Reality (realidade aumentada)",
+      "capitulo": "GLOSSARIO/06-websites-acessibilidade-e-arxr.md",
+      "numero": 6,
+      "etapa": "E16"
+    },
+    {
+      "id": "G114",
+      "titulo": "VR — Virtual Reality (realidade virtual)",
+      "capitulo": "GLOSSARIO/06-websites-acessibilidade-e-arxr.md",
+      "numero": 7,
+      "etapa": "E16"
+    },
+    {
+      "id": "G115",
+      "titulo": "MR — Mixed Reality (realidade mista)",
+      "capitulo": "GLOSSARIO/06-websites-acessibilidade-e-arxr.md",
+      "numero": 8,
+      "etapa": "E16"
+    },
+    {
+      "id": "G116",
+      "titulo": "XR — Extended Reality (realidade estendida)",
+      "capitulo": "GLOSSARIO/06-websites-acessibilidade-e-arxr.md",
+      "numero": 9,
+      "etapa": "E16"
+    },
+    {
+      "id": "G117",
+      "titulo": "WebXR — Web Extended Reality Device API (API de dispositivos XR para web)",
+      "capitulo": "GLOSSARIO/06-websites-acessibilidade-e-arxr.md",
+      "numero": 10,
+      "etapa": "E16"
+    },
+    {
+      "id": "G118",
+      "titulo": "ARCore",
+      "capitulo": "GLOSSARIO/06-websites-acessibilidade-e-arxr.md",
+      "numero": 11,
+      "etapa": "E16"
+    },
+    {
+      "id": "G119",
+      "titulo": "ARKit",
+      "capitulo": "GLOSSARIO/06-websites-acessibilidade-e-arxr.md",
+      "numero": 12,
+      "etapa": "E16"
+    },
+    {
+      "id": "G120",
+      "titulo": "Scene Viewer",
+      "capitulo": "GLOSSARIO/06-websites-acessibilidade-e-arxr.md",
+      "numero": 13,
+      "etapa": "E16"
+    },
+    {
+      "id": "G121",
+      "titulo": "Quick Look AR",
+      "capitulo": "GLOSSARIO/06-websites-acessibilidade-e-arxr.md",
+      "numero": 14,
+      "etapa": "E16"
+    },
+    {
+      "id": "G122",
+      "titulo": "Passthrough (visão do ambiente)",
+      "capitulo": "GLOSSARIO/06-websites-acessibilidade-e-arxr.md",
+      "numero": 15,
+      "etapa": "E16"
+    },
+    {
+      "id": "G123",
+      "titulo": "Spatial Anchor (âncora espacial)",
+      "capitulo": "GLOSSARIO/06-websites-acessibilidade-e-arxr.md",
+      "numero": 16,
+      "etapa": "E16"
+    },
+    {
+      "id": "G124",
+      "titulo": "SLAM — Simultaneous Localization and Mapping (localização e mapeamento simultâneos)",
+      "capitulo": "GLOSSARIO/06-websites-acessibilidade-e-arxr.md",
+      "numero": 17,
+      "etapa": "E16"
+    },
+    {
+      "id": "G125",
+      "titulo": "FPS — Frames Per Second (quadros por segundo)",
+      "capitulo": "GLOSSARIO/06-websites-acessibilidade-e-arxr.md",
+      "numero": 18,
+      "etapa": "E16"
+    },
+    {
+      "id": "G126",
+      "titulo": "Frame Time (tempo de quadro)",
+      "capitulo": "GLOSSARIO/06-websites-acessibilidade-e-arxr.md",
+      "numero": 19,
+      "etapa": "E16"
+    },
+    {
+      "id": "G127",
+      "titulo": "LCP — Largest Contentful Paint (maior elemento de conteúdo carregado)",
+      "capitulo": "GLOSSARIO/06-websites-acessibilidade-e-arxr.md",
+      "numero": 20,
+      "etapa": "E16"
+    },
+    {
+      "id": "G128",
+      "titulo": "INP — Interaction to Next Paint (interação até próxima pintura)",
+      "capitulo": "GLOSSARIO/06-websites-acessibilidade-e-arxr.md",
+      "numero": 21,
+      "etapa": "E16"
+    },
+    {
+      "id": "G129",
+      "titulo": "CLS — Cumulative Layout Shift (mudança cumulativa de layout)",
+      "capitulo": "GLOSSARIO/06-websites-acessibilidade-e-arxr.md",
+      "numero": 22,
+      "etapa": "E16"
+    },
+    {
+      "id": "G130",
+      "titulo": "Fallback (alternativa funcional)",
+      "capitulo": "GLOSSARIO/06-websites-acessibilidade-e-arxr.md",
+      "numero": 23,
+      "etapa": "E16"
+    },
+    {
+      "id": "G131",
+      "titulo": "Reduced Motion (movimento reduzido)",
+      "capitulo": "GLOSSARIO/06-websites-acessibilidade-e-arxr.md",
+      "numero": 24,
+      "etapa": "E16"
+    },
+    {
+      "id": "G132",
+      "titulo": "Lens (lente AR)",
+      "capitulo": "GLOSSARIO/07-ar-social-publicacao-captura-e-direitos.md",
+      "numero": 1,
+      "etapa": "E16"
+    },
+    {
+      "id": "G133",
+      "titulo": "Lens Studio",
+      "capitulo": "GLOSSARIO/07-ar-social-publicacao-captura-e-direitos.md",
+      "numero": 2,
+      "etapa": "E16"
+    },
+    {
+      "id": "G134",
+      "titulo": "Camera Kit (kit de câmera Snap)",
+      "capitulo": "GLOSSARIO/07-ar-social-publicacao-captura-e-direitos.md",
+      "numero": 3,
+      "etapa": "E16"
+    },
+    {
+      "id": "G135",
+      "titulo": "Effect House",
+      "capitulo": "GLOSSARIO/07-ar-social-publicacao-captura-e-direitos.md",
+      "numero": 4,
+      "etapa": "E16"
+    },
+    {
+      "id": "G136",
+      "titulo": "Meta Spark (legado encerrado)",
+      "capitulo": "GLOSSARIO/07-ar-social-publicacao-captura-e-direitos.md",
+      "numero": 5,
+      "etapa": "E16"
+    },
+    {
+      "id": "G137",
+      "titulo": "Meta Horizon (ecossistema)",
+      "capitulo": "GLOSSARIO/07-ar-social-publicacao-captura-e-direitos.md",
+      "numero": 6,
+      "etapa": "E16"
+    },
+    {
+      "id": "G138",
+      "titulo": "Meta XR Plugin",
+      "capitulo": "GLOSSARIO/07-ar-social-publicacao-captura-e-direitos.md",
+      "numero": 7,
+      "etapa": "E16"
+    },
+    {
+      "id": "G139",
+      "titulo": "Plane Detection (detecção de planos)",
+      "capitulo": "GLOSSARIO/07-ar-social-publicacao-captura-e-direitos.md",
+      "numero": 8,
+      "etapa": "E16"
+    },
+    {
+      "id": "G140",
+      "titulo": "Face Landmark (marco facial)",
+      "capitulo": "GLOSSARIO/07-ar-social-publicacao-captura-e-direitos.md",
+      "numero": 9,
+      "etapa": "E16"
+    },
+    {
+      "id": "G141",
+      "titulo": "Occlusion (oclusão visual)",
+      "capitulo": "GLOSSARIO/07-ar-social-publicacao-captura-e-direitos.md",
+      "numero": 10,
+      "etapa": "E16"
+    },
+    {
+      "id": "G142",
+      "titulo": "Image Tracking (rastreamento por imagem)",
+      "capitulo": "GLOSSARIO/07-ar-social-publicacao-captura-e-direitos.md",
+      "numero": 11,
+      "etapa": "E16"
+    },
+    {
+      "id": "G143",
+      "titulo": "World Tracking (rastreamento de ambiente)",
+      "capitulo": "GLOSSARIO/07-ar-social-publicacao-captura-e-direitos.md",
+      "numero": 12,
+      "etapa": "E16"
+    },
+    {
+      "id": "G144",
+      "titulo": "Device Permission (permissão de dispositivo)",
+      "capitulo": "GLOSSARIO/07-ar-social-publicacao-captura-e-direitos.md",
+      "numero": 13,
+      "etapa": "E16"
+    },
+    {
+      "id": "G145",
+      "titulo": "Asset License (licença do ativo)",
+      "capitulo": "GLOSSARIO/07-ar-social-publicacao-captura-e-direitos.md",
+      "numero": 14,
+      "etapa": "E16"
+    },
+    {
+      "id": "G146",
+      "titulo": "CC0 — Creative Commons Zero (dedicação ao domínio público onde válida)",
+      "capitulo": "GLOSSARIO/07-ar-social-publicacao-captura-e-direitos.md",
+      "numero": 15,
+      "etapa": "E16"
+    },
+    {
+      "id": "G147",
+      "titulo": "CC BY — Creative Commons Attribution (atribuição)",
+      "capitulo": "GLOSSARIO/07-ar-social-publicacao-captura-e-direitos.md",
+      "numero": 16,
+      "etapa": "E16"
+    },
+    {
+      "id": "G148",
+      "titulo": "CC BY-NC — Attribution NonCommercial (atribuição não comercial)",
+      "capitulo": "GLOSSARIO/07-ar-social-publicacao-captura-e-direitos.md",
+      "numero": 17,
+      "etapa": "E16"
+    },
+    {
+      "id": "G149",
+      "titulo": "USDZ/GLB handoff (entrega em dois formatos)",
+      "capitulo": "GLOSSARIO/07-ar-social-publicacao-captura-e-direitos.md",
+      "numero": 18,
+      "etapa": "E16"
+    },
+    {
+      "id": "G150",
+      "titulo": "Blockout (bloqueio de formas)",
+      "capitulo": "GLOSSARIO/08-modelagem-avancada-uv-materiais.md",
+      "numero": 1,
+      "etapa": "E05"
+    },
+    {
+      "id": "G151",
+      "titulo": "Topology Budget (orçamento de geometria)",
+      "capitulo": "GLOSSARIO/08-modelagem-avancada-uv-materiais.md",
+      "numero": 2,
+      "etapa": "E05"
+    },
+    {
+      "id": "G152",
+      "titulo": "Retopology Cage (malha-gaiola)",
+      "capitulo": "GLOSSARIO/08-modelagem-avancada-uv-materiais.md",
+      "numero": 3,
+      "etapa": "E05"
+    },
+    {
+      "id": "G153",
+      "titulo": "Shrinkwrap (aderência de geometria)",
+      "capitulo": "GLOSSARIO/08-modelagem-avancada-uv-materiais.md",
+      "numero": 4,
+      "etapa": "E05"
+    },
+    {
+      "id": "G154",
+      "titulo": "Weighted Normals (normais ponderadas)",
+      "capitulo": "GLOSSARIO/08-modelagem-avancada-uv-materiais.md",
+      "numero": 5,
+      "etapa": "E05"
+    },
+    {
+      "id": "G155",
+      "titulo": "Auto Smooth (suavização controlada)",
+      "capitulo": "GLOSSARIO/08-modelagem-avancada-uv-materiais.md",
+      "numero": 6,
+      "etapa": "E05"
+    },
+    {
+      "id": "G156",
+      "titulo": "Triplanar Projection (projeção triplanar)",
+      "capitulo": "GLOSSARIO/08-modelagem-avancada-uv-materiais.md",
+      "numero": 7,
+      "etapa": "E05"
+    },
+    {
+      "id": "G157",
+      "titulo": "UV Overlap (sobreposição UV)",
+      "capitulo": "GLOSSARIO/08-modelagem-avancada-uv-materiais.md",
+      "numero": 8,
+      "etapa": "E05"
+    },
+    {
+      "id": "G158",
+      "titulo": "UV Padding (margem de textura)",
+      "capitulo": "GLOSSARIO/08-modelagem-avancada-uv-materiais.md",
+      "numero": 9,
+      "etapa": "E05"
+    },
+    {
+      "id": "G159",
+      "titulo": "Mipmapping (mipmaps)",
+      "capitulo": "GLOSSARIO/08-modelagem-avancada-uv-materiais.md",
+      "numero": 10,
+      "etapa": "E05"
+    },
+    {
+      "id": "G160",
+      "titulo": "Texture Compression (compressão de textura)",
+      "capitulo": "GLOSSARIO/08-modelagem-avancada-uv-materiais.md",
+      "numero": 11,
+      "etapa": "E05"
+    },
+    {
+      "id": "G161",
+      "titulo": "Channel Packing (empacotamento de canais)",
+      "capitulo": "GLOSSARIO/08-modelagem-avancada-uv-materiais.md",
+      "numero": 12,
+      "etapa": "E05"
+    },
+    {
+      "id": "G162",
+      "titulo": "ORM — Occlusion Roughness Metallic (mapa ORM)",
+      "capitulo": "GLOSSARIO/08-modelagem-avancada-uv-materiais.md",
+      "numero": 13,
+      "etapa": "E05"
+    },
+    {
+      "id": "G163",
+      "titulo": "Material Variant (variante de material)",
+      "capitulo": "GLOSSARIO/08-modelagem-avancada-uv-materiais.md",
+      "numero": 14,
+      "etapa": "E05"
+    },
+    {
+      "id": "G164",
+      "titulo": "SDF — Signed Distance Field (campo de distância com sinal)",
+      "capitulo": "GLOSSARIO/08-modelagem-avancada-uv-materiais.md",
+      "numero": 15,
+      "etapa": "E05"
+    },
+    {
+      "id": "G165",
+      "titulo": "Topology Flow (fluxo de topologia)",
+      "capitulo": "GLOSSARIO/08-modelagem-avancada-uv-materiais.md",
+      "numero": 16,
+      "etapa": "E05"
+    },
+    {
+      "id": "G166",
+      "titulo": "Baking Cage Bias (deslocamento de projeção)",
+      "capitulo": "GLOSSARIO/08-modelagem-avancada-uv-materiais.md",
+      "numero": 17,
+      "etapa": "E05"
+    },
+    {
+      "id": "G167",
+      "titulo": "Pivot Alignment (alinhamento de origem)",
+      "capitulo": "GLOSSARIO/08-modelagem-avancada-uv-materiais.md",
+      "numero": 18,
+      "etapa": "E05"
+    },
+    {
+      "id": "G168",
+      "titulo": "Anticipation (antecipação)",
+      "capitulo": "GLOSSARIO/09-animacao-avancada-direcao-personagem.md",
+      "numero": 1,
+      "etapa": "E09"
+    },
+    {
+      "id": "G169",
+      "titulo": "Follow Through (continuação)",
+      "capitulo": "GLOSSARIO/09-animacao-avancada-direcao-personagem.md",
+      "numero": 2,
+      "etapa": "E09"
+    },
+    {
+      "id": "G170",
+      "titulo": "Overlap (sobreposição temporal)",
+      "capitulo": "GLOSSARIO/09-animacao-avancada-direcao-personagem.md",
+      "numero": 3,
+      "etapa": "E09"
+    },
+    {
+      "id": "G171",
+      "titulo": "Ease In (aceleração progressiva)",
+      "capitulo": "GLOSSARIO/09-animacao-avancada-direcao-personagem.md",
+      "numero": 4,
+      "etapa": "E09"
+    },
+    {
+      "id": "G172",
+      "titulo": "Ease Out (desaceleração)",
+      "capitulo": "GLOSSARIO/09-animacao-avancada-direcao-personagem.md",
+      "numero": 5,
+      "etapa": "E09"
+    },
+    {
+      "id": "G173",
+      "titulo": "Pose to Pose (animação por poses)",
+      "capitulo": "GLOSSARIO/09-animacao-avancada-direcao-personagem.md",
+      "numero": 6,
+      "etapa": "E09"
+    },
+    {
+      "id": "G174",
+      "titulo": "Straight Ahead (animação contínua)",
+      "capitulo": "GLOSSARIO/09-animacao-avancada-direcao-personagem.md",
+      "numero": 7,
+      "etapa": "E09"
+    },
+    {
+      "id": "G175",
+      "titulo": "Silhouette Readability (leitura de silhueta)",
+      "capitulo": "GLOSSARIO/09-animacao-avancada-direcao-personagem.md",
+      "numero": 8,
+      "etapa": "E09"
+    },
+    {
+      "id": "G176",
+      "titulo": "Secondary Motion (ação secundária)",
+      "capitulo": "GLOSSARIO/09-animacao-avancada-direcao-personagem.md",
+      "numero": 9,
+      "etapa": "E09"
+    },
+    {
+      "id": "G177",
+      "titulo": "Spline Animation (curva spline de movimento)",
+      "capitulo": "GLOSSARIO/09-animacao-avancada-direcao-personagem.md",
+      "numero": 10,
+      "etapa": "E09"
+    },
+    {
+      "id": "G178",
+      "titulo": "Blocking de animação",
+      "capitulo": "GLOSSARIO/09-animacao-avancada-direcao-personagem.md",
+      "numero": 11,
+      "etapa": "E09"
+    },
+    {
+      "id": "G179",
+      "titulo": "Polish de animação",
+      "capitulo": "GLOSSARIO/09-animacao-avancada-direcao-personagem.md",
+      "numero": 12,
+      "etapa": "E09"
+    },
+    {
+      "id": "G180",
+      "titulo": "Foot Locking (travamento do pé)",
+      "capitulo": "GLOSSARIO/09-animacao-avancada-direcao-personagem.md",
+      "numero": 13,
+      "etapa": "E09"
+    },
+    {
+      "id": "G181",
+      "titulo": "Blend Tree (árvore de mistura)",
+      "capitulo": "GLOSSARIO/09-animacao-avancada-direcao-personagem.md",
+      "numero": 14,
+      "etapa": "E09"
+    },
+    {
+      "id": "G182",
+      "titulo": "State Machine (máquina de estados)",
+      "capitulo": "GLOSSARIO/09-animacao-avancada-direcao-personagem.md",
+      "numero": 15,
+      "etapa": "E09"
+    },
+    {
+      "id": "G183",
+      "titulo": "Animation Event (evento de animação)",
+      "capitulo": "GLOSSARIO/09-animacao-avancada-direcao-personagem.md",
+      "numero": 16,
+      "etapa": "E09"
+    },
+    {
+      "id": "G184",
+      "titulo": "Motion Matching (correspondência de movimento)",
+      "capitulo": "GLOSSARIO/09-animacao-avancada-direcao-personagem.md",
+      "numero": 17,
+      "etapa": "E09"
+    },
+    {
+      "id": "G185",
+      "titulo": "Animation Retarget Pose (pose de transferência)",
+      "capitulo": "GLOSSARIO/09-animacao-avancada-direcao-personagem.md",
+      "numero": 18,
+      "etapa": "E09"
+    },
+    {
+      "id": "G186",
+      "titulo": "Shot (plano)",
+      "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
+      "numero": 1,
+      "etapa": "E12"
+    },
+    {
+      "id": "G187",
+      "titulo": "Sequence (sequência)",
+      "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
+      "numero": 2,
+      "etapa": "E12"
+    },
+    {
+      "id": "G188",
+      "titulo": "Animatic (animático)",
+      "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
+      "numero": 3,
+      "etapa": "E12"
+    },
+    {
+      "id": "G189",
+      "titulo": "Previs — Previsualization (pré-visualização)",
+      "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
+      "numero": 4,
+      "etapa": "E12"
+    },
+    {
+      "id": "G190",
+      "titulo": "Techvis — Technical Visualization (visualização técnica)",
+      "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
+      "numero": 5,
+      "etapa": "E12"
+    },
+    {
+      "id": "G191",
+      "titulo": "Postvis — Postvisualization (pós-visualização)",
+      "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
+      "numero": 6,
+      "etapa": "E12"
+    },
+    {
+      "id": "G192",
+      "titulo": "ICVFX — In-Camera Visual Effects (efeitos em câmera)",
+      "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
+      "numero": 7,
+      "etapa": "E12"
+    },
+    {
+      "id": "G193",
+      "titulo": "LED Volume (palco de painéis LED)",
+      "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
+      "numero": 8,
+      "etapa": "E12"
+    },
+    {
+      "id": "G194",
+      "titulo": "Timecode (código de tempo)",
+      "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
+      "numero": 9,
+      "etapa": "E12"
+    },
+    {
+      "id": "G195",
+      "titulo": "Genlock (sincronização de geradores)",
+      "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
+      "numero": 10,
+      "etapa": "E12"
+    },
+    {
+      "id": "G196",
+      "titulo": "Render AOV (variável de saída arbitrária)",
+      "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
+      "numero": 11,
+      "etapa": "E12"
+    },
+    {
+      "id": "G197",
+      "titulo": "Cryptomatte (máscara por identificação)",
+      "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
+      "numero": 12,
+      "etapa": "E12"
+    },
+    {
+      "id": "G198",
+      "titulo": "Deep Compositing (composição profunda)",
+      "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
+      "numero": 13,
+      "etapa": "E12"
+    },
+    {
+      "id": "G199",
+      "titulo": "Color Pipeline (pipeline de cor)",
+      "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
+      "numero": 14,
+      "etapa": "E12"
+    },
+    {
+      "id": "G200",
+      "titulo": "OCIO Config (configuração OpenColorIO)",
+      "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
+      "numero": 15,
+      "etapa": "E12"
+    },
+    {
+      "id": "G201",
+      "titulo": "ACEScg (espaço de cor ACES para CG)",
+      "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
+      "numero": 16,
+      "etapa": "E12"
+    },
+    {
+      "id": "G202",
+      "titulo": "Highlight Roll-off (transição de altas luzes)",
+      "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
+      "numero": 17,
+      "etapa": "E12"
+    },
+    {
+      "id": "G203",
+      "titulo": "Match Grade (equalização de cor)",
+      "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
+      "numero": 18,
+      "etapa": "E12"
+    },
+    {
+      "id": "G204",
+      "titulo": "Static Mesh (malha estática)",
+      "capitulo": "GLOSSARIO/11-games-interacao-otimizacao.md",
+      "numero": 1,
+      "etapa": "E14"
+    },
+    {
+      "id": "G205",
+      "titulo": "Skeletal Mesh (malha esquelética)",
+      "capitulo": "GLOSSARIO/11-games-interacao-otimizacao.md",
+      "numero": 2,
+      "etapa": "E14"
+    },
+    {
+      "id": "G206",
+      "titulo": "Prefab (objeto pré-fabricado)",
+      "capitulo": "GLOSSARIO/11-games-interacao-otimizacao.md",
+      "numero": 3,
+      "etapa": "E14"
+    },
+    {
+      "id": "G207",
+      "titulo": "Actor (ator do Unreal)",
+      "capitulo": "GLOSSARIO/11-games-interacao-otimizacao.md",
+      "numero": 4,
+      "etapa": "E14"
+    },
+    {
+      "id": "G208",
+      "titulo": "Collision Mesh (malha de colisão)",
+      "capitulo": "GLOSSARIO/11-games-interacao-otimizacao.md",
+      "numero": 5,
+      "etapa": "E14"
+    },
+    {
+      "id": "G209",
+      "titulo": "Broad Phase (fase ampla de colisão)",
+      "capitulo": "GLOSSARIO/11-games-interacao-otimizacao.md",
+      "numero": 6,
+      "etapa": "E14"
+    },
+    {
+      "id": "G210",
+      "titulo": "Narrow Phase (fase precisa de colisão)",
+      "capitulo": "GLOSSARIO/11-games-interacao-otimizacao.md",
+      "numero": 7,
+      "etapa": "E14"
+    },
+    {
+      "id": "G211",
+      "titulo": "NavMesh — Navigation Mesh (malha de navegação)",
+      "capitulo": "GLOSSARIO/11-games-interacao-otimizacao.md",
+      "numero": 8,
+      "etapa": "E14"
+    },
+    {
+      "id": "G212",
+      "titulo": "Occlusion Query (consulta de oclusão)",
+      "capitulo": "GLOSSARIO/11-games-interacao-otimizacao.md",
+      "numero": 9,
+      "etapa": "E14"
+    },
+    {
+      "id": "G213",
+      "titulo": "Instanced Static Mesh (malha estática instanciada)",
+      "capitulo": "GLOSSARIO/11-games-interacao-otimizacao.md",
+      "numero": 10,
+      "etapa": "E14"
+    },
+    {
+      "id": "G214",
+      "titulo": "HLOD — Hierarchical Level of Detail (nível de detalhe hierárquico)",
+      "capitulo": "GLOSSARIO/11-games-interacao-otimizacao.md",
+      "numero": 11,
+      "etapa": "E14"
+    },
+    {
+      "id": "G215",
+      "titulo": "Overdraw (redesenho de pixels)",
+      "capitulo": "GLOSSARIO/11-games-interacao-otimizacao.md",
+      "numero": 12,
+      "etapa": "E14"
+    },
+    {
+      "id": "G216",
+      "titulo": "Shader Complexity (complexidade do shader)",
+      "capitulo": "GLOSSARIO/11-games-interacao-otimizacao.md",
+      "numero": 13,
+      "etapa": "E14"
+    },
+    {
+      "id": "G217",
+      "titulo": "Texture Streaming (streaming de textura)",
+      "capitulo": "GLOSSARIO/11-games-interacao-otimizacao.md",
+      "numero": 14,
+      "etapa": "E14"
+    },
+    {
+      "id": "G218",
+      "titulo": "Frame Budget (orçamento por quadro)",
+      "capitulo": "GLOSSARIO/11-games-interacao-otimizacao.md",
+      "numero": 15,
+      "etapa": "E14"
+    },
+    {
+      "id": "G219",
+      "titulo": "Profiling GPU (medição gráfica)",
+      "capitulo": "GLOSSARIO/11-games-interacao-otimizacao.md",
+      "numero": 16,
+      "etapa": "E14"
+    },
+    {
+      "id": "G220",
+      "titulo": "Gameplay Loop (ciclo de jogo)",
+      "capitulo": "GLOSSARIO/11-games-interacao-otimizacao.md",
+      "numero": 17,
+      "etapa": "E14"
+    },
+    {
+      "id": "G221",
+      "titulo": "Deterministic Replay (reprodução determinística)",
+      "capitulo": "GLOSSARIO/11-games-interacao-otimizacao.md",
+      "numero": 18,
+      "etapa": "E14"
+    },
+    {
+      "id": "G222",
+      "titulo": "Progressive Enhancement (melhoria progressiva)",
+      "capitulo": "GLOSSARIO/12-web3d-performance-acessibilidade.md",
+      "numero": 1,
+      "etapa": "E16"
+    },
+    {
+      "id": "G223",
+      "titulo": "WebGL Context Loss (perda de contexto WebGL)",
+      "capitulo": "GLOSSARIO/12-web3d-performance-acessibilidade.md",
+      "numero": 2,
+      "etapa": "E16"
+    },
+    {
+      "id": "G224",
+      "titulo": "WebGPU Feature Detection (detecção WebGPU)",
+      "capitulo": "GLOSSARIO/12-web3d-performance-acessibilidade.md",
+      "numero": 3,
+      "etapa": "E16"
+    },
+    {
+      "id": "G225",
+      "titulo": "GLTFLoader (carregador glTF)",
+      "capitulo": "GLOSSARIO/12-web3d-performance-acessibilidade.md",
+      "numero": 4,
+      "etapa": "E16"
+    },
+    {
+      "id": "G226",
+      "titulo": "Lazy Loading (carregamento sob demanda)",
+      "capitulo": "GLOSSARIO/12-web3d-performance-acessibilidade.md",
+      "numero": 5,
+      "etapa": "E16"
+    },
+    {
+      "id": "G227",
+      "titulo": "Intersection Observer (observador de interseção)",
+      "capitulo": "GLOSSARIO/12-web3d-performance-acessibilidade.md",
+      "numero": 6,
+      "etapa": "E16"
+    },
+    {
+      "id": "G228",
+      "titulo": "DPR — Device Pixel Ratio (densidade de pixels)",
+      "capitulo": "GLOSSARIO/12-web3d-performance-acessibilidade.md",
+      "numero": 7,
+      "etapa": "E16"
+    },
+    {
+      "id": "G229",
+      "titulo": "Responsive Canvas (tela adaptável)",
+      "capitulo": "GLOSSARIO/12-web3d-performance-acessibilidade.md",
+      "numero": 8,
+      "etapa": "E16"
+    },
+    {
+      "id": "G230",
+      "titulo": "Shader Compilation (compilação de shader)",
+      "capitulo": "GLOSSARIO/12-web3d-performance-acessibilidade.md",
+      "numero": 9,
+      "etapa": "E16"
+    },
+    {
+      "id": "G231",
+      "titulo": "Shader Cache (cache de shaders)",
+      "capitulo": "GLOSSARIO/12-web3d-performance-acessibilidade.md",
+      "numero": 10,
+      "etapa": "E16"
+    },
+    {
+      "id": "G232",
+      "titulo": "Asset Preload (pré-carregamento de recursos)",
+      "capitulo": "GLOSSARIO/12-web3d-performance-acessibilidade.md",
+      "numero": 11,
+      "etapa": "E16"
+    },
+    {
+      "id": "G233",
+      "titulo": "Draco Compression (compressão Draco)",
+      "capitulo": "GLOSSARIO/12-web3d-performance-acessibilidade.md",
+      "numero": 12,
+      "etapa": "E16"
+    },
+    {
+      "id": "G234",
+      "titulo": "Meshopt Compression (compressão Meshopt)",
+      "capitulo": "GLOSSARIO/12-web3d-performance-acessibilidade.md",
+      "numero": 13,
+      "etapa": "E16"
+    },
+    {
+      "id": "G235",
+      "titulo": "KTX2/BasisU (textura compactada)",
+      "capitulo": "GLOSSARIO/12-web3d-performance-acessibilidade.md",
+      "numero": 14,
+      "etapa": "E16"
+    },
+    {
+      "id": "G236",
+      "titulo": "AR Modes (modos AR)",
+      "capitulo": "GLOSSARIO/12-web3d-performance-acessibilidade.md",
+      "numero": 15,
+      "etapa": "E16"
+    },
+    {
+      "id": "G237",
+      "titulo": "Accessible Description (descrição acessível)",
+      "capitulo": "GLOSSARIO/12-web3d-performance-acessibilidade.md",
+      "numero": 16,
+      "etapa": "E16"
+    },
+    {
+      "id": "G238",
+      "titulo": "Keyboard Orbit (órbita por teclado)",
+      "capitulo": "GLOSSARIO/12-web3d-performance-acessibilidade.md",
+      "numero": 17,
+      "etapa": "E16"
+    },
+    {
+      "id": "G239",
+      "titulo": "Motion Sickness (cinetose em XR)",
+      "capitulo": "GLOSSARIO/12-web3d-performance-acessibilidade.md",
+      "numero": 18,
+      "etapa": "E16"
+    },
+    {
+      "id": "G240",
+      "titulo": "Depth API (API de profundidade)",
+      "capitulo": "GLOSSARIO/13-ar-espacial-rastreamento-imersao.md",
+      "numero": 1,
+      "etapa": "E16"
+    },
+    {
+      "id": "G241",
+      "titulo": "Geospatial API (API geoespacial)",
+      "capitulo": "GLOSSARIO/13-ar-espacial-rastreamento-imersao.md",
+      "numero": 2,
+      "etapa": "E16"
+    },
+    {
+      "id": "G242",
+      "titulo": "VPS — Visual Positioning System (posicionamento visual)",
+      "capitulo": "GLOSSARIO/13-ar-espacial-rastreamento-imersao.md",
+      "numero": 3,
+      "etapa": "E16"
+    },
+    {
+      "id": "G243",
+      "titulo": "Cloud Anchor (âncora em nuvem)",
+      "capitulo": "GLOSSARIO/13-ar-espacial-rastreamento-imersao.md",
+      "numero": 4,
+      "etapa": "E16"
+    },
+    {
+      "id": "G244",
+      "titulo": "Geospatial Anchor (âncora geográfica)",
+      "capitulo": "GLOSSARIO/13-ar-espacial-rastreamento-imersao.md",
+      "numero": 5,
+      "etapa": "E16"
+    },
+    {
+      "id": "G245",
+      "titulo": "Terrain Anchor (âncora de terreno)",
+      "capitulo": "GLOSSARIO/13-ar-espacial-rastreamento-imersao.md",
+      "numero": 6,
+      "etapa": "E16"
+    },
+    {
+      "id": "G246",
+      "titulo": "Rooftop Anchor (âncora de cobertura)",
+      "capitulo": "GLOSSARIO/13-ar-espacial-rastreamento-imersao.md",
+      "numero": 7,
+      "etapa": "E16"
+    },
+    {
+      "id": "G247",
+      "titulo": "Streetscape Geometry (geometria urbana)",
+      "capitulo": "GLOSSARIO/13-ar-espacial-rastreamento-imersao.md",
+      "numero": 8,
+      "etapa": "E16"
+    },
+    {
+      "id": "G248",
+      "titulo": "Environment Meshing (malha do ambiente)",
+      "capitulo": "GLOSSARIO/13-ar-espacial-rastreamento-imersao.md",
+      "numero": 9,
+      "etapa": "E16"
+    },
+    {
+      "id": "G249",
+      "titulo": "Scene Understanding (compreensão de cena)",
+      "capitulo": "GLOSSARIO/13-ar-espacial-rastreamento-imersao.md",
+      "numero": 10,
+      "etapa": "E16"
+    },
+    {
+      "id": "G250",
+      "titulo": "Hand Tracking (rastreamento de mãos)",
+      "capitulo": "GLOSSARIO/13-ar-espacial-rastreamento-imersao.md",
+      "numero": 11,
+      "etapa": "E16"
+    },
+    {
+      "id": "G251",
+      "titulo": "Eye Tracking (rastreamento ocular)",
+      "capitulo": "GLOSSARIO/13-ar-espacial-rastreamento-imersao.md",
+      "numero": 12,
+      "etapa": "E16"
+    },
+    {
+      "id": "G252",
+      "titulo": "Foveated Rendering (renderização foveada)",
+      "capitulo": "GLOSSARIO/13-ar-espacial-rastreamento-imersao.md",
+      "numero": 13,
+      "etapa": "E16"
+    },
+    {
+      "id": "G253",
+      "titulo": "Passthrough Occlusion (oclusão passthrough)",
+      "capitulo": "GLOSSARIO/13-ar-espacial-rastreamento-imersao.md",
+      "numero": 14,
+      "etapa": "E16"
+    },
+    {
+      "id": "G254",
+      "titulo": "Spatial Audio (áudio espacial)",
+      "capitulo": "GLOSSARIO/13-ar-espacial-rastreamento-imersao.md",
+      "numero": 15,
+      "etapa": "E16"
+    },
+    {
+      "id": "G255",
+      "titulo": "Room Scale (escala de sala)",
+      "capitulo": "GLOSSARIO/13-ar-espacial-rastreamento-imersao.md",
+      "numero": 16,
+      "etapa": "E16"
+    },
+    {
+      "id": "G256",
+      "titulo": "Guardian/Boundary (limite de segurança)",
+      "capitulo": "GLOSSARIO/13-ar-espacial-rastreamento-imersao.md",
+      "numero": 17,
+      "etapa": "E16"
+    },
+    {
+      "id": "G257",
+      "titulo": "AR Session State (estado de sessão AR)",
+      "capitulo": "GLOSSARIO/13-ar-espacial-rastreamento-imersao.md",
+      "numero": 18,
+      "etapa": "E16"
+    },
+    {
+      "id": "G258",
+      "titulo": "Parametric CAD (CAD paramétrico)",
+      "capitulo": "GLOSSARIO/14-cad-impressao-geodados-ciencia.md",
+      "numero": 1,
+      "etapa": "E15"
+    },
+    {
+      "id": "G259",
+      "titulo": "Sketch Constraint (restrição de esboço)",
+      "capitulo": "GLOSSARIO/14-cad-impressao-geodados-ciencia.md",
+      "numero": 2,
+      "etapa": "E15"
+    },
+    {
+      "id": "G260",
+      "titulo": "Tolerance (tolerância dimensional)",
+      "capitulo": "GLOSSARIO/14-cad-impressao-geodados-ciencia.md",
+      "numero": 3,
+      "etapa": "E15"
+    },
+    {
+      "id": "G261",
+      "titulo": "Watertight Mesh (malha estanque)",
+      "capitulo": "GLOSSARIO/14-cad-impressao-geodados-ciencia.md",
+      "numero": 4,
+      "etapa": "E15"
+    },
+    {
+      "id": "G262",
+      "titulo": "G-code (código de movimento de máquina)",
+      "capitulo": "GLOSSARIO/14-cad-impressao-geodados-ciencia.md",
+      "numero": 5,
+      "etapa": "E15"
+    },
+    {
+      "id": "G263",
+      "titulo": "Slicer (fatiador)",
+      "capitulo": "GLOSSARIO/14-cad-impressao-geodados-ciencia.md",
+      "numero": 6,
+      "etapa": "E15"
+    },
+    {
+      "id": "G264",
+      "titulo": "Infill (preenchimento)",
+      "capitulo": "GLOSSARIO/14-cad-impressao-geodados-ciencia.md",
+      "numero": 7,
+      "etapa": "E15"
+    },
+    {
+      "id": "G265",
+      "titulo": "Support Structures (estruturas de suporte)",
+      "capitulo": "GLOSSARIO/14-cad-impressao-geodados-ciencia.md",
+      "numero": 8,
+      "etapa": "E15"
+    },
+    {
+      "id": "G266",
+      "titulo": "Layer Height (altura de camada)",
+      "capitulo": "GLOSSARIO/14-cad-impressao-geodados-ciencia.md",
+      "numero": 9,
+      "etapa": "E15"
+    },
+    {
+      "id": "G267",
+      "titulo": "BIM Property Set (conjunto de propriedades BIM)",
+      "capitulo": "GLOSSARIO/14-cad-impressao-geodados-ciencia.md",
+      "numero": 10,
+      "etapa": "E15"
+    },
+    {
+      "id": "G268",
+      "titulo": "IFC Schema (esquema IFC)",
+      "capitulo": "GLOSSARIO/14-cad-impressao-geodados-ciencia.md",
+      "numero": 11,
+      "etapa": "E15"
+    },
+    {
+      "id": "G269",
+      "titulo": "GeoReference (georreferência)",
+      "capitulo": "GLOSSARIO/14-cad-impressao-geodados-ciencia.md",
+      "numero": 12,
+      "etapa": "E15"
+    },
+    {
+      "id": "G270",
+      "titulo": "CRS — Coordinate Reference System (sistema de referência)",
+      "capitulo": "GLOSSARIO/14-cad-impressao-geodados-ciencia.md",
+      "numero": 13,
+      "etapa": "E15"
+    },
+    {
+      "id": "G271",
+      "titulo": "DTM — Digital Terrain Model (modelo digital do terreno)",
+      "capitulo": "GLOSSARIO/14-cad-impressao-geodados-ciencia.md",
+      "numero": 14,
+      "etapa": "E15"
+    },
+    {
+      "id": "G272",
+      "titulo": "DSM — Digital Surface Model (modelo digital de superfície)",
+      "capitulo": "GLOSSARIO/14-cad-impressao-geodados-ciencia.md",
+      "numero": 15,
+      "etapa": "E15"
+    },
+    {
+      "id": "G273",
+      "titulo": "3D Tiles (tiles espaciais 3D)",
+      "capitulo": "GLOSSARIO/14-cad-impressao-geodados-ciencia.md",
+      "numero": 16,
+      "etapa": "E15"
+    },
+    {
+      "id": "G274",
+      "titulo": "DICOM (padrão de imagem médica)",
+      "capitulo": "GLOSSARIO/14-cad-impressao-geodados-ciencia.md",
+      "numero": 17,
+      "etapa": "E15"
+    },
+    {
+      "id": "G275",
+      "titulo": "Volume Segmentation (segmentação volumétrica)",
+      "capitulo": "GLOSSARIO/14-cad-impressao-geodados-ciencia.md",
+      "numero": 18,
+      "etapa": "E15"
+    },
+    {
+      "id": "G276",
+      "titulo": "Source Provenance (proveniência de fonte)",
+      "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
+      "numero": 1,
+      "etapa": "E18"
+    },
+    {
+      "id": "G277",
+      "titulo": "Evidence Class (classe de evidência)",
+      "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
+      "numero": 2,
+      "etapa": "E18"
+    },
+    {
+      "id": "G278",
+      "titulo": "SDK Compatibility Matrix (matriz de compatibilidade de SDK)",
+      "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
+      "numero": 3,
+      "etapa": "E18"
+    },
+    {
+      "id": "G279",
+      "titulo": "Semantic Versioning (versionamento semântico)",
+      "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
+      "numero": 4,
+      "etapa": "E18"
+    },
+    {
+      "id": "G280",
+      "titulo": "Source Lock (travamento de fontes)",
+      "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
+      "numero": 5,
+      "etapa": "E18"
+    },
+    {
+      "id": "G281",
+      "titulo": "Content Digest (resumo criptográfico)",
+      "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
+      "numero": 6,
+      "etapa": "E18"
+    },
+    {
+      "id": "G282",
+      "titulo": "Regression Test (teste de regressão)",
+      "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
+      "numero": 7,
+      "etapa": "E18"
+    },
+    {
+      "id": "G283",
+      "titulo": "Golden Sample (amostra de referência)",
+      "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
+      "numero": 8,
+      "etapa": "E18"
+    },
+    {
+      "id": "G284",
+      "titulo": "Visual Diff (comparação visual)",
+      "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
+      "numero": 9,
+      "etapa": "E18"
+    },
+    {
+      "id": "G285",
+      "titulo": "License Manifest (manifesto de licenças)",
+      "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
+      "numero": 10,
+      "etapa": "E18"
+    },
+    {
+      "id": "G286",
+      "titulo": "Rights Clearance (liberação de direitos)",
+      "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
+      "numero": 11,
+      "etapa": "E18"
+    },
+    {
+      "id": "G287",
+      "titulo": "Data Minimization (minimização de dados)",
+      "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
+      "numero": 12,
+      "etapa": "E18"
+    },
+    {
+      "id": "G288",
+      "titulo": "Performance Baseline (linha-base de desempenho)",
+      "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
+      "numero": 13,
+      "etapa": "E18"
+    },
+    {
+      "id": "G289",
+      "titulo": "Capability Contract (contrato de capacidade)",
+      "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
+      "numero": 14,
+      "etapa": "E18"
+    },
+    {
+      "id": "G290",
+      "titulo": "Evaluation Harness (ambiente de avaliação)",
+      "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
+      "numero": 15,
+      "etapa": "E18"
+    },
+    {
+      "id": "G291",
+      "titulo": "Adversarial Test (teste adversarial)",
+      "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
+      "numero": 16,
+      "etapa": "E18"
+    },
+    {
+      "id": "G292",
+      "titulo": "Rollback Plan (plano de reversão)",
+      "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
+      "numero": 17,
+      "etapa": "E18"
+    },
+    {
+      "id": "G293",
+      "titulo": "Completion Contract (contrato de conclusão)",
+      "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
+      "numero": 18,
+      "etapa": "E18"
+    }
+  ]
+}
