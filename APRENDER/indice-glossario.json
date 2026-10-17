@@ -62,21 +62,24 @@
       "titulo": "Câmera",
       "capitulo": "GLOSSARIO/01-conceitos-fundamentais.md",
       "numero": 9,
-      "etapa": "E04"
+      "etapa": "E12",
+      "criterio_roteamento": "câmera e enquadramento"
     },
     {
       "id": "G010",
       "titulo": "Focal length (distância focal)",
       "capitulo": "GLOSSARIO/01-conceitos-fundamentais.md",
       "numero": 10,
-      "etapa": "E04"
+      "etapa": "E12",
+      "criterio_roteamento": "câmera e enquadramento"
     },
     {
       "id": "G011",
       "titulo": "Clip planes (planos de corte)",
       "capitulo": "GLOSSARIO/01-conceitos-fundamentais.md",
       "numero": 11,
-      "etapa": "E04"
+      "etapa": "E12",
+      "criterio_roteamento": "câmera e enquadramento"
     },
     {
       "id": "G012",
@@ -321,14 +324,16 @@
       "titulo": "Metallic (metalicidade)",
       "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
       "numero": 11,
-      "etapa": "E06"
+      "etapa": "E07",
+      "criterio_roteamento": "lookdev e gestão de cor"
     },
     {
       "id": "G047",
       "titulo": "Roughness (rugosidade)",
       "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
       "numero": 12,
-      "etapa": "E06"
+      "etapa": "E07",
+      "criterio_roteamento": "lookdev e gestão de cor"
     },
     {
       "id": "G048",
@@ -377,63 +382,72 @@
       "titulo": "sRGB (espaço de cor perceptual)",
       "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
       "numero": 19,
-      "etapa": "E06"
+      "etapa": "E07",
+      "criterio_roteamento": "lookdev e gestão de cor"
     },
     {
       "id": "G055",
       "titulo": "Linear Color (cor linear)",
       "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
       "numero": 20,
-      "etapa": "E06"
+      "etapa": "E07",
+      "criterio_roteamento": "lookdev e gestão de cor"
     },
     {
       "id": "G056",
       "titulo": "HDRI — High Dynamic Range Image (imagem de alto alcance dinâmico)",
       "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
       "numero": 21,
-      "etapa": "E06"
+      "etapa": "E07",
+      "criterio_roteamento": "lookdev e gestão de cor"
     },
     {
       "id": "G057",
       "titulo": "Shader (programa de superfície)",
       "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
       "numero": 22,
-      "etapa": "E06"
+      "etapa": "E07",
+      "criterio_roteamento": "lookdev e gestão de cor"
     },
     {
       "id": "G058",
       "titulo": "BSDF — Bidirectional Scattering Distribution Function (função de espalhamento bidirecional)",
       "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
       "numero": 23,
-      "etapa": "E06"
+      "etapa": "E07",
+      "criterio_roteamento": "lookdev e gestão de cor"
     },
     {
       "id": "G059",
       "titulo": "Ray Tracing (traçado de raios)",
       "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
       "numero": 24,
-      "etapa": "E06"
+      "etapa": "E12",
+      "criterio_roteamento": "renderização e passes"
     },
     {
       "id": "G060",
       "titulo": "Path Tracing (traçado de caminhos)",
       "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
       "numero": 25,
-      "etapa": "E06"
+      "etapa": "E12",
+      "criterio_roteamento": "renderização e passes"
     },
     {
       "id": "G061",
       "titulo": "Denoising (remoção de ruído)",
       "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
       "numero": 26,
-      "etapa": "E06"
+      "etapa": "E12",
+      "criterio_roteamento": "renderização e passes"
     },
     {
       "id": "G062",
       "titulo": "Render Pass (passe de render)",
       "capitulo": "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
       "numero": 27,
-      "etapa": "E06"
+      "etapa": "E12",
+      "criterio_roteamento": "renderização e passes"
     },
     {
       "id": "G063",
@@ -608,49 +622,56 @@
       "titulo": "Game Engine (motor de jogo)",
       "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
       "numero": 1,
-      "etapa": "E15"
+      "etapa": "E16",
+      "criterio_roteamento": "motor e runtime de aplicações"
     },
     {
       "id": "G088",
       "titulo": "Unreal Engine",
       "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
       "numero": 2,
-      "etapa": "E15"
+      "etapa": "E16",
+      "criterio_roteamento": "motor e runtime de aplicações"
     },
     {
       "id": "G089",
       "titulo": "Blueprints (sistema visual Unreal)",
       "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
       "numero": 3,
-      "etapa": "E15"
+      "etapa": "E16",
+      "criterio_roteamento": "motor e runtime de aplicações"
     },
     {
       "id": "G090",
       "titulo": "Nanite",
       "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
       "numero": 4,
-      "etapa": "E15"
+      "etapa": "E14",
+      "criterio_roteamento": "otimização e profiling"
     },
     {
       "id": "G091",
       "titulo": "Lumen",
       "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
       "numero": 5,
-      "etapa": "E15"
+      "etapa": "E14",
+      "criterio_roteamento": "otimização e profiling"
     },
     {
       "id": "G092",
       "titulo": "Unity",
       "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
       "numero": 6,
-      "etapa": "E15"
+      "etapa": "E16",
+      "criterio_roteamento": "motor e runtime de aplicações"
     },
     {
       "id": "G093",
       "titulo": "Godot",
       "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
       "numero": 7,
-      "etapa": "E15"
+      "etapa": "E16",
+      "criterio_roteamento": "motor e runtime de aplicações"
     },
     {
       "id": "G094",
@@ -713,35 +734,40 @@
       "titulo": "LOD Chain (cadeia de nível de detalhe)",
       "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
       "numero": 16,
-      "etapa": "E15"
+      "etapa": "E14",
+      "criterio_roteamento": "otimização e profiling"
     },
     {
       "id": "G103",
       "titulo": "Draw Call (chamada de desenho)",
       "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
       "numero": 17,
-      "etapa": "E15"
+      "etapa": "E14",
+      "criterio_roteamento": "otimização e profiling"
     },
     {
       "id": "G104",
       "titulo": "Occlusion Culling (ocultação)",
       "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
       "numero": 18,
-      "etapa": "E15"
+      "etapa": "E14",
+      "criterio_roteamento": "otimização e profiling"
     },
     {
       "id": "G105",
       "titulo": "Frustum Culling (recorte por volume de câmera)",
       "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
       "numero": 19,
-      "etapa": "E15"
+      "etapa": "E14",
+      "criterio_roteamento": "otimização e profiling"
     },
     {
       "id": "G106",
       "titulo": "Profiling (perfilamento)",
       "capitulo": "GLOSSARIO/05-engines-integracao-e-pipeline.md",
       "numero": 20,
-      "etapa": "E15"
+      "etapa": "E14",
+      "criterio_roteamento": "otimização e profiling"
     },
     {
       "id": "G107",
@@ -1301,70 +1327,80 @@
       "titulo": "Shot (plano)",
       "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
       "numero": 1,
-      "etapa": "E12"
+      "etapa": "E03",
+      "criterio_roteamento": "planejamento de filme"
     },
     {
       "id": "G187",
       "titulo": "Sequence (sequência)",
       "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
       "numero": 2,
-      "etapa": "E12"
+      "etapa": "E03",
+      "criterio_roteamento": "planejamento de filme"
     },
     {
       "id": "G188",
       "titulo": "Animatic (animático)",
       "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
       "numero": 3,
-      "etapa": "E12"
+      "etapa": "E03",
+      "criterio_roteamento": "planejamento de filme"
     },
     {
       "id": "G189",
       "titulo": "Previs — Previsualization (pré-visualização)",
       "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
       "numero": 4,
-      "etapa": "E12"
+      "etapa": "E03",
+      "criterio_roteamento": "planejamento de filme"
     },
     {
       "id": "G190",
       "titulo": "Techvis — Technical Visualization (visualização técnica)",
       "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
       "numero": 5,
-      "etapa": "E12"
+      "etapa": "E03",
+      "criterio_roteamento": "planejamento de filme"
     },
     {
       "id": "G191",
       "titulo": "Postvis — Postvisualization (pós-visualização)",
       "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
       "numero": 6,
-      "etapa": "E12"
+      "etapa": "E10",
+      "criterio_roteamento": "tracking e pós"
     },
     {
       "id": "G192",
       "titulo": "ICVFX — In-Camera Visual Effects (efeitos em câmera)",
       "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
       "numero": 7,
-      "etapa": "E12"
+      "etapa": "E11",
+      "criterio_roteamento": "produção virtual e efeitos em cena"
     },
     {
       "id": "G193",
       "titulo": "LED Volume (palco de painéis LED)",
       "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
       "numero": 8,
-      "etapa": "E12"
+      "etapa": "E11",
+      "criterio_roteamento": "produção virtual e efeitos em cena"
     },
     {
       "id": "G194",
       "titulo": "Timecode (código de tempo)",
       "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
       "numero": 9,
-      "etapa": "E12"
+      "etapa": "E13",
+      "criterio_roteamento": "sincronização audiovisual"
     },
     {
       "id": "G195",
       "titulo": "Genlock (sincronização de geradores)",
       "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
       "numero": 10,
-      "etapa": "E12"
+      "etapa": "E11",
+      "criterio_roteamento": "produção virtual e efeitos em cena"
     },
     {
       "id": "G196",
@@ -1385,42 +1421,48 @@
       "titulo": "Deep Compositing (composição profunda)",
       "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
       "numero": 13,
-      "etapa": "E12"
+      "etapa": "E10",
+      "criterio_roteamento": "tracking e pós"
     },
     {
       "id": "G199",
       "titulo": "Color Pipeline (pipeline de cor)",
       "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
       "numero": 14,
-      "etapa": "E12"
+      "etapa": "E07",
+      "criterio_roteamento": "consistência de cor"
     },
     {
       "id": "G200",
       "titulo": "OCIO Config (configuração OpenColorIO)",
       "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
       "numero": 15,
-      "etapa": "E12"
+      "etapa": "E07",
+      "criterio_roteamento": "consistência de cor"
     },
     {
       "id": "G201",
       "titulo": "ACEScg (espaço de cor ACES para CG)",
       "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
       "numero": 16,
-      "etapa": "E12"
+      "etapa": "E07",
+      "criterio_roteamento": "consistência de cor"
     },
     {
       "id": "G202",
       "titulo": "Highlight Roll-off (transição de altas luzes)",
       "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
       "numero": 17,
-      "etapa": "E12"
+      "etapa": "E07",
+      "criterio_roteamento": "consistência de cor"
     },
     {
       "id": "G203",
       "titulo": "Match Grade (equalização de cor)",
       "capitulo": "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
       "numero": 18,
-      "etapa": "E12"
+      "etapa": "E10",
+      "criterio_roteamento": "tracking e pós"
     },
     {
       "id": "G204",
@@ -1595,7 +1637,8 @@
       "titulo": "DPR — Device Pixel Ratio (densidade de pixels)",
       "capitulo": "GLOSSARIO/12-web3d-performance-acessibilidade.md",
       "numero": 7,
-      "etapa": "E16"
+      "etapa": "E14",
+      "criterio_roteamento": "custo de runtime"
     },
     {
       "id": "G229",
@@ -1609,42 +1652,48 @@
       "titulo": "Shader Compilation (compilação de shader)",
       "capitulo": "GLOSSARIO/12-web3d-performance-acessibilidade.md",
       "numero": 9,
-      "etapa": "E16"
+      "etapa": "E14",
+      "criterio_roteamento": "custo de runtime"
     },
     {
       "id": "G231",
       "titulo": "Shader Cache (cache de shaders)",
       "capitulo": "GLOSSARIO/12-web3d-performance-acessibilidade.md",
       "numero": 10,
-      "etapa": "E16"
+      "etapa": "E14",
+      "criterio_roteamento": "custo de runtime"
     },
     {
       "id": "G232",
       "titulo": "Asset Preload (pré-carregamento de recursos)",
       "capitulo": "GLOSSARIO/12-web3d-performance-acessibilidade.md",
       "numero": 11,
-      "etapa": "E16"
+      "etapa": "E14",
+      "criterio_roteamento": "custo de runtime"
     },
     {
       "id": "G233",
       "titulo": "Draco Compression (compressão Draco)",
       "capitulo": "GLOSSARIO/12-web3d-performance-acessibilidade.md",
       "numero": 12,
-      "etapa": "E16"
+      "etapa": "E14",
+      "criterio_roteamento": "custo de runtime"
     },
     {
       "id": "G234",
       "titulo": "Meshopt Compression (compressão Meshopt)",
       "capitulo": "GLOSSARIO/12-web3d-performance-acessibilidade.md",
       "numero": 13,
-      "etapa": "E16"
+      "etapa": "E14",
+      "criterio_roteamento": "custo de runtime"
     },
     {
       "id": "G235",
       "titulo": "KTX2/BasisU (textura compactada)",
       "capitulo": "GLOSSARIO/12-web3d-performance-acessibilidade.md",
       "numero": 14,
-      "etapa": "E16"
+      "etapa": "E14",
+      "criterio_roteamento": "custo de runtime"
     },
     {
       "id": "G236",
@@ -1931,42 +1980,48 @@
       "titulo": "Source Provenance (proveniência de fonte)",
       "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
       "numero": 1,
-      "etapa": "E18"
+      "etapa": "E02",
+      "criterio_roteamento": "proveniência e pesquisa"
     },
     {
       "id": "G277",
       "titulo": "Evidence Class (classe de evidência)",
       "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
       "numero": 2,
-      "etapa": "E18"
+      "etapa": "E02",
+      "criterio_roteamento": "proveniência e pesquisa"
     },
     {
       "id": "G278",
       "titulo": "SDK Compatibility Matrix (matriz de compatibilidade de SDK)",
       "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
       "numero": 3,
-      "etapa": "E18"
+      "etapa": "E15",
+      "criterio_roteamento": "compatibilidade e versionamento"
     },
     {
       "id": "G279",
       "titulo": "Semantic Versioning (versionamento semântico)",
       "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
       "numero": 4,
-      "etapa": "E18"
+      "etapa": "E15",
+      "criterio_roteamento": "compatibilidade e versionamento"
     },
     {
       "id": "G280",
       "titulo": "Source Lock (travamento de fontes)",
       "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
       "numero": 5,
-      "etapa": "E18"
+      "etapa": "E02",
+      "criterio_roteamento": "proveniência e pesquisa"
     },
     {
       "id": "G281",
       "titulo": "Content Digest (resumo criptográfico)",
       "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
       "numero": 6,
-      "etapa": "E18"
+      "etapa": "E15",
+      "criterio_roteamento": "compatibilidade e versionamento"
     },
     {
       "id": "G282",
@@ -1994,21 +2049,24 @@
       "titulo": "License Manifest (manifesto de licenças)",
       "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
       "numero": 10,
-      "etapa": "E18"
+      "etapa": "E17",
+      "criterio_roteamento": "direitos e proteção de dados"
     },
     {
       "id": "G286",
       "titulo": "Rights Clearance (liberação de direitos)",
       "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
       "numero": 11,
-      "etapa": "E18"
+      "etapa": "E17",
+      "criterio_roteamento": "direitos e proteção de dados"
     },
     {
       "id": "G287",
       "titulo": "Data Minimization (minimização de dados)",
       "capitulo": "GLOSSARIO/15-governanca-pesquisa-skills.md",
       "numero": 12,
-      "etapa": "E18"
+      "etapa": "E17",
+      "criterio_roteamento": "direitos e proteção de dados"
     },
     {
       "id": "G288",

@@ -105,7 +105,8 @@
       "titulo": "Por que o metal parece plástico no render?",
       "capitulo": "FAQ/12-uv-pbr-baking-profissional.md",
       "numero": 2,
-      "etapa": "E06"
+      "etapa": "E07",
+      "criterio_roteamento": "aparência e cor"
     },
     {
       "id": "Q096",
@@ -147,21 +148,24 @@
       "titulo": "Minha textura muda de cor entre programas; por quê?",
       "capitulo": "FAQ/12-uv-pbr-baking-profissional.md",
       "numero": 8,
-      "etapa": "E06"
+      "etapa": "E07",
+      "criterio_roteamento": "aparência e cor"
     },
     {
       "id": "Q102",
       "titulo": "É melhor material procedural ou textura pronta?",
       "capitulo": "FAQ/12-uv-pbr-baking-profissional.md",
       "numero": 9,
-      "etapa": "E06"
+      "etapa": "E07",
+      "criterio_roteamento": "aparência e cor"
     },
     {
       "id": "Q103",
       "titulo": "Como criar material de vidro sem travar o celular?",
       "capitulo": "FAQ/12-uv-pbr-baking-profissional.md",
       "numero": 10,
-      "etapa": "E06"
+      "etapa": "E07",
+      "criterio_roteamento": "aparência e cor"
     },
     {
       "id": "Q104",
@@ -189,42 +193,48 @@
       "titulo": "Como faço um animatic rápido para cliente?",
       "capitulo": "FAQ/13-animacao-cinema-vfx.md",
       "numero": 1,
-      "etapa": "E10"
+      "etapa": "E03",
+      "criterio_roteamento": "storyboard e prévia narrativa"
     },
     {
       "id": "Q108",
       "titulo": "Como descobrir se uma animação está sem peso?",
       "capitulo": "FAQ/13-animacao-cinema-vfx.md",
       "numero": 2,
-      "etapa": "E10"
+      "etapa": "E09",
+      "criterio_roteamento": "animação e deformação"
     },
     {
       "id": "Q109",
       "titulo": "Posso transferir animação de um rig a outro sempre?",
       "capitulo": "FAQ/13-animacao-cinema-vfx.md",
       "numero": 3,
-      "etapa": "E10"
+      "etapa": "E09",
+      "criterio_roteamento": "animação e deformação"
     },
     {
       "id": "Q110",
       "titulo": "O que faço se meu pé desliza no chão?",
       "capitulo": "FAQ/13-animacao-cinema-vfx.md",
       "numero": 4,
-      "etapa": "E10"
+      "etapa": "E09",
+      "criterio_roteamento": "animação e deformação"
     },
     {
       "id": "Q111",
       "titulo": "Como criar expressão facial sem mocap?",
       "capitulo": "FAQ/13-animacao-cinema-vfx.md",
       "numero": 5,
-      "etapa": "E10"
+      "etapa": "E09",
+      "criterio_roteamento": "animação e deformação"
     },
     {
       "id": "Q112",
       "titulo": "Como sincronizar áudio com personagem 3D?",
       "capitulo": "FAQ/13-animacao-cinema-vfx.md",
       "numero": 6,
-      "etapa": "E10"
+      "etapa": "E13",
+      "criterio_roteamento": "montagem e sincronização"
     },
     {
       "id": "Q113",
@@ -259,28 +269,32 @@
       "titulo": "Quando usar OpenEXR em vez de PNG?",
       "capitulo": "FAQ/13-animacao-cinema-vfx.md",
       "numero": 11,
-      "etapa": "E10"
+      "etapa": "E12",
+      "criterio_roteamento": "passes e render"
     },
     {
       "id": "Q118",
       "titulo": "Unreal funciona para render de cinema final?",
       "capitulo": "FAQ/13-animacao-cinema-vfx.md",
       "numero": 12,
-      "etapa": "E10"
+      "etapa": "E12",
+      "criterio_roteamento": "passes e render"
     },
     {
       "id": "Q119",
       "titulo": "Como impedir que o render final mude de cor?",
       "capitulo": "FAQ/13-animacao-cinema-vfx.md",
       "numero": 13,
-      "etapa": "E10"
+      "etapa": "E12",
+      "criterio_roteamento": "render e export consistente"
     },
     {
       "id": "Q120",
       "titulo": "Por que meu GLB demora tanto para carregar?",
       "capitulo": "FAQ/14-web3d-qualidade-seo-negocios.md",
       "numero": 1,
-      "etapa": "E16"
+      "etapa": "E14",
+      "criterio_roteamento": "otimização de visualização"
     },
     {
       "id": "Q121",
@@ -329,14 +343,16 @@
       "titulo": "Como detectar perda de contexto gráfico?",
       "capitulo": "FAQ/14-web3d-qualidade-seo-negocios.md",
       "numero": 8,
-      "etapa": "E16"
+      "etapa": "E14",
+      "criterio_roteamento": "otimização de visualização"
     },
     {
       "id": "Q128",
       "titulo": "Como otimizar Three.js em smartphone básico?",
       "capitulo": "FAQ/14-web3d-qualidade-seo-negocios.md",
       "numero": 9,
-      "etapa": "E16"
+      "etapa": "E14",
+      "criterio_roteamento": "otimização de visualização"
     },
     {
       "id": "Q129",
@@ -476,35 +492,40 @@
       "titulo": "Quando vale usar Nanite?",
       "capitulo": "FAQ/16-games-unreal-unity-performance.md",
       "numero": 3,
-      "etapa": "E16"
+      "etapa": "E14",
+      "criterio_roteamento": "perfil e orçamento de runtime"
     },
     {
       "id": "Q149",
       "titulo": "Por que Lumen tem resultado ruim em meu projeto mobile?",
       "capitulo": "FAQ/16-games-unreal-unity-performance.md",
       "numero": 4,
-      "etapa": "E16"
+      "etapa": "E14",
+      "criterio_roteamento": "perfil e orçamento de runtime"
     },
     {
       "id": "Q150",
       "titulo": "Como projetar um material que funcione em VR?",
       "capitulo": "FAQ/16-games-unreal-unity-performance.md",
       "numero": 5,
-      "etapa": "E16"
+      "etapa": "E14",
+      "criterio_roteamento": "perfil e orçamento de runtime"
     },
     {
       "id": "Q151",
       "titulo": "Como reduzir custo de vegetação em Unreal?",
       "capitulo": "FAQ/16-games-unreal-unity-performance.md",
       "numero": 6,
-      "etapa": "E16"
+      "etapa": "E14",
+      "criterio_roteamento": "perfil e orçamento de runtime"
     },
     {
       "id": "Q152",
       "titulo": "O que é o primeiro profiler que devo usar?",
       "capitulo": "FAQ/16-games-unreal-unity-performance.md",
       "numero": 7,
-      "etapa": "E16"
+      "etapa": "E14",
+      "criterio_roteamento": "perfil e orçamento de runtime"
     },
     {
       "id": "Q153",
@@ -532,7 +553,8 @@
       "titulo": "Como preparar um nível para mobile?",
       "capitulo": "FAQ/16-games-unreal-unity-performance.md",
       "numero": 11,
-      "etapa": "E16"
+      "etapa": "E14",
+      "criterio_roteamento": "perfil e orçamento de runtime"
     },
     {
       "id": "Q157",
@@ -644,14 +666,16 @@
       "titulo": "Como sei se uma fonte 3D está realmente atualizada?",
       "capitulo": "FAQ/18-governanca-skills-aprendizagem.md",
       "numero": 1,
-      "etapa": "E18"
+      "etapa": "E02",
+      "criterio_roteamento": "pesquisa e atualização"
     },
     {
       "id": "Q173",
       "titulo": "Por que um link não prova licença comercial?",
       "capitulo": "FAQ/18-governanca-skills-aprendizagem.md",
       "numero": 2,
-      "etapa": "E18"
+      "etapa": "E17",
+      "criterio_roteamento": "direitos por arquivo"
     },
     {
       "id": "Q174",
@@ -693,7 +717,8 @@
       "titulo": "Por que separar conhecimento atemporal de notícias?",
       "capitulo": "FAQ/18-governanca-skills-aprendizagem.md",
       "numero": 8,
-      "etapa": "E18"
+      "etapa": "E02",
+      "criterio_roteamento": "pesquisa e atualização"
     },
     {
       "id": "Q180",
@@ -721,14 +746,16 @@
       "titulo": "Como decidir entre mais fontes e mais exercícios?",
       "capitulo": "FAQ/18-governanca-skills-aprendizagem.md",
       "numero": 12,
-      "etapa": "E18"
+      "etapa": "E02",
+      "criterio_roteamento": "pesquisa e atualização"
     },
     {
       "id": "Q184",
       "titulo": "Como controlar dependências de SDK sem bagunça?",
       "capitulo": "FAQ/18-governanca-skills-aprendizagem.md",
       "numero": 13,
-      "etapa": "E18"
+      "etapa": "E15",
+      "criterio_roteamento": "controle de dependências"
     },
     {
       "id": "Q185",

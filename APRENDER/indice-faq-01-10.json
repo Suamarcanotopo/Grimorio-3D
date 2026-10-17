@@ -21,14 +21,16 @@
       "titulo": "O que são X, Y e Z?",
       "capitulo": "FAQ/01-primeiros-passos-e-conceitos.md",
       "numero": 3,
-      "etapa": "E01"
+      "etapa": "E04",
+      "criterio_roteamento": "coordenadas e exploração de cena"
     },
     {
       "id": "Q004",
       "titulo": "Qual a diferença entre viewport e render?",
       "capitulo": "FAQ/01-primeiros-passos-e-conceitos.md",
       "numero": 4,
-      "etapa": "E01"
+      "etapa": "E04",
+      "criterio_roteamento": "coordenadas e exploração de cena"
     },
     {
       "id": "Q005",

@@ -8,7 +8,21 @@ Use a busca de texto do navegador (`Ctrl+F` ou Buscar na página) para localizar
 
 ## Verbetes do glossário
 
-### E04 · Blockout, unidades e pivôs — 15 entradas
+### E02 · Repertório e fontes comprováveis — 3 entradas
+
+- **G276** · [Source Provenance (proveniência de fonte)](../GLOSSARIO/15-governanca-pesquisa-skills.md#1-source-provenance-proveniência-de-fonte)
+- **G277** · [Evidence Class (classe de evidência)](../GLOSSARIO/15-governanca-pesquisa-skills.md#2-evidence-class-classe-de-evidência)
+- **G280** · [Source Lock (travamento de fontes)](../GLOSSARIO/15-governanca-pesquisa-skills.md#5-source-lock-travamento-de-fontes)
+
+### E03 · Conceito, storyboard e mensagem — 5 entradas
+
+- **G186** · [Shot (plano)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#1-shot-plano)
+- **G187** · [Sequence (sequência)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#2-sequence-sequência)
+- **G188** · [Animatic (animático)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#3-animatic-animático)
+- **G189** · [Previs — Previsualization (pré-visualização)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#4-previs--previsualization-pré-visualização)
+- **G190** · [Techvis — Technical Visualization (visualização técnica)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#5-techvis--technical-visualization-visualização-técnica)
+
+### E04 · Blockout, unidades e pivôs — 12 entradas
 
 - **G001** · [3D](../GLOSSARIO/01-conceitos-fundamentais.md#1-3d)
 - **G002** · [Viewport](../GLOSSARIO/01-conceitos-fundamentais.md#2-viewport)
@@ -18,9 +32,6 @@ Use a busca de texto do navegador (`Ctrl+F` ou Buscar na página) para localizar
 - **G006** · [Transform (transformação)](../GLOSSARIO/01-conceitos-fundamentais.md#6-transform-transformação)
 - **G007** · [Pivot/Origin (origem)](../GLOSSARIO/01-conceitos-fundamentais.md#7-pivotorigin-origem)
 - **G008** · [Unidades de cena](../GLOSSARIO/01-conceitos-fundamentais.md#8-unidades-de-cena)
-- **G009** · [Câmera](../GLOSSARIO/01-conceitos-fundamentais.md#9-câmera)
-- **G010** · [Focal length (distância focal)](../GLOSSARIO/01-conceitos-fundamentais.md#10-focal-length-distância-focal)
-- **G011** · [Clip planes (planos de corte)](../GLOSSARIO/01-conceitos-fundamentais.md#11-clip-planes-planos-de-corte)
 - **G012** · [Coleção (Collection)](../GLOSSARIO/01-conceitos-fundamentais.md#12-coleção-collection)
 - **G013** · [Hierarchy (hierarquia)](../GLOSSARIO/01-conceitos-fundamentais.md#13-hierarchy-hierarquia)
 - **G014** · [Parenting (parentalidade)](../GLOSSARIO/01-conceitos-fundamentais.md#14-parenting-parentalidade)
@@ -67,7 +78,7 @@ Use a busca de texto do navegador (`Ctrl+F` ou Buscar na página) para localizar
 - **G166** · [Baking Cage Bias (deslocamento de projeção)](../GLOSSARIO/08-modelagem-avancada-uv-materiais.md#17-baking-cage-bias-deslocamento-de-projeção)
 - **G167** · [Pivot Alignment (alinhamento de origem)](../GLOSSARIO/08-modelagem-avancada-uv-materiais.md#18-pivot-alignment-alinhamento-de-origem)
 
-### E06 · UV, materiais e baking — 27 entradas
+### E06 · UV, materiais e baking — 16 entradas
 
 - **G036** · [UV Mapping (mapeamento UV)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#1-uv-mapping-mapeamento-uv)
 - **G037** · [Seam (costura UV)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#2-seam-costura-uv)
@@ -79,23 +90,26 @@ Use a busca de texto do navegador (`Ctrl+F` ou Buscar na página) para localizar
 - **G043** · [UDIM — U-Dimension Tiles (blocos UV numerados)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#8-udim--u-dimension-tiles-blocos-uv-numerados)
 - **G044** · [PBR — Physically Based Rendering (renderização fisicamente baseada)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#9-pbr--physically-based-rendering-renderização-fisicamente-baseada)
 - **G045** · [Albedo/Base Color (cor base)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#10-albedobase-color-cor-base)
-- **G046** · [Metallic (metalicidade)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#11-metallic-metalicidade)
-- **G047** · [Roughness (rugosidade)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#12-roughness-rugosidade)
 - **G048** · [Normal Map (mapa de normais)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#13-normal-map-mapa-de-normais)
 - **G049** · [AO — Ambient Occlusion (oclusão ambiente)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#14-ao--ambient-occlusion-oclusão-ambiente)
 - **G050** · [Height Map (mapa de altura)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#15-height-map-mapa-de-altura)
 - **G051** · [Displacement (deslocamento)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#16-displacement-deslocamento)
 - **G052** · [Baking (gravação em textura)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#17-baking-gravação-em-textura)
 - **G053** · [Tangent Space (espaço tangente)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#18-tangent-space-espaço-tangente)
+
+### E07 · Lookdev e consistência de cor — 11 entradas
+
+- **G046** · [Metallic (metalicidade)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#11-metallic-metalicidade)
+- **G047** · [Roughness (rugosidade)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#12-roughness-rugosidade)
 - **G054** · [sRGB (espaço de cor perceptual)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#19-srgb-espaço-de-cor-perceptual)
 - **G055** · [Linear Color (cor linear)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#20-linear-color-cor-linear)
 - **G056** · [HDRI — High Dynamic Range Image (imagem de alto alcance dinâmico)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#21-hdri--high-dynamic-range-image-imagem-de-alto-alcance-dinâmico)
 - **G057** · [Shader (programa de superfície)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#22-shader-programa-de-superfície)
 - **G058** · [BSDF — Bidirectional Scattering Distribution Function (função de espalhamento bidirecional)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#23-bsdf--bidirectional-scattering-distribution-function-função-de-espalhamento-bidirecional)
-- **G059** · [Ray Tracing (traçado de raios)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#24-ray-tracing-traçado-de-raios)
-- **G060** · [Path Tracing (traçado de caminhos)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#25-path-tracing-traçado-de-caminhos)
-- **G061** · [Denoising (remoção de ruído)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#26-denoising-remoção-de-ruído)
-- **G062** · [Render Pass (passe de render)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#27-render-pass-passe-de-render)
+- **G199** · [Color Pipeline (pipeline de cor)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#14-color-pipeline-pipeline-de-cor)
+- **G200** · [OCIO Config (configuração OpenColorIO)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#15-ocio-config-configuração-opencolorio)
+- **G201** · [ACEScg (espaço de cor ACES para CG)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#16-acescg-espaço-de-cor-aces-para-cg)
+- **G202** · [Highlight Roll-off (transição de altas luzes)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#17-highlight-roll-off-transição-de-altas-luzes)
 
 ### E09 · Animação, acting e movimento — 42 entradas
 
@@ -142,29 +156,43 @@ Use a busca de texto do navegador (`Ctrl+F` ou Buscar na página) para localizar
 - **G184** · [Motion Matching (correspondência de movimento)](../GLOSSARIO/09-animacao-avancada-direcao-personagem.md#17-motion-matching-correspondência-de-movimento)
 - **G185** · [Animation Retarget Pose (pose de transferência)](../GLOSSARIO/09-animacao-avancada-direcao-personagem.md#18-animation-retarget-pose-pose-de-transferência)
 
-### E12 · Câmera, iluminação, render e passes — 18 entradas
+### E10 · Tracking e captura de referência — 3 entradas
 
-- **G186** · [Shot (plano)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#1-shot-plano)
-- **G187** · [Sequence (sequência)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#2-sequence-sequência)
-- **G188** · [Animatic (animático)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#3-animatic-animático)
-- **G189** · [Previs — Previsualization (pré-visualização)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#4-previs--previsualization-pré-visualização)
-- **G190** · [Techvis — Technical Visualization (visualização técnica)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#5-techvis--technical-visualization-visualização-técnica)
 - **G191** · [Postvis — Postvisualization (pós-visualização)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#6-postvis--postvisualization-pós-visualização)
-- **G192** · [ICVFX — In-Camera Visual Effects (efeitos em câmera)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#7-icvfx--in-camera-visual-effects-efeitos-em-câmera)
-- **G193** · [LED Volume (palco de painéis LED)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#8-led-volume-palco-de-painéis-led)
-- **G194** · [Timecode (código de tempo)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#9-timecode-código-de-tempo)
-- **G195** · [Genlock (sincronização de geradores)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#10-genlock-sincronização-de-geradores)
-- **G196** · [Render AOV (variável de saída arbitrária)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#11-render-aov-variável-de-saída-arbitrária)
-- **G197** · [Cryptomatte (máscara por identificação)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#12-cryptomatte-máscara-por-identificação)
 - **G198** · [Deep Compositing (composição profunda)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#13-deep-compositing-composição-profunda)
-- **G199** · [Color Pipeline (pipeline de cor)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#14-color-pipeline-pipeline-de-cor)
-- **G200** · [OCIO Config (configuração OpenColorIO)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#15-ocio-config-configuração-opencolorio)
-- **G201** · [ACEScg (espaço de cor ACES para CG)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#16-acescg-espaço-de-cor-aces-para-cg)
-- **G202** · [Highlight Roll-off (transição de altas luzes)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#17-highlight-roll-off-transição-de-altas-luzes)
 - **G203** · [Match Grade (equalização de cor)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#18-match-grade-equalização-de-cor)
 
-### E14 · Otimização de runtime e testes — 18 entradas
+### E11 · VFX, procedural, volumes e simulação — 3 entradas
 
+- **G192** · [ICVFX — In-Camera Visual Effects (efeitos em câmera)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#7-icvfx--in-camera-visual-effects-efeitos-em-câmera)
+- **G193** · [LED Volume (palco de painéis LED)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#8-led-volume-palco-de-painéis-led)
+- **G195** · [Genlock (sincronização de geradores)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#10-genlock-sincronização-de-geradores)
+
+### E12 · Câmera, iluminação, render e passes — 9 entradas
+
+- **G009** · [Câmera](../GLOSSARIO/01-conceitos-fundamentais.md#9-câmera)
+- **G010** · [Focal length (distância focal)](../GLOSSARIO/01-conceitos-fundamentais.md#10-focal-length-distância-focal)
+- **G011** · [Clip planes (planos de corte)](../GLOSSARIO/01-conceitos-fundamentais.md#11-clip-planes-planos-de-corte)
+- **G059** · [Ray Tracing (traçado de raios)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#24-ray-tracing-traçado-de-raios)
+- **G060** · [Path Tracing (traçado de caminhos)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#25-path-tracing-traçado-de-caminhos)
+- **G061** · [Denoising (remoção de ruído)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#26-denoising-remoção-de-ruído)
+- **G062** · [Render Pass (passe de render)](../GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md#27-render-pass-passe-de-render)
+- **G196** · [Render AOV (variável de saída arbitrária)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#11-render-aov-variável-de-saída-arbitrária)
+- **G197** · [Cryptomatte (máscara por identificação)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#12-cryptomatte-máscara-por-identificação)
+
+### E13 · Montagem, áudio e comunicação — 1 entradas
+
+- **G194** · [Timecode (código de tempo)](../GLOSSARIO/10-cinema-vfx-gestao-de-cor.md#9-timecode-código-de-tempo)
+
+### E14 · Otimização de runtime e testes — 32 entradas
+
+- **G090** · [Nanite](../GLOSSARIO/05-engines-integracao-e-pipeline.md#4-nanite)
+- **G091** · [Lumen](../GLOSSARIO/05-engines-integracao-e-pipeline.md#5-lumen)
+- **G102** · [LOD Chain (cadeia de nível de detalhe)](../GLOSSARIO/05-engines-integracao-e-pipeline.md#16-lod-chain-cadeia-de-nível-de-detalhe)
+- **G103** · [Draw Call (chamada de desenho)](../GLOSSARIO/05-engines-integracao-e-pipeline.md#17-draw-call-chamada-de-desenho)
+- **G104** · [Occlusion Culling (ocultação)](../GLOSSARIO/05-engines-integracao-e-pipeline.md#18-occlusion-culling-ocultação)
+- **G105** · [Frustum Culling (recorte por volume de câmera)](../GLOSSARIO/05-engines-integracao-e-pipeline.md#19-frustum-culling-recorte-por-volume-de-câmera)
+- **G106** · [Profiling (perfilamento)](../GLOSSARIO/05-engines-integracao-e-pipeline.md#20-profiling-perfilamento)
 - **G204** · [Static Mesh (malha estática)](../GLOSSARIO/11-games-interacao-otimizacao.md#1-static-mesh-malha-estática)
 - **G205** · [Skeletal Mesh (malha esquelética)](../GLOSSARIO/11-games-interacao-otimizacao.md#2-skeletal-mesh-malha-esquelética)
 - **G206** · [Prefab (objeto pré-fabricado)](../GLOSSARIO/11-games-interacao-otimizacao.md#3-prefab-objeto-pré-fabricado)
@@ -183,16 +211,16 @@ Use a busca de texto do navegador (`Ctrl+F` ou Buscar na página) para localizar
 - **G219** · [Profiling GPU (medição gráfica)](../GLOSSARIO/11-games-interacao-otimizacao.md#16-profiling-gpu-medição-gráfica)
 - **G220** · [Gameplay Loop (ciclo de jogo)](../GLOSSARIO/11-games-interacao-otimizacao.md#17-gameplay-loop-ciclo-de-jogo)
 - **G221** · [Deterministic Replay (reprodução determinística)](../GLOSSARIO/11-games-interacao-otimizacao.md#18-deterministic-replay-reprodução-determinística)
+- **G228** · [DPR — Device Pixel Ratio (densidade de pixels)](../GLOSSARIO/12-web3d-performance-acessibilidade.md#7-dpr--device-pixel-ratio-densidade-de-pixels)
+- **G230** · [Shader Compilation (compilação de shader)](../GLOSSARIO/12-web3d-performance-acessibilidade.md#9-shader-compilation-compilação-de-shader)
+- **G231** · [Shader Cache (cache de shaders)](../GLOSSARIO/12-web3d-performance-acessibilidade.md#10-shader-cache-cache-de-shaders)
+- **G232** · [Asset Preload (pré-carregamento de recursos)](../GLOSSARIO/12-web3d-performance-acessibilidade.md#11-asset-preload-pré-carregamento-de-recursos)
+- **G233** · [Draco Compression (compressão Draco)](../GLOSSARIO/12-web3d-performance-acessibilidade.md#12-draco-compression-compressão-draco)
+- **G234** · [Meshopt Compression (compressão Meshopt)](../GLOSSARIO/12-web3d-performance-acessibilidade.md#13-meshopt-compression-compressão-meshopt)
+- **G235** · [KTX2/BasisU (textura compactada)](../GLOSSARIO/12-web3d-performance-acessibilidade.md#14-ktx2basisu-textura-compactada)
 
-### E15 · Formatos, intercâmbio e versionamento — 39 entradas
+### E15 · Formatos, intercâmbio e versionamento — 30 entradas
 
-- **G087** · [Game Engine (motor de jogo)](../GLOSSARIO/05-engines-integracao-e-pipeline.md#1-game-engine-motor-de-jogo)
-- **G088** · [Unreal Engine](../GLOSSARIO/05-engines-integracao-e-pipeline.md#2-unreal-engine)
-- **G089** · [Blueprints (sistema visual Unreal)](../GLOSSARIO/05-engines-integracao-e-pipeline.md#3-blueprints-sistema-visual-unreal)
-- **G090** · [Nanite](../GLOSSARIO/05-engines-integracao-e-pipeline.md#4-nanite)
-- **G091** · [Lumen](../GLOSSARIO/05-engines-integracao-e-pipeline.md#5-lumen)
-- **G092** · [Unity](../GLOSSARIO/05-engines-integracao-e-pipeline.md#6-unity)
-- **G093** · [Godot](../GLOSSARIO/05-engines-integracao-e-pipeline.md#7-godot)
 - **G094** · [glTF — GL Transmission Format (formato de transmissão de gráficos)](../GLOSSARIO/05-engines-integracao-e-pipeline.md#8-gltf--gl-transmission-format-formato-de-transmissão-de-gráficos)
 - **G095** · [GLB (glTF binário)](../GLOSSARIO/05-engines-integracao-e-pipeline.md#9-glb-gltf-binário)
 - **G096** · [FBX — Filmbox (formato de intercâmbio)](../GLOSSARIO/05-engines-integracao-e-pipeline.md#10-fbx--filmbox-formato-de-intercâmbio)
@@ -201,11 +229,6 @@ Use a busca de texto do navegador (`Ctrl+F` ou Buscar na página) para localizar
 - **G099** · [OBJ — Wavefront Object (malha Wavefront)](../GLOSSARIO/05-engines-integracao-e-pipeline.md#13-obj--wavefront-object-malha-wavefront)
 - **G100** · [STL — Stereolithography (malha para fabricação)](../GLOSSARIO/05-engines-integracao-e-pipeline.md#14-stl--stereolithography-malha-para-fabricação)
 - **G101** · [IFC — Industry Foundation Classes (classes fundamentais da indústria)](../GLOSSARIO/05-engines-integracao-e-pipeline.md#15-ifc--industry-foundation-classes-classes-fundamentais-da-indústria)
-- **G102** · [LOD Chain (cadeia de nível de detalhe)](../GLOSSARIO/05-engines-integracao-e-pipeline.md#16-lod-chain-cadeia-de-nível-de-detalhe)
-- **G103** · [Draw Call (chamada de desenho)](../GLOSSARIO/05-engines-integracao-e-pipeline.md#17-draw-call-chamada-de-desenho)
-- **G104** · [Occlusion Culling (ocultação)](../GLOSSARIO/05-engines-integracao-e-pipeline.md#18-occlusion-culling-ocultação)
-- **G105** · [Frustum Culling (recorte por volume de câmera)](../GLOSSARIO/05-engines-integracao-e-pipeline.md#19-frustum-culling-recorte-por-volume-de-câmera)
-- **G106** · [Profiling (perfilamento)](../GLOSSARIO/05-engines-integracao-e-pipeline.md#20-profiling-perfilamento)
 - **G107** · [Version Pinning (fixação de versão)](../GLOSSARIO/05-engines-integracao-e-pipeline.md#21-version-pinning-fixação-de-versão)
 - **G258** · [Parametric CAD (CAD paramétrico)](../GLOSSARIO/14-cad-impressao-geodados-ciencia.md#1-parametric-cad-cad-paramétrico)
 - **G259** · [Sketch Constraint (restrição de esboço)](../GLOSSARIO/14-cad-impressao-geodados-ciencia.md#2-sketch-constraint-restrição-de-esboço)
@@ -225,9 +248,17 @@ Use a busca de texto do navegador (`Ctrl+F` ou Buscar na página) para localizar
 - **G273** · [3D Tiles (tiles espaciais 3D)](../GLOSSARIO/14-cad-impressao-geodados-ciencia.md#16-3d-tiles-tiles-espaciais-3d)
 - **G274** · [DICOM (padrão de imagem médica)](../GLOSSARIO/14-cad-impressao-geodados-ciencia.md#17-dicom-padrão-de-imagem-médica)
 - **G275** · [Volume Segmentation (segmentação volumétrica)](../GLOSSARIO/14-cad-impressao-geodados-ciencia.md#18-volume-segmentation-segmentação-volumétrica)
+- **G278** · [SDK Compatibility Matrix (matriz de compatibilidade de SDK)](../GLOSSARIO/15-governanca-pesquisa-skills.md#3-sdk-compatibility-matrix-matriz-de-compatibilidade-de-sdk)
+- **G279** · [Semantic Versioning (versionamento semântico)](../GLOSSARIO/15-governanca-pesquisa-skills.md#4-semantic-versioning-versionamento-semântico)
+- **G281** · [Content Digest (resumo criptográfico)](../GLOSSARIO/15-governanca-pesquisa-skills.md#6-content-digest-resumo-criptográfico)
 
-### E16 · Distribuição — websites, apps, games e XR — 78 entradas
+### E16 · Distribuição — websites, apps, games e XR — 76 entradas
 
+- **G087** · [Game Engine (motor de jogo)](../GLOSSARIO/05-engines-integracao-e-pipeline.md#1-game-engine-motor-de-jogo)
+- **G088** · [Unreal Engine](../GLOSSARIO/05-engines-integracao-e-pipeline.md#2-unreal-engine)
+- **G089** · [Blueprints (sistema visual Unreal)](../GLOSSARIO/05-engines-integracao-e-pipeline.md#3-blueprints-sistema-visual-unreal)
+- **G092** · [Unity](../GLOSSARIO/05-engines-integracao-e-pipeline.md#6-unity)
+- **G093** · [Godot](../GLOSSARIO/05-engines-integracao-e-pipeline.md#7-godot)
 - **G108** · [WebGL — Web Graphics Library (biblioteca gráfica web)](../GLOSSARIO/06-websites-acessibilidade-e-arxr.md#1-webgl--web-graphics-library-biblioteca-gráfica-web)
 - **G109** · [WebGPU — Web Graphics Processing Unit (API gráfica web de GPU)](../GLOSSARIO/06-websites-acessibilidade-e-arxr.md#2-webgpu--web-graphics-processing-unit-api-gráfica-web-de-gpu)
 - **G110** · [Three.js](../GLOSSARIO/06-websites-acessibilidade-e-arxr.md#3-threejs)
@@ -276,14 +307,7 @@ Use a busca de texto do navegador (`Ctrl+F` ou Buscar na página) para localizar
 - **G225** · [GLTFLoader (carregador glTF)](../GLOSSARIO/12-web3d-performance-acessibilidade.md#4-gltfloader-carregador-gltf)
 - **G226** · [Lazy Loading (carregamento sob demanda)](../GLOSSARIO/12-web3d-performance-acessibilidade.md#5-lazy-loading-carregamento-sob-demanda)
 - **G227** · [Intersection Observer (observador de interseção)](../GLOSSARIO/12-web3d-performance-acessibilidade.md#6-intersection-observer-observador-de-interseção)
-- **G228** · [DPR — Device Pixel Ratio (densidade de pixels)](../GLOSSARIO/12-web3d-performance-acessibilidade.md#7-dpr--device-pixel-ratio-densidade-de-pixels)
 - **G229** · [Responsive Canvas (tela adaptável)](../GLOSSARIO/12-web3d-performance-acessibilidade.md#8-responsive-canvas-tela-adaptável)
-- **G230** · [Shader Compilation (compilação de shader)](../GLOSSARIO/12-web3d-performance-acessibilidade.md#9-shader-compilation-compilação-de-shader)
-- **G231** · [Shader Cache (cache de shaders)](../GLOSSARIO/12-web3d-performance-acessibilidade.md#10-shader-cache-cache-de-shaders)
-- **G232** · [Asset Preload (pré-carregamento de recursos)](../GLOSSARIO/12-web3d-performance-acessibilidade.md#11-asset-preload-pré-carregamento-de-recursos)
-- **G233** · [Draco Compression (compressão Draco)](../GLOSSARIO/12-web3d-performance-acessibilidade.md#12-draco-compression-compressão-draco)
-- **G234** · [Meshopt Compression (compressão Meshopt)](../GLOSSARIO/12-web3d-performance-acessibilidade.md#13-meshopt-compression-compressão-meshopt)
-- **G235** · [KTX2/BasisU (textura compactada)](../GLOSSARIO/12-web3d-performance-acessibilidade.md#14-ktx2basisu-textura-compactada)
 - **G236** · [AR Modes (modos AR)](../GLOSSARIO/12-web3d-performance-acessibilidade.md#15-ar-modes-modos-ar)
 - **G237** · [Accessible Description (descrição acessível)](../GLOSSARIO/12-web3d-performance-acessibilidade.md#16-accessible-description-descrição-acessível)
 - **G238** · [Keyboard Orbit (órbita por teclado)](../GLOSSARIO/12-web3d-performance-acessibilidade.md#17-keyboard-orbit-órbita-por-teclado)
@@ -307,20 +331,17 @@ Use a busca de texto do navegador (`Ctrl+F` ou Buscar na página) para localizar
 - **G256** · [Guardian/Boundary (limite de segurança)](../GLOSSARIO/13-ar-espacial-rastreamento-imersao.md#17-guardianboundary-limite-de-segurança)
 - **G257** · [AR Session State (estado de sessão AR)](../GLOSSARIO/13-ar-espacial-rastreamento-imersao.md#18-ar-session-state-estado-de-sessão-ar)
 
-### E18 · Entrega, avaliação e evolução das Skills — 18 entradas
+### E17 · Direitos, segurança, privacidade e acesso — 3 entradas
 
-- **G276** · [Source Provenance (proveniência de fonte)](../GLOSSARIO/15-governanca-pesquisa-skills.md#1-source-provenance-proveniência-de-fonte)
-- **G277** · [Evidence Class (classe de evidência)](../GLOSSARIO/15-governanca-pesquisa-skills.md#2-evidence-class-classe-de-evidência)
-- **G278** · [SDK Compatibility Matrix (matriz de compatibilidade de SDK)](../GLOSSARIO/15-governanca-pesquisa-skills.md#3-sdk-compatibility-matrix-matriz-de-compatibilidade-de-sdk)
-- **G279** · [Semantic Versioning (versionamento semântico)](../GLOSSARIO/15-governanca-pesquisa-skills.md#4-semantic-versioning-versionamento-semântico)
-- **G280** · [Source Lock (travamento de fontes)](../GLOSSARIO/15-governanca-pesquisa-skills.md#5-source-lock-travamento-de-fontes)
-- **G281** · [Content Digest (resumo criptográfico)](../GLOSSARIO/15-governanca-pesquisa-skills.md#6-content-digest-resumo-criptográfico)
-- **G282** · [Regression Test (teste de regressão)](../GLOSSARIO/15-governanca-pesquisa-skills.md#7-regression-test-teste-de-regressão)
-- **G283** · [Golden Sample (amostra de referência)](../GLOSSARIO/15-governanca-pesquisa-skills.md#8-golden-sample-amostra-de-referência)
-- **G284** · [Visual Diff (comparação visual)](../GLOSSARIO/15-governanca-pesquisa-skills.md#9-visual-diff-comparação-visual)
 - **G285** · [License Manifest (manifesto de licenças)](../GLOSSARIO/15-governanca-pesquisa-skills.md#10-license-manifest-manifesto-de-licenças)
 - **G286** · [Rights Clearance (liberação de direitos)](../GLOSSARIO/15-governanca-pesquisa-skills.md#11-rights-clearance-liberação-de-direitos)
 - **G287** · [Data Minimization (minimização de dados)](../GLOSSARIO/15-governanca-pesquisa-skills.md#12-data-minimization-minimização-de-dados)
+
+### E18 · Entrega, avaliação e evolução das Skills — 9 entradas
+
+- **G282** · [Regression Test (teste de regressão)](../GLOSSARIO/15-governanca-pesquisa-skills.md#7-regression-test-teste-de-regressão)
+- **G283** · [Golden Sample (amostra de referência)](../GLOSSARIO/15-governanca-pesquisa-skills.md#8-golden-sample-amostra-de-referência)
+- **G284** · [Visual Diff (comparação visual)](../GLOSSARIO/15-governanca-pesquisa-skills.md#9-visual-diff-comparação-visual)
 - **G288** · [Performance Baseline (linha-base de desempenho)](../GLOSSARIO/15-governanca-pesquisa-skills.md#13-performance-baseline-linha-base-de-desempenho)
 - **G289** · [Capability Contract (contrato de capacidade)](../GLOSSARIO/15-governanca-pesquisa-skills.md#14-capability-contract-contrato-de-capacidade)
 - **G290** · [Evaluation Harness (ambiente de avaliação)](../GLOSSARIO/15-governanca-pesquisa-skills.md#15-evaluation-harness-ambiente-de-avaliação)
@@ -330,27 +351,34 @@ Use a busca de texto do navegador (`Ctrl+F` ou Buscar na página) para localizar
 
 ## Perguntas com respostas
 
-### E01 · Briefing, finalidade e limites — 8 entradas
+### E01 · Briefing, finalidade e limites — 6 entradas
 
 - **Q001** · [Nunca usei 3D; começo por qual programa?](../FAQ/01-primeiros-passos-e-conceitos.md#1-nunca-usei-3d-começo-por-qual-programa)
 - **Q002** · [Preciso saber desenhar ou programar?](../FAQ/01-primeiros-passos-e-conceitos.md#2-preciso-saber-desenhar-ou-programar)
-- **Q003** · [O que são X, Y e Z?](../FAQ/01-primeiros-passos-e-conceitos.md#3-o-que-são-x-y-e-z)
-- **Q004** · [Qual a diferença entre viewport e render?](../FAQ/01-primeiros-passos-e-conceitos.md#4-qual-a-diferença-entre-viewport-e-render)
 - **Q005** · [Onde aprendo atalhos do Blender?](../FAQ/01-primeiros-passos-e-conceitos.md#5-onde-aprendo-atalhos-do-blender)
 - **Q006** · [Como escolher um projeto inicial?](../FAQ/01-primeiros-passos-e-conceitos.md#6-como-escolher-um-projeto-inicial)
 - **Q007** · [Qual a diferença entre modelo 3D e imagem 3D?](../FAQ/01-primeiros-passos-e-conceitos.md#7-qual-a-diferença-entre-modelo-3d-e-imagem-3d)
 - **Q008** · [O que significa salvar projeto nativo?](../FAQ/01-primeiros-passos-e-conceitos.md#8-o-que-significa-salvar-projeto-nativo)
 
-### E02 · Repertório e fontes comprováveis — 2 entradas
+### E02 · Repertório e fontes comprováveis — 5 entradas
 
+- **Q172** · [Como sei se uma fonte 3D está realmente atualizada?](../FAQ/18-governanca-skills-aprendizagem.md#1-como-sei-se-uma-fonte-3d-está-realmente-atualizada)
+- **Q179** · [Por que separar conhecimento atemporal de notícias?](../FAQ/18-governanca-skills-aprendizagem.md#8-por-que-separar-conhecimento-atemporal-de-notícias)
+- **Q183** · [Como decidir entre mais fontes e mais exercícios?](../FAQ/18-governanca-skills-aprendizagem.md#12-como-decidir-entre-mais-fontes-e-mais-exercícios)
 - **Q206** · [Como transformar fonte inglesa em tutorial útil em português?](../FAQ/PERGUNTAS-POR-MERCADO.md#22-como-transformar-fonte-inglesa-em-tutorial-útil-em-português)
 - **Q207** · [Como saber que aprendi mesmo uma técnica?](../FAQ/PERGUNTAS-POR-MERCADO.md#23-como-saber-que-aprendi-mesmo-uma-técnica)
 
-### E03 · Conceito, storyboard e mensagem — 3 entradas
+### E03 · Conceito, storyboard e mensagem — 4 entradas
 
+- **Q107** · [Como faço um animatic rápido para cliente?](../FAQ/13-animacao-cinema-vfx.md#1-como-faço-um-animatic-rápido-para-cliente)
 - **Q185** · [Como criar produto virtual sem enganar o consumidor?](../FAQ/PERGUNTAS-POR-MERCADO.md#1-como-criar-produto-virtual-sem-enganar-o-consumidor)
 - **Q186** · [Como usar 3D no funil comercial?](../FAQ/PERGUNTAS-POR-MERCADO.md#2-como-usar-3d-no-funil-comercial)
 - **Q187** · [Por que nem sempre animação 3D melhora anúncios?](../FAQ/PERGUNTAS-POR-MERCADO.md#3-por-que-nem-sempre-animação-3d-melhora-anúncios)
+
+### E04 · Blockout, unidades e pivôs — 2 entradas
+
+- **Q003** · [O que são X, Y e Z?](../FAQ/01-primeiros-passos-e-conceitos.md#3-o-que-são-x-y-e-z)
+- **Q004** · [Qual a diferença entre viewport e render?](../FAQ/01-primeiros-passos-e-conceitos.md#4-qual-a-diferença-entre-viewport-e-render)
 
 ### E05 · Geometria, retopologia e escultura — 21 entradas
 
@@ -376,7 +404,7 @@ Use a busca de texto do navegador (`Ctrl+F` ou Buscar na página) para localizar
 - **Q092** · [Qual é o primeiro teste de retopologia?](../FAQ/11-blender-modelagem-producao.md#12-qual-é-o-primeiro-teste-de-retopologia)
 - **Q093** · [Como fazer backup de projeto Blender sem perder materiais?](../FAQ/11-blender-modelagem-producao.md#13-como-fazer-backup-de-projeto-blender-sem-perder-materiais)
 
-### E06 · UV, materiais e baking — 21 entradas
+### E06 · UV, materiais e baking — 17 entradas
 
 - **Q017** · [Por que minha textura aparece esticada?](../FAQ/03-uv-materiais-e-texturas.md#1-por-que-minha-textura-aparece-esticada)
 - **Q018** · [Como faço UV Mapping pela primeira vez?](../FAQ/03-uv-materiais-e-texturas.md#2-como-faço-uv-mapping-pela-primeira-vez)
@@ -387,20 +415,23 @@ Use a busca de texto do navegador (`Ctrl+F` ou Buscar na página) para localizar
 - **Q023** · [Posso usar textura 4K em qualquer celular?](../FAQ/03-uv-materiais-e-texturas.md#7-posso-usar-textura-4k-em-qualquer-celular)
 - **Q024** · [Como montar materiais reutilizáveis?](../FAQ/03-uv-materiais-e-texturas.md#8-como-montar-materiais-reutilizáveis)
 - **Q094** · [Como definir textura para produto visto muito de perto?](../FAQ/12-uv-pbr-baking-profissional.md#1-como-definir-textura-para-produto-visto-muito-de-perto)
-- **Q095** · [Por que o metal parece plástico no render?](../FAQ/12-uv-pbr-baking-profissional.md#2-por-que-o-metal-parece-plástico-no-render)
 - **Q096** · [Quais mapas PBR realmente preciso?](../FAQ/12-uv-pbr-baking-profissional.md#3-quais-mapas-pbr-realmente-preciso)
 - **Q097** · [Como saber se normal map deve ser invertido?](../FAQ/12-uv-pbr-baking-profissional.md#4-como-saber-se-normal-map-deve-ser-invertido)
 - **Q098** · [Por que meu bake tem manchas pretas?](../FAQ/12-uv-pbr-baking-profissional.md#5-por-que-meu-bake-tem-manchas-pretas)
 - **Q099** · [Devo usar UDIM em um site comum?](../FAQ/12-uv-pbr-baking-profissional.md#6-devo-usar-udim-em-um-site-comum)
 - **Q100** · [Quando empacotar AO, Roughness e Metallic?](../FAQ/12-uv-pbr-baking-profissional.md#7-quando-empacotar-ao-roughness-e-metallic)
-- **Q101** · [Minha textura muda de cor entre programas; por quê?](../FAQ/12-uv-pbr-baking-profissional.md#8-minha-textura-muda-de-cor-entre-programas-por-quê)
-- **Q102** · [É melhor material procedural ou textura pronta?](../FAQ/12-uv-pbr-baking-profissional.md#9-é-melhor-material-procedural-ou-textura-pronta)
-- **Q103** · [Como criar material de vidro sem travar o celular?](../FAQ/12-uv-pbr-baking-profissional.md#10-como-criar-material-de-vidro-sem-travar-o-celular)
 - **Q104** · [Como corrigir costura visível em UV?](../FAQ/12-uv-pbr-baking-profissional.md#11-como-corrigir-costura-visível-em-uv)
 - **Q105** · [Por que a textura perdeu detalhes depois de comprimir?](../FAQ/12-uv-pbr-baking-profissional.md#12-por-que-a-textura-perdeu-detalhes-depois-de-comprimir)
 - **Q106** · [Onde encontro referência oficial para asset 3D de e-commerce?](../FAQ/12-uv-pbr-baking-profissional.md#13-onde-encontro-referência-oficial-para-asset-3d-de-e-commerce)
 
-### E09 · Animação, acting e movimento — 10 entradas
+### E07 · Lookdev e consistência de cor — 4 entradas
+
+- **Q095** · [Por que o metal parece plástico no render?](../FAQ/12-uv-pbr-baking-profissional.md#2-por-que-o-metal-parece-plástico-no-render)
+- **Q101** · [Minha textura muda de cor entre programas; por quê?](../FAQ/12-uv-pbr-baking-profissional.md#8-minha-textura-muda-de-cor-entre-programas-por-quê)
+- **Q102** · [É melhor material procedural ou textura pronta?](../FAQ/12-uv-pbr-baking-profissional.md#9-é-melhor-material-procedural-ou-textura-pronta)
+- **Q103** · [Como criar material de vidro sem travar o celular?](../FAQ/12-uv-pbr-baking-profissional.md#10-como-criar-material-de-vidro-sem-travar-o-celular)
+
+### E09 · Animação, acting e movimento — 14 entradas
 
 - **Q025** · [Como animar um objeto em 5 minutos?](../FAQ/04-animacao-personagens-e-tracking.md#1-como-animar-um-objeto-em-5-minutos)
 - **Q026** · [Como evitar pés deslizando na caminhada?](../FAQ/04-animacao-personagens-e-tracking.md#2-como-evitar-pés-deslizando-na-caminhada)
@@ -410,30 +441,47 @@ Use a busca de texto do navegador (`Ctrl+F` ou Buscar na página) para localizar
 - **Q030** · [Como fazer tracking de câmera de vídeo?](../FAQ/04-animacao-personagens-e-tracking.md#6-como-fazer-tracking-de-câmera-de-vídeo)
 - **Q031** · [Posso rastrear rosto de qualquer pessoa?](../FAQ/04-animacao-personagens-e-tracking.md#7-posso-rastrear-rosto-de-qualquer-pessoa)
 - **Q032** · [Como juntar render 3D com filmagem?](../FAQ/04-animacao-personagens-e-tracking.md#8-como-juntar-render-3d-com-filmagem)
-- **Q192** · [Como revisar se o personagem realmente atua?](../FAQ/PERGUNTAS-POR-MERCADO.md#8-como-revisar-se-o-personagem-realmente-atua)
-- **Q193** · [Por que rig precisa ser testado antes de texturizar tudo?](../FAQ/PERGUNTAS-POR-MERCADO.md#9-por-que-rig-precisa-ser-testado-antes-de-texturizar-tudo)
-
-### E10 · Tracking e captura de referência — 17 entradas
-
-- **Q107** · [Como faço um animatic rápido para cliente?](../FAQ/13-animacao-cinema-vfx.md#1-como-faço-um-animatic-rápido-para-cliente)
 - **Q108** · [Como descobrir se uma animação está sem peso?](../FAQ/13-animacao-cinema-vfx.md#2-como-descobrir-se-uma-animação-está-sem-peso)
 - **Q109** · [Posso transferir animação de um rig a outro sempre?](../FAQ/13-animacao-cinema-vfx.md#3-posso-transferir-animação-de-um-rig-a-outro-sempre)
 - **Q110** · [O que faço se meu pé desliza no chão?](../FAQ/13-animacao-cinema-vfx.md#4-o-que-faço-se-meu-pé-desliza-no-chão)
 - **Q111** · [Como criar expressão facial sem mocap?](../FAQ/13-animacao-cinema-vfx.md#5-como-criar-expressão-facial-sem-mocap)
-- **Q112** · [Como sincronizar áudio com personagem 3D?](../FAQ/13-animacao-cinema-vfx.md#6-como-sincronizar-áudio-com-personagem-3d)
+- **Q192** · [Como revisar se o personagem realmente atua?](../FAQ/PERGUNTAS-POR-MERCADO.md#8-como-revisar-se-o-personagem-realmente-atua)
+- **Q193** · [Por que rig precisa ser testado antes de texturizar tudo?](../FAQ/PERGUNTAS-POR-MERCADO.md#9-por-que-rig-precisa-ser-testado-antes-de-texturizar-tudo)
+
+### E10 · Tracking e captura de referência — 8 entradas
+
 - **Q113** · [Como fazer tracking de objeto em filmagem agitada?](../FAQ/13-animacao-cinema-vfx.md#7-como-fazer-tracking-de-objeto-em-filmagem-agitada)
 - **Q114** · [Por que a sombra CG não combina com o vídeo?](../FAQ/13-animacao-cinema-vfx.md#8-por-que-a-sombra-cg-não-combina-com-o-vídeo)
 - **Q115** · [Qual a diferença de composição 2D e deep?](../FAQ/13-animacao-cinema-vfx.md#9-qual-a-diferença-de-composição-2d-e-deep)
 - **Q116** · [O que devo registrar numa filmagem para VFX?](../FAQ/13-animacao-cinema-vfx.md#10-o-que-devo-registrar-numa-filmagem-para-vfx)
-- **Q117** · [Quando usar OpenEXR em vez de PNG?](../FAQ/13-animacao-cinema-vfx.md#11-quando-usar-openexr-em-vez-de-png)
-- **Q118** · [Unreal funciona para render de cinema final?](../FAQ/13-animacao-cinema-vfx.md#12-unreal-funciona-para-render-de-cinema-final)
-- **Q119** · [Como impedir que o render final mude de cor?](../FAQ/13-animacao-cinema-vfx.md#13-como-impedir-que-o-render-final-mude-de-cor)
 - **Q188** · [Como planejar uma tomada que receberá VFX?](../FAQ/PERGUNTAS-POR-MERCADO.md#4-como-planejar-uma-tomada-que-receberá-vfx)
 - **Q189** · [Por que filmar sem tracking markers pode gerar retrabalho?](../FAQ/PERGUNTAS-POR-MERCADO.md#5-por-que-filmar-sem-tracking-markers-pode-gerar-retrabalho)
 - **Q190** · [Qual a função de EXR na pós-produção?](../FAQ/PERGUNTAS-POR-MERCADO.md#6-qual-a-função-de-exr-na-pós-produção)
 - **Q191** · [O que preciso para filmar com LED Volume?](../FAQ/PERGUNTAS-POR-MERCADO.md#7-o-que-preciso-para-filmar-com-led-volume)
 
-### E15 · Formatos, intercâmbio e versionamento — 15 entradas
+### E12 · Câmera, iluminação, render e passes — 3 entradas
+
+- **Q117** · [Quando usar OpenEXR em vez de PNG?](../FAQ/13-animacao-cinema-vfx.md#11-quando-usar-openexr-em-vez-de-png)
+- **Q118** · [Unreal funciona para render de cinema final?](../FAQ/13-animacao-cinema-vfx.md#12-unreal-funciona-para-render-de-cinema-final)
+- **Q119** · [Como impedir que o render final mude de cor?](../FAQ/13-animacao-cinema-vfx.md#13-como-impedir-que-o-render-final-mude-de-cor)
+
+### E13 · Montagem, áudio e comunicação — 1 entradas
+
+- **Q112** · [Como sincronizar áudio com personagem 3D?](../FAQ/13-animacao-cinema-vfx.md#6-como-sincronizar-áudio-com-personagem-3d)
+
+### E14 · Otimização de runtime e testes — 9 entradas
+
+- **Q120** · [Por que meu GLB demora tanto para carregar?](../FAQ/14-web3d-qualidade-seo-negocios.md#1-por-que-meu-glb-demora-tanto-para-carregar)
+- **Q127** · [Como detectar perda de contexto gráfico?](../FAQ/14-web3d-qualidade-seo-negocios.md#8-como-detectar-perda-de-contexto-gráfico)
+- **Q128** · [Como otimizar Three.js em smartphone básico?](../FAQ/14-web3d-qualidade-seo-negocios.md#9-como-otimizar-threejs-em-smartphone-básico)
+- **Q148** · [Quando vale usar Nanite?](../FAQ/16-games-unreal-unity-performance.md#3-quando-vale-usar-nanite)
+- **Q149** · [Por que Lumen tem resultado ruim em meu projeto mobile?](../FAQ/16-games-unreal-unity-performance.md#4-por-que-lumen-tem-resultado-ruim-em-meu-projeto-mobile)
+- **Q150** · [Como projetar um material que funcione em VR?](../FAQ/16-games-unreal-unity-performance.md#5-como-projetar-um-material-que-funcione-em-vr)
+- **Q151** · [Como reduzir custo de vegetação em Unreal?](../FAQ/16-games-unreal-unity-performance.md#6-como-reduzir-custo-de-vegetação-em-unreal)
+- **Q152** · [O que é o primeiro profiler que devo usar?](../FAQ/16-games-unreal-unity-performance.md#7-o-que-é-o-primeiro-profiler-que-devo-usar)
+- **Q156** · [Como preparar um nível para mobile?](../FAQ/16-games-unreal-unity-performance.md#11-como-preparar-um-nível-para-mobile)
+
+### E15 · Formatos, intercâmbio e versionamento — 16 entradas
 
 - **Q159** · [Qual diferença entre STL e STEP?](../FAQ/17-cad-industria-impressao-pesquisa.md#1-qual-diferença-entre-stl-e-step)
 - **Q160** · [Por que IFC é importante em arquitetura?](../FAQ/17-cad-industria-impressao-pesquisa.md#2-por-que-ifc-é-importante-em-arquitetura)
@@ -448,10 +496,11 @@ Use a busca de texto do navegador (`Ctrl+F` ou Buscar na página) para localizar
 - **Q169** · [Posso usar imagens médicas em projetos 3D públicos?](../FAQ/17-cad-industria-impressao-pesquisa.md#11-posso-usar-imagens-médicas-em-projetos-3d-públicos)
 - **Q170** · [Qual ferramenta é apropriada à impressão paramétrica gratuita?](../FAQ/17-cad-industria-impressao-pesquisa.md#12-qual-ferramenta-é-apropriada-à-impressão-paramétrica-gratuita)
 - **Q171** · [Por que não usar arquivo de game como projeto de engenharia?](../FAQ/17-cad-industria-impressao-pesquisa.md#13-por-que-não-usar-arquivo-de-game-como-projeto-de-engenharia)
+- **Q184** · [Como controlar dependências de SDK sem bagunça?](../FAQ/18-governanca-skills-aprendizagem.md#13-como-controlar-dependências-de-sdk-sem-bagunça)
 - **Q204** · [Posso usar render para validar peça mecânica?](../FAQ/PERGUNTAS-POR-MERCADO.md#20-posso-usar-render-para-validar-peça-mecânica)
 - **Q205** · [Por que não modelar tudo apenas em triangulos?](../FAQ/PERGUNTAS-POR-MERCADO.md#21-por-que-não-modelar-tudo-apenas-em-triangulos)
 
-### E16 · Distribuição — websites, apps, games e XR — 89 entradas
+### E16 · Distribuição — websites, apps, games e XR — 80 entradas
 
 - **Q033** · [Como levo modelo Blender ao Unreal?](../FAQ/05-unreal-unity-e-games.md#1-como-levo-modelo-blender-ao-unreal)
 - **Q034** · [O que são Blueprints no Unreal?](../FAQ/05-unreal-unity-e-games.md#2-o-que-são-blueprints-no-unreal)
@@ -493,15 +542,12 @@ Use a busca de texto do navegador (`Ctrl+F` ou Buscar na página) para localizar
 - **Q070** · [Por que efeito foi rejeitado?](../FAQ/09-tiktok-effect-house-e-publicacao.md#6-por-que-efeito-foi-rejeitado)
 - **Q071** · [Como otimizar textura para filtro social?](../FAQ/09-tiktok-effect-house-e-publicacao.md#7-como-otimizar-textura-para-filtro-social)
 - **Q072** · [Como criar interações sem código avançado?](../FAQ/09-tiktok-effect-house-e-publicacao.md#8-como-criar-interações-sem-código-avançado)
-- **Q120** · [Por que meu GLB demora tanto para carregar?](../FAQ/14-web3d-qualidade-seo-negocios.md#1-por-que-meu-glb-demora-tanto-para-carregar)
 - **Q121** · [Como montar comparação de versões com 3D?](../FAQ/14-web3d-qualidade-seo-negocios.md#2-como-montar-comparação-de-versões-com-3d)
 - **Q122** · [Meu configurador de cores muda apenas a imagem?](../FAQ/14-web3d-qualidade-seo-negocios.md#3-meu-configurador-de-cores-muda-apenas-a-imagem)
 - **Q123** · [Como iniciar 3D apenas quando usuário quiser?](../FAQ/14-web3d-qualidade-seo-negocios.md#4-como-iniciar-3d-apenas-quando-usuário-quiser)
 - **Q124** · [Preciso de Three.js em todo site 3D?](../FAQ/14-web3d-qualidade-seo-negocios.md#5-preciso-de-threejs-em-todo-site-3d)
 - **Q125** · [Como fazer site 3D acessível por teclado?](../FAQ/14-web3d-qualidade-seo-negocios.md#6-como-fazer-site-3d-acessível-por-teclado)
 - **Q126** · [Qual melhor fallback para falta de WebGL?](../FAQ/14-web3d-qualidade-seo-negocios.md#7-qual-melhor-fallback-para-falta-de-webgl)
-- **Q127** · [Como detectar perda de contexto gráfico?](../FAQ/14-web3d-qualidade-seo-negocios.md#8-como-detectar-perda-de-contexto-gráfico)
-- **Q128** · [Como otimizar Three.js em smartphone básico?](../FAQ/14-web3d-qualidade-seo-negocios.md#9-como-otimizar-threejs-em-smartphone-básico)
 - **Q129** · [Minha cena atrapalha o botão de comprar; como evitar?](../FAQ/14-web3d-qualidade-seo-negocios.md#10-minha-cena-atrapalha-o-botão-de-comprar-como-evitar)
 - **Q130** · [Como implementar 3D em WordPress sem trocar todo tema?](../FAQ/14-web3d-qualidade-seo-negocios.md#11-como-implementar-3d-em-wordpress-sem-trocar-todo-tema)
 - **Q131** · [Qual o formato certo para e-commerce com AR?](../FAQ/14-web3d-qualidade-seo-negocios.md#12-qual-o-formato-certo-para-e-commerce-com-ar)
@@ -521,15 +567,9 @@ Use a busca de texto do navegador (`Ctrl+F` ou Buscar na página) para localizar
 - **Q145** · [Como escolher entre Snap, TikTok e Quest para uma campanha?](../FAQ/15-ar-snap-tiktok-meta.md#13-como-escolher-entre-snap-tiktok-e-quest-para-uma-campanha)
 - **Q146** · [Como iniciar um jogo sem criar um mundo imenso?](../FAQ/16-games-unreal-unity-performance.md#1-como-iniciar-um-jogo-sem-criar-um-mundo-imenso)
 - **Q147** · [Como criar interação sem programar C++?](../FAQ/16-games-unreal-unity-performance.md#2-como-criar-interação-sem-programar-c)
-- **Q148** · [Quando vale usar Nanite?](../FAQ/16-games-unreal-unity-performance.md#3-quando-vale-usar-nanite)
-- **Q149** · [Por que Lumen tem resultado ruim em meu projeto mobile?](../FAQ/16-games-unreal-unity-performance.md#4-por-que-lumen-tem-resultado-ruim-em-meu-projeto-mobile)
-- **Q150** · [Como projetar um material que funcione em VR?](../FAQ/16-games-unreal-unity-performance.md#5-como-projetar-um-material-que-funcione-em-vr)
-- **Q151** · [Como reduzir custo de vegetação em Unreal?](../FAQ/16-games-unreal-unity-performance.md#6-como-reduzir-custo-de-vegetação-em-unreal)
-- **Q152** · [O que é o primeiro profiler que devo usar?](../FAQ/16-games-unreal-unity-performance.md#7-o-que-é-o-primeiro-profiler-que-devo-usar)
 - **Q153** · [Como evitar erro de colisão em objeto importado?](../FAQ/16-games-unreal-unity-performance.md#8-como-evitar-erro-de-colisão-em-objeto-importado)
 - **Q154** · [Qual a diferença de gameplay Blueprint e animação?](../FAQ/16-games-unreal-unity-performance.md#9-qual-a-diferença-de-gameplay-blueprint-e-animação)
 - **Q155** · [Posso usar modelos de qualquer marketplace num jogo?](../FAQ/16-games-unreal-unity-performance.md#10-posso-usar-modelos-de-qualquer-marketplace-num-jogo)
-- **Q156** · [Como preparar um nível para mobile?](../FAQ/16-games-unreal-unity-performance.md#11-como-preparar-um-nível-para-mobile)
 - **Q157** · [Como comparar Unreal e Unity para um mesmo projeto?](../FAQ/16-games-unreal-unity-performance.md#12-como-comparar-unreal-e-unity-para-um-mesmo-projeto)
 - **Q158** · [Por que minha animação importada parece diferente?](../FAQ/16-games-unreal-unity-performance.md#13-por-que-minha-animação-importada-parece-diferente)
 - **Q194** · [Como saber se o game está divertido antes dos assets finais?](../FAQ/PERGUNTAS-POR-MERCADO.md#10-como-saber-se-o-game-está-divertido-antes-dos-assets-finais)
@@ -543,7 +583,7 @@ Use a busca de texto do navegador (`Ctrl+F` ou Buscar na página) para localizar
 - **Q202** · [Como diferenciar Lens Snapchat, TikTok e Meta Quest?](../FAQ/PERGUNTAS-POR-MERCADO.md#18-como-diferenciar-lens-snapchat-tiktok-e-meta-quest)
 - **Q203** · [Como começar âncoras compartilhadas?](../FAQ/PERGUNTAS-POR-MERCADO.md#19-como-começar-âncoras-compartilhadas)
 
-### E17 · Direitos, segurança, privacidade e acesso — 10 entradas
+### E17 · Direitos, segurança, privacidade e acesso — 11 entradas
 
 - **Q073** · [O que preciso saber antes de vender asset 3D?](../FAQ/10-carreira-direitos-entregas-e-manutencao.md#1-o-que-preciso-saber-antes-de-vender-asset-3d)
 - **Q074** · [Qual licença permite uso comercial?](../FAQ/10-carreira-direitos-entregas-e-manutencao.md#2-qual-licença-permite-uso-comercial)
@@ -553,24 +593,20 @@ Use a busca de texto do navegador (`Ctrl+F` ou Buscar na página) para localizar
 - **Q078** · [Como estudar de graça com sites oficiais?](../FAQ/10-carreira-direitos-entregas-e-manutencao.md#6-como-estudar-de-graça-com-sites-oficiais)
 - **Q079** · [Como evitar ficar refém de uma plataforma?](../FAQ/10-carreira-direitos-entregas-e-manutencao.md#7-como-evitar-ficar-refém-de-uma-plataforma)
 - **Q080** · [Como construir portfólio que vende?](../FAQ/10-carreira-direitos-entregas-e-manutencao.md#8-como-construir-portfólio-que-vende)
+- **Q173** · [Por que um link não prova licença comercial?](../FAQ/18-governanca-skills-aprendizagem.md#2-por-que-um-link-não-prova-licença-comercial)
 - **Q209** · [Uma biblioteca gratuita pode ser usada na publicidade?](../FAQ/PERGUNTAS-POR-MERCADO.md#25-uma-biblioteca-gratuita-pode-ser-usada-na-publicidade)
 - **Q210** · [Como processar GLB enviado por terceiros com segurança?](../FAQ/PERGUNTAS-POR-MERCADO.md#26-como-processar-glb-enviado-por-terceiros-com-segurança)
 
-### E18 · Entrega, avaliação e evolução das Skills — 14 entradas
+### E18 · Entrega, avaliação e evolução das Skills — 9 entradas
 
-- **Q172** · [Como sei se uma fonte 3D está realmente atualizada?](../FAQ/18-governanca-skills-aprendizagem.md#1-como-sei-se-uma-fonte-3d-está-realmente-atualizada)
-- **Q173** · [Por que um link não prova licença comercial?](../FAQ/18-governanca-skills-aprendizagem.md#2-por-que-um-link-não-prova-licença-comercial)
 - **Q174** · [Como montar um portfólio técnico e não apenas bonito?](../FAQ/18-governanca-skills-aprendizagem.md#3-como-montar-um-portfólio-técnico-e-não-apenas-bonito)
 - **Q175** · [Como preparar tutorial para um iniciante absoluto?](../FAQ/18-governanca-skills-aprendizagem.md#4-como-preparar-tutorial-para-um-iniciante-absoluto)
 - **Q176** · [O que faz um ECP num projeto 3D?](../FAQ/18-governanca-skills-aprendizagem.md#5-o-que-faz-um-ecp-num-projeto-3d)
 - **Q177** · [O que o Coliseu deve reprovar numa Skill 3D?](../FAQ/18-governanca-skills-aprendizagem.md#6-o-que-o-coliseu-deve-reprovar-numa-skill-3d)
 - **Q178** · [Como criar uma Skill a partir do Grimório?](../FAQ/18-governanca-skills-aprendizagem.md#7-como-criar-uma-skill-a-partir-do-grimório)
-- **Q179** · [Por que separar conhecimento atemporal de notícias?](../FAQ/18-governanca-skills-aprendizagem.md#8-por-que-separar-conhecimento-atemporal-de-notícias)
 - **Q180** · [Como saber que um projeto foi aprovado de verdade?](../FAQ/18-governanca-skills-aprendizagem.md#9-como-saber-que-um-projeto-foi-aprovado-de-verdade)
 - **Q181** · [Como preservar arquivos após migração de versão?](../FAQ/18-governanca-skills-aprendizagem.md#10-como-preservar-arquivos-após-migração-de-versão)
 - **Q182** · [Como medir habilidade de um aluno em 3D?](../FAQ/18-governanca-skills-aprendizagem.md#11-como-medir-habilidade-de-um-aluno-em-3d)
-- **Q183** · [Como decidir entre mais fontes e mais exercícios?](../FAQ/18-governanca-skills-aprendizagem.md#12-como-decidir-entre-mais-fontes-e-mais-exercícios)
-- **Q184** · [Como controlar dependências de SDK sem bagunça?](../FAQ/18-governanca-skills-aprendizagem.md#13-como-controlar-dependências-de-sdk-sem-bagunça)
 - **Q208** · [Como tornar esse conhecimento útil para uma Skill de IA?](../FAQ/PERGUNTAS-POR-MERCADO.md#24-como-tornar-esse-conhecimento-útil-para-uma-skill-de-ia)
 
 ## Como usar sem se perder
@@ -583,4 +619,4 @@ Use a busca de texto do navegador (`Ctrl+F` ou Buscar na página) para localizar
 
 **Garantia de integridade:** um script no CI deve comparar cada entrada com seu título e posição no capítulo original. A âncora é derivada da numeração e do título, sem substituir os arquivos anteriores.
 
-**Ecossistema SIN:** [Website](https://sistemaimersivonarrativo.com.br/) · [Instagram](https://www.instagram.com/suamarcanotopo/) · [YouTube](https://www.youtube.com/@suamarcanotopo?sub_confirmation=1) · [Comunidade 3D](https://chat.whatsapp.com/F6cfNhh2Fx31VJ74KMpbk5).
+**Comunidade SIN:** [Website](https://sistemaimersivonarrativo.com.br/) · [Instagram](https://www.instagram.com/suamarcanotopo/) · [YouTube](https://www.youtube.com/@suamarcanotopo?sub_confirmation=1) · [Comunidade 3D](https://chat.whatsapp.com/F6cfNhh2Fx31VJ74KMpbk5).
