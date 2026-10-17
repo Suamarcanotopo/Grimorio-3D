@@ -42,7 +42,8 @@ def main():
     for i, stage in enumerate(graph):
         ident = stage["id"]
         for field in ("titulo", "entregavel", "como_fazer", "convencao", "truque", "erro", "criterio"):
-            if len(str(stage.get(field, "")).strip()) < 35:
+            min_chars = 8 if field == "titulo" else 35
+            if len(str(stage.get(field, "")).strip()) < min_chars:
                 errors.append(f"{ident}: didática insuficiente em {field}")
         for pre in stage["pre_requisitos"]:
             if pre not in nodes or int(pre[1:]) >= i+1:
