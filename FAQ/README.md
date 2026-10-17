@@ -2,6 +2,8 @@
 
 **210 respostas aplicáveis** — 184 perguntas em 18 módulos e 26 especializadas por mercado. — não é necessário saber o termo técnico para chegar ao exercício.
 
+**Transforme resposta em prática:** localize a pergunta no [índice conectado](../APRENDER/INDICE-INDIVIDUAL.md), abra a [competência](../APRENDER/ETAPAS-CONECTADAS.md) e registre a prova no [Caderno de estudo](../APRENDER/CADERNO-DE-PROVAS.md).
+
 Cada pergunta contém resposta resumida, razão estratégica, instruções numeradas, documentação e critério de teste.
 
 - [Primeiros passos e conceitos](01-primeiros-passos-e-conceitos.md) — 8 perguntas

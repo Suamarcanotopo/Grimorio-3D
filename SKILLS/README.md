@@ -1,5 +1,7 @@
 # Grimório 3D como biblioteca-fonte para Skills
 
+**Conhecimento roteado para Skills:** [Mapa estruturado por competência](../APRENDER/mapa.json) · [Caderno de provas](../APRENDER/CADERNO-DE-PROVAS.md). São referências e evals, **não Skills automaticamente instaladas**.
+
 **Objetivo:** servir de conhecimento canônico e avaliação para Skills de modelagem, games, cinema, publicidade, XR e websites. **Não é uma coleção de Skills instaladas**: seu trabalho é fornecer contratos e bases legíveis por máquina, reutilizadas por um processo de Skill Architect.
 
 ## Como o ECP roteia conhecimento

@@ -94,3 +94,9 @@ Expansões volumétricas seguem ordem **fontes → glossário → FAQ → labora
 ## ML-21 — laboratórios offline e limites de execução
 
 O diretório `EXEMPLOS/01` a `10` ensina conceitos por HTML/CSS/JavaScript local, sem baixar SDK nem enviar arquivos à rede. A simulação didática não deve ser descrita como renderização 3D de produção, benchmark de GPU, teste em headset, física de engenharia ou homologação de produto. O arquivo `07` interpreta parte do GLB no navegador; **não executa o arquivo, não transfere dados e não substitui validador glTF completo**. Cada demo deve ter idioma PT-BR, descrição, controle acessível, fallback conceitual e rodapé SIN. O teste automático avalia estrutura e conteúdo declarados, não execução real em navegadores.
+
+## ML-22 — relações didáticas canônicas e anti-orfandade (2026-10-17)
+
+O mapa `APRENDER/mapa.json` conecta fontes e 38 nichos, 293 verbetes, 210 FAQs, 37 tutoriais, 10 demos e 10 percursos de mercado, **sem substituir os cadastros canônicos**. Toda competência deve preservar objetivos, pré-requisitos, convenção técnica, truque aplicável, erro comum, correção e prova documentada. O índice individual referencia títulos originais e não duplica definições de terceiros. Alterações futuras devem exigir validação do grafo e das rotas no CI, evitando material órfão, IDs perdidos, tutoriais desconectados e links SIN quebrados.
+
+**Interlock Coliseu:** texto e execução têm estados separados (`LIDO`, `PRATICADO`, `TESTADO`, `HOMOLOGADO`, `NÃO TESTADO`, `BLOQUEADO`). CI documental não substitui avaliação em Blender, Unreal, Meta Quest, Snap, TikTok ou direitos individuais. Evoluir por PR com reversão e sem downgrade.

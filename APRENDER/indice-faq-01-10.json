@@ -1,0 +1,568 @@
+{
+  "schema": "sin-3d-faq-routing-v1",
+  "range": "01–10",
+  "entries": [
+    {
+      "id": "Q001",
+      "titulo": "Nunca usei 3D; começo por qual programa?",
+      "capitulo": "FAQ/01-primeiros-passos-e-conceitos.md",
+      "numero": 1,
+      "etapa": "E01"
+    },
+    {
+      "id": "Q002",
+      "titulo": "Preciso saber desenhar ou programar?",
+      "capitulo": "FAQ/01-primeiros-passos-e-conceitos.md",
+      "numero": 2,
+      "etapa": "E01"
+    },
+    {
+      "id": "Q003",
+      "titulo": "O que são X, Y e Z?",
+      "capitulo": "FAQ/01-primeiros-passos-e-conceitos.md",
+      "numero": 3,
+      "etapa": "E04",
+      "criterio_roteamento": "coordenadas e exploração de cena"
+    },
+    {
+      "id": "Q004",
+      "titulo": "Qual a diferença entre viewport e render?",
+      "capitulo": "FAQ/01-primeiros-passos-e-conceitos.md",
+      "numero": 4,
+      "etapa": "E04",
+      "criterio_roteamento": "coordenadas e exploração de cena"
+    },
+    {
+      "id": "Q005",
+      "titulo": "Onde aprendo atalhos do Blender?",
+      "capitulo": "FAQ/01-primeiros-passos-e-conceitos.md",
+      "numero": 5,
+      "etapa": "E01"
+    },
+    {
+      "id": "Q006",
+      "titulo": "Como escolher um projeto inicial?",
+      "capitulo": "FAQ/01-primeiros-passos-e-conceitos.md",
+      "numero": 6,
+      "etapa": "E01"
+    },
+    {
+      "id": "Q007",
+      "titulo": "Qual a diferença entre modelo 3D e imagem 3D?",
+      "capitulo": "FAQ/01-primeiros-passos-e-conceitos.md",
+      "numero": 7,
+      "etapa": "E01"
+    },
+    {
+      "id": "Q008",
+      "titulo": "O que significa salvar projeto nativo?",
+      "capitulo": "FAQ/01-primeiros-passos-e-conceitos.md",
+      "numero": 8,
+      "etapa": "E01"
+    },
+    {
+      "id": "Q009",
+      "titulo": "Como criar uma sala 3D?",
+      "capitulo": "FAQ/02-modelagem-cenarios-e-geometria.md",
+      "numero": 1,
+      "etapa": "E05"
+    },
+    {
+      "id": "Q010",
+      "titulo": "Como faço um personagem básico?",
+      "capitulo": "FAQ/02-modelagem-cenarios-e-geometria.md",
+      "numero": 2,
+      "etapa": "E05"
+    },
+    {
+      "id": "Q011",
+      "titulo": "O que é low-poly e quando vale?",
+      "capitulo": "FAQ/02-modelagem-cenarios-e-geometria.md",
+      "numero": 3,
+      "etapa": "E05"
+    },
+    {
+      "id": "Q012",
+      "titulo": "Como conserto sombreamento estranho?",
+      "capitulo": "FAQ/02-modelagem-cenarios-e-geometria.md",
+      "numero": 4,
+      "etapa": "E05"
+    },
+    {
+      "id": "Q013",
+      "titulo": "Quando usar escultura e quando modelagem poligonal?",
+      "capitulo": "FAQ/02-modelagem-cenarios-e-geometria.md",
+      "numero": 5,
+      "etapa": "E05"
+    },
+    {
+      "id": "Q014",
+      "titulo": "Como criar uma floresta sem travar o PC?",
+      "capitulo": "FAQ/02-modelagem-cenarios-e-geometria.md",
+      "numero": 6,
+      "etapa": "E05"
+    },
+    {
+      "id": "Q015",
+      "titulo": "Por que o objeto ficou enorme no motor?",
+      "capitulo": "FAQ/02-modelagem-cenarios-e-geometria.md",
+      "numero": 7,
+      "etapa": "E05"
+    },
+    {
+      "id": "Q016",
+      "titulo": "Como encontro modelos prontos sem risco?",
+      "capitulo": "FAQ/02-modelagem-cenarios-e-geometria.md",
+      "numero": 8,
+      "etapa": "E05"
+    },
+    {
+      "id": "Q017",
+      "titulo": "Por que minha textura aparece esticada?",
+      "capitulo": "FAQ/03-uv-materiais-e-texturas.md",
+      "numero": 1,
+      "etapa": "E06"
+    },
+    {
+      "id": "Q018",
+      "titulo": "Como faço UV Mapping pela primeira vez?",
+      "capitulo": "FAQ/03-uv-materiais-e-texturas.md",
+      "numero": 2,
+      "etapa": "E06"
+    },
+    {
+      "id": "Q019",
+      "titulo": "Como saber qual textura baixar?",
+      "capitulo": "FAQ/03-uv-materiais-e-texturas.md",
+      "numero": 3,
+      "etapa": "E06"
+    },
+    {
+      "id": "Q020",
+      "titulo": "Por que meu normal map está invertido?",
+      "capitulo": "FAQ/03-uv-materiais-e-texturas.md",
+      "numero": 4,
+      "etapa": "E06"
+    },
+    {
+      "id": "Q021",
+      "titulo": "O que é baking e quando faço?",
+      "capitulo": "FAQ/03-uv-materiais-e-texturas.md",
+      "numero": 5,
+      "etapa": "E06"
+    },
+    {
+      "id": "Q022",
+      "titulo": "Quero deixar metal realista; o que mudar?",
+      "capitulo": "FAQ/03-uv-materiais-e-texturas.md",
+      "numero": 6,
+      "etapa": "E06"
+    },
+    {
+      "id": "Q023",
+      "titulo": "Posso usar textura 4K em qualquer celular?",
+      "capitulo": "FAQ/03-uv-materiais-e-texturas.md",
+      "numero": 7,
+      "etapa": "E06"
+    },
+    {
+      "id": "Q024",
+      "titulo": "Como montar materiais reutilizáveis?",
+      "capitulo": "FAQ/03-uv-materiais-e-texturas.md",
+      "numero": 8,
+      "etapa": "E06"
+    },
+    {
+      "id": "Q025",
+      "titulo": "Como animar um objeto em 5 minutos?",
+      "capitulo": "FAQ/04-animacao-personagens-e-tracking.md",
+      "numero": 1,
+      "etapa": "E09"
+    },
+    {
+      "id": "Q026",
+      "titulo": "Como evitar pés deslizando na caminhada?",
+      "capitulo": "FAQ/04-animacao-personagens-e-tracking.md",
+      "numero": 2,
+      "etapa": "E09"
+    },
+    {
+      "id": "Q027",
+      "titulo": "Como colocar ossos em personagem?",
+      "capitulo": "FAQ/04-animacao-personagens-e-tracking.md",
+      "numero": 3,
+      "etapa": "E09"
+    },
+    {
+      "id": "Q028",
+      "titulo": "Qual a diferença entre IK e FK?",
+      "capitulo": "FAQ/04-animacao-personagens-e-tracking.md",
+      "numero": 4,
+      "etapa": "E09"
+    },
+    {
+      "id": "Q029",
+      "titulo": "Como importar animação do Mixamo?",
+      "capitulo": "FAQ/04-animacao-personagens-e-tracking.md",
+      "numero": 5,
+      "etapa": "E09"
+    },
+    {
+      "id": "Q030",
+      "titulo": "Como fazer tracking de câmera de vídeo?",
+      "capitulo": "FAQ/04-animacao-personagens-e-tracking.md",
+      "numero": 6,
+      "etapa": "E09"
+    },
+    {
+      "id": "Q031",
+      "titulo": "Posso rastrear rosto de qualquer pessoa?",
+      "capitulo": "FAQ/04-animacao-personagens-e-tracking.md",
+      "numero": 7,
+      "etapa": "E09"
+    },
+    {
+      "id": "Q032",
+      "titulo": "Como juntar render 3D com filmagem?",
+      "capitulo": "FAQ/04-animacao-personagens-e-tracking.md",
+      "numero": 8,
+      "etapa": "E09"
+    },
+    {
+      "id": "Q033",
+      "titulo": "Como levo modelo Blender ao Unreal?",
+      "capitulo": "FAQ/05-unreal-unity-e-games.md",
+      "numero": 1,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q034",
+      "titulo": "O que são Blueprints no Unreal?",
+      "capitulo": "FAQ/05-unreal-unity-e-games.md",
+      "numero": 2,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q035",
+      "titulo": "Como começo um game 3D?",
+      "capitulo": "FAQ/05-unreal-unity-e-games.md",
+      "numero": 3,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q036",
+      "titulo": "Como adiciono colisão ao objeto?",
+      "capitulo": "FAQ/05-unreal-unity-e-games.md",
+      "numero": 4,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q037",
+      "titulo": "Qual a diferença entre Nanite e LOD tradicional?",
+      "capitulo": "FAQ/05-unreal-unity-e-games.md",
+      "numero": 5,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q038",
+      "titulo": "Por que meu FPS caiu depois de adicionar vegetação?",
+      "capitulo": "FAQ/05-unreal-unity-e-games.md",
+      "numero": 6,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q039",
+      "titulo": "Qual o papel do Level Design?",
+      "capitulo": "FAQ/05-unreal-unity-e-games.md",
+      "numero": 7,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q040",
+      "titulo": "Unreal é sempre melhor que Unity?",
+      "capitulo": "FAQ/05-unreal-unity-e-games.md",
+      "numero": 8,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q041",
+      "titulo": "Como colocar produto 3D no meu site?",
+      "capitulo": "FAQ/06-websites-3d-e-webar.md",
+      "numero": 1,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q042",
+      "titulo": "Como ativar AR no Android pelo site?",
+      "capitulo": "FAQ/06-websites-3d-e-webar.md",
+      "numero": 2,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q043",
+      "titulo": "Como ativar AR no iPhone pelo site?",
+      "capitulo": "FAQ/06-websites-3d-e-webar.md",
+      "numero": 3,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q044",
+      "titulo": "AR do navegador funciona em todo celular?",
+      "capitulo": "FAQ/06-websites-3d-e-webar.md",
+      "numero": 4,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q045",
+      "titulo": "O que é Three.js e quando escolher?",
+      "capitulo": "FAQ/06-websites-3d-e-webar.md",
+      "numero": 5,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q046",
+      "titulo": "React Three Fiber é obrigatório?",
+      "capitulo": "FAQ/06-websites-3d-e-webar.md",
+      "numero": 6,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q047",
+      "titulo": "Como impedir que 3D deixe o site lento?",
+      "capitulo": "FAQ/06-websites-3d-e-webar.md",
+      "numero": 7,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q048",
+      "titulo": "Como criar cena 3D em WordPress?",
+      "capitulo": "FAQ/06-websites-3d-e-webar.md",
+      "numero": 8,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q049",
+      "titulo": "Ainda posso publicar efeitos novos com Meta Spark?",
+      "capitulo": "FAQ/07-meta-quest-e-horizon.md",
+      "numero": 1,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q050",
+      "titulo": "O que a Meta oferece hoje para experiências 3D?",
+      "capitulo": "FAQ/07-meta-quest-e-horizon.md",
+      "numero": 2,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q051",
+      "titulo": "Como começo Unreal para Meta Quest?",
+      "capitulo": "FAQ/07-meta-quest-e-horizon.md",
+      "numero": 3,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q052",
+      "titulo": "Posso usar meus modelos Blender no Meta Quest?",
+      "capitulo": "FAQ/07-meta-quest-e-horizon.md",
+      "numero": 4,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q053",
+      "titulo": "Como posicionar objeto virtual na sala no Quest?",
+      "capitulo": "FAQ/07-meta-quest-e-horizon.md",
+      "numero": 5,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q054",
+      "titulo": "Meta Horizon Studio é a mesma coisa que Spark?",
+      "capitulo": "FAQ/07-meta-quest-e-horizon.md",
+      "numero": 6,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q055",
+      "titulo": "Por que preciso testar taxas de quadros em headset?",
+      "capitulo": "FAQ/07-meta-quest-e-horizon.md",
+      "numero": 7,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q056",
+      "titulo": "Meu app Quest precisa coletar vídeo da câmera?",
+      "capitulo": "FAQ/07-meta-quest-e-horizon.md",
+      "numero": 8,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q057",
+      "titulo": "O usuário quis dizer Snapchat ou Snapshot?",
+      "capitulo": "FAQ/08-snap-snapchat-e-lens-studio.md",
+      "numero": 1,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q058",
+      "titulo": "Como faço minha primeira lente Snapchat?",
+      "capitulo": "FAQ/08-snap-snapchat-e-lens-studio.md",
+      "numero": 2,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q059",
+      "titulo": "Posso criar lentes Snap usando Blender?",
+      "capitulo": "FAQ/08-snap-snapchat-e-lens-studio.md",
+      "numero": 3,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q060",
+      "titulo": "Como usar lente Snap num website?",
+      "capitulo": "FAQ/08-snap-snapchat-e-lens-studio.md",
+      "numero": 4,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q061",
+      "titulo": "Snap Camera Kit é grátis sem condições?",
+      "capitulo": "FAQ/08-snap-snapchat-e-lens-studio.md",
+      "numero": 5,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q062",
+      "titulo": "Como criar lente de experimentação virtual?",
+      "capitulo": "FAQ/08-snap-snapchat-e-lens-studio.md",
+      "numero": 6,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q063",
+      "titulo": "Como depurar lente que perde tracking?",
+      "capitulo": "FAQ/08-snap-snapchat-e-lens-studio.md",
+      "numero": 7,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q064",
+      "titulo": "Como medir desempenho de lente?",
+      "capitulo": "FAQ/08-snap-snapchat-e-lens-studio.md",
+      "numero": 8,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q065",
+      "titulo": "Como crio primeiro efeito AR TikTok?",
+      "capitulo": "FAQ/09-tiktok-effect-house-e-publicacao.md",
+      "numero": 1,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q066",
+      "titulo": "Posso importar modelo Blender no Effect House?",
+      "capitulo": "FAQ/09-tiktok-effect-house-e-publicacao.md",
+      "numero": 2,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q067",
+      "titulo": "Quais são limites de polígonos do TikTok?",
+      "capitulo": "FAQ/09-tiktok-effect-house-e-publicacao.md",
+      "numero": 3,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q068",
+      "titulo": "Como faço máscara de rosto no TikTok?",
+      "capitulo": "FAQ/09-tiktok-effect-house-e-publicacao.md",
+      "numero": 4,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q069",
+      "titulo": "Como publico um efeito para outras pessoas?",
+      "capitulo": "FAQ/09-tiktok-effect-house-e-publicacao.md",
+      "numero": 5,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q070",
+      "titulo": "Por que efeito foi rejeitado?",
+      "capitulo": "FAQ/09-tiktok-effect-house-e-publicacao.md",
+      "numero": 6,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q071",
+      "titulo": "Como otimizar textura para filtro social?",
+      "capitulo": "FAQ/09-tiktok-effect-house-e-publicacao.md",
+      "numero": 7,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q072",
+      "titulo": "Como criar interações sem código avançado?",
+      "capitulo": "FAQ/09-tiktok-effect-house-e-publicacao.md",
+      "numero": 8,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q073",
+      "titulo": "O que preciso saber antes de vender asset 3D?",
+      "capitulo": "FAQ/10-carreira-direitos-entregas-e-manutencao.md",
+      "numero": 1,
+      "etapa": "E17"
+    },
+    {
+      "id": "Q074",
+      "titulo": "Qual licença permite uso comercial?",
+      "capitulo": "FAQ/10-carreira-direitos-entregas-e-manutencao.md",
+      "numero": 2,
+      "etapa": "E17"
+    },
+    {
+      "id": "Q075",
+      "titulo": "Posso vender um pack baixado gratuitamente?",
+      "capitulo": "FAQ/10-carreira-direitos-entregas-e-manutencao.md",
+      "numero": 3,
+      "etapa": "E17"
+    },
+    {
+      "id": "Q076",
+      "titulo": "Qual formato entrego a um cliente?",
+      "capitulo": "FAQ/10-carreira-direitos-entregas-e-manutencao.md",
+      "numero": 4,
+      "etapa": "E17"
+    },
+    {
+      "id": "Q077",
+      "titulo": "Como provar qualidade profissional?",
+      "capitulo": "FAQ/10-carreira-direitos-entregas-e-manutencao.md",
+      "numero": 5,
+      "etapa": "E17"
+    },
+    {
+      "id": "Q078",
+      "titulo": "Como estudar de graça com sites oficiais?",
+      "capitulo": "FAQ/10-carreira-direitos-entregas-e-manutencao.md",
+      "numero": 6,
+      "etapa": "E17"
+    },
+    {
+      "id": "Q079",
+      "titulo": "Como evitar ficar refém de uma plataforma?",
+      "capitulo": "FAQ/10-carreira-direitos-entregas-e-manutencao.md",
+      "numero": 7,
+      "etapa": "E17"
+    },
+    {
+      "id": "Q080",
+      "titulo": "Como construir portfólio que vende?",
+      "capitulo": "FAQ/10-carreira-direitos-entregas-e-manutencao.md",
+      "numero": 8,
+      "etapa": "E17"
+    }
+  ]
+}

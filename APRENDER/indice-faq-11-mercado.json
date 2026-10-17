@@ -1,0 +1,943 @@
+{
+  "schema": "sin-3d-faq-routing-v1",
+  "range": "11–18 e mercado",
+  "entries": [
+    {
+      "id": "Q081",
+      "titulo": "Meu modelo está com faces invisíveis; o que verifico?",
+      "capitulo": "FAQ/11-blender-modelagem-producao.md",
+      "numero": 1,
+      "etapa": "E05"
+    },
+    {
+      "id": "Q082",
+      "titulo": "Como corrigir uma malha non-manifold?",
+      "capitulo": "FAQ/11-blender-modelagem-producao.md",
+      "numero": 2,
+      "etapa": "E05"
+    },
+    {
+      "id": "Q083",
+      "titulo": "Por que minhas dimensões mudam quando exporto?",
+      "capitulo": "FAQ/11-blender-modelagem-producao.md",
+      "numero": 3,
+      "etapa": "E05"
+    },
+    {
+      "id": "Q084",
+      "titulo": "Quando vale aplicar modificadores definitivamente?",
+      "capitulo": "FAQ/11-blender-modelagem-producao.md",
+      "numero": 4,
+      "etapa": "E05"
+    },
+    {
+      "id": "Q085",
+      "titulo": "Como criar um objeto espelhado sem duplicação pesada?",
+      "capitulo": "FAQ/11-blender-modelagem-producao.md",
+      "numero": 5,
+      "etapa": "E05"
+    },
+    {
+      "id": "Q086",
+      "titulo": "Por que a malha arredondada ficou irregular?",
+      "capitulo": "FAQ/11-blender-modelagem-producao.md",
+      "numero": 6,
+      "etapa": "E05"
+    },
+    {
+      "id": "Q087",
+      "titulo": "Como escolher escala para um ambiente AR?",
+      "capitulo": "FAQ/11-blender-modelagem-producao.md",
+      "numero": 7,
+      "etapa": "E05"
+    },
+    {
+      "id": "Q088",
+      "titulo": "Meu Bevel ficou feio; como arrumar?",
+      "capitulo": "FAQ/11-blender-modelagem-producao.md",
+      "numero": 8,
+      "etapa": "E05"
+    },
+    {
+      "id": "Q089",
+      "titulo": "Como usar instâncias numa floresta?",
+      "capitulo": "FAQ/11-blender-modelagem-producao.md",
+      "numero": 9,
+      "etapa": "E05"
+    },
+    {
+      "id": "Q090",
+      "titulo": "Preciso modelar o verso de toda peça?",
+      "capitulo": "FAQ/11-blender-modelagem-producao.md",
+      "numero": 10,
+      "etapa": "E05"
+    },
+    {
+      "id": "Q091",
+      "titulo": "Como corrigir objetos importados com origem errada?",
+      "capitulo": "FAQ/11-blender-modelagem-producao.md",
+      "numero": 11,
+      "etapa": "E05"
+    },
+    {
+      "id": "Q092",
+      "titulo": "Qual é o primeiro teste de retopologia?",
+      "capitulo": "FAQ/11-blender-modelagem-producao.md",
+      "numero": 12,
+      "etapa": "E05"
+    },
+    {
+      "id": "Q093",
+      "titulo": "Como fazer backup de projeto Blender sem perder materiais?",
+      "capitulo": "FAQ/11-blender-modelagem-producao.md",
+      "numero": 13,
+      "etapa": "E05"
+    },
+    {
+      "id": "Q094",
+      "titulo": "Como definir textura para produto visto muito de perto?",
+      "capitulo": "FAQ/12-uv-pbr-baking-profissional.md",
+      "numero": 1,
+      "etapa": "E06"
+    },
+    {
+      "id": "Q095",
+      "titulo": "Por que o metal parece plástico no render?",
+      "capitulo": "FAQ/12-uv-pbr-baking-profissional.md",
+      "numero": 2,
+      "etapa": "E07",
+      "criterio_roteamento": "aparência e cor"
+    },
+    {
+      "id": "Q096",
+      "titulo": "Quais mapas PBR realmente preciso?",
+      "capitulo": "FAQ/12-uv-pbr-baking-profissional.md",
+      "numero": 3,
+      "etapa": "E06"
+    },
+    {
+      "id": "Q097",
+      "titulo": "Como saber se normal map deve ser invertido?",
+      "capitulo": "FAQ/12-uv-pbr-baking-profissional.md",
+      "numero": 4,
+      "etapa": "E06"
+    },
+    {
+      "id": "Q098",
+      "titulo": "Por que meu bake tem manchas pretas?",
+      "capitulo": "FAQ/12-uv-pbr-baking-profissional.md",
+      "numero": 5,
+      "etapa": "E06"
+    },
+    {
+      "id": "Q099",
+      "titulo": "Devo usar UDIM em um site comum?",
+      "capitulo": "FAQ/12-uv-pbr-baking-profissional.md",
+      "numero": 6,
+      "etapa": "E06"
+    },
+    {
+      "id": "Q100",
+      "titulo": "Quando empacotar AO, Roughness e Metallic?",
+      "capitulo": "FAQ/12-uv-pbr-baking-profissional.md",
+      "numero": 7,
+      "etapa": "E06"
+    },
+    {
+      "id": "Q101",
+      "titulo": "Minha textura muda de cor entre programas; por quê?",
+      "capitulo": "FAQ/12-uv-pbr-baking-profissional.md",
+      "numero": 8,
+      "etapa": "E07",
+      "criterio_roteamento": "aparência e cor"
+    },
+    {
+      "id": "Q102",
+      "titulo": "É melhor material procedural ou textura pronta?",
+      "capitulo": "FAQ/12-uv-pbr-baking-profissional.md",
+      "numero": 9,
+      "etapa": "E07",
+      "criterio_roteamento": "aparência e cor"
+    },
+    {
+      "id": "Q103",
+      "titulo": "Como criar material de vidro sem travar o celular?",
+      "capitulo": "FAQ/12-uv-pbr-baking-profissional.md",
+      "numero": 10,
+      "etapa": "E07",
+      "criterio_roteamento": "aparência e cor"
+    },
+    {
+      "id": "Q104",
+      "titulo": "Como corrigir costura visível em UV?",
+      "capitulo": "FAQ/12-uv-pbr-baking-profissional.md",
+      "numero": 11,
+      "etapa": "E06"
+    },
+    {
+      "id": "Q105",
+      "titulo": "Por que a textura perdeu detalhes depois de comprimir?",
+      "capitulo": "FAQ/12-uv-pbr-baking-profissional.md",
+      "numero": 12,
+      "etapa": "E06"
+    },
+    {
+      "id": "Q106",
+      "titulo": "Onde encontro referência oficial para asset 3D de e-commerce?",
+      "capitulo": "FAQ/12-uv-pbr-baking-profissional.md",
+      "numero": 13,
+      "etapa": "E06"
+    },
+    {
+      "id": "Q107",
+      "titulo": "Como faço um animatic rápido para cliente?",
+      "capitulo": "FAQ/13-animacao-cinema-vfx.md",
+      "numero": 1,
+      "etapa": "E03",
+      "criterio_roteamento": "storyboard e prévia narrativa"
+    },
+    {
+      "id": "Q108",
+      "titulo": "Como descobrir se uma animação está sem peso?",
+      "capitulo": "FAQ/13-animacao-cinema-vfx.md",
+      "numero": 2,
+      "etapa": "E09",
+      "criterio_roteamento": "animação e deformação"
+    },
+    {
+      "id": "Q109",
+      "titulo": "Posso transferir animação de um rig a outro sempre?",
+      "capitulo": "FAQ/13-animacao-cinema-vfx.md",
+      "numero": 3,
+      "etapa": "E09",
+      "criterio_roteamento": "animação e deformação"
+    },
+    {
+      "id": "Q110",
+      "titulo": "O que faço se meu pé desliza no chão?",
+      "capitulo": "FAQ/13-animacao-cinema-vfx.md",
+      "numero": 4,
+      "etapa": "E09",
+      "criterio_roteamento": "animação e deformação"
+    },
+    {
+      "id": "Q111",
+      "titulo": "Como criar expressão facial sem mocap?",
+      "capitulo": "FAQ/13-animacao-cinema-vfx.md",
+      "numero": 5,
+      "etapa": "E09",
+      "criterio_roteamento": "animação e deformação"
+    },
+    {
+      "id": "Q112",
+      "titulo": "Como sincronizar áudio com personagem 3D?",
+      "capitulo": "FAQ/13-animacao-cinema-vfx.md",
+      "numero": 6,
+      "etapa": "E13",
+      "criterio_roteamento": "montagem e sincronização"
+    },
+    {
+      "id": "Q113",
+      "titulo": "Como fazer tracking de objeto em filmagem agitada?",
+      "capitulo": "FAQ/13-animacao-cinema-vfx.md",
+      "numero": 7,
+      "etapa": "E10"
+    },
+    {
+      "id": "Q114",
+      "titulo": "Por que a sombra CG não combina com o vídeo?",
+      "capitulo": "FAQ/13-animacao-cinema-vfx.md",
+      "numero": 8,
+      "etapa": "E10"
+    },
+    {
+      "id": "Q115",
+      "titulo": "Qual a diferença de composição 2D e deep?",
+      "capitulo": "FAQ/13-animacao-cinema-vfx.md",
+      "numero": 9,
+      "etapa": "E10"
+    },
+    {
+      "id": "Q116",
+      "titulo": "O que devo registrar numa filmagem para VFX?",
+      "capitulo": "FAQ/13-animacao-cinema-vfx.md",
+      "numero": 10,
+      "etapa": "E10"
+    },
+    {
+      "id": "Q117",
+      "titulo": "Quando usar OpenEXR em vez de PNG?",
+      "capitulo": "FAQ/13-animacao-cinema-vfx.md",
+      "numero": 11,
+      "etapa": "E12",
+      "criterio_roteamento": "passes e render"
+    },
+    {
+      "id": "Q118",
+      "titulo": "Unreal funciona para render de cinema final?",
+      "capitulo": "FAQ/13-animacao-cinema-vfx.md",
+      "numero": 12,
+      "etapa": "E12",
+      "criterio_roteamento": "passes e render"
+    },
+    {
+      "id": "Q119",
+      "titulo": "Como impedir que o render final mude de cor?",
+      "capitulo": "FAQ/13-animacao-cinema-vfx.md",
+      "numero": 13,
+      "etapa": "E12",
+      "criterio_roteamento": "render e export consistente"
+    },
+    {
+      "id": "Q120",
+      "titulo": "Por que meu GLB demora tanto para carregar?",
+      "capitulo": "FAQ/14-web3d-qualidade-seo-negocios.md",
+      "numero": 1,
+      "etapa": "E14",
+      "criterio_roteamento": "otimização de visualização"
+    },
+    {
+      "id": "Q121",
+      "titulo": "Como montar comparação de versões com 3D?",
+      "capitulo": "FAQ/14-web3d-qualidade-seo-negocios.md",
+      "numero": 2,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q122",
+      "titulo": "Meu configurador de cores muda apenas a imagem?",
+      "capitulo": "FAQ/14-web3d-qualidade-seo-negocios.md",
+      "numero": 3,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q123",
+      "titulo": "Como iniciar 3D apenas quando usuário quiser?",
+      "capitulo": "FAQ/14-web3d-qualidade-seo-negocios.md",
+      "numero": 4,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q124",
+      "titulo": "Preciso de Three.js em todo site 3D?",
+      "capitulo": "FAQ/14-web3d-qualidade-seo-negocios.md",
+      "numero": 5,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q125",
+      "titulo": "Como fazer site 3D acessível por teclado?",
+      "capitulo": "FAQ/14-web3d-qualidade-seo-negocios.md",
+      "numero": 6,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q126",
+      "titulo": "Qual melhor fallback para falta de WebGL?",
+      "capitulo": "FAQ/14-web3d-qualidade-seo-negocios.md",
+      "numero": 7,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q127",
+      "titulo": "Como detectar perda de contexto gráfico?",
+      "capitulo": "FAQ/14-web3d-qualidade-seo-negocios.md",
+      "numero": 8,
+      "etapa": "E14",
+      "criterio_roteamento": "otimização de visualização"
+    },
+    {
+      "id": "Q128",
+      "titulo": "Como otimizar Three.js em smartphone básico?",
+      "capitulo": "FAQ/14-web3d-qualidade-seo-negocios.md",
+      "numero": 9,
+      "etapa": "E14",
+      "criterio_roteamento": "otimização de visualização"
+    },
+    {
+      "id": "Q129",
+      "titulo": "Minha cena atrapalha o botão de comprar; como evitar?",
+      "capitulo": "FAQ/14-web3d-qualidade-seo-negocios.md",
+      "numero": 10,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q130",
+      "titulo": "Como implementar 3D em WordPress sem trocar todo tema?",
+      "capitulo": "FAQ/14-web3d-qualidade-seo-negocios.md",
+      "numero": 11,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q131",
+      "titulo": "Qual o formato certo para e-commerce com AR?",
+      "capitulo": "FAQ/14-web3d-qualidade-seo-negocios.md",
+      "numero": 12,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q132",
+      "titulo": "Onde encontro norma oficial para 3D Commerce?",
+      "capitulo": "FAQ/14-web3d-qualidade-seo-negocios.md",
+      "numero": 13,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q133",
+      "titulo": "Como começo AR com produto sem aplicativo instalado?",
+      "capitulo": "FAQ/15-ar-snap-tiktok-meta.md",
+      "numero": 1,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q134",
+      "titulo": "Qual a diferença entre WebAR e Camera Kit Web?",
+      "capitulo": "FAQ/15-ar-snap-tiktok-meta.md",
+      "numero": 2,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q135",
+      "titulo": "Como saber se uma Lens Snap pode ir ao meu site?",
+      "capitulo": "FAQ/15-ar-snap-tiktok-meta.md",
+      "numero": 3,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q136",
+      "titulo": "Preciso pagar para distribuir filtro TikTok?",
+      "capitulo": "FAQ/15-ar-snap-tiktok-meta.md",
+      "numero": 4,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q137",
+      "titulo": "Como importar personagem animado no Effect House?",
+      "capitulo": "FAQ/15-ar-snap-tiktok-meta.md",
+      "numero": 5,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q138",
+      "titulo": "Meu filtro perde contato com o rosto; como melhoro?",
+      "capitulo": "FAQ/15-ar-snap-tiktok-meta.md",
+      "numero": 6,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q139",
+      "titulo": "AR de objetos na rua requer internet?",
+      "capitulo": "FAQ/15-ar-snap-tiktok-meta.md",
+      "numero": 7,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q140",
+      "titulo": "Posso colocar uma Lens TikTok diretamente num site?",
+      "capitulo": "FAQ/15-ar-snap-tiktok-meta.md",
+      "numero": 8,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q141",
+      "titulo": "Quais dados de câmera posso armazenar numa experiência AR?",
+      "capitulo": "FAQ/15-ar-snap-tiktok-meta.md",
+      "numero": 9,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q142",
+      "titulo": "Como medir conforto numa experiência Meta Quest?",
+      "capitulo": "FAQ/15-ar-snap-tiktok-meta.md",
+      "numero": 10,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q143",
+      "titulo": "Como criar objeto que fique fixo na sala?",
+      "capitulo": "FAQ/15-ar-snap-tiktok-meta.md",
+      "numero": 11,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q144",
+      "titulo": "É possível criar AR compartilhada entre dois celulares?",
+      "capitulo": "FAQ/15-ar-snap-tiktok-meta.md",
+      "numero": 12,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q145",
+      "titulo": "Como escolher entre Snap, TikTok e Quest para uma campanha?",
+      "capitulo": "FAQ/15-ar-snap-tiktok-meta.md",
+      "numero": 13,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q146",
+      "titulo": "Como iniciar um jogo sem criar um mundo imenso?",
+      "capitulo": "FAQ/16-games-unreal-unity-performance.md",
+      "numero": 1,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q147",
+      "titulo": "Como criar interação sem programar C++?",
+      "capitulo": "FAQ/16-games-unreal-unity-performance.md",
+      "numero": 2,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q148",
+      "titulo": "Quando vale usar Nanite?",
+      "capitulo": "FAQ/16-games-unreal-unity-performance.md",
+      "numero": 3,
+      "etapa": "E14",
+      "criterio_roteamento": "perfil e orçamento de runtime"
+    },
+    {
+      "id": "Q149",
+      "titulo": "Por que Lumen tem resultado ruim em meu projeto mobile?",
+      "capitulo": "FAQ/16-games-unreal-unity-performance.md",
+      "numero": 4,
+      "etapa": "E14",
+      "criterio_roteamento": "perfil e orçamento de runtime"
+    },
+    {
+      "id": "Q150",
+      "titulo": "Como projetar um material que funcione em VR?",
+      "capitulo": "FAQ/16-games-unreal-unity-performance.md",
+      "numero": 5,
+      "etapa": "E14",
+      "criterio_roteamento": "perfil e orçamento de runtime"
+    },
+    {
+      "id": "Q151",
+      "titulo": "Como reduzir custo de vegetação em Unreal?",
+      "capitulo": "FAQ/16-games-unreal-unity-performance.md",
+      "numero": 6,
+      "etapa": "E14",
+      "criterio_roteamento": "perfil e orçamento de runtime"
+    },
+    {
+      "id": "Q152",
+      "titulo": "O que é o primeiro profiler que devo usar?",
+      "capitulo": "FAQ/16-games-unreal-unity-performance.md",
+      "numero": 7,
+      "etapa": "E14",
+      "criterio_roteamento": "perfil e orçamento de runtime"
+    },
+    {
+      "id": "Q153",
+      "titulo": "Como evitar erro de colisão em objeto importado?",
+      "capitulo": "FAQ/16-games-unreal-unity-performance.md",
+      "numero": 8,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q154",
+      "titulo": "Qual a diferença de gameplay Blueprint e animação?",
+      "capitulo": "FAQ/16-games-unreal-unity-performance.md",
+      "numero": 9,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q155",
+      "titulo": "Posso usar modelos de qualquer marketplace num jogo?",
+      "capitulo": "FAQ/16-games-unreal-unity-performance.md",
+      "numero": 10,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q156",
+      "titulo": "Como preparar um nível para mobile?",
+      "capitulo": "FAQ/16-games-unreal-unity-performance.md",
+      "numero": 11,
+      "etapa": "E14",
+      "criterio_roteamento": "perfil e orçamento de runtime"
+    },
+    {
+      "id": "Q157",
+      "titulo": "Como comparar Unreal e Unity para um mesmo projeto?",
+      "capitulo": "FAQ/16-games-unreal-unity-performance.md",
+      "numero": 12,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q158",
+      "titulo": "Por que minha animação importada parece diferente?",
+      "capitulo": "FAQ/16-games-unreal-unity-performance.md",
+      "numero": 13,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q159",
+      "titulo": "Qual diferença entre STL e STEP?",
+      "capitulo": "FAQ/17-cad-industria-impressao-pesquisa.md",
+      "numero": 1,
+      "etapa": "E15"
+    },
+    {
+      "id": "Q160",
+      "titulo": "Por que IFC é importante em arquitetura?",
+      "capitulo": "FAQ/17-cad-industria-impressao-pesquisa.md",
+      "numero": 2,
+      "etapa": "E15"
+    },
+    {
+      "id": "Q161",
+      "titulo": "Como verificar escala de modelo BIM?",
+      "capitulo": "FAQ/17-cad-industria-impressao-pesquisa.md",
+      "numero": 3,
+      "etapa": "E15"
+    },
+    {
+      "id": "Q162",
+      "titulo": "Meu STL não imprime; o que procuro?",
+      "capitulo": "FAQ/17-cad-industria-impressao-pesquisa.md",
+      "numero": 4,
+      "etapa": "E15"
+    },
+    {
+      "id": "Q163",
+      "titulo": "Qual altura de camada usar numa primeira impressão?",
+      "capitulo": "FAQ/17-cad-industria-impressao-pesquisa.md",
+      "numero": 5,
+      "etapa": "E15"
+    },
+    {
+      "id": "Q164",
+      "titulo": "Como reduzir suportes de impressão 3D?",
+      "capitulo": "FAQ/17-cad-industria-impressao-pesquisa.md",
+      "numero": 6,
+      "etapa": "E15"
+    },
+    {
+      "id": "Q165",
+      "titulo": "Como criar um encaixe mecânico que funcione?",
+      "capitulo": "FAQ/17-cad-industria-impressao-pesquisa.md",
+      "numero": 7,
+      "etapa": "E15"
+    },
+    {
+      "id": "Q166",
+      "titulo": "O que é digital twin além de modelo bonito?",
+      "capitulo": "FAQ/17-cad-industria-impressao-pesquisa.md",
+      "numero": 8,
+      "etapa": "E15"
+    },
+    {
+      "id": "Q167",
+      "titulo": "Como levar uma cidade grande para um website?",
+      "capitulo": "FAQ/17-cad-industria-impressao-pesquisa.md",
+      "numero": 9,
+      "etapa": "E15"
+    },
+    {
+      "id": "Q168",
+      "titulo": "Como escolher dados geográficos para cena 3D?",
+      "capitulo": "FAQ/17-cad-industria-impressao-pesquisa.md",
+      "numero": 10,
+      "etapa": "E15"
+    },
+    {
+      "id": "Q169",
+      "titulo": "Posso usar imagens médicas em projetos 3D públicos?",
+      "capitulo": "FAQ/17-cad-industria-impressao-pesquisa.md",
+      "numero": 11,
+      "etapa": "E15"
+    },
+    {
+      "id": "Q170",
+      "titulo": "Qual ferramenta é apropriada à impressão paramétrica gratuita?",
+      "capitulo": "FAQ/17-cad-industria-impressao-pesquisa.md",
+      "numero": 12,
+      "etapa": "E15"
+    },
+    {
+      "id": "Q171",
+      "titulo": "Por que não usar arquivo de game como projeto de engenharia?",
+      "capitulo": "FAQ/17-cad-industria-impressao-pesquisa.md",
+      "numero": 13,
+      "etapa": "E15"
+    },
+    {
+      "id": "Q172",
+      "titulo": "Como sei se uma fonte 3D está realmente atualizada?",
+      "capitulo": "FAQ/18-governanca-skills-aprendizagem.md",
+      "numero": 1,
+      "etapa": "E02",
+      "criterio_roteamento": "pesquisa e atualização"
+    },
+    {
+      "id": "Q173",
+      "titulo": "Por que um link não prova licença comercial?",
+      "capitulo": "FAQ/18-governanca-skills-aprendizagem.md",
+      "numero": 2,
+      "etapa": "E17",
+      "criterio_roteamento": "direitos por arquivo"
+    },
+    {
+      "id": "Q174",
+      "titulo": "Como montar um portfólio técnico e não apenas bonito?",
+      "capitulo": "FAQ/18-governanca-skills-aprendizagem.md",
+      "numero": 3,
+      "etapa": "E18"
+    },
+    {
+      "id": "Q175",
+      "titulo": "Como preparar tutorial para um iniciante absoluto?",
+      "capitulo": "FAQ/18-governanca-skills-aprendizagem.md",
+      "numero": 4,
+      "etapa": "E18"
+    },
+    {
+      "id": "Q176",
+      "titulo": "O que faz um ECP num projeto 3D?",
+      "capitulo": "FAQ/18-governanca-skills-aprendizagem.md",
+      "numero": 5,
+      "etapa": "E18"
+    },
+    {
+      "id": "Q177",
+      "titulo": "O que o Coliseu deve reprovar numa Skill 3D?",
+      "capitulo": "FAQ/18-governanca-skills-aprendizagem.md",
+      "numero": 6,
+      "etapa": "E18"
+    },
+    {
+      "id": "Q178",
+      "titulo": "Como criar uma Skill a partir do Grimório?",
+      "capitulo": "FAQ/18-governanca-skills-aprendizagem.md",
+      "numero": 7,
+      "etapa": "E18"
+    },
+    {
+      "id": "Q179",
+      "titulo": "Por que separar conhecimento atemporal de notícias?",
+      "capitulo": "FAQ/18-governanca-skills-aprendizagem.md",
+      "numero": 8,
+      "etapa": "E02",
+      "criterio_roteamento": "pesquisa e atualização"
+    },
+    {
+      "id": "Q180",
+      "titulo": "Como saber que um projeto foi aprovado de verdade?",
+      "capitulo": "FAQ/18-governanca-skills-aprendizagem.md",
+      "numero": 9,
+      "etapa": "E18"
+    },
+    {
+      "id": "Q181",
+      "titulo": "Como preservar arquivos após migração de versão?",
+      "capitulo": "FAQ/18-governanca-skills-aprendizagem.md",
+      "numero": 10,
+      "etapa": "E18"
+    },
+    {
+      "id": "Q182",
+      "titulo": "Como medir habilidade de um aluno em 3D?",
+      "capitulo": "FAQ/18-governanca-skills-aprendizagem.md",
+      "numero": 11,
+      "etapa": "E18"
+    },
+    {
+      "id": "Q183",
+      "titulo": "Como decidir entre mais fontes e mais exercícios?",
+      "capitulo": "FAQ/18-governanca-skills-aprendizagem.md",
+      "numero": 12,
+      "etapa": "E02",
+      "criterio_roteamento": "pesquisa e atualização"
+    },
+    {
+      "id": "Q184",
+      "titulo": "Como controlar dependências de SDK sem bagunça?",
+      "capitulo": "FAQ/18-governanca-skills-aprendizagem.md",
+      "numero": 13,
+      "etapa": "E15",
+      "criterio_roteamento": "controle de dependências"
+    },
+    {
+      "id": "Q185",
+      "titulo": "Como criar produto virtual sem enganar o consumidor?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 1,
+      "etapa": "E03"
+    },
+    {
+      "id": "Q186",
+      "titulo": "Como usar 3D no funil comercial?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 2,
+      "etapa": "E03"
+    },
+    {
+      "id": "Q187",
+      "titulo": "Por que nem sempre animação 3D melhora anúncios?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 3,
+      "etapa": "E03"
+    },
+    {
+      "id": "Q188",
+      "titulo": "Como planejar uma tomada que receberá VFX?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 4,
+      "etapa": "E10"
+    },
+    {
+      "id": "Q189",
+      "titulo": "Por que filmar sem tracking markers pode gerar retrabalho?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 5,
+      "etapa": "E10"
+    },
+    {
+      "id": "Q190",
+      "titulo": "Qual a função de EXR na pós-produção?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 6,
+      "etapa": "E10"
+    },
+    {
+      "id": "Q191",
+      "titulo": "O que preciso para filmar com LED Volume?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 7,
+      "etapa": "E10"
+    },
+    {
+      "id": "Q192",
+      "titulo": "Como revisar se o personagem realmente atua?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 8,
+      "etapa": "E09"
+    },
+    {
+      "id": "Q193",
+      "titulo": "Por que rig precisa ser testado antes de texturizar tudo?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 9,
+      "etapa": "E09"
+    },
+    {
+      "id": "Q194",
+      "titulo": "Como saber se o game está divertido antes dos assets finais?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 10,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q195",
+      "titulo": "Como escolher orçamento de triângulos?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 11,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q196",
+      "titulo": "O que otimizar primeiro em cenário pesado?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 12,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q197",
+      "titulo": "Como escolher entre model-viewer e Three.js?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 13,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q198",
+      "titulo": "Como não prejudicar SEO com 3D?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 14,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q199",
+      "titulo": "Qual a diferença entre glTF e arquivo BLEND?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 15,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q200",
+      "titulo": "Por que AR não funciona em todo celular?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 16,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q201",
+      "titulo": "Como garantir escala correta de móvel na sala?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 17,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q202",
+      "titulo": "Como diferenciar Lens Snapchat, TikTok e Meta Quest?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 18,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q203",
+      "titulo": "Como começar âncoras compartilhadas?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 19,
+      "etapa": "E16"
+    },
+    {
+      "id": "Q204",
+      "titulo": "Posso usar render para validar peça mecânica?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 20,
+      "etapa": "E15"
+    },
+    {
+      "id": "Q205",
+      "titulo": "Por que não modelar tudo apenas em triangulos?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 21,
+      "etapa": "E15"
+    },
+    {
+      "id": "Q206",
+      "titulo": "Como transformar fonte inglesa em tutorial útil em português?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 22,
+      "etapa": "E02"
+    },
+    {
+      "id": "Q207",
+      "titulo": "Como saber que aprendi mesmo uma técnica?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 23,
+      "etapa": "E02"
+    },
+    {
+      "id": "Q208",
+      "titulo": "Como tornar esse conhecimento útil para uma Skill de IA?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 24,
+      "etapa": "E18"
+    },
+    {
+      "id": "Q209",
+      "titulo": "Uma biblioteca gratuita pode ser usada na publicidade?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 25,
+      "etapa": "E17"
+    },
+    {
+      "id": "Q210",
+      "titulo": "Como processar GLB enviado por terceiros com segurança?",
+      "capitulo": "FAQ/PERGUNTAS-POR-MERCADO.md",
+      "numero": 26,
+      "etapa": "E17"
+    }
+  ]
+}

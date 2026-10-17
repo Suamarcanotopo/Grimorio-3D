@@ -1,5 +1,7 @@
 # Plano de 12 semanas — aprender sem dispersão
 
+**Navegação por competência:** use o [roteador APRENDER](../APRENDER/README.md) e a [ficha de evidência](../APRENDER/CADERNO-DE-PROVAS.md) em cada semana; tempo não substitui aceite.
+
 **Método:** um resultado pequeno verificável por semana, usando apenas ferramentas necessárias ao projeto. Tempo de estudo é variável; conclua pelos critérios, não pelo relógio.
 
 | Semana | Foco | Exercício comprovável | Referência |

@@ -71,3 +71,7 @@ Papéis são responsabilidades metodológicas, não agentes autônomos comprovad
 - Após editar JSONs, execute `python3 scripts/gerar-indice-readme.py --write`, `python3 scripts/gerar-indice-readme.py --check` e `python3 scripts/validar-readme-index.py`. O CI deve bloquear fonte omitida ou CTA perdido.
 - Preservar o **rodapé de comunidade SIN** no README e INDEX; os links são convites, não prova de disponibilidade permanente.
 - Ao criar novo guia, manter referência ao README/INDEX e ao [padrão de rodapé](GOVERNANCA/PADRAO-RODAPE-SIN.md); não copiar 238 URLs em cada documento.
+
+## Roteamento pedagógico ECP/Coliseu — v0.5
+
+A próxima mudança de fonte, termo, FAQ, tutorial, demonstração ou mercado deve identificar a competência E01–E18 apropriada no `APRENDER/mapa.json`. Use `APRENDER/rotas.json` para trajetos por setor e os três índices individuais para termos e dúvidas. Execute `python3 scripts/validar-conexoes.py` antes de publicar e mantenha o estado honesto de verificação. Não replique URLs ou licenças: os IDs de `FONTES/catalogo.json` são canônicos; fatos de SDK e condições comerciais continuam sujeitos à data e aos termos oficiais.

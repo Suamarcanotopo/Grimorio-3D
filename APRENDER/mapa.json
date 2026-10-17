@@ -1,0 +1,782 @@
+{
+  "schema": "sin-3d-learning-graph-v1",
+  "revision": "2026-10-17",
+  "description": "18 competencias pedagógicas ligadas a 38 nichos de fontes, 15 módulos de glossário, 18 módulos de FAQ, 37 tutoriais e 10 experimentos. Evidência documental, não certificação.",
+  "source": "FONTES/catalogo.json",
+  "content_types": {
+    "sources": "reference_only",
+    "tutorials": "documented_steps",
+    "demonstrations": "browser_educational",
+    "acceptance": "requires_real_artifact"
+  },
+  "competencias": [
+    {
+      "id": "E01",
+      "titulo": "Briefing, finalidade e limites",
+      "nivel": "Iniciante",
+      "pre_requisitos": [],
+      "glossario": [
+        "GLOSSARIO/01-conceitos-fundamentais.md",
+        "GLOSSARIO/15-governanca-pesquisa-skills.md"
+      ],
+      "faq": [
+        "FAQ/01-primeiros-passos-e-conceitos.md",
+        "FAQ/18-governanca-skills-aprendizagem.md"
+      ],
+      "tutoriais": [
+        "19"
+      ],
+      "demonstracoes": [
+        "08"
+      ],
+      "fontes": [
+        "SIN3D-183",
+        "SIN3D-184",
+        "SIN3D-236"
+      ],
+      "nicho_fontes": [
+        "governanca-licencas",
+        "hubs-internacionais",
+        "seguranca-acessibilidade-3d"
+      ],
+      "entregavel": "Brief de uma página com mercado, público, hardware, licença e objetivo mensurável",
+      "como_fazer": "Escolha um único usuário e um artefato final; registre dispositivo e formatos; separe requisitos obrigatórios de opcionais.",
+      "convencao": "Convenção: nomeie arquivos por projeto_versao_destino; registre unidades e uso comercial já no briefing.",
+      "truque": "Truque: faça uma frase de aceite verificável antes de abrir Blender; evita retrabalho estético.",
+      "erro": "Erro típico: começar por software ou efeito da moda sem saber onde será executado.",
+      "criterio": "O briefing especifica resultado, dono, limitação e critério observável."
+    },
+    {
+      "id": "E02",
+      "titulo": "Repertório e fontes comprováveis",
+      "nivel": "Iniciante",
+      "pre_requisitos": [
+        "E01"
+      ],
+      "glossario": [
+        "GLOSSARIO/15-governanca-pesquisa-skills.md",
+        "GLOSSARIO/14-cad-impressao-geodados-ciencia.md"
+      ],
+      "faq": [
+        "FAQ/18-governanca-skills-aprendizagem.md",
+        "FAQ/10-carreira-direitos-entregas-e-manutencao.md"
+      ],
+      "tutoriais": [
+        "18",
+        "37"
+      ],
+      "demonstracoes": [
+        "07"
+      ],
+      "fontes": [
+        "SIN3D-088",
+        "SIN3D-183",
+        "SIN3D-239"
+      ],
+      "nicho_fontes": [
+        "hubs-global-industria",
+        "formacao-documentacao",
+        "assets-marketplaces",
+        "ia-3d"
+      ],
+      "entregavel": "Moodboard técnico com três fontes, autor e condições de uso",
+      "como_fazer": "Selecione referência de técnica, não arquivo para copiar; confira origem e versão; registre hipótese e risco.",
+      "convencao": "Convenção: documento oficial ≠ licença do asset; inclua autor, URL, data e direitos de cada peça.",
+      "truque": "Truque: compare duas fontes independentes e documente por que uma é mais adequada ao destino.",
+      "erro": "Erro típico: considerar asset gratuito comercialmente reutilizável sem ler termos.",
+      "criterio": "Cada referência possui URL íntegra, aplicação e direito de reutilização identificado ou pendente."
+    },
+    {
+      "id": "E03",
+      "titulo": "Conceito, storyboard e mensagem",
+      "nivel": "Iniciante",
+      "pre_requisitos": [
+        "E01",
+        "E02"
+      ],
+      "glossario": [
+        "GLOSSARIO/09-animacao-avancada-direcao-personagem.md",
+        "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md"
+      ],
+      "faq": [
+        "FAQ/13-animacao-cinema-vfx.md",
+        "FAQ/18-governanca-skills-aprendizagem.md"
+      ],
+      "tutoriais": [
+        "21",
+        "23"
+      ],
+      "demonstracoes": [
+        "02"
+      ],
+      "fontes": [
+        "SIN3D-089",
+        "SIN3D-219",
+        "SIN3D-221"
+      ],
+      "nicho_fontes": [
+        "cinema-producao-virtual",
+        "hubs-global-industria"
+      ],
+      "entregavel": "Storyboard com três planos, objetivo narrativo e tempo",
+      "como_fazer": "Escreva a intenção da cena; desenhe três enquadramentos; monte animatic antes de materiais complexos.",
+      "convencao": "Convenção: identifique planos SH010, SH020, SH030 e anote enquadramento/FPS.",
+      "truque": "Truque: teste os três quadros sem áudio; se a mensagem não for compreendida, corrija antes de renderizar.",
+      "erro": "Erro típico: investir em detalhe antes de validar narrativa ou composição.",
+      "criterio": "A sequência comunica ação e objetivo em poucos segundos sem explicação extra."
+    },
+    {
+      "id": "E04",
+      "titulo": "Blockout, unidades e pivôs",
+      "nivel": "Iniciante",
+      "pre_requisitos": [
+        "E01"
+      ],
+      "glossario": [
+        "GLOSSARIO/01-conceitos-fundamentais.md",
+        "GLOSSARIO/02-malhas-modelagem-e-escultura.md"
+      ],
+      "faq": [
+        "FAQ/01-primeiros-passos-e-conceitos.md",
+        "FAQ/11-blender-modelagem-producao.md"
+      ],
+      "tutoriais": [
+        "01",
+        "03",
+        "23"
+      ],
+      "demonstracoes": [
+        "01",
+        "02",
+        "05"
+      ],
+      "fontes": [
+        "SIN3D-088",
+        "SIN3D-288",
+        "SIN3D-246"
+      ],
+      "nicho_fontes": [
+        "modelagem-escultura",
+        "arquitetura-bim"
+      ],
+      "entregavel": "Cena blockout medida, com origem e proporções corretas",
+      "como_fazer": "Crie volumes simples; configure unidades; alinhe pivôs funcionais; teste ângulos de câmera.",
+      "convencao": "Convenção: use metros/unidades declaradas e origem no ponto de interação, não no centro arbitrário.",
+      "truque": "Truque: teste uma dobradiça com pivô na borda antes de animar a porta.",
+      "erro": "Erro típico: exportar escala não aplicada e ter produto fora do tamanho real em AR.",
+      "criterio": "A dimensão de um objeto de referência permanece igual após exportar e reimportar."
+    },
+    {
+      "id": "E05",
+      "titulo": "Geometria, retopologia e escultura",
+      "nivel": "Intermediário",
+      "pre_requisitos": [
+        "E04"
+      ],
+      "glossario": [
+        "GLOSSARIO/02-malhas-modelagem-e-escultura.md",
+        "GLOSSARIO/08-modelagem-avancada-uv-materiais.md"
+      ],
+      "faq": [
+        "FAQ/02-modelagem-cenarios-e-geometria.md",
+        "FAQ/11-blender-modelagem-producao.md"
+      ],
+      "tutoriais": [
+        "03",
+        "04",
+        "24"
+      ],
+      "demonstracoes": [
+        "01",
+        "05"
+      ],
+      "fontes": [
+        "SIN3D-241",
+        "SIN3D-288",
+        "SIN3D-290"
+      ],
+      "nicho_fontes": [
+        "modelagem-retopologia",
+        "modelagem-escultura",
+        "cad-impressao-3d"
+      ],
+      "entregavel": "Versões high e low-poly comparáveis e malha sem erros críticos",
+      "como_fazer": "Modele silhueta; refine topologia conforme deformação ou shading; confira normais e regiões non-manifold.",
+      "convencao": "Convenção: mantenha high-poly editável e low-poly de runtime em arquivos distintos.",
+      "truque": "Truque: verifique silhueta com material cinza e rotação de câmera antes de esculpir detalhes.",
+      "erro": "Erro típico: confundir grande contagem de polígonos com maior qualidade no destino.",
+      "criterio": "A malha não apresenta buracos inesperados, sombras invertidas nem erros de escala."
+    },
+    {
+      "id": "E06",
+      "titulo": "UV, materiais e baking",
+      "nivel": "Intermediário",
+      "pre_requisitos": [
+        "E05"
+      ],
+      "glossario": [
+        "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+        "GLOSSARIO/08-modelagem-avancada-uv-materiais.md"
+      ],
+      "faq": [
+        "FAQ/03-uv-materiais-e-texturas.md",
+        "FAQ/12-uv-pbr-baking-profissional.md"
+      ],
+      "tutoriais": [
+        "02",
+        "20",
+        "36"
+      ],
+      "demonstracoes": [
+        "03",
+        "09"
+      ],
+      "fontes": [
+        "SIN3D-107",
+        "SIN3D-108",
+        "SIN3D-239",
+        "SIN3D-291"
+      ],
+      "nicho_fontes": [
+        "uv-baking",
+        "texturas-materiais"
+      ],
+      "entregavel": "Malha com UV, checker sem deformação e materiais PBR testados",
+      "como_fazer": "Marque seams; organize ilhas; valide checker; atribua material; faça bake se a plataforma exigir.",
+      "convencao": "Convenção: trate Base Color em sRGB e mapas de dados como Non-Color quando a documentação pedir.",
+      "truque": "Truque: deixe padding em ilhas UV para evitar vazamento de mipmaps nas costuras.",
+      "erro": "Erro típico: normal map com convenção de canal verde incorreta ou AO/Metal/Roughness trocados.",
+      "criterio": "Checker sem distorção relevante e PBR visualmente coerente em duas iluminações."
+    },
+    {
+      "id": "E07",
+      "titulo": "Lookdev e consistência de cor",
+      "nivel": "Intermediário",
+      "pre_requisitos": [
+        "E06"
+      ],
+      "glossario": [
+        "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+        "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md"
+      ],
+      "faq": [
+        "FAQ/12-uv-pbr-baking-profissional.md",
+        "FAQ/13-animacao-cinema-vfx.md"
+      ],
+      "tutoriais": [
+        "20",
+        "22",
+        "36"
+      ],
+      "demonstracoes": [
+        "09"
+      ],
+      "fontes": [
+        "SIN3D-211",
+        "SIN3D-259",
+        "SIN3D-304"
+      ],
+      "nicho_fontes": [
+        "render-iluminacao",
+        "texturas-materiais"
+      ],
+      "entregavel": "Comparativo de material sob duas luzes com espaço de cor documentado",
+      "como_fazer": "Configure iluminação neutra; compare material; defina color management; registre referência de exposição.",
+      "convencao": "Convenção: fixe View Transform e espaço de trabalho; não faça comparação baseada em screenshots de monitores diferentes.",
+      "truque": "Truque: confira metal em HDRI e gradiente de roughness para identificar plasticidade falsa.",
+      "erro": "Erro típico: tratar diferenças de tone mapping como defeitos do mapa Base Color.",
+      "criterio": "Dois renders do mesmo material preservam aparência justificável dentro do pipeline declarado."
+    },
+    {
+      "id": "E08",
+      "titulo": "Rig, skinning e retarget",
+      "nivel": "Intermediário",
+      "pre_requisitos": [
+        "E05"
+      ],
+      "glossario": [
+        "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+        "GLOSSARIO/09-animacao-avancada-direcao-personagem.md"
+      ],
+      "faq": [
+        "FAQ/04-animacao-personagens-e-tracking.md",
+        "FAQ/13-animacao-cinema-vfx.md"
+      ],
+      "tutoriais": [
+        "05",
+        "24"
+      ],
+      "demonstracoes": [
+        "05"
+      ],
+      "fontes": [
+        "SIN3D-123",
+        "SIN3D-124",
+        "SIN3D-298"
+      ],
+      "nicho_fontes": [
+        "personagens-rigging",
+        "mocap-movimento"
+      ],
+      "entregavel": "Rig autoral com poses extremas e pesos revistos",
+      "como_fazer": "Posicione bones; aplique pesos; configure IK; teste poses extremas; corrija clipping.",
+      "convencao": "Convenção: documente T-pose/A-pose, nomes de ossos e direção dos eixos antes de exportar.",
+      "truque": "Truque: teste ombro, joelho e punho com material neutro antes de trabalhar texturas finas.",
+      "erro": "Erro típico: assumir que rigs de diferentes softwares têm hierarquia compatível sem retarget.",
+      "criterio": "Personagem completa poses extremas sem deformações graves e com esqueleto rastreável."
+    },
+    {
+      "id": "E09",
+      "titulo": "Animação, acting e movimento",
+      "nivel": "Intermediário",
+      "pre_requisitos": [
+        "E08",
+        "E03"
+      ],
+      "glossario": [
+        "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+        "GLOSSARIO/09-animacao-avancada-direcao-personagem.md"
+      ],
+      "faq": [
+        "FAQ/04-animacao-personagens-e-tracking.md",
+        "FAQ/13-animacao-cinema-vfx.md"
+      ],
+      "tutoriais": [
+        "05",
+        "21",
+        "24"
+      ],
+      "demonstracoes": [
+        "04"
+      ],
+      "fontes": [
+        "SIN3D-125",
+        "SIN3D-264",
+        "SIN3D-299"
+      ],
+      "nicho_fontes": [
+        "personagens-rigging",
+        "mocap-movimento"
+      ],
+      "entregavel": "Animação curta com poses, curvas e intenção reconhecível",
+      "como_fazer": "Faça blocking; ajuste timing e curvas; adicione antecipação; refine sobreposição de movimento.",
+      "convencao": "Convenção: fixe FPS e mantenha nomes de clips/ações ao exportar.",
+      "truque": "Truque: avalie silhueta e contato de pés com imagem sem textura; use stepped no blocking.",
+      "erro": "Erro típico: foot sliding por falta de contato/IK ou mudança de root motion.",
+      "criterio": "Outra pessoa consegue identificar ação; pés e articulações permanecem coerentes."
+    },
+    {
+      "id": "E10",
+      "titulo": "Tracking e captura de referência",
+      "nivel": "Avançado",
+      "pre_requisitos": [
+        "E03",
+        "E04"
+      ],
+      "glossario": [
+        "GLOSSARIO/04-animacao-fisica-e-tracking.md",
+        "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md"
+      ],
+      "faq": [
+        "FAQ/13-animacao-cinema-vfx.md",
+        "FAQ/11-blender-modelagem-producao.md"
+      ],
+      "tutoriais": [
+        "06",
+        "25",
+        "37"
+      ],
+      "demonstracoes": [],
+      "fontes": [
+        "SIN3D-131",
+        "SIN3D-137",
+        "SIN3D-149"
+      ],
+      "nicho_fontes": [
+        "tracking-vfx",
+        "fotogrametria-captura"
+      ],
+      "entregavel": "Plano rastreado com objeto virtual ancorado e erro observado",
+      "como_fazer": "Grave take autoral; anote lente/FPS; obtenha parallax; resolva câmera; exclua pontos instáveis.",
+      "convencao": "Convenção: mantenha metadados de câmera e timecode ligados ao ID do plano.",
+      "truque": "Truque: grave uma régua ou objeto de medida conhecida para recuperar escala.",
+      "erro": "Erro típico: solve aparente em um único frame, com deslizamento ao longo do vídeo.",
+      "criterio": "O objeto mantém posição relativa durante todo o plano, e falhas estão documentadas."
+    },
+    {
+      "id": "E11",
+      "titulo": "VFX, procedural, volumes e simulação",
+      "nivel": "Avançado",
+      "pre_requisitos": [
+        "E05",
+        "E10"
+      ],
+      "glossario": [
+        "GLOSSARIO/02-malhas-modelagem-e-escultura.md",
+        "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md",
+        "GLOSSARIO/11-games-interacao-otimizacao.md"
+      ],
+      "faq": [
+        "FAQ/13-animacao-cinema-vfx.md",
+        "FAQ/16-games-unreal-unity-performance.md"
+      ],
+      "tutoriais": [
+        "07",
+        "26",
+        "27",
+        "35"
+      ],
+      "demonstracoes": [
+        "06"
+      ],
+      "fontes": [
+        "SIN3D-263",
+        "SIN3D-268",
+        "SIN3D-303"
+      ],
+      "nicho_fontes": [
+        "modelagem-procedural",
+        "cenarios-mundos",
+        "neural-rendering",
+        "ia-3d"
+      ],
+      "entregavel": "Cena procedural ou efeito com seed/cache, antes e depois de performance",
+      "como_fazer": "Prepare objetos leves; use nós/instâncias; configure simulação pequena; guarde seed/cache.",
+      "convencao": "Convenção: versionar parâmetros e caches; não incorporar binários de terceiros no Grimório.",
+      "truque": "Truque: instancie repetição de árvores e limite transparência de partículas antes de refinar.",
+      "erro": "Erro típico: crescer a simulação sem medir VRAM, frame time ou tempo de render.",
+      "criterio": "Reexecução com a mesma configuração gera resultado comparável e medido."
+    },
+    {
+      "id": "E12",
+      "titulo": "Câmera, iluminação, render e passes",
+      "nivel": "Intermediário",
+      "pre_requisitos": [
+        "E03",
+        "E07"
+      ],
+      "glossario": [
+        "GLOSSARIO/01-conceitos-fundamentais.md",
+        "GLOSSARIO/03-uv-texturas-materiais-e-renderizacao.md",
+        "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md"
+      ],
+      "faq": [
+        "FAQ/12-uv-pbr-baking-profissional.md",
+        "FAQ/13-animacao-cinema-vfx.md"
+      ],
+      "tutoriais": [
+        "20",
+        "22",
+        "23",
+        "27"
+      ],
+      "demonstracoes": [
+        "02",
+        "09"
+      ],
+      "fontes": [
+        "SIN3D-294",
+        "SIN3D-296",
+        "SIN3D-323"
+      ],
+      "nicho_fontes": [
+        "render-iluminacao",
+        "cinema-composicao"
+      ],
+      "entregavel": "Render com câmeras, luzes, passes ou EXR apropriado ao destino",
+      "como_fazer": "Defina focal; ilumine forma; configure samples; exporte passes; compare com preview.",
+      "convencao": "Convenção: registre lente, HDRI, espaço de cor e versão de renderer junto do shot.",
+      "truque": "Truque: faça render de 1 frame em baixa amostragem e revise silhouette/sombra antes de render longo.",
+      "erro": "Erro típico: render de alta qualidade no PC usado como prova de performance em Quest.",
+      "criterio": "Plano final atende enquadramento e o render pode ser reproduzido em ambiente equivalente."
+    },
+    {
+      "id": "E13",
+      "titulo": "Montagem, áudio e comunicação",
+      "nivel": "Intermediário",
+      "pre_requisitos": [
+        "E03",
+        "E09",
+        "E12"
+      ],
+      "glossario": [
+        "GLOSSARIO/09-animacao-avancada-direcao-personagem.md",
+        "GLOSSARIO/10-cinema-vfx-gestao-de-cor.md"
+      ],
+      "faq": [
+        "FAQ/13-animacao-cinema-vfx.md",
+        "FAQ/18-governanca-skills-aprendizagem.md"
+      ],
+      "tutoriais": [
+        "21",
+        "22",
+        "23"
+      ],
+      "demonstracoes": [],
+      "fontes": [
+        "SIN3D-221",
+        "SIN3D-260",
+        "SIN3D-259"
+      ],
+      "nicho_fontes": [
+        "efeitos-audio",
+        "cinema-producao-virtual"
+      ],
+      "entregavel": "Vídeo curto legível com direitos de áudio e mensagem clara",
+      "como_fazer": "Monte sequências; ajuste cortes; adicione áudio autorizado; legende; confira formatos de entrega.",
+      "convencao": "Convenção: exporte cena e áudio em versões separadas para revisão; guarde FPS e timecode.",
+      "truque": "Truque: assista ao anúncio sem som e no tamanho real de smartphone antes de aprovar.",
+      "erro": "Erro típico: legendas ilegíveis, licença de trilha não conferida ou áudio dessincronizado.",
+      "criterio": "Narrativa é compreendida sem áudio e licenças dos elementos visuais/sonoros estão registradas."
+    },
+    {
+      "id": "E14",
+      "titulo": "Otimização de runtime e testes",
+      "nivel": "Avançado",
+      "pre_requisitos": [
+        "E05",
+        "E06"
+      ],
+      "glossario": [
+        "GLOSSARIO/05-engines-integracao-e-pipeline.md",
+        "GLOSSARIO/11-games-interacao-otimizacao.md",
+        "GLOSSARIO/12-web3d-performance-acessibilidade.md"
+      ],
+      "faq": [
+        "FAQ/14-web3d-qualidade-seo-negocios.md",
+        "FAQ/16-games-unreal-unity-performance.md"
+      ],
+      "tutoriais": [
+        "04",
+        "26",
+        "36"
+      ],
+      "demonstracoes": [
+        "06",
+        "10"
+      ],
+      "fontes": [
+        "SIN3D-064",
+        "SIN3D-071",
+        "SIN3D-322"
+      ],
+      "nicho_fontes": [
+        "otimizacao-entrega",
+        "games-prototipagem"
+      ],
+      "entregavel": "Matriz de bytes, texturas, memória e tempo de quadro antes/depois",
+      "como_fazer": "Selecione dispositivo-alvo; capture baseline; reduza gargalo; compare qualidade visual; teste novamente.",
+      "convencao": "Convenção: informe FPS com hardware, resolução, versão, duração e cena; nunca use valor solto.",
+      "truque": "Truque: reduza primeiro a textura/overdraw que o profiler comprova pesada, não os triângulos por reflexo.",
+      "erro": "Erro típico: usar FPS desktop como evidência de mobile/headset.",
+      "criterio": "Métrica comparável indica custo menor sem regressão funcional ou visual inaceitável."
+    },
+    {
+      "id": "E15",
+      "titulo": "Formatos, intercâmbio e versionamento",
+      "nivel": "Avançado",
+      "pre_requisitos": [
+        "E05",
+        "E06",
+        "E14"
+      ],
+      "glossario": [
+        "GLOSSARIO/05-engines-integracao-e-pipeline.md",
+        "GLOSSARIO/14-cad-impressao-geodados-ciencia.md",
+        "GLOSSARIO/15-governanca-pesquisa-skills.md"
+      ],
+      "faq": [
+        "FAQ/17-cad-industria-impressao-pesquisa.md",
+        "FAQ/18-governanca-skills-aprendizagem.md"
+      ],
+      "tutoriais": [
+        "18",
+        "34",
+        "36"
+      ],
+      "demonstracoes": [
+        "07"
+      ],
+      "fontes": [
+        "SIN3D-158",
+        "SIN3D-159",
+        "SIN3D-244",
+        "SIN3D-305"
+      ],
+      "nicho_fontes": [
+        "pipeline-padroes",
+        "pipeline-blender-unreal",
+        "cinema-pipeline-aberto",
+        "cad-impressao-3d"
+      ],
+      "entregavel": "Arquivo nativo + export GLB/FBX/USD/3MF apropriado, hash e manifesto",
+      "como_fazer": "Escolha contrato do destino; exporte; reimporte; execute validador; liste perdas e versões.",
+      "convencao": "Convenção: BLEND não é substituído por GLB; mantenha origem, exportação e SHA-256 em separado.",
+      "truque": "Truque: compare material, escala e animação antes/depois do round-trip para detectar diferenças.",
+      "erro": "Erro típico: usar STL para engenharia paramétrica ou esperar shader Blender idêntico na web.",
+      "criterio": "O arquivo reimportado cumpre campos requeridos e a origem permanece editável."
+    },
+    {
+      "id": "E16",
+      "titulo": "Distribuição — websites, apps, games e XR",
+      "nivel": "Avançado",
+      "pre_requisitos": [
+        "E14",
+        "E15"
+      ],
+      "glossario": [
+        "GLOSSARIO/05-engines-integracao-e-pipeline.md",
+        "GLOSSARIO/06-websites-acessibilidade-e-arxr.md",
+        "GLOSSARIO/07-ar-social-publicacao-captura-e-direitos.md",
+        "GLOSSARIO/12-web3d-performance-acessibilidade.md",
+        "GLOSSARIO/13-ar-espacial-rastreamento-imersao.md"
+      ],
+      "faq": [
+        "FAQ/05-unreal-unity-e-games.md",
+        "FAQ/06-websites-3d-e-webar.md",
+        "FAQ/07-meta-quest-e-horizon.md",
+        "FAQ/08-snap-snapchat-e-lens-studio.md",
+        "FAQ/09-tiktok-effect-house-e-publicacao.md",
+        "FAQ/14-web3d-qualidade-seo-negocios.md",
+        "FAQ/15-ar-snap-tiktok-meta.md",
+        "FAQ/16-games-unreal-unity-performance.md"
+      ],
+      "tutoriais": [
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "35"
+      ],
+      "demonstracoes": [
+        "08"
+      ],
+      "fontes": [
+        "SIN3D-046",
+        "SIN3D-052",
+        "SIN3D-154",
+        "SIN3D-186",
+        "SIN3D-192",
+        "SIN3D-198",
+        "SIN3D-203",
+        "SIN3D-285"
+      ],
+      "nicho_fontes": [
+        "websites-3d",
+        "web-ar-dispositivos",
+        "meta-quest-horizon",
+        "ar-social-plataformas",
+        "ar-colaborativa-espacial",
+        "xr-ar-vr",
+        "games-prototipagem",
+        "acessibilidade-web3d",
+        "dados-geoespaciais"
+      ],
+      "entregavel": "Demo em destino declarado (ou status não testado) com fallback e permissões",
+      "como_fazer": "Escolha canal; verifique SDK e device; instale só no projeto consumidor; teste permissão; publique fallback.",
+      "convencao": "Convenção: WebAR/Scene Viewer, Lens Snap, Effect House e Meta XR são destinos distintos; nenhuma URL universal.",
+      "truque": "Truque: em páginas de venda, mantenha CTA e descrição HTML acessíveis mesmo sem 3D.",
+      "erro": "Erro típico: assumir que um GLB ou efeito Snap roda automaticamente em todos os navegadores e headsets.",
+      "criterio": "Teste no dispositivo/conta real ou registre explicitamente NÃO TESTADO, sem simular homologação."
+    },
+    {
+      "id": "E17",
+      "titulo": "Direitos, segurança, privacidade e acesso",
+      "nivel": "Transversal",
+      "pre_requisitos": [
+        "E01",
+        "E15"
+      ],
+      "glossario": [
+        "GLOSSARIO/07-ar-social-publicacao-captura-e-direitos.md",
+        "GLOSSARIO/15-governanca-pesquisa-skills.md"
+      ],
+      "faq": [
+        "FAQ/10-carreira-direitos-entregas-e-manutencao.md",
+        "FAQ/18-governanca-skills-aprendizagem.md"
+      ],
+      "tutoriais": [
+        "19",
+        "32",
+        "34"
+      ],
+      "demonstracoes": [
+        "08"
+      ],
+      "fontes": [
+        "SIN3D-183",
+        "SIN3D-184",
+        "SIN3D-236"
+      ],
+      "nicho_fontes": [
+        "governanca-licencas",
+        "seguranca-acessibilidade-3d",
+        "acessibilidade-web3d"
+      ],
+      "entregavel": "Manifesto de direitos por asset e avaliação de segurança/privacidade",
+      "como_fazer": "Liste terceiros; confira direitos por item; minimize dados; revise upload e controle de câmera.",
+      "convencao": "Convenção: licença MIT do repositório não licencia modelos, fotos, áudio ou marca de terceiros.",
+      "truque": "Truque: registre 'pendente' em vez de adivinhar permissões; use modelos próprios até regularizar direitos.",
+      "erro": "Erro típico: interpretar asset gratuito como autorização para revenda ou reuso irrestrito.",
+      "criterio": "Nenhum asset externo sem direito esclarecido é tratado como aprovado."
+    },
+    {
+      "id": "E18",
+      "titulo": "Entrega, avaliação e evolução das Skills",
+      "nivel": "Profissional",
+      "pre_requisitos": [
+        "E01",
+        "E14",
+        "E15",
+        "E16",
+        "E17"
+      ],
+      "glossario": [
+        "GLOSSARIO/05-engines-integracao-e-pipeline.md",
+        "GLOSSARIO/15-governanca-pesquisa-skills.md"
+      ],
+      "faq": [
+        "FAQ/10-carreira-direitos-entregas-e-manutencao.md",
+        "FAQ/18-governanca-skills-aprendizagem.md"
+      ],
+      "tutoriais": [
+        "19",
+        "36",
+        "37"
+      ],
+      "demonstracoes": [
+        "07",
+        "10"
+      ],
+      "fontes": [
+        "SIN3D-184",
+        "SIN3D-185",
+        "SIN3D-351"
+      ],
+      "nicho_fontes": [
+        "pipeline-padroes",
+        "otimizacao-entrega",
+        "plugins-ferramentas",
+        "formacao-documentacao"
+      ],
+      "entregavel": "Pacote de origem, resultado, métricas, evidências, riscos e rollback",
+      "como_fazer": "Preencha rubrica; reproduza o artefato; documente versões; gere relatório; faça teste adversarial.",
+      "convencao": "Convenção: status DOCUMENTADO, TESTADO e HOMOLOGADO são diferentes; não promova Skill sem evals.",
+      "truque": "Truque: crie um erro deliberado de escala/licença no teste para comprovar capacidade de diagnóstico.",
+      "erro": "Erro típico: declarar 100% concluído por links e CI documental sem verificar runtime ou direitos.",
+      "criterio": "Outro profissional consegue reproduzir o resultado e auditar decisões, testes e limitações."
+    }
+  ]
+}

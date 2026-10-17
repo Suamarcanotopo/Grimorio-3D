@@ -2,6 +2,8 @@
 
 O objetivo é ensinar a concluir tarefas verificáveis. **Não é uma coleção de links soltos**: cada projeto tem pré-requisitos, passos, resultado, erros, dependências e referência de boas práticas.
 
+**Antes de escolher um número aleatório:** selecione a [rota profissional por objetivo](../APRENDER/ROTAS-POR-MERCADO.md) e leia a [etapa com pré-requisitos, truque e critério de aceite](../APRENDER/ETAPAS-CONECTADAS.md).
+
 ## Antes dos tutoriais completos
 
 Use os [dez experimentos HTML offline](../EXEMPLOS/README.md) para compreender ideias de 3D sem depender de engine ou headset. Depois prossiga para o roteiro e software específico.
