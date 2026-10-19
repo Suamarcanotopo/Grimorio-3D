@@ -2,6 +2,8 @@
 
 **Escolha um destino e avance por competência, não por volume de links.** Este módulo conecta o material existente sem copiar cursos protegidos, instalar SDKs ou substituir o conhecimento canônico.
 
+**Também funciona como conhecimento portátil:** [como usar com OpenAI, Claude, Grok ou Gemini](../INTEROPERABILIDADE/README.md). Os arquivos devem estar realmente disponíveis no contexto da IA.
+
 ## A jornada em um único mapa
 
 `OBJETIVO → E01 Briefing → FONTES / CONCEITOS → FAQ → DEMO → TUTORIAL → TESTE → REVISÃO → PRÓXIMA COMPETÊNCIA`

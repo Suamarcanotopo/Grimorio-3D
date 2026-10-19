@@ -6,6 +6,12 @@
 
 **O Grimório 3D faz parte do ecossistema [Sistema Imersivo Narrativo](https://sistemaimersivonarrativo.com.br/).** Ele organiza 368 fontes com descrição, endereço completo, aplicação, primeiro passo, truque prático e alertas de direitos. **Não hospeda nem comercializa assets de terceiros.**
 
+## 🔄 [Agnóstico entre IAs] — OpenAI, Claude, Grok e Gemini
+
+O mesmo **Mission Lock, catálogo, grafo didático e critérios de evidência** podem ser usados nos quatro ecossistemas. **[Veja a matriz real de compatibilidade](INTEROPERABILIDADE/MATRIZ-PLATAFORMAS.md)** e os [20 casos adversariais comparáveis](INTEROPERABILIDADE/EVALS/agnostico-casos.json). Quem está numa interface de chat pode [copiar o prompt portátil](INTEROPERABILIDADE/PROMPT-PORTAVEL.md) e disponibilizar apenas os documentos necessários.
+
+> **Limite comprovado:** compatibilidade da estrutura e documentação foi preparada; a execução dos quatro modelos e a leitura automática em cada produto ainda estão marcadas como `NOT_TESTED`.
+
 ## 🧭 Comece por aqui
 
 | Quero... | Vá para |

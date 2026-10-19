@@ -1,5 +1,7 @@
 # Índice por finalidade — Grimório 3D
 
+**Agnosticismo entre LLMs:** [matriz OpenAI/Claude/Grok/Gemini](INTEROPERABILIDADE/MATRIZ-PLATAFORMAS.md) · [contrato canônico](INTEROPERABILIDADE/CONTRATO-CANONICO.md) · [prompt para chats](INTEROPERABILIDADE/PROMPT-PORTAVEL.md).
+
 **Não sabe por onde começar?** [APRENDER — conceitos, fontes, exercícios e provas conectados](APRENDER/README.md) · [293 termos e 210 dúvidas individuais](APRENDER/INDICE-INDIVIDUAL.md) · [10 trilhas de mercado](APRENDER/ROTAS-POR-MERCADO.md)
 
 **[Abrir índice integral no README: 368 fontes, 38 nichos e 25 URLs complementares](README.md#index-geral--368-fontes-e-urls-completas)**
