@@ -75,3 +75,8 @@ Papéis são responsabilidades metodológicas, não agentes autônomos comprovad
 ## Roteamento pedagógico ECP/Coliseu — v0.5
 
 A próxima mudança de fonte, termo, FAQ, tutorial, demonstração ou mercado deve identificar a competência E01–E18 apropriada no `APRENDER/mapa.json`. Use `APRENDER/rotas.json` para trajetos por setor e os três índices individuais para termos e dúvidas. Execute `python3 scripts/validar-conexoes.py` antes de publicar e mantenha o estado honesto de verificação. Não replique URLs ou licenças: os IDs de `FONTES/catalogo.json` são canônicos; fatos de SDK e condições comerciais continuam sujeitos à data e aos termos oficiais.
+
+
+## Agnosticismo: contrato único em vez de quatro políticas divergentes
+
+Para trabalho no repositório, use **[INTEROPERABILIDADE/CONTRATO-CANONICO.md](INTEROPERABILIDADE/CONTRATO-CANONICO.md)** como interface transversal e `GOVERNANCA/MISSION-LOCK.md` como fonte de invariantes. `AGENTS.md` é o ponto de entrada de Codex e de algumas ferramentas Grok Build; `CLAUDE.md` e `GEMINI.md` são adaptadores curtos do mesmo núcleo. Em chats simples, o usuário fornece explicitamente o prompt e os arquivos relevantes. Não declare que outra IA carregou as regras ou executou ferramentas sem evidência. Valide `python3 scripts/validar-agnosticismo.py` para mudanças na matriz, casos e adaptadores.

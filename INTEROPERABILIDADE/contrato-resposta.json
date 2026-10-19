@@ -1,0 +1,61 @@
+{
+  "schema": "sin-3d-portable-response-v1",
+  "description": "Contrato opcional de respostas estruturadas, agnóstico de fornecedor; ferramenta de saída JSON não é obrigatória.",
+  "required": [
+    "objective",
+    "stage_id",
+    "knowledge_sources",
+    "how_to",
+    "convention",
+    "practical_tip",
+    "common_error",
+    "test_and_evidence",
+    "status",
+    "next_step",
+    "capability_limit"
+  ],
+  "properties": {
+    "objective": "string",
+    "stage_id": "E01..E18",
+    "knowledge_sources": "array of verified {source_id, url} only when available",
+    "how_to": "array of steps in pt-BR",
+    "convention": "string",
+    "practical_tip": "string",
+    "common_error": "string",
+    "test_and_evidence": "string",
+    "status": [
+      "LIDO",
+      "PRATICADO",
+      "TESTADO",
+      "HOMOLOGADO",
+      "NÃO TESTADO",
+      "BLOQUEADO"
+    ],
+    "next_step": "string",
+    "capability_limit": "what was not read/executed/verified"
+  },
+  "examples": [
+    {
+      "objective": "Compreender pivô de uma porta",
+      "stage_id": "E04",
+      "knowledge_sources": [
+        {
+          "source_id": "SIN3D-288",
+          "url": "https://docs.blender.org/manual/en/latest/modeling/meshes/editing/index.html"
+        }
+      ],
+      "how_to": [
+        "Leia as regras de origem e unidades.",
+        "Abra a demonstração offline de pivô e compare centro com borda.",
+        "Replique no Blender e registre versão se estiver disponível."
+      ],
+      "convention": "Origem na dobradiça para porta com rotação física.",
+      "practical_tip": "Teste rotação com material neutro antes de aplicar textura.",
+      "common_error": "Porta gira pelo meio devido ao pivô central.",
+      "test_and_evidence": "Capture origem e mudança de rotação no aplicativo alvo.",
+      "status": "NÃO TESTADO",
+      "next_step": "Executar e verificar em Blender ou relatar indisponibilidade.",
+      "capability_limit": "É um exemplo de resposta documental, não render produzido."
+    }
+  ]
+}

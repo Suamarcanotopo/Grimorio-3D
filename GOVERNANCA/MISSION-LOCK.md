@@ -100,3 +100,10 @@ O diretório `EXEMPLOS/01` a `10` ensina conceitos por HTML/CSS/JavaScript local
 O mapa `APRENDER/mapa.json` conecta fontes e 38 nichos, 293 verbetes, 210 FAQs, 37 tutoriais, 10 demos e 10 percursos de mercado, **sem substituir os cadastros canônicos**. Toda competência deve preservar objetivos, pré-requisitos, convenção técnica, truque aplicável, erro comum, correção e prova documentada. O índice individual referencia títulos originais e não duplica definições de terceiros. Alterações futuras devem exigir validação do grafo e das rotas no CI, evitando material órfão, IDs perdidos, tutoriais desconectados e links SIN quebrados.
 
 **Interlock Coliseu:** texto e execução têm estados separados (`LIDO`, `PRATICADO`, `TESTADO`, `HOMOLOGADO`, `NÃO TESTADO`, `BLOQUEADO`). CI documental não substitui avaliação em Blender, Unreal, Meta Quest, Snap, TikTok ou direitos individuais. Evoluir por PR com reversão e sem downgrade.
+
+
+## ML-23 — interoperabilidade entre provedores sem duplicação (2026-10-19)
+
+O conteúdo e as regras do Grimório 3D devem ser portáteis entre OpenAI/Codex, Claude/Claude Code, Gemini/Gemini CLI e Grok/Grok Build por meio de **um único contrato canônico** em `INTEROPERABILIDADE/CONTRATO-CANONICO.md`. Arquivos `AGENTS.md`, `CLAUDE.md` e `GEMINI.md` são apenas **pontos de entrada**, nunca donos de uma nova regra contraditória. Todo adaptador deve conservar a estrutura `OBJETIVO → CONCEITO → FONTE → CONVENÇÃO/TRUQUE → EXERCÍCIO → ERRO → TESTE → EVIDÊNCIA`.
+
+**Gate:** diferenciação entre modelo, CLI/agente e chat; ausência de automatismos presumidos; comparação multi-LLM só com execução real documentada; nunca alegar que arquivos foram lidos ou Skill está instalada sem confirmação. Testar paridade estrutural com `scripts/validar-agnosticismo.py`, preservar IDs, licenças e histórico. O validador documental não certifica resultados dos quatro modelos em execução.

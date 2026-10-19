@@ -99,3 +99,13 @@
 - README, INDEX, GLOSSARIO, FAQ, TUTORIAIS, ACADEMIA, NICHOS e SKILLS com navegação aditiva.
 - Novo gate `scripts/validar-conexoes.py` no CI impede regressões de cobertura ou links órfãos.
 - ML-22 acrescentada; nenhuma modificação no catálogo original, licenças ou execução de SDKs.
+
+
+## 2026-10-19 — v0.5.1 — agnosticismo OpenAI, Claude, Grok, Gemini
+
+- `INTEROPERABILIDADE/CONTRATO-CANONICO.md`: uma interface pedagógica e de governança independente de modelo.
+- Novos adaptadores mínimos de Claude Code (`CLAUDE.md`) e Gemini CLI (`GEMINI.md`); `AGENTS.md` preservado para Codex/Grok Build.
+- Matriz de diferenças entre chats web, CLIs e APIs, com status `NOT_TESTED` onde não houve execução.
+- Prompt portátil para chats que não carregam automaticamente arquivos de contexto.
+- 20 casos adversariais comparáveis, contrato opcional de saída JSON, roteiro de estudo cross-provider e CI de paridade documental.
+- Mission Lock ML-23 aditivo, nenhuma mudança nos 368 registros, 293 verbetes, 210 FAQs, 37 tutoriais ou 10 demos.

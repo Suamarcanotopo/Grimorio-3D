@@ -4,6 +4,8 @@
 
 **Objetivo:** servir de conhecimento canônico e avaliação para Skills de modelagem, games, cinema, publicidade, XR e websites. **Não é uma coleção de Skills instaladas**: seu trabalho é fornecer contratos e bases legíveis por máquina, reutilizadas por um processo de Skill Architect.
 
+**Compatibilidade dos modelos:** [protocolo agnóstico de conhecimento 3D](../INTEROPERABILIDADE/README.md). Os adaptadores não instalam Skills no catálogo de nenhum provedor. Cada Skill deve possuir contrato, tools, evals e revisão próprios.
+
 ## Como o ECP roteia conhecimento
 
 | Papel | Área | Limite de autoridade |
