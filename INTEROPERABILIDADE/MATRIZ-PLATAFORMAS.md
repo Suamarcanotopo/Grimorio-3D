@@ -41,3 +41,7 @@ O Grok Build pode carregar mais de um desses arquivos: esse comportamento não a
 3. Avalie cada resposta pelos invariantes (IDs corretos, didática, licença, não alegar execução, uso de ferramentas).
 4. Registre evidências por provedor. Faça uma comparação justa e documente diferenças sem inventar notas.
 5. Corrija uma divergência por vez; use branch, regressão, PR e rollback.
+
+## Interface de homologação real
+
+O benchmark reproduzível e sua situação de acesso estão em [STATUS-EXECUCAO.md](STATUS-EXECUCAO.md). O cliente padroniza a entrada com um contrato canônico e a mesma pergunta para cada API, mas as semânticas internas, políticas, geração e custos variam por modelo. Portanto o relatório guarda modelo e ID de resposta. Execução real ≠ aprovação didática ou operacional.
