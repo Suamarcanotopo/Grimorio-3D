@@ -50,6 +50,10 @@ jobs:
         run: python3 scripts/validar-exemplos.py
       - name: Validar grafo didático ECP/Coliseu, 503 itens e 10 rotas
         run: python3 scripts/validar-conexoes.py
+      - name: Validar testes locais do executor sem rede
+        run: python3 -m unittest discover -s scripts -p testar_avaliacoes_llm.py
+      - name: Validar preflight sem credenciais nem chamadas pagas
+        run: python3 scripts/executar-avaliacoes-llm.py --max-cases 4 --out /tmp/sin3d-preflight
       - name: Validar contrato e adaptadores OpenAI Claude Grok Gemini
         run: python3 scripts/validar-agnosticismo.py
       - name: Validar ECP, Coliseu, nichos e regressao das 208 fontes

@@ -11,6 +11,12 @@ O Grimório não pertence a um modelo de IA. A **informação é a mesma** para 
 5. **Grok Build:** o `AGENTS.md` é o ponto de entrada previsto na documentação; ele pode carregar `CLAUDE.md` adicionalmente, mas os dois remetem à mesma fonte. Se utilizar apenas Grok chat/API, passe o contexto explicitamente.
 6. **Verificação:** siga o [estudo portátil do primeiro projeto](PRIMEIRO-PROJETO-PORTAVEL.md) e os [casos comparáveis](EVALS/agnostico-casos.json); marque `NOT_TESTED` onde não foi executado.
 
+## Homologação operacional (separada da compatibilidade documental)
+
+[Status auditado de execução real](STATUS-EXECUCAO.md) · [Rubrica Coliseu](RUBRICA-REVISAO.md) · [Workflow GitHub Actions sob autorização](../.github/workflows/avaliar-llms-reais.yml).
+
+Um mock ou dry-run **não é resposta de nenhum provedor**. Resultados válidos exigem ID fornecido pela API, hash dos prompts e revisão semântica.
+
 ## Documentos principais
 
 - [Contrato único de comportamento](CONTRATO-CANONICO.md)

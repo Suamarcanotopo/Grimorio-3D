@@ -80,3 +80,8 @@ A próxima mudança de fonte, termo, FAQ, tutorial, demonstração ou mercado de
 ## Agnosticismo: contrato único em vez de quatro políticas divergentes
 
 Para trabalho no repositório, use **[INTEROPERABILIDADE/CONTRATO-CANONICO.md](INTEROPERABILIDADE/CONTRATO-CANONICO.md)** como interface transversal e `GOVERNANCA/MISSION-LOCK.md` como fonte de invariantes. `AGENTS.md` é o ponto de entrada de Codex e de algumas ferramentas Grok Build; `CLAUDE.md` e `GEMINI.md` são adaptadores curtos do mesmo núcleo. Em chats simples, o usuário fornece explicitamente o prompt e os arquivos relevantes. Não declare que outra IA carregou as regras ou executou ferramentas sem evidência. Valide `python3 scripts/validar-agnosticismo.py` para mudanças na matriz, casos e adaptadores.
+
+
+## Execução de modelos reais — gate obrigatório
+
+Use `INTEROPERABILIDADE/STATUS-EXECUCAO.md` e `RUBRICA-REVISAO.md` para homologação, nunca altere status de API para PASS a partir de mocks ou dry-run. `scripts/executar-avaliacoes-llm.py` só deve enviar chamadas em modo `--execute --approve-spend`, com segredos e modelos autorizados. Workflow dedicado é manual; não se deve integrá-lo no pipeline automático do PR. Sem IDs de resposta reais e avaliação humana, declarar `NOT_TESTED` ou `PENDING_HUMAN_REVIEW`.

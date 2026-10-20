@@ -109,3 +109,11 @@
 - Prompt portátil para chats que não carregam automaticamente arquivos de contexto.
 - 20 casos adversariais comparáveis, contrato opcional de saída JSON, roteiro de estudo cross-provider e CI de paridade documental.
 - Mission Lock ML-23 aditivo, nenhuma mudança nos 368 registros, 293 verbetes, 210 FAQs, 37 tutoriais ou 10 demos.
+
+## 2026-10-20 — v0.5.2 — preparação auditável da execução real multi-LLM
+
+- Cliente real das quatro APIs oficiais com mesmo contexto/prompt por caso, provedores/modelos explícitos, retorno rastreável, hashes, tempos, status e artefatos.
+- Workflow **somente manual e pago sob confirmação**, segredos fora do Git e relatório persistente de execução via artifacts.
+- Testes locais com mocks e dry-run: separados dos resultados de API real.
+- Rubrica ECP/Coliseu e status de sessão deixam **0 chamadas reais verificadas; quatro provedores NOT_TESTED**, sem ocultar bloqueios de acesso.
+- Mission Lock ML-24, sem mudanças nos 368 registros canônicos, currículo, avaliações estáticas ou licença.

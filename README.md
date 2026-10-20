@@ -12,6 +12,8 @@ O mesmo **Mission Lock, catálogo, grafo didático e critérios de evidência** 
 
 > **Limite comprovado:** compatibilidade da estrutura e documentação foi preparada; a execução dos quatro modelos e a leitura automática em cada produto ainda estão marcadas como `NOT_TESTED`.
 
+**Validação prática em andamento:** [execução de APIs com evidência, custo protegido e estado real](INTEROPERABILIDADE/STATUS-EXECUCAO.md). O runner está preparado, mas a homologação cruzada não será declarada sem respostas reais e revisão semântica.
+
 ## 🧭 Comece por aqui
 
 | Quero... | Vá para |
