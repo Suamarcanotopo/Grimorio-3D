@@ -1,0 +1,88 @@
+name: Testar APIs LLM reais (execucao manual e paga)
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirmed_paid_api_calls:
+        description: "Autorizo chamadas pagas a APIs nesta execucao"
+        type: boolean
+        required: true
+        default: false
+      providers:
+        description: "openai,anthropic,gemini,xai (separados por virgula)"
+        type: string
+        required: true
+        default: "openai,anthropic,gemini,xai"
+      max_cases:
+        description: "Casos por provedor; com quatro provedores, 20 = 80 chamadas"
+        type: choice
+        required: true
+        options: ["1", "4", "20"]
+        default: "1"
+      model_openai:
+        description: "ID oficial do modelo OpenAI; obrigatorio quando selecionado"
+        type: string
+        required: false
+      model_anthropic:
+        description: "ID oficial do modelo Claude; obrigatorio quando selecionado"
+        type: string
+        required: false
+      model_gemini:
+        description: "ID oficial do modelo Gemini; obrigatorio quando selecionado"
+        type: string
+        required: false
+      model_xai:
+        description: "ID oficial do modelo Grok; obrigatorio quando selecionado"
+        type: string
+        required: false
+
+permissions:
+  contents: read
+
+jobs:
+  invocacao-real:
+    if: ${{ inputs.confirmed_paid_api_calls }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+      MODEL_OPENAI: ${{ inputs.model_openai }}
+      MODEL_ANTHROPIC: ${{ inputs.model_anthropic }}
+      MODEL_GEMINI: ${{ inputs.model_gemini }}
+      MODEL_XAI: ${{ inputs.model_xai }}
+      SIN_PROVIDERS: ${{ inputs.providers }}
+      SIN_CASES: ${{ inputs.max_cases }}
+    steps:
+      - name: Checkout do commit com os 20 casos canônicos
+        uses: actions/checkout@v4
+      - name: Testar código local sem API externa
+        run: python3 -m unittest discover -s scripts -p testar_avaliacoes_llm.py
+      - name: Executar chamadas reais, registrar ids e hashes
+        id: llm
+        shell: bash
+        run: |
+          set +e
+          python3 scripts/executar-avaliacoes-llm.py \
+            --execute --approve-spend \
+            --providers "$SIN_PROVIDERS" \
+            --max-cases "$SIN_CASES" \
+            --out resultados-llm
+          result=$?
+          echo "result=$result" >> "$GITHUB_OUTPUT"
+          exit 0
+      - name: Publicar evidencias do workflow, mesmo se API falhar
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: llm-evidencias-${{ github.run_id }}
+          path: resultados-llm/
+          if-no-files-found: warn
+          retention-days: 7
+      - name: Bloquear relatorio se algum modelo nao respondeu
+        if: steps.llm.outputs.result != '0'
+        run: |
+          echo "Falhas ou credenciais faltantes; os resultados do artefato nao sao homologacao."
+          exit 1
