@@ -77,3 +77,16 @@ Se o WebGL falhar ou o piloto for rejeitado, ficam código original, mapa de 4 f
 ## Handoff e próxima ação
 
 **Prioridade:** executar validação da página em navegador headless e ações do usuário; registrar resultado por run/SHA. Depois revisar escopo, direitos e publicação. Adoção no main só após prova, revisão e autorização do proprietário, em PR separado do contrato da Federação #15.
+
+
+## Checkpoint real de navegador — Playwright + Chromium (01/11/2026)
+
+**Ambiente:** Chromium headless local, viewport desktop 1280×800 e mobile 375×812, Playwright, HTML exportado do artifact GitHub Actions. **Resultado confirmado:** documento HTML abriu; nenhum erro JavaScript de página; sem overflow horizontal nas duas resoluções; quando `canvas.getContext('webgl')` retornou `null`, a interface revelou corretamente um fallback e desativou os três botões.
+
+**Limitação importante:** o sandbox de Chromium deste teste bloqueou WebGL mesmo tentando SwiftShader. A renderização tridimensional real, a compilação de shaders, os testes de GPU e a interação com o cubo **NÃO FORAM HOMOLOGADOS**. Como resultado, Coliseum emite **RETEST** para o requisito WebGL, e não PASS. Teste de dispositivos reais e navegação por teclado em WebGL continuam pendentes.
+
+A iteração posterior melhorou o fallback: agora ele inclui uma ilustração CSS explicitamente identificada, sem fingir ser um render WebGL. O ramo condicionado por falha de compilação também desabilita controles. Uma nova execução do navegador deve ser registrada após esse commit; os resultados acima pertencem ao artefato anterior.
+
+**Verificação estática de CI:** workflow `SIN Federation Pilot 001 — offline WebGL` [run 41334677068](https://github.com/Suamarcanotopo/Grimorio-3D/actions/runs/41334677068) concluiu SUCCESS antes do ajuste visual; os workflows de índice e catálogo também concluíram SUCCESS. Reexecutar no SHA final. **Source Lock federado:** PRs #73, #20, #5 e #15 foram integrados ao `main` após autorização do proprietário para execução da sequência; esta PR técnica #16 continua separada e NÃO foi mesclada.
+
+**Gate de publicação:** realizar prova do modelo 3D em navegador com WebGL disponível, revisão técnica e decisão expressa antes de promover esta demonstração à `main`.
