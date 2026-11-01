@@ -296,3 +296,7 @@
 - [`scripts/validar-readme-index.py`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/scripts/validar-readme-index.py)
 - [`scripts/validar.py`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/scripts/validar.py)
 
+
+## Complemento de dependências didáticas (01/11/2026)
+
+- [`DEPENDENCIAS/GUIA-DIDATICO-D01-D10.md`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/DEPENDENCIAS/GUIA-DIDATICO-D01-D10.md)

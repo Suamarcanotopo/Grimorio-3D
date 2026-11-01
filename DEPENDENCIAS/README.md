@@ -2,6 +2,8 @@
 
 **10 pipelines documentados.** Cada fluxo indica ferramentas, ordem, destino, itens obrigatórios, itens opcionais, links primários e status. [Arquivo legível por máquina](matriz.json).
 
+**[NOVO: aprender as 10 dependências passo a passo, com glossário, tarefas e Skills por necessidade](GUIA-DIDATICO-D01-D10.md).** Esta camada não modifica a matriz JSON nem promete execução.
+
 ## Como ler
 
 1. **Origem:** projeto nativo que você controla e preserva.
