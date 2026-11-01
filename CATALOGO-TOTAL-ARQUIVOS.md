@@ -1,6 +1,6 @@
 # Inventário integral de arquivos Git — Grimório 3D
 
-**Base:** `a99e1f06a26a38226d4e363a9cbef4b7ddefe208`, main antes desta revisão. **Total após entrada destes novos arquivos:** 229 caminhos Git. Esta lista não altera 368 fontes externas, seus direitos ou status; links são da própria biblioteca e apontam à `main`.
+**Base:** `a99e1f06a26a38226d4e363a9cbef4b7ddefe208`, main antes desta revisão. **Total após entrada destes novos arquivos:** 233 caminhos Git. Esta lista não altera 368 fontes externas, seus direitos ou status; links são da própria biblioteca e apontam à `main`.
 
 **Para estudo por objetivo:** [mapa simples](MAPA-COMPLETO.md). **Para fontes externas:** [catálogo de fontes](FONTES/catalogo.json).
 
@@ -8,9 +8,10 @@
 
 - [`.github/PULL_REQUEST_TEMPLATE.md`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
 
-## .github/workflows (3)
+## .github/workflows (4)
 
 - [`.github/workflows/avaliar-llms-reais.yml`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/.github/workflows/avaliar-llms-reais.yml)
+- [`.github/workflows/sin-federacao-piloto.yml`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/.github/workflows/sin-federacao-piloto.yml)
 - [`.github/workflows/validar-catalogo.yml`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/.github/workflows/validar-catalogo.yml)
 - [`.github/workflows/validar-indice-total.yml`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/.github/workflows/validar-indice-total.yml)
 
@@ -58,7 +59,7 @@
 
 - [`ECOSSISTEMA/README.md`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/ECOSSISTEMA/README.md)
 
-## EXEMPLOS (12)
+## EXEMPLOS (14)
 
 - [`EXEMPLOS/01-cubo-css-3d.html`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/EXEMPLOS/01-cubo-css-3d.html)
 - [`EXEMPLOS/02-projecao-perspectiva.html`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/EXEMPLOS/02-projecao-perspectiva.html)
@@ -70,6 +71,8 @@
 - [`EXEMPLOS/08-escolher-ar.html`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/EXEMPLOS/08-escolher-ar.html)
 - [`EXEMPLOS/09-roughness-iluminacao.html`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/EXEMPLOS/09-roughness-iluminacao.html)
 - [`EXEMPLOS/10-orcamento-frame.html`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/EXEMPLOS/10-orcamento-frame.html)
+- [`EXEMPLOS/FEDERACAO-SIN-PILOTO-001.html`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/EXEMPLOS/FEDERACAO-SIN-PILOTO-001.html)
+- [`EXEMPLOS/FEDERACAO-SIN-PILOTO-001.md`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/EXEMPLOS/FEDERACAO-SIN-PILOTO-001.md)
 - [`EXEMPLOS/README.md`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/EXEMPLOS/README.md)
 - [`EXEMPLOS/web-model-viewer.html`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/EXEMPLOS/web-model-viewer.html)
 
@@ -281,7 +284,7 @@
 - [`TUTORIAIS/37-fotogrametria-reconstrucao-escala.md`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/TUTORIAIS/37-fotogrametria-reconstrucao-escala.md)
 - [`TUTORIAIS/README.md`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/TUTORIAIS/README.md)
 
-## scripts (14)
+## scripts (15)
 
 - [`scripts/executar-avaliacoes-llm.py`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/scripts/executar-avaliacoes-llm.py)
 - [`scripts/gerar-indice-readme.py`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/scripts/gerar-indice-readme.py)
@@ -292,12 +295,12 @@
 - [`scripts/validar-ecp.py`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/scripts/validar-ecp.py)
 - [`scripts/validar-exemplos.py`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/scripts/validar-exemplos.py)
 - [`scripts/validar-faq.py`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/scripts/validar-faq.py)
+- [`scripts/validar-federacao-piloto.py`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/scripts/validar-federacao-piloto.py)
 - [`scripts/validar-glossario.py`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/scripts/validar-glossario.py)
 - [`scripts/validar-indice-total.py`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/scripts/validar-indice-total.py)
 - [`scripts/validar-laboratorios.py`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/scripts/validar-laboratorios.py)
 - [`scripts/validar-readme-index.py`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/scripts/validar-readme-index.py)
 - [`scripts/validar.py`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/scripts/validar.py)
-
 
 ## Complemento de dependências didáticas (01/11/2026)
 
