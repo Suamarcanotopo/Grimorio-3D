@@ -90,3 +90,15 @@ Use `INTEROPERABILIDADE/STATUS-EXECUCAO.md` e `RUBRICA-REVISAO.md` para homologa
 ## NAV-100 — obrigatoriedade de autonomia de navegação
 
 O [Mission Lock ML-23](GOVERNANCA/MISSION-LOCK.md), [handoff](GOVERNANCA/HANDOFF-NAVEGACAO.md), [mapa humano](MAPA-COMPLETO.md) e [índice total](CATALOGO-TOTAL-ARQUIVOS.md) são vinculantes. Toda mudança deve indexar novos arquivos e executar `python3 scripts/validar-indice-total.py`, além dos validadores do catálogo de 368 fontes. Nenhum guia ou arquivo legado pode desaparecer sob o pretexto de simplificação. O leitor usa sempre main.
+
+## Federação SIN — interlock de quatro competências (candidato 2026-11-01)
+
+Antes de editar conteúdo material ou de citar uma técnica de outro Grimório, leia [contrato local/federado](GOVERNANCA/FEDERACAO-SIN-COMPETENCIAS-v1.md), [handoff](GOVERNANCA/HANDOFF-FEDERACAO-SIN-20261101.md) e os Mission Locks anteriores. Esta adição **não revoga** regras locais nem ativa por si só os gates de CI do PR #71.
+
+- **ECP:** coordena a missão e seleciona especialistas por competência, não pela semelhança de nome.
+- **Governance Guard:** preserva Constituição, escopo, proprietário, last-known-good, decisões, execução e aprovação humana.
+- **SEE:** governa mudanças comportamentais e versões de Skills; corpus e recipes não viram Skills automaticamente.
+- **Coliseum:** exige contraprovas sobre origem, licença, regressão, privacidade, custo, autoridade, testes e runtime; verdictos ACCEPT/RETEST/REJECT/ESCALATE requerem observação honesta.
+- **Uma fonte por casa:** narrativa/pesquisa pertence ao Grimorio-SIN; imagem/prompts ao ListOFprompts; tecnologia 3D ao Grimorio-3D; executores ao grimorio-skills. Outras casas guardam ponte para o ID/URL, nunca cópia silenciosa.
+- **Todo PR material:** Mission Lock com baseline e escopo explícito, diff, testes reais proporcionais ao risco, revisão de conflito, handoff versionado e rollback. Teste não executado = NOT_RUN; PR em DRAFT não é promoção.
+- **Proibido:** transferência de dados privados/segredos/clientes ou projetos pessoais de licitações ao ensino SIN, alteração cruzada sem autorização explícita, falsa aprovação e afirmações de produção sem execução.
