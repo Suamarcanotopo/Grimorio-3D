@@ -1,5 +1,14 @@
 # 📚 GRIMÓRIO 3D — Atlas vivo de criação tridimensional
 
+## Federação dos quatro Grimórios — regras e competências
+
+[**Abrir contrato local de competências**](GOVERNANCA/FEDERACAO-SIN-COMPETENCIAS-v1.md) · [Handoff da integração](GOVERNANCA/HANDOFF-FEDERACAO-SIN-20261101.md).
+
+Esta casa é responsável pelas **fontes, técnicas e ensino de produção 3D**, com direitos e compatibilidade por ferramenta. Narrativa e estudo no Grimorio-SIN, receitas visuais no ListOFprompts e Skills executoras no grimorio-skills. O contrato não autoriza redistribuir modelos de terceiros.
+
+A biblioteca de estudo está sempre em `main`; políticas em PR não são integração realizada nem comprovação de execução. A [constituição federada proposta](https://github.com/Suamarcanotopo/grimorio-skills/blob/main/GOVERNANCA/FEDERACAO-SIN-4-GRIMORIOS-v1.md) só se torna link de `main` após aprovação e merge.
+
+
 > **Do primeiro cubo aos mundos interativos:** guia didático, técnico e auditável para estudar, produzir, animar e publicar 3D com segurança.
 
 ![Catálogo](https://img.shields.io/badge/fontes-368-0369a1) ![Nichos](https://img.shields.io/badge/nichos-38-7256b5) ![Idioma](https://img.shields.io/badge/idioma-PT--BR-008060) ![Curadoria](https://img.shields.io/badge/licenças-por%20item-orange)
