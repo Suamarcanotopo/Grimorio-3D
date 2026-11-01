@@ -14,6 +14,8 @@ O mesmo **Mission Lock, catálogo, grafo didático e critérios de evidência** 
 
 **Validação prática em andamento:** [execução de APIs com evidência, custo protegido e estado real](INTEROPERABILIDADE/STATUS-EXECUCAO.md). O runner está preparado, mas a homologação cruzada não será declarada sem respostas reais e revisão semântica.
 
+**[EU SOZINHO ENCONTRO TUDO — mapa completo](MAPA-COMPLETO.md)** · [Todos os arquivos versionados](CATALOGO-TOTAL-ARQUIVOS.md). O índice de 368 fontes externas permanece inalterado e continua no README.
+
 ## 🧭 Comece por aqui
 
 | Quero... | Vá para |

@@ -111,3 +111,14 @@ O conteúdo e as regras do Grimório 3D devem ser portáteis entre OpenAI/Codex,
 ## ML-24 — execução real de OpenAI/Claude/Gemini/Grok com evidência (20/10/2026)
 
 Nenhuma validação multi-LLM pode ser descrita como executada apenas por possuir script, mocks, workflow ou quatro prompts. `API_RESPONSE_RECEIVED` exige solicitação HTTPS real ao provedor selecionado, identificador de resposta, modelo, commit e hash da entrada/saída. `PENDING_HUMAN_REVIEW` permanece até avaliação das respostas pela rubrica do Coliseu. Uso pago depende de autorização explícita, credenciais guardadas em GitHub Actions Secrets (nunca no repositório), execução manual e registro de falhas/bloqueios. Nada de workflow automático dispendioso nem valores fixados por suposição. Preservar consentimento, propriedade intelectual e fontes.
+
+
+## ML-23 — NAV-100: leitor sozinho encontra qualquer recurso sem perder conteúdo (01/11/2026)
+
+**Unicidade da biblioteca:** a `main` é a única interface canônica de consulta. Entrada: [README](../README.md) → [MAPA-COMPLETO](../MAPA-COMPLETO.md) → fonte/etapa/termo/tutoriais. Para localizar qualquer arquivo use [CATALOGO-TOTAL-ARQUIVOS](../CATALOGO-TOTAL-ARQUIVOS.md); não obrigar aluno a dominar códigos, pastas ou branches.
+
+**Gate anti-órfão:** todo arquivo Git deve estar no índice, incluindo novos documentos e scripts, sem retirar nenhum material legado. Execute `python3 scripts/validar-indice-total.py` em todo PR; falha bloqueia promoção. Mantenha também a geração e validação do índice de **368 URLs de fontes** com os scripts existentes: inventário de arquivos Git não substitui fonte JSON nem licenciamento por item.
+
+**Conteúdo e prova:** preservar 18 etapas, 10 rotas, 293 termos, 210 FAQs, tutoriais, exemplos, 368 fontes, 38 nichos e matrizes de formatos; título claro, sigla expandida, analogia, prática e teste. CI documental não homologa arquivo GLB funcional, software, headset, efeitos de AR, licenciamento ou segurança de terceiros.
+
+**Workflow:** branch temporária + PR + validação + revisão adequada → `main`. Sem apagar versões/IDs/dados antigos para melhorar o índice. Atualizar [handoff NAV-100](HANDOFF-NAVEGACAO.md) com baseline, mudanças, evidências, pendências e rollback, mantendo as decisões de ML-01 a ML-22. No SIN e ListOFprompts usar links entre acervos, sem duplicar assets ou prompts canônicos.

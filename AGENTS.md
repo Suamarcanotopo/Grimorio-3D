@@ -85,3 +85,8 @@ Para trabalho no repositório, use **[INTEROPERABILIDADE/CONTRATO-CANONICO.md](I
 ## Execução de modelos reais — gate obrigatório
 
 Use `INTEROPERABILIDADE/STATUS-EXECUCAO.md` e `RUBRICA-REVISAO.md` para homologação, nunca altere status de API para PASS a partir de mocks ou dry-run. `scripts/executar-avaliacoes-llm.py` só deve enviar chamadas em modo `--execute --approve-spend`, com segredos e modelos autorizados. Workflow dedicado é manual; não se deve integrá-lo no pipeline automático do PR. Sem IDs de resposta reais e avaliação humana, declarar `NOT_TESTED` ou `PENDING_HUMAN_REVIEW`.
+
+
+## NAV-100 — obrigatoriedade de autonomia de navegação
+
+O [Mission Lock ML-23](GOVERNANCA/MISSION-LOCK.md), [handoff](GOVERNANCA/HANDOFF-NAVEGACAO.md), [mapa humano](MAPA-COMPLETO.md) e [índice total](CATALOGO-TOTAL-ARQUIVOS.md) são vinculantes. Toda mudança deve indexar novos arquivos e executar `python3 scripts/validar-indice-total.py`, além dos validadores do catálogo de 368 fontes. Nenhum guia ou arquivo legado pode desaparecer sob o pretexto de simplificação. O leitor usa sempre main.
