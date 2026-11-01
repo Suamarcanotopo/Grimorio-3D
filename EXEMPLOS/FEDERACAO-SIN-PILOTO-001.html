@@ -21,7 +21,10 @@ h1{font-size:clamp(2rem,4vw,3.8rem);line-height:1.07;margin:12px 0 16px;max-widt
 .stage{background:linear-gradient(150deg,#0f1e37,#233e6b);border-radius:26px;padding:16px;box-shadow:0 24px 50px #20305024;position:relative}
 .stage canvas{width:100%;height:360px;display:block;touch-action:pan-y;cursor:grab}
 .stage canvas:active{cursor:grabbing}
-.stage .fallback{display:none;height:360px;align-items:center;justify-content:center;color:#fff;text-align:center;padding:30px}
+.stage .fallback{display:none;height:360px;align-items:center;justify-content:center;flex-direction:column;color:#fff;text-align:center;padding:30px;gap:12px}
+.fallback-figure{width:92px;height:92px;position:relative;transform-style:preserve-3d;transform:rotateX(-22deg) rotateY(-32deg);margin:14px auto 32px}
+.fallback-figure i{position:absolute;display:block;width:92px;height:92px;border:2px solid #8ad3ff;background:linear-gradient(130deg,#5bb6fa,#1f508b)}
+.fallback-figure i:nth-child(1){transform:translateZ(46px)}.fallback-figure i:nth-child(2){transform:rotateY(90deg) translateZ(46px);background:#163b73}.fallback-figure i:nth-child(3){transform:rotateX(90deg) translateZ(46px);background:#7fd0fc}
 .status{position:absolute;top:20px;left:22px;background:#ffffff1e;border:1px solid #ffffff50;color:#fff;border-radius:50px;padding:6px 12px;font-size:.78rem}
 .controls{display:flex;flex-wrap:wrap;gap:8px;padding:12px 2px 0}
 button{border:1px solid #ccd9f0;color:#173b6d;background:#fff;border-radius:10px;padding:10px 14px;font-weight:700;cursor:pointer}
@@ -47,7 +50,7 @@ footer{border-top:1px solid #dce3ed;font-size:.85rem;color:#53617a;line-height:1
 <p><a href="#criterios">Como avaliamos esta demonstração</a></p></div>
 <div class="stage"><div class="status">OBJETO DE DEMONSTRAÇÃO</div>
 <canvas id="objeto" width="600" height="430" role="img" aria-label="Visualização interativa de um cubo tridimensional azul de demonstração; use as setas ou os botões para girar" tabindex="0"></canvas>
-<div id="fallback" class="fallback" role="status">Visualização 3D indisponível neste navegador. O conceito e os critérios abaixo continuam acessíveis.</div>
+<div id="fallback" class="fallback" role="status"><div class="fallback-figure" aria-hidden="true"><i></i><i></i><i></i></div><strong>Ilustração CSS do Módulo Zero</strong><span>WebGL indisponível neste navegador. O objeto 3D interativo está desativado, mas o estudo permanece acessível.</span></div>
 <div class="controls" aria-label="Controles de visualização"><button id="esquerda" type="button">Girar à esquerda</button><button id="direita" type="button">Girar à direita</button><button id="pausa" type="button" aria-pressed="false">Pausar</button></div>
 <p class="note">Use os botões, as teclas ← / → ou arraste na cena. O movimento é pausado inicialmente caso o dispositivo prefira movimento reduzido.</p>
 </div></section>
@@ -70,7 +73,7 @@ if(!gl){canvas.style.display='none';fallback.style.display='flex';document.getEl
 const vert='attribute vec3 aPos; attribute vec3 aCol; uniform float uAngle; uniform float uAspect; varying vec3 vCol; void main(){float c=cos(uAngle),s=sin(uAngle);vec3 p=vec3(aPos.x*c+aPos.z*s,aPos.y,-aPos.x*s+aPos.z*c);float cx=cos(-0.28),sx=sin(-0.28);p=vec3(p.x,p.y*cx-p.z*sx,p.y*sx+p.z*cx);float d=4.4-p.z;gl_Position=vec4(p.x*2.0/(d*uAspect),p.y*2.0/d,clamp(-p.z*.18,-.85,.85),1.0);vCol=aCol;}';
 const frag='precision mediump float; varying vec3 vCol; void main(){gl_FragColor=vec4(vCol,1.0);}';
 function shader(type,code){let s=gl.createShader(type);gl.shaderSource(s,code);gl.compileShader(s);if(!gl.getShaderParameter(s,gl.COMPILE_STATUS))throw new Error(gl.getShaderInfoLog(s));return s;}
-let program;try{program=gl.createProgram();gl.attachShader(program,shader(gl.VERTEX_SHADER,vert));gl.attachShader(program,shader(gl.FRAGMENT_SHADER,frag));gl.linkProgram(program);if(!gl.getProgramParameter(program,gl.LINK_STATUS))throw new Error(gl.getProgramInfoLog(program));}catch(err){canvas.style.display='none';fallback.style.display='flex';return;}
+let program;try{program=gl.createProgram();gl.attachShader(program,shader(gl.VERTEX_SHADER,vert));gl.attachShader(program,shader(gl.FRAGMENT_SHADER,frag));gl.linkProgram(program);if(!gl.getProgramParameter(program,gl.LINK_STATUS))throw new Error(gl.getProgramInfoLog(program));}catch(err){canvas.style.display='none';fallback.style.display='flex';for(const id of ['pausa','esquerda','direita'])document.getElementById(id).disabled=true;return;}
 gl.useProgram(program);
 const corners=[[-1,-1,-1],[1,-1,-1],[1,1,-1],[-1,1,-1],[-1,-1,1],[1,-1,1],[1,1,1],[-1,1,1]];
 const faces=[[4,5,6,7],[1,0,3,2],[5,1,2,6],[0,4,7,3],[7,6,2,3],[0,1,5,4]];
