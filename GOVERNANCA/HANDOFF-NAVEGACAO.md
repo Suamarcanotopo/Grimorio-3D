@@ -9,3 +9,8 @@
 **Pendente:** testes práticos de 3D/AR/VR em dispositivos, licenças atualizadas de cada fonte, estudo com leitores iniciantes, possíveis links externos quebrados. Indexação é estrutural, não homologação de tecnologias ou conteúdos.
 
 **Rollback:** reverter exclusivamente alterações de navegação por PR/commit, sem apagar nenhum cadastro/arquivo de origem.
+
+
+## Handoff DEP-10 — 01/11/2026
+
+Baseline main `3c9e6253d6274db75207e02bef766944926402b8`. Adicionado [guia didático das dependências D01–D10](../DEPENDENCIAS/GUIA-DIDATICO-D01-D10.md), com termos por extenso, analogias, competências de apoio, prova por etapa e estados originais. O JSON e direitos permanecem intactos. **Pendentes:** execuções reais, versões e compatibilidade atuais em cada plataforma, licenças, provas por aparelho e revisão humana. Retomar pelo pipeline individual, consultar fonte atual, testar e registrar; não promover status em lote. Rollback: reverter o guia, jamais o registro original.

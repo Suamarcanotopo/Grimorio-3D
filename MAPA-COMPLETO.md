@@ -28,7 +28,7 @@
 
 ## 2. Buscar qualquer arquivo, inclusive os técnicos
 
-[**CATÁLOGO DE 100% DOS 226 ARQUIVOS GIT**](CATALOGO-TOTAL-ARQUIVOS.md). Use busca por palavra nesta página; contém manuais, fontes, JSON, exemplos, scripts e histórico. Os **368 links externos de fontes** ficam no [catálogo principal](FONTES/catalogo.json) e no [README com URLs](README.md), que têm regras próprias de atualização. São dois inventários diferentes: *arquivos do repo* versus *links externos de aprendizagem*.
+[**CATÁLOGO DE 100% DOS 227 ARQUIVOS GIT**](CATALOGO-TOTAL-ARQUIVOS.md). Use busca por palavra nesta página; contém manuais, fontes, JSON, exemplos, scripts e histórico. Os **368 links externos de fontes** ficam no [catálogo principal](FONTES/catalogo.json) e no [README com URLs](README.md), que têm regras próprias de atualização. São dois inventários diferentes: *arquivos do repo* versus *links externos de aprendizagem*.
 
 ## 3. Sempre em português e com resultado comprovável
 

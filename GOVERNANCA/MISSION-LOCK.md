@@ -122,3 +122,8 @@ Nenhuma validação multi-LLM pode ser descrita como executada apenas por possui
 **Conteúdo e prova:** preservar 18 etapas, 10 rotas, 293 termos, 210 FAQs, tutoriais, exemplos, 368 fontes, 38 nichos e matrizes de formatos; título claro, sigla expandida, analogia, prática e teste. CI documental não homologa arquivo GLB funcional, software, headset, efeitos de AR, licenciamento ou segurança de terceiros.
 
 **Workflow:** branch temporária + PR + validação + revisão adequada → `main`. Sem apagar versões/IDs/dados antigos para melhorar o índice. Atualizar [handoff NAV-100](HANDOFF-NAVEGACAO.md) com baseline, mudanças, evidências, pendências e rollback, mantendo as decisões de ML-01 a ML-22. No SIN e ListOFprompts usar links entre acervos, sem duplicar assets ou prompts canônicos.
+
+
+## ML-24 — dependências de 3D didáticas sem promoção fictícia (01/11/2026)
+
+O [guia didático D01–D10](../DEPENDENCIAS/GUIA-DIDATICO-D01-D10.md) complementa `DEPENDENCIAS/matriz.json` sem alterar status de APIs, SDKs, dispositivos, licenças ou compatibilidade. Skills de apoio são opcionais e dependem de escopo da missão, consentimento e evidência. ECP decide o encaminhamento; Coliseum revisa e pode bloquear; não registrar testes reais sem execução. Separar pré-requisito de estudo, software instalado e direito de uso. [Handoff](HANDOFF-NAVEGACAO.md) registra lacunas e continuidade.

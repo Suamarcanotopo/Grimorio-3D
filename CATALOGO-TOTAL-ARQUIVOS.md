@@ -1,6 +1,6 @@
 # Inventário integral de arquivos Git — Grimório 3D
 
-**Base:** `a99e1f06a26a38226d4e363a9cbef4b7ddefe208`, main antes desta revisão. **Total após entrada destes novos arquivos:** 226 caminhos Git. Esta lista não altera 368 fontes externas, seus direitos ou status; links são da própria biblioteca e apontam à `main`.
+**Base:** `a99e1f06a26a38226d4e363a9cbef4b7ddefe208`, main antes desta revisão. **Total após entrada destes novos arquivos:** 227 caminhos Git. Esta lista não altera 368 fontes externas, seus direitos ou status; links são da própria biblioteca e apontam à `main`.
 
 **Para estudo por objetivo:** [mapa simples](MAPA-COMPLETO.md). **Para fontes externas:** [catálogo de fontes](FONTES/catalogo.json).
 
@@ -296,3 +296,7 @@
 - [`scripts/validar-readme-index.py`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/scripts/validar-readme-index.py)
 - [`scripts/validar.py`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/scripts/validar.py)
 
+
+## Complemento de dependências didáticas (01/11/2026)
+
+- [`DEPENDENCIAS/GUIA-DIDATICO-D01-D10.md`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/DEPENDENCIAS/GUIA-DIDATICO-D01-D10.md)
