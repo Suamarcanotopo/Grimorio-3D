@@ -1,6 +1,6 @@
 # Inventário integral de arquivos Git — Grimório 3D
 
-**Base:** `a99e1f06a26a38226d4e363a9cbef4b7ddefe208`, main antes desta revisão. **Total após entrada destes novos arquivos:** 227 caminhos Git. Esta lista não altera 368 fontes externas, seus direitos ou status; links são da própria biblioteca e apontam à `main`.
+**Base:** `a99e1f06a26a38226d4e363a9cbef4b7ddefe208`, main antes desta revisão. **Total após entrada destes novos arquivos:** 229 caminhos Git. Esta lista não altera 368 fontes externas, seus direitos ou status; links são da própria biblioteca e apontam à `main`.
 
 **Para estudo por objetivo:** [mapa simples](MAPA-COMPLETO.md). **Para fontes externas:** [catálogo de fontes](FONTES/catalogo.json).
 
@@ -166,12 +166,14 @@
 - [`GLOSSARIO/15-governanca-pesquisa-skills.md`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/GLOSSARIO/15-governanca-pesquisa-skills.md)
 - [`GLOSSARIO/README.md`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/GLOSSARIO/README.md)
 
-## GOVERNANCA (10)
+## GOVERNANCA (12)
 
 - [`GOVERNANCA/CONTRIBUICAO.md`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/GOVERNANCA/CONTRIBUICAO.md)
 - [`GOVERNANCA/CURADORIA-FONTES-V04.md`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/GOVERNANCA/CURADORIA-FONTES-V04.md)
 - [`GOVERNANCA/ECP-COLISEU-2026-10-16.md`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/GOVERNANCA/ECP-COLISEU-2026-10-16.md)
+- [`GOVERNANCA/FEDERACAO-SIN-COMPETENCIAS-v1.md`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/GOVERNANCA/FEDERACAO-SIN-COMPETENCIAS-v1.md)
 - [`GOVERNANCA/FONTES-ATEMPORAIS-E-ATUAIS.md`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/GOVERNANCA/FONTES-ATEMPORAIS-E-ATUAIS.md)
+- [`GOVERNANCA/HANDOFF-FEDERACAO-SIN-20261101.md`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/GOVERNANCA/HANDOFF-FEDERACAO-SIN-20261101.md)
 - [`GOVERNANCA/HANDOFF-NAVEGACAO.md`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/GOVERNANCA/HANDOFF-NAVEGACAO.md)
 - [`GOVERNANCA/MATRIZ-ACEITACAO.md`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/GOVERNANCA/MATRIZ-ACEITACAO.md)
 - [`GOVERNANCA/MISSION-LOCK.md`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/GOVERNANCA/MISSION-LOCK.md)
