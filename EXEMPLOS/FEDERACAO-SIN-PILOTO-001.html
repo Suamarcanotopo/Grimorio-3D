@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>Módulo Zero — demonstração 3D autoral | Federação SIN</title>
+<meta name="description" content="Piloto didático e original de vitrine WebGL sem bibliotecas externas e sem assets de terceiros.">
+<style>
+:root{font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#182336;background:#f5f7fb}
+*{box-sizing:border-box}body{margin:0}a{color:#1355a6}a:focus-visible,button:focus-visible{outline:3px solid #e78318;outline-offset:3px}
+header,main,footer{max-width:1100px;margin:auto;padding:22px 24px}
+header{display:flex;justify-content:space-between;gap:20px;align-items:center;border-bottom:1px solid #dce3ed}
+header strong{letter-spacing:.03em}header small{color:#526073}
+.hero{display:grid;grid-template-columns:1.05fr 1fr;gap:32px;align-items:center;min-height:520px}
+.eyebrow{font-size:.8rem;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:#2654a0}
+h1{font-size:clamp(2rem,4vw,3.8rem);line-height:1.07;margin:12px 0 16px;max-width:650px}
+.lead{color:#45546b;line-height:1.7;max-width:520px}
+.spec{display:flex;gap:12px;flex-wrap:wrap;margin:24px 0}
+.spec span{background:#edf3ff;color:#20477e;padding:7px 12px;border:1px solid #d7e4fa;border-radius:100px;font-size:.85rem}
+.stage{background:linear-gradient(150deg,#0f1e37,#233e6b);border-radius:26px;padding:16px;box-shadow:0 24px 50px #20305024;position:relative}
+.stage canvas{width:100%;height:360px;display:block;touch-action:pan-y;cursor:grab}
+.stage canvas:active{cursor:grabbing}
+.stage .fallback{display:none;height:360px;align-items:center;justify-content:center;flex-direction:column;color:#fff;text-align:center;padding:30px;gap:12px}
+.fallback-figure{width:92px;height:92px;position:relative;transform-style:preserve-3d;transform:rotateX(-22deg) rotateY(-32deg);margin:14px auto 32px}
+.fallback-figure i{position:absolute;display:block;width:92px;height:92px;border:2px solid #8ad3ff;background:linear-gradient(130deg,#5bb6fa,#1f508b)}
+.fallback-figure i:nth-child(1){transform:translateZ(46px)}.fallback-figure i:nth-child(2){transform:rotateY(90deg) translateZ(46px);background:#163b73}.fallback-figure i:nth-child(3){transform:rotateX(90deg) translateZ(46px);background:#7fd0fc}
+.status{position:absolute;top:20px;left:22px;background:#ffffff1e;border:1px solid #ffffff50;color:#fff;border-radius:50px;padding:6px 12px;font-size:.78rem}
+.controls{display:flex;flex-wrap:wrap;gap:8px;padding:12px 2px 0}
+button{border:1px solid #ccd9f0;color:#173b6d;background:#fff;border-radius:10px;padding:10px 14px;font-weight:700;cursor:pointer}
+button:hover{background:#eaf1ff}
+.controls button{background:#f6f9ff}
+.note{color:#e6ecf8;font-size:.78rem;margin:8px 3px 0}
+article{background:#fff;border-radius:18px;border:1px solid #dbe3ed;padding:24px;line-height:1.6}
+.row{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+article h2{margin-top:0;font-size:1.1rem}
+.tag{display:block;color:#687991;font-size:.76rem;letter-spacing:.08em;margin-bottom:8px}
+footer{border-top:1px solid #dce3ed;font-size:.85rem;color:#53617a;line-height:1.6}
+@media(max-width:800px){.hero{grid-template-columns:1fr}.row{grid-template-columns:1fr}header{align-items:flex-start;flex-direction:column}.stage canvas{height:300px}.stage .fallback{height:300px}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;animation:none!important}}
+</style>
+</head>
+<body>
+<header><div><strong>SIN · LABORATÓRIO FEDERADO</strong><br><small>Piloto 001 • produto fictício • HTML offline</small></div><a href="#criterios">Ver critérios de avaliação</a></header>
+<main>
+<section class="hero">
+<div><div class="eyebrow">Da complexidade à clareza</div><h1>Módulo Zero.<br>Uma forma. Novas perspectivas.</h1>
+<p class="lead">Uma vitrine demonstrativa de produto industrial fictício. O objetivo não é vender este objeto: é testar a cadeia narrativa → linguagem visual → objeto 3D → validação governada, com fontes claras e sem depender de imagens ou bibliotecas externas.</p>
+<div class="spec"><span>Geometria original</span><span>WebGL nativo</span><span>Sem rastreadores</span><span>Uso didático</span></div>
+<p><a href="#criterios">Como avaliamos esta demonstração</a></p></div>
+<div class="stage"><div class="status">OBJETO DE DEMONSTRAÇÃO</div>
+<canvas id="objeto" width="600" height="430" role="img" aria-label="Visualização interativa de um cubo tridimensional azul de demonstração; use as setas ou os botões para girar" tabindex="0"></canvas>
+<div id="fallback" class="fallback" role="status"><div class="fallback-figure" aria-hidden="true"><i></i><i></i><i></i></div><strong>Ilustração CSS do Módulo Zero</strong><span>WebGL indisponível neste navegador. O objeto 3D interativo está desativado, mas o estudo permanece acessível.</span></div>
+<div class="controls" aria-label="Controles de visualização"><button id="esquerda" type="button">Girar à esquerda</button><button id="direita" type="button">Girar à direita</button><button id="pausa" type="button" aria-pressed="false">Pausar</button></div>
+<p class="note">Use os botões, as teclas ← / → ou arraste na cena. O movimento é pausado inicialmente caso o dispositivo prefira movimento reduzido.</p>
+</div></section>
+<section id="criterios" class="row" aria-label="Quatro competências federadas">
+<article><span class="tag">01 · GRIMÓRIO SIN</span><h2>História com uma função</h2><p>Metáfora da clareza: observar o mesmo objeto de vários ângulos antes de tomar uma decisão. É um exercício autoral, não alegação científica sobre o produto.</p></article>
+<article><span class="tag">02 · LIST OF PROMPTS</span><h2>Imagem sob controle</h2><p>Enquadramento de produto, ângulo, luz, identidade do objeto e comparação de variantes. Nenhuma imagem foi gerada por modelo neste piloto.</p></article>
+<article><span class="tag">03 · GRIMÓRIO 3D</span><h2>Objeto verificável</h2><p>Geometria autoral construída em JavaScript e renderizada em WebGL. Isto não é um arquivo GLB, modelo BIM ou produto industrial validado.</p></article>
+</section>
+<section style="margin-top:16px"><article><span class="tag">04 · GRIMÓRIO DE SKILLS</span><h2>Critérios ECP + Governance Guard + SEE + Coliseum</h2>
+<p><strong>ECP</strong> coordena etapas e entregáveis; <strong>Governance Guard</strong> protege direitos, escopo e autoridade; <strong>SEE</strong> separa mudanças candidatas do baseline; <strong>Coliseum</strong> exige testes reproduzíveis e evidências sem fingir revisão independente.</p>
+<p><strong>Critérios:</strong> página offline sem importações externas; renderização WebGL no navegador compatível; controles por botão e teclado; fallback explícito; respeito a movimento reduzido; nenhuma imagem ou asset de terceiro. <strong>Limites:</strong> testes de dispositivos, modelos de IA, direitos de eventual produto real e conversão comercial exigem evidências próprias.</p></article></section>
+</main>
+<footer><strong>Sistema Imersivo Narrativo — piloto técnico original.</strong> Sem endosso comercial, preços, fontes externas carregadas, bibliotecas de terceiros ou dados de clientes. Este protótipo não comprova desempenho em todos os dispositivos.</footer>
+<script>
+(function(){
+'use strict';
+const canvas=document.getElementById('objeto'), fallback=document.getElementById('fallback');
+const gl=canvas.getContext('webgl',{alpha:true,antialias:true,preserveDrawingBuffer:true});
+if(!gl){canvas.style.display='none';fallback.style.display='flex';document.getElementById('pausa').disabled=true;document.getElementById('esquerda').disabled=true;document.getElementById('direita').disabled=true;return;}
+const vert='attribute vec3 aPos; attribute vec3 aCol; uniform float uAngle; uniform float uAspect; varying vec3 vCol; void main(){float c=cos(uAngle),s=sin(uAngle);vec3 p=vec3(aPos.x*c+aPos.z*s,aPos.y,-aPos.x*s+aPos.z*c);float cx=cos(-0.28),sx=sin(-0.28);p=vec3(p.x,p.y*cx-p.z*sx,p.y*sx+p.z*cx);float d=4.4-p.z;gl_Position=vec4(p.x*2.0/(d*uAspect),p.y*2.0/d,clamp(-p.z*.18,-.85,.85),1.0);vCol=aCol;}';
+const frag='precision mediump float; varying vec3 vCol; void main(){gl_FragColor=vec4(vCol,1.0);}';
+function shader(type,code){let s=gl.createShader(type);gl.shaderSource(s,code);gl.compileShader(s);if(!gl.getShaderParameter(s,gl.COMPILE_STATUS))throw new Error(gl.getShaderInfoLog(s));return s;}
+let program;try{program=gl.createProgram();gl.attachShader(program,shader(gl.VERTEX_SHADER,vert));gl.attachShader(program,shader(gl.FRAGMENT_SHADER,frag));gl.linkProgram(program);if(!gl.getProgramParameter(program,gl.LINK_STATUS))throw new Error(gl.getProgramInfoLog(program));}catch(err){canvas.style.display='none';fallback.style.display='flex';for(const id of ['pausa','esquerda','direita'])document.getElementById(id).disabled=true;return;}
+gl.useProgram(program);
+const corners=[[-1,-1,-1],[1,-1,-1],[1,1,-1],[-1,1,-1],[-1,-1,1],[1,-1,1],[1,1,1],[-1,1,1]];
+const faces=[[4,5,6,7],[1,0,3,2],[5,1,2,6],[0,4,7,3],[7,6,2,3],[0,1,5,4]];
+const colors=[[.25,.66,.94],[.11,.28,.51],[.17,.49,.83],[.07,.24,.46],[.38,.75,.98],[.11,.38,.64]];
+const data=[];faces.forEach((f,i)=>{[0,1,2,0,2,3].forEach(k=>{data.push(...corners[f[k]],...colors[i]);});});
+const buffer=gl.createBuffer();gl.bindBuffer(gl.ARRAY_BUFFER,buffer);gl.bufferData(gl.ARRAY_BUFFER,new Float32Array(data),gl.STATIC_DRAW);
+const aPos=gl.getAttribLocation(program,'aPos'),aCol=gl.getAttribLocation(program,'aCol'),uAngle=gl.getUniformLocation(program,'uAngle'),uAspect=gl.getUniformLocation(program,'uAspect');
+gl.enableVertexAttribArray(aPos);gl.vertexAttribPointer(aPos,3,gl.FLOAT,false,24,0);
+gl.enableVertexAttribArray(aCol);gl.vertexAttribPointer(aCol,3,gl.FLOAT,false,24,12);
+gl.enable(gl.DEPTH_TEST);gl.disable(gl.CULL_FACE);
+let angle=.45, paused=window.matchMedia('(prefers-reduced-motion: reduce)').matches,last=0,down=false,startX=0;
+const pauseButton=document.getElementById('pausa');
+function update(){pauseButton.textContent=paused?'Retomar':'Pausar';pauseButton.setAttribute('aria-pressed',String(paused));}
+function render(t){const dt=Math.min((t-last)/1000||0,.05);last=t;if(!paused&&!down)angle+=dt*.4;const w=canvas.clientWidth||600,h=canvas.clientHeight||360,ratio=Math.min(window.devicePixelRatio||1,2);canvas.width=Math.round(w*ratio);canvas.height=Math.round(h*ratio);gl.viewport(0,0,canvas.width,canvas.height);gl.clearColor(.06,.12,.23,0);gl.clear(gl.COLOR_BUFFER_BIT|gl.DEPTH_BUFFER_BIT);gl.uniform1f(uAngle,angle);gl.uniform1f(uAspect,w/h);gl.drawArrays(gl.TRIANGLES,0,data.length/6);requestAnimationFrame(render);}
+document.getElementById('esquerda').addEventListener('click',()=>{angle-=.3;paused=true;update();});
+document.getElementById('direita').addEventListener('click',()=>{angle+=.3;paused=true;update();});
+pauseButton.addEventListener('click',()=>{paused=!paused;update();});
+canvas.addEventListener('keydown',e=>{if(e.key==='ArrowLeft'||e.key==='ArrowRight'){e.preventDefault();paused=true;angle+=(e.key==='ArrowRight'?.25:-.25);update();}});
+canvas.addEventListener('pointerdown',e=>{down=true;startX=e.clientX;canvas.setPointerCapture(e.pointerId);});
+canvas.addEventListener('pointermove',e=>{if(down){angle+=(e.clientX-startX)*.01;startX=e.clientX;}});
+canvas.addEventListener('pointerup',()=>{down=false;paused=true;update();});
+canvas.addEventListener('pointercancel',()=>{down=false;});
+update();requestAnimationFrame(render);
+})();
+</script>
+</body>
+</html>
