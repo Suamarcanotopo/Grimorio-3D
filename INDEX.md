@@ -1,5 +1,7 @@
 # Índice por finalidade — Grimório 3D
 
+**[Mapa para aprender sem se perder](MAPA-COMPLETO.md)** · [Catálogo de absolutamente todos os arquivos Git](CATALOGO-TOTAL-ARQUIVOS.md).
+
 **Agnosticismo entre LLMs:** [matriz OpenAI/Claude/Grok/Gemini](INTEROPERABILIDADE/MATRIZ-PLATAFORMAS.md) · [contrato canônico](INTEROPERABILIDADE/CONTRATO-CANONICO.md) · [prompt para chats](INTEROPERABILIDADE/PROMPT-PORTAVEL.md).
 
 **Não sabe por onde começar?** [APRENDER — conceitos, fontes, exercícios e provas conectados](APRENDER/README.md) · [293 termos e 210 dúvidas individuais](APRENDER/INDICE-INDIVIDUAL.md) · [10 trilhas de mercado](APRENDER/ROTAS-POR-MERCADO.md)
