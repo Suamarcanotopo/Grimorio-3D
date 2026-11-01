@@ -1,0 +1,36 @@
+name: SIN Federation Pilot 001 — offline WebGL
+
+on:
+  pull_request:
+    paths:
+      - "EXEMPLOS/FEDERACAO-SIN-PILOTO-001.*"
+      - "scripts/validar-federacao-piloto.py"
+      - "CATALOGO-TOTAL-ARQUIVOS.md"
+      - ".github/workflows/sin-federacao-piloto.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  piloto-offline:
+    name: Validate isolated offline pilot
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Assert original demo contract and no external dependencies
+        run: python3 scripts/validar-federacao-piloto.py
+      - name: Verify existing 3D source/catalog invariants
+        run: python3 scripts/validar.py
+      - name: Verify every versioned file remains findable
+        run: python3 scripts/validar-indice-total.py
+      - name: Package only pilot materials, no data from clients
+        uses: actions/upload-artifact@v4
+        with:
+          name: sin-federacao-piloto-001
+          path: |
+            EXEMPLOS/FEDERACAO-SIN-PILOTO-001.html
+            EXEMPLOS/FEDERACAO-SIN-PILOTO-001.md
+          retention-days: 14
+          if-no-files-found: error
