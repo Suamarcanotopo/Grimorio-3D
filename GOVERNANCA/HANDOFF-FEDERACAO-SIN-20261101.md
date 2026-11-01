@@ -43,3 +43,15 @@ Um teste estrutural PASS não comprova qualidade pedagógica, legalidade de cada
 **Próxima ação:** confirmar CI e diff reais da PR do repositório, comparar com Mission Locks atuais, corrigir conflitos e solicitar revisão autorizada para eventual merge.
 
 **Rollback:** manter PR DRAFT; não mesclar. Caso seja integrado depois, reverter somente os commits da federação, sem remover conteúdo canônico ou histórico.
+
+
+## Checkpoint Coliseum — diffs e CI observados em 2026-11-01
+
+- **PR candidata:** https://github.com/Suamarcanotopo/Grimorio-3D/pull/15, ainda DRAFT, sem merge.
+- **Escopo inspecionado:** cinco caminhos somente — `README.md`, `AGENTS.md`, `CATALOGO-TOTAL-ARQUIVOS.md` e dois contratos em `GOVERNANCA/`. Nenhum corpus, asset, skill package, licencia­mento, schema, arquivo cliente ou produção foi modificado.
+- **GitHub Actions da revisão original:** [41330540615](https://github.com/Suamarcanotopo/Grimorio-3D/actions/runs/41330540615) · [41330540619](https://github.com/Suamarcanotopo/Grimorio-3D/actions/runs/41330540619).
+- **Resultados reais observados:** Catálogo 3D: PASS; índice: PASS; 229 caminhos no catálogo. São testes estruturais, não validação humana de ensino, instalação, uso de modelo, renderização ou deploy.
+- **Veredito:** `RETEST` para adoção federada: evidência estrutural permite considerar a documentação, mas não comprova que as quatro Skills externas executaram suas instruções em runtime. Revisão humana e aprovação de merge permanecem pendentes.
+- **Ordem de integração:** [grimorio-skills PR #73](https://github.com/Suamarcanotopo/grimorio-skills/pull/73) primeiro, depois os contratos locais dos outros três PRs. Reexecutar checks sobre os commits finais antes de qualquer promoção.
+
+**Proteção de downside:** caso a federação não seja aprovada, conservar evidências de diff e testes; nenhum acervo ou Skill canônica foi substituído. **Próxima ação:** avaliar governança real GitHub (required checks, revisões), testar navegação de pessoas e uma ponte de conteúdo ponta a ponta, sem misturar conteúdos privados.
