@@ -19,12 +19,13 @@ def git(*args):
     return subprocess.check_output(["git",*args],cwd=ROOT,stderr=subprocess.STDOUT,text=True).strip()
 def changed_paths(base):
     merge_base=git("merge-base","HEAD",base)
-    changed=set(filter(None,git("diff","--no-renames","--name-only",merge_base,"HEAD").splitlines()))
+    entries=[ln.split("\t",1) for ln in git("diff","--no-renames","--name-status",merge_base,"HEAD").splitlines() if ln]
+    changed={p:status[0] for status,p in entries}
     return merge_base,changed
 def check_manifest(m,repo):
     errors=[]
     for k in ("mission_id","repository","base_sha","owner","summary","risk","state",
-              "changed_paths","tests","rollback","handoff","bridges"):
+              "changed_paths","file_changes","tests","rollback","handoff","bridges","affected_skill_roles"):
         if k not in m: errors.append("MISSING_FIELD:"+k)
     if errors: return errors
     if m["repository"]!=repo: errors.append("WRONG_REPO")
@@ -42,6 +43,17 @@ def check_manifest(m,repo):
         for p in paths:
             if not isinstance(p,str) or p.startswith("/") or ".." in Path(p).parts or "\\" in p:
                 errors.append("UNSAFE_PATH")
+    notes=m["file_changes"]
+    if not isinstance(notes,dict) or not isinstance(paths,list) or set(notes)!=set(paths):
+        errors.append("FILE_CHANGE_DETAILS_MISMATCH")
+    else:
+        for path,detail in notes.items():
+            if (not isinstance(detail,dict) or detail.get("action") not in ("A","M","D","T")
+                or not isinstance(detail.get("description"),str) or len(detail["description"].strip())<10
+                or not isinstance(detail.get("owner"),str) or not detail["owner"].strip()):
+                errors.append("INVALID_FILE_CHANGE_NOTE:"+path)
+    if not isinstance(m["affected_skill_roles"],dict) or "controller" not in m["affected_skill_roles"] or "reviewer" not in m["affected_skill_roles"]:
+        errors.append("SKILL_COMMUNICATION_ROLES_MISSING")
     if not isinstance(m["tests"],list) or not m["tests"]:errors.append("NO_TEST_RECEIPTS")
     else:
         for x in m["tests"]:
@@ -61,7 +73,8 @@ def check_manifest(m,repo):
     return errors
 def audit(repo,base):
     if repo not in REPOS:raise ValueError("UNKNOWN_REPOSITORY")
-    mb,changed=changed_paths(base)
+    mb,actual_actions=changed_paths(base)
+    changed=set(actual_actions)
     records=[]
     for path in sorted((ROOT/LEDGER).glob("*.json")):
         data=json.loads(path.read_text(encoding="utf-8"))
@@ -76,6 +89,9 @@ def audit(repo,base):
         if m["base_sha"] != mb:raise ValueError(f"BASELINE_DRIFT:{p}:{mb}")
         if p not in m["changed_paths"]:raise ValueError("MANIFEST_MUST_COVER_ITSELF:"+p)
         covered.update(m["changed_paths"])
+        for target,details in m["file_changes"].items():
+            if target in actual_actions and details["action"] != actual_actions[target]:
+                raise ValueError("FILE_CHANGE_KIND_MISMATCH:"+target)
     missing=sorted(changed-covered)
     invented=sorted(covered-changed)
     if missing:raise ValueError("UNCOVERED_CHANGES:"+",".join(missing))
