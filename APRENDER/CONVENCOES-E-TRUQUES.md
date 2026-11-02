@@ -164,6 +164,43 @@ Uma referência técnica só é útil quando ajuda a tomar decisões e corrigir 
 **Prova mínima:** Outro profissional consegue reproduzir o resultado e auditar decisões, testes e limitações.
 **Conexão:** [Manual de etapas](ETAPAS-CONECTADAS.md) · [Fontes da competência](../README.md#index-geral--368-fontes-e-urls-completas)
 
+
+## Novas técnicas: Anatomy + Comfy Openjutsu (02/11/2026)
+
+**Fontes verificadas e fixadas:** [Anatomy](https://github.com/wheresryan22/anatomy/tree/1482e8469b0a9e0d8cc18ea2740a01423d29ae80) — [kit de projeção](https://github.com/wheresryan22/anatomy/blob/1482e8469b0a9e0d8cc18ea2740a01423d29ae80/references/kit.md), [auditoria](https://github.com/wheresryan22/anatomy/blob/1482e8469b0a9e0d8cc18ea2740a01423d29ae80/references/verify.md) e [3D beta](https://github.com/wheresryan22/anatomy/blob/1482e8469b0a9e0d8cc18ea2740a01423d29ae80/references/3d.md). [Openjutsu](https://github.com/Comfy-Org/comfy-openjutsu/tree/70ec62df0eda7c58697ea3ac2050588513651583) — [grafo](https://github.com/Comfy-Org/comfy-openjutsu/blob/70ec62df0eda7c58697ea3ac2050588513651583/workflows/swap.api.json) e [requisitos e direitos](https://github.com/Comfy-Org/comfy-openjutsu/blob/70ec62df0eda7c58697ea3ac2050588513651583/build/model-files.md).
+
+| Etapa | Técnica que pode agregar | Contraprova obrigatória |
+|---|---|---|
+| E03: storyboard | Objeto físico cujo funcionamento é a explicação | Analogia com mecanismo que não responde ao conceito |
+| E05: geometria | Coordenadas XYZ e projeção isométrica em SVG | Perspectiva inconsistente e interseções escondidas |
+| E06: materiais | Quatro tons, contornos e faces com profundidade | Sombra/luz contraditória |
+| E11: animação | Estado único alimentando peças e valores exibidos | Contador que não acompanha movimento |
+| E13: render | Camadas SVG + WebGL com fallback sem shader | Efeito que tampa conteúdo ou perde contexto |
+| E14: QA | Testar juntas, folgas, tubulações, ordem e frames intermediários | Aceite baseado só na imagem inicial |
+| E15: vídeo | Primeiro quadro, segmentação de pessoas, máscara temporal, âncora opcional | Quadro inicial sem pessoa ou troca de duas pessoas |
+| E17: direitos | Separar MIT do aplicativo, GPL do patch e modelos próprios | Afirmar que todos os pesos são MIT |
+| E18: entrega | Fonte única para arte interativa e prancha PDF | Simular testes nunca executados |
+
+### Laboratório 1: visual mecânico sem GPU
+
+1. Descreva o conceito com palavras simples e imagine uma máquina de cinco peças cujo funcionamento o represente.
+2. Registre coordenadas espaciais, relações e dois estados (repouso e ação).
+3. Desenhe SVG com peças em ordem de profundidade, leia o mesmo estado em um indicador e permita uso por teclado.
+4. Teste um cruzamento incorreto de peças e corrija com evidência visual. Guarde HTML/SVG, dois screenshots e checklist de acessibilidade.
+5. Se solicitado, gere prancha estática a partir do modelo, não reescreva dados manualmente.
+
+### Laboratório 2: transferência de personagem para vídeo
+
+1. Use exclusivamente personagem fictício e material autorizado. Defina identidade, roupa, expressão e movimento esperados.
+2. Especifique o grafo vídeo → recorte 5 a 15 segundos → detecção no primeiro quadro → tracking → recuperação e expansão de máscaras → quadro inicial opcional → síntese em janelas → vídeo e áudio.
+3. Openjutsu requer ambiente Comfy Developer Platform, chave, nós, modelos e créditos. O README documenta GPU de 96 GB como teste, não há comprovação de suporte generalizado a placas menores.
+4. Se houver execução autorizada, registre modelo, versão, duração, referência, seleção, máscaras, job, custo, arquivos e hash. Sem ambiente, o status é NOT_RUN.
+
+**Glossário:** SVG (Scalable Vector Graphics) = gráficos vetoriais escaláveis. WebGL (Web Graphics Library) = biblioteca de gráficos da web. SAM (Segment Anything Model) = modelo para separar objetos ou pessoas em imagem. LoRA (Low-Rank Adaptation) = adaptação de baixa ordem de modelo, sem garantia automática de identidade.
+
+**Licença:** código Anatomy MIT; app Openjutsu MIT; node pack e patch derivados GPL-3.0; modelos MiniMax H3 e SAM com seus contratos específicos, a verificar antes de uso comercial e redistribuição. O modo 3D Anatomy está marcado BETA. Nenhum teste real de GPU, browser ou vídeo foi realizado nesta incorporação.
+
+
 ---
 
 **Comunidade SIN:** [Website](https://sistemaimersivonarrativo.com.br/) · [Instagram](https://www.instagram.com/suamarcanotopo/) · [Working Lab](https://chat.whatsapp.com/FcyMOdQqyW8Ci104P8i3Gg?s=cl&p=i&mlu=4&ilr=4) · [Comunidade 3D](https://chat.whatsapp.com/F6cfNhh2Fx31VJ74KMpbk5).
