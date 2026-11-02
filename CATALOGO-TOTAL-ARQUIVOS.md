@@ -302,3 +302,12 @@
 ## Complemento de dependências didáticas (01/11/2026)
 
 - [`DEPENDENCIAS/GUIA-DIDATICO-D01-D10.md`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/DEPENDENCIAS/GUIA-DIDATICO-D01-D10.md)
+
+
+## SIN-TRACE-01 — arquivos candidatos de governança rastreável
+
+- [`.github/workflows/sin-traceability.yml`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/.github/workflows/sin-traceability.yml)
+- [`GOVERNANCA/SIN-TRACE-01-ADAPTADOR-LOCAL.md`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/GOVERNANCA/SIN-TRACE-01-ADAPTADOR-LOCAL.md)
+- [`GOVERNANCA/RASTREABILIDADE/changes/SIN-TRACE-4HOUSES-20261102-3d.json`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/GOVERNANCA/RASTREABILIDADE/changes/SIN-TRACE-4HOUSES-20261102-3d.json)
+- [`scripts/validar-rastreabilidade-sin.py`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/scripts/validar-rastreabilidade-sin.py)
+- [`tests/test_traceability_sin.py`](https://github.com/Suamarcanotopo/Grimorio-3D/blob/main/tests/test_traceability_sin.py)
