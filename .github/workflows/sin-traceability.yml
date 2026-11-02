@@ -1,0 +1,19 @@
+name: SIN TRACE-01 — change audit
+on:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  trace-gate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Test negative and positive SIN-TRACE invariants
+        run: python3 -m unittest discover -s tests -p test_traceability_sin.py -v
+      - name: Record change and owner handoff
+        run: python3 scripts/validar-rastreabilidade-sin.py --repo Suamarcanotopo/Grimorio-3D
+      - name: Maintain full navigation index
+        run: python3 scripts/validar-indice-total.py

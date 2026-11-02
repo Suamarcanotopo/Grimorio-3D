@@ -1294,3 +1294,7 @@ Se o Grimório ajuda no seu estudo ou no seu trabalho, **deixe uma estrela ⭐ n
 - **WhatsApp — Comunidade Grimório 3D:** <https://chat.whatsapp.com/F6cfNhh2Fx31VJ74KMpbk5>
 
 **Edição:** 16/10/2026 · **Idioma da orientação:** português brasileiro · **Mission Lock:** fonte oficial ou evidência técnica, direitos por item, prática verificável e evolução sem downgrade.
+
+## SIN-TRACE-01 — onde está, o que mudou e quem responde (candidato)
+
+[**Rastreabilidade deste repositório**](GOVERNANCA/SIN-TRACE-01-ADAPTADOR-LOCAL.md) · [**Registro da missão de implantação**](GOVERNANCA/RASTREABILIDADE/changes/SIN-TRACE-4HOUSES-20261102-3d.json) · [**Inventário completo**](CATALOGO-TOTAL-ARQUIVOS.md). Todos os caminhos modificados num PR devem aparecer em um registro versionado com OWNER, testes, impacto e handoff. Comunicação entre os quatro Grimórios é por referências, não cópias ou escrita automática. **Este controle está em PR, não deve ser apresentado como proteção obrigatória do `main` até merge e configuração efetiva de checks.**
