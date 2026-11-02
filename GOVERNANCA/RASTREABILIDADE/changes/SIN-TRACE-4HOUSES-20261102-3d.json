@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "mission_id": "SIN-TRACE-4HOUSES-20261102",
+  "repository": "Suamarcanotopo/Grimorio-3D",
+  "base_sha": "868f72e3b7c7231cb7133bd974d904e3dcad8822",
+  "owner": "Grimorio-3D / 3d-knowledge",
+  "summary": "Add document-first file-change tracking, owner handoff and cross-repository reference bridges without changing original domain content.",
+  "risk": "R2",
+  "state": "CANDIDATE",
+  "changed_paths": [
+    ".github/workflows/sin-traceability.yml",
+    "AGENTS.md",
+    "CATALOGO-TOTAL-ARQUIVOS.md",
+    "GOVERNANCA/RASTREABILIDADE/changes/SIN-TRACE-4HOUSES-20261102-3d.json",
+    "GOVERNANCA/SIN-TRACE-01-ADAPTADOR-LOCAL.md",
+    "README.md",
+    "scripts/validar-rastreabilidade-sin.py",
+    "tests/test_traceability_sin.py"
+  ],
+  "tests": [
+    {
+      "command": "python3 -m unittest discover -s tests -p test_traceability_sin.py -v",
+      "state": "NOT_RUN"
+    },
+    {
+      "command": "python3 scripts/validar-rastreabilidade-sin.py --repo Suamarcanotopo/Grimorio-3D",
+      "state": "NOT_RUN"
+    },
+    {
+      "command": "python3 scripts/validar-indice-total.py",
+      "state": "NOT_RUN"
+    }
+  ],
+  "rollback": "Discard this draft branch or revert only traceability commits; preserve original source files, indexes, versions and rights.",
+  "handoff": "Owner reviews changed paths, reconciles relevant active PRs and records the exact CI URL/SHA before approving any merge.",
+  "bridges": [
+    {
+      "target_repo": "Suamarcanotopo/grimorio-skills",
+      "target_path": "GOVERNANCA/SIN-TRACE-01-CONTRATO-FEDERADO.md",
+      "relationship": "REFERENCES",
+      "state": "PROPOSED",
+      "impact": "Adoption of the same tracking protocol is proposed in a separate draft PR; no automatic cross-repository mutation."
+    },
+    {
+      "target_repo": "Suamarcanotopo/Grimorio-SIN",
+      "target_path": "GOVERNANCA/SIN-TRACE-01-ADAPTADOR-LOCAL.md",
+      "relationship": "REFERENCES",
+      "state": "PROPOSED",
+      "impact": "Adoption of the same tracking protocol is proposed in a separate draft PR; no automatic cross-repository mutation."
+    },
+    {
+      "target_repo": "Suamarcanotopo/ListOFprompts",
+      "target_path": "GOVERNANCA/SIN-TRACE-01-ADAPTADOR-LOCAL.md",
+      "relationship": "REFERENCES",
+      "state": "PROPOSED",
+      "impact": "Adoption of the same tracking protocol is proposed in a separate draft PR; no automatic cross-repository mutation."
+    }
+  ],
+  "source_of_truth": "Local README, AGENTS, current Mission Lock and pre-existing canonical content indices remain authoritative.",
+  "affected_skill_roles": {
+    "controller": "engineering-control-plane",
+    "reviewer": "coliseum",
+    "evolution": "see-skill-evolution-engine",
+    "governance": "sin-project-governance-guard",
+    "delivery": "sin-github-flow"
+  },
+  "limitations": [
+    "No proof of automatic agent notification",
+    "No main branch protection configured in this action",
+    "Candidate PR is not deployed or merged"
+  ]
+}
