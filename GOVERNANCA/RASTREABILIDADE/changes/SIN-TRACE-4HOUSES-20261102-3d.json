@@ -68,5 +68,47 @@
     "No proof of automatic agent notification",
     "No main branch protection configured in this action",
     "Candidate PR is not deployed or merged"
-  ]
+  ],
+  "file_changes": {
+    ".github/workflows/sin-traceability.yml": {
+      "action": "A",
+      "description": "Create pull-request gate for per-file change coverage, testing and NAV-100 indexing.",
+      "owner": "Grimorio-3D / 3d-knowledge"
+    },
+    "AGENTS.md": {
+      "action": "M",
+      "description": "Append agent entrypoint rules to read local contract, record ownership and perform handoffs.",
+      "owner": "Grimorio-3D / 3d-knowledge"
+    },
+    "CATALOGO-TOTAL-ARQUIVOS.md": {
+      "action": "M",
+      "description": "Index every new traceability file as an individually accessible canonical Git path.",
+      "owner": "Grimorio-3D / 3d-knowledge"
+    },
+    "GOVERNANCA/RASTREABILIDADE/changes/SIN-TRACE-4HOUSES-20261102-3d.json": {
+      "action": "A",
+      "description": "Create this mission change ledger, recording each changed path, test state, owner and rollback.",
+      "owner": "Grimorio-3D / 3d-knowledge"
+    },
+    "GOVERNANCA/SIN-TRACE-01-ADAPTADOR-LOCAL.md": {
+      "action": "A",
+      "description": "Document local domain ownership, links and adaptation of the shared tracking contract.",
+      "owner": "Grimorio-3D / 3d-knowledge"
+    },
+    "README.md": {
+      "action": "M",
+      "description": "Expose traceability and the change ledger from the human-oriented repository entrance.",
+      "owner": "Grimorio-3D / 3d-knowledge"
+    },
+    "scripts/validar-rastreabilidade-sin.py": {
+      "action": "A",
+      "description": "Implement deterministic blocking gate for uncovered changes, incorrect action, false testing claims and owner omissions.",
+      "owner": "Grimorio-3D / 3d-knowledge"
+    },
+    "tests/test_traceability_sin.py": {
+      "action": "A",
+      "description": "Add negative and positive contract tests for owner, path, security and evidence boundaries.",
+      "owner": "Grimorio-3D / 3d-knowledge"
+    }
+  }
 }
