@@ -27,3 +27,7 @@ Este documento consome por ponte o [contrato SIN-TRACE-01 do Grimório de Skills
 Referência única de missão: `SIN-TRACE-4HOUSES-20261102`; cada casa registra seu PR, SHA, testes e próximo responsável. Revisor pode consultar as pontes para decidir atualização em outra casa, mas não declarar automaticamente que outro agente já leu ou executou o handoff.
 
 **Pendências:** integração com o índice de OWNERs no PR #90 e Pantheon Connect PR #55; homologação em cada runtime; proteção real de `main` (não está comprovada). 
+
+### Prova por arquivo e comunicação entre skills (SIN-TRACE-01.1)
+
+Cada registro **deve também** incluir `file_changes`, um objeto com chave igual a cada caminho em `changed_paths`, contendo `action` (`A` criar, `M` modificar, `D` excluir, `T` mudar tipo), `description` clara e `owner` responsável. A checagem compara `action` com o **diff Git real** e rejeita ausência, ação inventada ou descrição vazia. `affected_skill_roles` identifica no mínimo `controller` (ECP) e `reviewer` (COLISEUM), com especialistas adicionais conforme a missão; isso é declaração de participação **proposta**, não evidência de que outro agente recebeu ou executou a tarefa. Para cada dependência em outra casa, abrir `bridges` com `target_repo`, `target_path`, `relationship`, `state`, e atualizar as fontes/links do projeto de destino **em PR próprio** quando houver autorização. Sem dependência: `bridges: []`.
