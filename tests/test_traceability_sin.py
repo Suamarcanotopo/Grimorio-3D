@@ -9,6 +9,8 @@ def valid():
  return {"mission_id":"SIN-TRACE-20261102","repository":"Suamarcanotopo/grimorio-skills",
  "base_sha":"a"*40,"owner":"repository:grimorio-skills","summary":"Add a versioned source of change truth",
  "risk":"R1","state":"DRAFT","changed_paths":["GOVERNANCA/RASTREABILIDADE/changes/TEST.json"],
+ "file_changes":{"GOVERNANCA/RASTREABILIDADE/changes/TEST.json":{"action":"A","description":"Create the mission change manifest and record accountability","owner":"repository:grimorio-skills"}},
+ "affected_skill_roles":{"controller":"engineering-control-plane","reviewer":"coliseum"},
  "tests":[{"command":"python3 -m unittest","state":"NOT_RUN"}],
  "rollback":"Revert candidate PR, never delete canonical files",
  "handoff":"Review this change and rerun the required tests","bridges":[]}
@@ -16,6 +18,15 @@ class ContractTest(unittest.TestCase):
  def test_valid(self): self.assertEqual(mod.check_manifest(valid(),"Suamarcanotopo/grimorio-skills"),[])
  def test_missing_owner(self):
   d=valid();d["owner"]="";self.assertIn("OWNER_MISSING",mod.check_manifest(d,d["repository"]))
+ def test_missing_file_description(self):
+  d=valid();d["file_changes"]={}
+  self.assertIn("FILE_CHANGE_DETAILS_MISMATCH",mod.check_manifest(d,d["repository"]))
+ def test_wrong_change_action(self):
+  d=valid();next(iter(d["file_changes"].values()))["action"]="MAGIC"
+  self.assertTrue(any("INVALID_FILE_CHANGE_NOTE" in x for x in mod.check_manifest(d,d["repository"])))
+ def test_missing_skill_roles(self):
+  d=valid();d["affected_skill_roles"]={}
+  self.assertIn("SKILL_COMMUNICATION_ROLES_MISSING",mod.check_manifest(d,d["repository"]))
  def test_missing_tests(self):
   d=valid();d["tests"]=[];self.assertIn("NO_TEST_RECEIPTS",mod.check_manifest(d,d["repository"]))
  def test_fictitious_pass(self):
