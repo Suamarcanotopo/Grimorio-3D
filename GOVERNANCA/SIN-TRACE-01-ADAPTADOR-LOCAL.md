@@ -3,7 +3,7 @@
 **Estado:** CANDIDATE — somente neste PR, sem editar material autoral, sem aprovação implícita nem alteração de outros repositórios.  
 **Missão federada:** `SIN-TRACE-4HOUSES-20261102`. **Casa:** `Suamarcanotopo/Grimorio-3D`.
 
-Este documento consome por ponte o [contrato SIN-TRACE-01 do Grimório de Skills](https://github.com/Suamarcanotopo/grimorio-skills/blob/main/GOVERNANCA/SIN-TRACE-01-CONTRATO-FEDERADO.md) **quando aprovado e integrado**. Até lá, conferir também o PR candidato de origem. A Constituição local e [Mission Lock](GOVERNANCA/MISSION-LOCK.md) prevalecem em conflitos.
+Este documento consome por ponte o [contrato SIN-TRACE-01 do Grimório de Skills](https://github.com/Suamarcanotopo/grimorio-skills/blob/main/GOVERNANCA/SIN-TRACE-01-CONTRATO-FEDERADO.md) **quando aprovado e integrado**. Até lá, conferir também o PR candidato de origem. A Constituição local e [Mission Lock](../GOVERNANCA/MISSION-LOCK.md) prevalecem em conflitos.
 
 ## Atribuição de autoridade
 
