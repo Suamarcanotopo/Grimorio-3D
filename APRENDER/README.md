@@ -15,6 +15,7 @@
 | Quero entender uma etapa | [18 competências explicadas e vinculadas](ETAPAS-CONECTADAS.md) | Técnica, convenção, truque, erro e prova |
 | Quero trabalhar com 3D | [10 rotas por mercado](ROTAS-POR-MERCADO.md) | Entregável compatível com a indústria |
 | Quero resolver erros comuns | [Convenções e truques](CONVENCOES-E-TRUQUES.md) · [Soluções](../FAQ/SOLUCAO-DE-PROBLEMAS.md) | Diagnóstico reproduzível |
+| Quero uma figura técnica isométrica ou validar personagem em vídeo | [Novo laboratório Anatomy + Openjutsu](CONVENCOES-E-TRUQUES.md#novas-técnicas-anatomy--comfy-openjutsu-02112026) | Técnicas extraídas, limites de licenciamento e mini-provas |
 | Quero aprender sem SDK | [10 experimentos offline](../EXEMPLOS/README.md) | Visualização didática, não certificação |
 | Quero demonstrar competência | [Caderno de provas](CADERNO-DE-PROVAS.md) · [Rubrica](../ACADEMIA/RUBRICA-DE-HOMOLOGACAO.md) | Evidência clara e revisável |
 
