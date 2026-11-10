@@ -127,3 +127,8 @@ Nenhuma validação multi-LLM pode ser descrita como executada apenas por possui
 ## ML-24 — dependências de 3D didáticas sem promoção fictícia (01/11/2026)
 
 O [guia didático D01–D10](../DEPENDENCIAS/GUIA-DIDATICO-D01-D10.md) complementa `DEPENDENCIAS/matriz.json` sem alterar status de APIs, SDKs, dispositivos, licenças ou compatibilidade. Skills de apoio são opcionais e dependem de escopo da missão, consentimento e evidência. ECP decide o encaminhamento; Coliseum revisa e pode bloquear; não registrar testes reais sem execução. Separar pré-requisito de estudo, software instalado e direito de uso. [Handoff](HANDOFF-NAVEGACAO.md) registra lacunas e continuidade.
+
+
+<!-- SIN-PR-STATUS-ML-ADDENDUM-V1 -->
+## Adendo permanente — controle de PRs e estado real
+O arquivo MISSION-LOCK-PR-STATUS-ADDENDUM.md na raiz deste repositório complementa este Mission Lock. Antes de reimplementar ou refazer investigação, verificar checkpoint e delta; registrar status de PR, commit, teste, merge, instalação e homologação como dimensões separadas. O adendo não autoriza deploy, custo ou merge e não substitui regras próprias deste projeto.

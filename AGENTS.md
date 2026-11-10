@@ -102,3 +102,8 @@ Antes de editar conteúdo material ou de citar uma técnica de outro Grimório, 
 - **Uma fonte por casa:** narrativa/pesquisa pertence ao Grimorio-SIN; imagem/prompts ao ListOFprompts; tecnologia 3D ao Grimorio-3D; executores ao grimorio-skills. Outras casas guardam ponte para o ID/URL, nunca cópia silenciosa.
 - **Todo PR material:** Mission Lock com baseline e escopo explícito, diff, testes reais proporcionais ao risco, revisão de conflito, handoff versionado e rollback. Teste não executado = NOT_RUN; PR em DRAFT não é promoção.
 - **Proibido:** transferência de dados privados/segredos/clientes ou projetos pessoais de licitações ao ensino SIN, alteração cruzada sem autorização explícita, falsa aprovação e afirmações de produção sem execução.
+
+
+<!-- SIN-PR-STATUS-ML-ADDENDUM-V1 -->
+## Interlock — Mission Lock e PRs
+Antes de pesquisar, planejar, alterar ou relatar progresso, carregar o Mission Lock canônico do projeto e o arquivo MISSION-LOCK-PR-STATUS-ADDENDUM.md da raiz. Reutilizar checkpoints; checar HEAD e estado de PR/CI, lendo só o delta material quando a fonte estiver acessível. Nunca confundir escrita de código, PR, merge, instalação e homologação. Registrar STATUS/PROVA/BLOQUEIOS/PRÓXIMA AÇÃO. Sem acesso confiável, reportar UNKNOWN; não repetir ou prometer trabalho não confirmado.
